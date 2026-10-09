@@ -98,9 +98,11 @@ Tovey looked back over his shoulder at the crowd. He looked at them for some tim
 
 Two girls came in through the doorway and the crowd made room for them without anyone stepping aside. The taller one wore her hair pinned up close and plain. The other had a leather satchel on a long strap and ink on two fingers.
 
-"Well," said Trice, the taller. "That's going to be a problem for somebody."
+Trice, the taller of the two, looked at the wet floor, at the crowd, and at the bench. "Well," she said. "That's going to be a problem for somebody."
 
-"Master Baker," she said, at the bench. "What have you done?"
+She crossed to the bench without hurrying, stepping around the edge of the puddle. Sara followed a step behind.
+
+"Master Baker," Trice said. "What have you done?"
 
 "It dries clothes, ma'am. That's all."
 

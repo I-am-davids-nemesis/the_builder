@@ -204,11 +204,11 @@ Tor nodded again. His eyes stayed on the bowl.
 
 "Yes," Tor said. "Sorry. Yes."
 
-Rolph looked at him for a long moment. He put a hand on Tor's shoulder. Tor didn't move.
+Rolph looked at him for a long moment, then put a hand on Tor's shoulder. Tor didn't move.
 
 The tower bell began to strike.
 
-At the first stroke Tor stood up, slowly and carefully. He picked up his bowl, held it, and put it back down where it had been. "Sorry," he said, to no one. Then he walked out of the cafeteria toward the yard, very straight, a little too slowly. Rolph's hand slid off his shoulder as he went.
+At the first stroke Tor stood, slowly and carefully, and Rolph's hand fell away. Tor picked up his bowl, held it, and put it back down where it had been. "Sorry," he said, to no one. Then he walked out of the cafeteria toward the yard, very straight, a little too slowly.
 
 Rolph left both bowls on the table and followed him out.
 
