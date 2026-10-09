@@ -13,6 +13,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - Once babbled nonsense to test whether people were listening. (canon)
 - Oldest sister: **Terlee**. (canon)
 - In his first year he asked **Maria** out; she screamed that he was poor, ugly and above his station. He hid in his room for weeks. (canon)
+- Believes **all nobles look down on anyone who isn't noble**, and is afraid of high nobles like Tovey, expecting them to lash out at any slight. (canon, user)
 - Has hidden **mental controls**, revealed in later books; he isn't who or what he thinks he is. (canon)
 
 ## Profile
@@ -28,13 +29,24 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 
 - **Praised** → deflects to luck, a teacher, or the materials; changes the subject to the work.
 - **Asked for help** → says yes before the sentence ends, then overcommits.
+- **Sees that people want something he can make** → silently takes it on as an obligation, without promising anything aloud. (canon: assumes he'll make drying fields for all his schoolmates, chapter one)
+- **Someone near him has a small, practical need** → stops what he's doing to help, even when his own work is far more important to him. (canon: he teaches Davie laundry and lends him soap before testing his field)
 - **Threatened himself** → goes quiet and polite; fear shows as extra courtesy.
 - **A friend threatened** → the meekness vanishes; he solves the problem with frightening, disproportionate competence, then apologizes for the mess.
-- **Handed a technical puzzle** → forgets food, sleep, and the people in the room; may sink into a trance lasting days. (canon)
+- **Handed a technical puzzle** → forgets food, sleep, and the people in the room; may sink into a trance lasting days. (canon) Even a passing wish from a friend counts as a puzzle: Rolph's remark about crop losses sends him straight to his desk. (canon, user)
+- **Surfaces from a fugue and finds someone waiting** → apologizes for leaving the conversation. (canon, user)
+- **Asleep with a build in his head** → dreams it, wakes, and scribbles notes that make sense only to him. (canon, user)
 - **Faced with tradition or an elder's rule** → follows it to the letter. (canon)
+- **Facing a high noble** → assumes contempt; goes quiet, extra courteous and careful, as if any slip could provoke a blow. (canon: his fear of Tovey, chapter one)
 - **Faced with noble social customs** → embarrassment, literal-mindedness, and a strong wish to be somewhere else.
 - **A girl is friendly to him** → assumes it's kindness or a mistake. (rooted in the Maria rejection)
 - **Small talk** → tunes out and privately judges it.
+
+## The perception gap
+
+There is a built-in tension between **how Tor thinks people see him and how they actually see him**. (canon, user) He believes nobles despise him; many don't. He believes he's a nuisance; people seek him out. Tovey is the first clear case: Tor fears him; Tovey is curious and wants a gift for his mother.
+
+Since we don't narrate Tor's thoughts (`AGENTS.md` §3), the gap is shown by contrast: Tor's behavior (fear, apology, distance) set beside what the other person actually says and does. The reader sees both sides; Tor sees one. Each time the reader catches the mismatch is a small dramatic irony, and it should recur all book.
 
 ## Voice
 

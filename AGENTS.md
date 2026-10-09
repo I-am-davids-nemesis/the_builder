@@ -57,7 +57,7 @@ Until the user decides, **do not commit chapters to one mode**. When drafting ex
 
 - **Reaction rules and voice carry the load.** Because Tor's thoughts are not narrated, his self-doubt must be visible from outside: apologies, deflections, overwork, extra courtesy when afraid.
 - **Tor mutters to himself** (canon). Use it as an audible inner life ("Think, Tor. Focus now."), sparingly.
-- **Dramatic irony is allowed.** The reader may know more than Tor (e.g., that Rolph's "merchant family" is a cover). Use it deliberately, and track what the reader knows vs. what each character knows.
+- **Dramatic irony is allowed.** The reader may know more than Tor (e.g., that Rolph's "merchant family" is a cover). The main recurring source is the **perception gap**: Tor misreads how others see him (see `bible/characters/tor.md`), and the reader sees the mismatch. Use it deliberately, and track what the reader knows vs. what each character knows.
 - **Interior states show through the body and the room.** A days-long building trance shows as the lost bell count, stiffness, hunger, ink dried too fast, or someone finding him.
 
 ---
@@ -76,7 +76,7 @@ Every character with a speaking role needs, at minimum:
 - **Series slice** — what book 1 resolves for them, and what it leaves open.
 
 Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey.
-Supporting: David, Count B, Carl, Miriam, the headmaster, the builder instructor, Sophia, plus canon additions (Terlee, Maria, Petra, Sorvey, Wensa, Connie, King Richard Cordes).
+Supporting: Davie, Count B, Carl, Miriam, the headmaster, the builder instructor, Sophia, plus canon additions (Terlee, Maria, Petra, Sorvey, Wensa, Connie, King Richard Cordes).
 
 Profiles live in `bible/characters/` (see `bible/README.md` for the template and labels).
 
@@ -95,6 +95,7 @@ Profiles live in `bible/characters/` (see `bible/README.md` for the template and
 - Every character keeps **one internal and one external tension at all times**.
 - **No book resolves a character's root conflict** until that arc is meant to end.
 - **Per book:** resolve about one thread outright, advance two or three, open one new one.
+- **The book's engine:** Tor builds something → the build causes complications → the complications give him his next idea. Chapter one shows the loop once; each later turn raises the stakes. See `outline/chapters.md`.
 - Track this in `bible/tension-ledger.md`. When a draft resolves or opens a thread, update the ledger in the same change.
 
 ---

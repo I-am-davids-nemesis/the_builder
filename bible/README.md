@@ -14,8 +14,9 @@ Split from `builder_character_bible_handoff.md` (October 9, 2026). Where the two
 | `places.md` | Each setting and the tension it squeezes |
 | `voice-tests.md` | One situation, every character present |
 | `tension-ledger.md` | What each book resolves and leaves open |
+| `reader-knowledge.md` | What the reader knows vs. what each character knows, by chapter |
 
-Still to create, when there's content for them: `relationships.md`, `reader-knowledge.md` (see `AGENTS.md` §7).
+Still to create, when there's content for it: `relationships.md` (see `AGENTS.md` §7).
 
 ## Labels
 
@@ -49,8 +50,8 @@ Each book resolves one small, concrete piece per character (a question answered,
 
 ## Open questions for the user
 
-1. Confirm or correct the assumed roles for Rolph, Patricia, Sara, Dorgal and Tovey. Is Patricia the canon "Trice"?
-2. What are the real names of House A (Tovey's) and House B (David's)?
+1. Confirm or correct the assumed roles for Rolph, Patricia, Sara, Dorgal and Tovey. (Patricia is the canon "Trice"; confirmed.)
+2. What are the real names of House A (Tovey's) and House B (Davie's)?
 3. Canon-faithful or reimagined? Should the bible match the published book, or is invented material fine?
 4. Name the builder instructor; decide whether the headmaster gets a name.
 5. Confirm the House A–House B feud as a series spine, or replace it.

@@ -12,7 +12,7 @@ One situation, every character present. If you cover the names and can still tel
 | Sara | Goes straight to Tor, ignores everyone else | "Tor. Look at me. Are your hands burned?" |
 | Dorgal | Compliments, with a sting, and feels relief | "Ambitious, Baker. Truly. Next time, perhaps something that stays in one piece." |
 | Tovey | Silence, then a correction | "A failure is not a disgrace. Mocking one is. Enough." |
-| David | Commentary from the back | "Father will be thrilled. He bet against it." |
+| Davie | Commentary from the back | "Father will be thrilled. He bet against it." |
 | Carl | Unimpressed by the fuss | "Nobody died. Get up." |
 | Miriam | Asks about cost | "And what did that cost in materials, Mr. Baker? Write it down." |
 | Headmaster | Asks a question that is really a warning | "Who else knew you were attempting this today?" |

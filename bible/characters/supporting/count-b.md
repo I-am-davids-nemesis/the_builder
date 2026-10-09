@@ -1,4 +1,4 @@
-# Count B (David's father; real name TBD)
+# Count B (Davie's father; real name TBD)
 
 All details (assumed). A candidate for expansion to the full main-cast template.
 

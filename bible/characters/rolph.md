@@ -9,6 +9,12 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Listens when Tor talks about magic; not frivolous. (canon)
 - Tor "had been told" Rolph is from a **merchant family**. (canon) That story may be a cover. (assumed)
 - His mother is **Connie**. (canon)
+- Owns a **magic lockbox full of gold**, kept in their room. Tor copied its lock to make the room's door lock. (canon, user, chapter one) It's a hint about his family, never an admission.
+- Very interested in Tor and his magic, in what seems to be innocent envy; he once **stared at the room lock for hours**. (canon, user)
+- Wants a copy of the drying field **for his mother**. (canon, user)
+- Tells Tor that **among nobility**, having new magic before anyone else is a mark of significant prestige. (canon, user)
+- **Crop losses** are a frequent topic of conversation at his home. His wish that the field worked on fruit and vegetables gives Tor the idea for a food drying field. (canon, user)
+- Patient and amused when Tor drifts off into work mid-conversation; keeps him company afterward, reading. (canon, user)
 
 ## Profile
 
@@ -21,6 +27,8 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 
 ## Reaction rules
 
+- **Tor drifts into a build mid-conversation** → waits, amused, and doesn't take offense. (canon, user)
+- **Tor stuck in a social situation he can't handle** → arrives, takes over the conversation, and gets him out. (canon, user: the end of the laundry scene, chapter one)
 - **Tor insulted** → steps physically in front of him, big and grinning, before anyone else reacts.
 - **Tor achieves something huge** → celebrates loudest in public; goes quiet for a while in private.
 - **Asked about his own magic or future** → jokes, changes the subject, or starts a fight.

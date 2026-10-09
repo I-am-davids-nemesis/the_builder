@@ -1,12 +1,13 @@
-# Patricia ("Trice"?)
+# Patricia ("Trice")
 
 Patricia sees the political board more clearly than anyone Tor's age, and she can't decide whether he's a friend or her best move.
 
 ## Facts
 
 - Patricia is a common name in Noram. (canon)
-- Later-series readers mention a divisive character called **"Trice"**; possibly her. (assumed)
+- Goes by **Trice**. (canon, user, chapter one) Later-series readers call "Trice" a divisive character.
 - Usually found **with Sara**; the two are a pair. (canon, chapter one)
+- At the laundry in chapter one, she **gets Sara to estimate** what Tor's drying field is worth. (canon, user)
 
 ## Profile
 
@@ -19,6 +20,7 @@ Patricia sees the political board more clearly than anyone Tor's age, and she ca
 
 ## Reaction rules
 
+- **Something new and valuable appears** → gets it priced, and knows who to ask. (canon seed: has Sara value the field)
 - **New information** → files it, reveals none of it, and asks one more question than seems polite.
 - **Tor is naive in public** → rescues him smoothly, then lectures him in private.
 - **Caught in a manipulation** → doesn't deny it; explains why it was the right call.

@@ -13,6 +13,8 @@ Dorgal is the charming rival builder who needs Tor to be beatable, and gradually
 
 ## Reaction rules
 
+- **Finds Tor doing something beneath a gentleman** → teases him for it (canon: calls him a washerwoman at the laundry, chapter one).
+
 - **Tor succeeds publicly** → gracious compliment in public; late night in the workshop, trying to replicate it.
 - **Tor fails** → visibly relieved, then ashamed of the relief; may quietly help.
 - **Offered a shortcut by his sponsor** → takes it the first time, refuses the second. That's his turning point.
