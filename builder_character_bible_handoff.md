@@ -1,5 +1,7 @@
 # Handoff: "The Builder" (P.S. Power) — Character Bible Project
 
+> **Historical.** This handoff was split into `bible/` on October 9, 2026. The bible is now the source of truth; don't edit this file.
+
 **Prepared:** October 1, 2026
 **Purpose:** Pick up this project in Claude Code. This file captures everything from the original chat: research findings, what's canon vs. invented, the full character bible, design principles, and next steps.
 

@@ -1,6 +1,6 @@
 # AGENTS.md — The Builder (retelling)
 
-Guidance for any agent (Claude Code or otherwise) working in this repository. Read this first, then `builder_character_bible_handoff.md` for the full research and character bible.
+Guidance for any agent (Claude Code or otherwise) working in this repository. Read this first, then `bible/README.md` for the character bible. `builder_character_bible_handoff.md` is the historical handoff the bible was split from.
 
 ---
 
@@ -78,7 +78,7 @@ Every character with a speaking role needs, at minimum:
 Main cast: Tor, Rolph, Patricia, Sarah, Dorian, Clark.
 Supporting: David, Count Mississippi, Carl, Miriam, the headmaster, the builder instructor, Sophia, plus canon additions (Terlee, Maria, Petra, Sorvey, Wensa, Connie, King Richard Cordes).
 
-The current profiles live in the handoff (§5, with §5.12 superseding earlier sections). They will move into `bible/` (see §7).
+Profiles live in `bible/characters/` (see `bible/README.md` for the template and labels).
 
 ### Voice rules for drafting
 
@@ -113,7 +113,7 @@ The current profiles live in the handoff (§5, with §5.12 superseding earlier s
 
 ```
 AGENTS.md                         # this file
-builder_character_bible_handoff.md  # original research + bible (historical; bible/ supersedes once created)
+builder_character_bible_handoff.md  # original research + bible (historical; bible/ supersedes it)
 bible/
   README.md            # profile template, tension rule, how to use
   canon-notes.md       # verified facts + sources, kept separate from invention
@@ -140,7 +140,7 @@ Create directories as they're needed; don't scaffold empty files.
 - **Bible before manuscript.** If a draft needs a fact or trait not in the bible, add it to the bible (labeled) in the same change.
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
-- **Ask rather than decide** on the open questions in the handoff §6 (roles of Rolph/Patricia/Sarah/Dorian/Clark, canon-faithful vs. reimagined, builder instructor's name, the Missouri–Mississippi feud, series scope, narrative mode).
+- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sarah/Dorian/Clark, canon-faithful vs. reimagined, builder instructor's name, the Missouri–Mississippi feud, series scope, narrative mode).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
 ---
