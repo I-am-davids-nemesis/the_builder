@@ -82,7 +82,7 @@ Tovey waited for the apology to finish. It was a long one. Baker had better mann
 
 "You built something," Tovey said. "I'd like to see it work."
 
-"It's for drying, sir. Laundry." Baker looked at the square as though it might have changed while he wasn't watching. "It's probably nothing. I've missed a day and a half of classes for it, so if it's nothing, they'll likely send me home."
+"It's for drying, sir. Laundry." Baker looked at the square as though it might have changed while he wasn't watching. "It's probably nothing. I've missed a whole day of classes for it, so if it's nothing, they'll likely send me home."
 
 Tovey waited for the rest of the joke.
 
@@ -180,7 +180,7 @@ The crowd parted for him. Then, as he steered Tor out into the courtyard and the
 
 ## Details this draft invents
 
-Accepted by the user (October 9, 2026) and recorded in the bible.
+Accepted by the user (October 9, 2026) and recorded in the codex.
 
 - The washing house: old white glazed tubs on iron paw feet (post-collapse texture), a pump, a copper for hot water, a drain.
 - Soap is a gray lump smelling of ash, which Tor bought (probably at the student store).

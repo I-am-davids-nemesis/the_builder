@@ -182,11 +182,11 @@ Tor put down his spoon and stood up. "Sir."
 
 Tor sat.
 
-"Fourth and fifth day," Kolb said. He spoke low and pleasantly, as if mentioning the weather. At the next table, nobody looked round. "You weren't in my yard."
+"Fifth day," Kolb said. He spoke low and pleasantly, as if mentioning the weather. At the next table, nobody looked round. "You weren't in my yard."
 
 "No, sir. I'm sorry, sir. I was doing a building exercise for—"
 
-"I don't care." There was no heat in it. "I don't have building exercises, Baker. I have a yard. You owe it two afternoons. We'll start collecting today." He looked at Tor a moment longer. "I'll see you at the bell."
+"I don't care." There was no heat in it. "I don't have building exercises, Baker. I have a yard. You owe it an afternoon. We'll start collecting today." He looked at Tor a moment longer. "I'll see you at the bell."
 
 He walked away. The noise came back up behind him.
 

@@ -68,7 +68,7 @@ Tor took his hands off the bench. "Sir. My lord. I'm sorry, I'll be out of your 
 
 Tovey waited until he'd finished. "You built something. I'd like to see it work."
 
-"It's for drying, sir. Laundry." Tor looked at the square. "It's probably nothing. I've missed a day and a half of classes for it, so if it's nothing, they'll likely send me home."
+"It's for drying, sir. Laundry." Tor looked at the square. "It's probably nothing. I've missed a whole day of classes for it, so if it's nothing, they'll likely send me home."
 
 Tovey looked at him. He did not smile. Behind him, someone laughed politely.
 
@@ -165,7 +165,7 @@ The crowd parted. Rolph steered Tor out into the court. Behind them the crowd cl
 
 ## Details this draft invents
 
-Same as the rotating-third draft (see that file), plus the following. All accepted by the user (October 9, 2026) and recorded in the bible.
+Same as the rotating-third draft (see that file), plus the following. All accepted by the user (October 9, 2026) and recorded in the codex.
 
 - The washing house is at the back of the dormitory court; the scene is a little after the second bell.
 - Tovey wears a dark cloak with a brooch over the school brown; Dorgal's tunic is cut closer; Trice wears her hair pinned plain; Sara carries a satchel and has ink on her fingers.

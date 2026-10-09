@@ -1,8 +1,8 @@
-# The Builder — Character Bible
+# The Builder — Codex
 
-The bible lets you drop a character into any scene and predict both **what they do** and **how they sound**. It is the source of truth for characters, places and series tension; the manuscript draws on it, never the other way around.
+The codex lets you drop a character into any scene and predict both **what they do** and **how they sound**. It is the source of truth for characters, places and series tension; the manuscript draws on it, never the other way around.
 
-Split from `builder_character_bible_handoff.md` (October 9, 2026). Where the two disagree, the bible wins.
+Split from `builder_handoff.md` (October 9, 2026). Where the two disagree, the codex wins.
 
 ## Files
 
@@ -52,7 +52,7 @@ Each book resolves one small, concrete piece per character (a question answered,
 
 1. Confirm or correct the assumed roles for Rolph, Patricia, Sara, Dorgal and Tovey. (Patricia is the canon "Trice"; confirmed.)
 2. What are the real names of House A (Tovey's) and House B (Davie's)?
-3. Canon-faithful or reimagined? Should the bible match the published book, or is invented material fine?
+3. Canon-faithful or reimagined? Should the codex match the published book, or is invented material fine?
 4. Name the building instructor (a special projects instructor) and the magic theory instructor; decide whether the headmaster gets a name.
 5. Confirm the House A–House B feud as a series spine, or replace it.
 6. How far into the series to plan (book 1, the nine-book Tor arc, or beyond).

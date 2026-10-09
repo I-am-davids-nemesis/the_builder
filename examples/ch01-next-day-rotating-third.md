@@ -198,11 +198,11 @@ Tor put his spoon down. He stood. "Sir."
 
 Tor sat.
 
-"Fourth and fifth day," Kolb said. His voice was low and quite pleasant, the voice of a man remarking on the weather to an acquaintance. Nobody beyond their end of the bench could have heard it. "You weren't in my yard."
+"Fifth day," Kolb said. His voice was low and quite pleasant, the voice of a man remarking on the weather to an acquaintance. Nobody beyond their end of the bench could have heard it. "You weren't in my yard."
 
 "No, sir. I'm sorry, sir. I was doing a building exercise for—"
 
-"I don't care." Kolb said it without heat. "I don't have building exercises, Baker. I have a yard. You owe it two afternoons. We'll start collecting today." He considered Tor for a moment longer. "I'll see you at the bell."
+"I don't care." Kolb said it without heat. "I don't have building exercises, Baker. I have a yard. You owe it an afternoon. We'll start collecting today." He considered Tor for a moment longer. "I'll see you at the bell."
 
 He went. The noise came back up behind him.
 
@@ -234,7 +234,7 @@ Rolph left both bowls where they were and went after him.
 
 ## Details this draft invents
 
-To add to the bible if kept.
+To add to the codex if kept.
 
 - **The building master:** long, gray, folded; wears an apron over his tunic and a magnifier on a cord. Inspects work by tipping it to the window, the corners especially. After the dunking he checks Tor's hands, nail-bed color and eyes, and asks about pain, dizziness and thirst (careful method under rough handling). Asks for a witness, which is how the first-year gets pulled in.
 - **The first-year witness:** brought three late lamp-squares as copy-work; says "you *drowned* him." Unnamed.
@@ -246,7 +246,7 @@ To add to the bible if kept.
 - **The theory master:** stands in doorways, rubs his hands, says "Ha!"; big looping handwriting on the board; lectures in asides. Had breakfast with the building master, who was "insufferable." Wants "a word, later in the week": something to show Tor (a new thread).
 - **The vitality lecture:** "you can't kill your roommate with a lamp-square." Dorgal is in the class; it's never connected to the dunking.
 - **Dorgal tears the paper** pressing too hard.
-- **Kolb:** the scar runs from the corner of one eye down into his jaw (placement accepted by the user); sleeveless jerkin. He speaks low and pleasantly. Tor missed "fourth and fifth day" (day names), "two afternoons." Combat is held in "the yard."
+- **Kolb:** the scar runs from the corner of one eye down into his jaw (placement accepted by the user); sleeveless jerkin. He speaks low and pleasantly. Tor missed "fifth day" (day names), "an afternoon." Combat is held in "the yard."
 - **The cafeteria:** long tables, benches by the windows; the same stew on the first day of every week.
 - **Rolph:** has been in Kolb's yard three years; offers to partner Tor; promises liniment.
 - **The week:** the absence fell at the end of the previous week, the rest day closed it, and this is the first day of the new week.

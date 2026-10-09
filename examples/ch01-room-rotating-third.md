@@ -160,7 +160,7 @@ Rolph put the page back exactly where it had been, squared it with the others, a
 
 ## Details this draft invents
 
-To add to the bible if kept.
+To add to the codex if kept.
 
 - **The room:** fourth door along the top corridor of the dormitory; plain oak door, iron latch. Inside: two beds, two desks, one window over the dormitory roofs. Tor's half is all paper, pine offcuts with half-painted patterns, a jar of brushes, a saucer of dried blue paint. Rolph's half is tidy, with a shelf of books.
 - **The door lock:** the pattern is painted in blue on the inside of the door. The bar is a length of plain ash. It lifts with a soft wooden knock when either of them comes within a stride, and drops back by itself. "It's only meant to know two." Tor made it the winter before last, after asking Rolph's permission and studying the chest for an evening.

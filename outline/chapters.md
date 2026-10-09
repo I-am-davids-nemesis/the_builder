@@ -1,6 +1,6 @@
 # Chapter plan
 
-Our chapter plan: what each chapter must do, and the planning fields from `AGENTS.md` §8. Plot facts come from `bible/canon-notes.md`; when the original's beats are written up, they go in `outline/plot-beats.md`.
+Our chapter plan: what each chapter must do, and the planning fields from `AGENTS.md` §8. Plot facts come from `codex/canon-notes.md`; when the original's beats are written up, they go in `outline/plot-beats.md`.
 
 ## The book's engine
 
@@ -41,13 +41,13 @@ Notes for drafting:
 
 | Character | First impression to land | Source |
 | --- | --- | --- |
-| Tor | Small, polite, apologetic; lights up and runs on when talking about the build | `bible/characters/tor.md` |
-| Rolph | Roommate; arrives at the end of the laundry scene to rescue Tor from a social situation he can't handle (canon, user) | `bible/characters/rolph.md` |
-| Trice (Patricia) and Sara | Arrive together after Tovey (canon, user); Trice has Sara price the field, and Sara, a merchant house's daughter who knows the capital's best magic, can (canon, user) | `bible/characters/patricia.md`, `sara.md` |
-| Dorgal | Walks in on Tor doing laundry and teases him as a washerwoman (canon, user); too interested in how the field works | `bible/characters/dorgal.md` |
-| Tovey | Comes to see the new magic and wants one for his mother; a crowd follows him in (canon, user). Not disdainful of Tor, though Tor is afraid of him. | `bible/characters/tovey.md` |
+| Tor | Small, polite, apologetic; lights up and runs on when talking about the build | `codex/characters/tor.md` |
+| Rolph | Roommate; arrives at the end of the laundry scene to rescue Tor from a social situation he can't handle (canon, user) | `codex/characters/rolph.md` |
+| Trice (Patricia) and Sara | Arrive together after Tovey (canon, user); Trice has Sara price the field, and Sara, a merchant house's daughter who knows the capital's best magic, can (canon, user) | `codex/characters/patricia.md`, `sara.md` |
+| Dorgal | Walks in on Tor doing laundry and teases him as a washerwoman (canon, user); too interested in how the field works | `codex/characters/dorgal.md` |
+| Tovey | Comes to see the new magic and wants one for his mother; a crowd follows him in (canon, user). Not disdainful of Tor, though Tor is afraid of him. | `codex/characters/tovey.md` |
 | The crowd | Students who followed Tovey to see what interests him; they all want copies (canon, user) | — |
-| Davie | First minor character; doesn't know laundry needs soap, grumpy, afraid of being mocked for it (canon) | `bible/characters/supporting/davie.md` |
+| Davie | First minor character; doesn't know laundry needs soap, grumpy, afraid of being mocked for it (canon) | `codex/characters/supporting/davie.md` |
 
 Supporting characters in the last third: the building instructor, Doris, the magic theory instructor, and Kolb (canon, user). Keep each to one recognizable beat; chapter one shouldn't introduce more names than a reader can hold. Petra (combat) and the headmaster can wait. (assumed)
 
@@ -59,7 +59,7 @@ The loop runs once, and then starts its second turn before the chapter ends.
 | --- | --- | --- |
 | Magic | The drying field on a wood square: water leaves cloth and fibers in an area, so laundry dries in moments. Built in a trance lasting **thirty hours**. | canon (trance); duration decided by the user |
 | First test | About a third of the way in, at the laundry. Tor helps Davie with his washing first, then tests the field in front of Davie, Dorgal, Tovey, Trice, Sara and a crowd. | canon (user) |
-| Complication | It works, and everyone wants it. Tovey wants it for his mother; the crowd all want copies; Sara prices it at 30 gold. But Tor has to turn the prototype in for testing, so he can't give it to anyone. On top of that, he missed a day and a half of classes. **Tor** fears expulsion for it; nobody else does, because a builder like him is the school's rare prize. The real cost of the missed classes is Kolb. | canon (user; missed classes canon) |
+| Complication | It works, and everyone wants it. Tovey wants it for his mother; the crowd all want copies; Sara prices it at 30 gold. But Tor has to turn the prototype in for testing, so he can't give it to anyone. On top of that, he missed a full day of classes (fifth day: the trance ran from late on fourth day to dawn on the rest day). **Tor** fears expulsion for it; nobody else does, because a builder like him is the school's rare prize. The real cost of the missed classes is Kolb. | canon (user; missed classes canon) |
 | Next idea (a) | **Copies for everyone.** Tor promises nothing out loud, but he assumes he'll be making copies for all his schoolmates. | canon (user) |
 | Next idea (b) | **A food drying field.** Back in their room, Rolph wishes the field worked on fruit and vegetables, since crop losses come up often at home. Tor goes straight into working out what he'd have to change. | canon (user) |
 | Second turn begins | Next morning Tor takes the original field to his building instructor for testing, with the food field already in his notes. | canon (user) |
@@ -99,7 +99,7 @@ All beats are canon (user, October 9, 2026) unless labeled.
 - **The scene keeps getting bigger.** One noble who needs help, then a rival who mocks, then Tovey and his crowd, then Trice putting a price on it. A private test of a laundry trick turns into a public event with a market value, which is the book's engine in small.
 - **Dorgal and Tovey are a voice contrast in one scene.** Dorgal jokes at Tor's expense; Tovey never does (`tovey.md`, "Never").
 - **Davie keeps his head down** while Dorgal teases Tor. He was just helped, and doesn't speak up for the person who helped him. It shouldn't be played as villainy; it's fear, and the reader should see it cost him something (a glance away, a shirt folded too carefully).
-- **The perception gap, staged.** Tor is afraid of Tovey and treats him as a threat that could strike out at any slight: extra courtesy, careful words, keeping his distance. Tovey is not disdainful and not hostile; he's curious and wants a gift for his mother. Since we don't narrate Tor's thoughts, the gap shows as a mismatch between Tor's behavior and what Tovey actually says and does. The reader sees both; Tor sees only his fear. (See `bible/characters/tor.md`, the perception gap.)
+- **The perception gap, staged.** Tor is afraid of Tovey and treats him as a threat that could strike out at any slight: extra courtesy, careful words, keeping his distance. Tovey is not disdainful and not hostile; he's curious and wants a gift for his mother. Since we don't narrate Tor's thoughts, the gap shows as a mismatch between Tor's behavior and what Tovey actually says and does. The reader sees both; Tor sees only his fear. (See `codex/characters/tor.md`, the perception gap.)
 - **The price is a character beat for Trice and Sara.** Trice asks; Sara answers. Trice knows the question that matters and who in the room can answer it. Sara's answer, broken down by material and how long it lasts, shows knowledge the reader didn't expect from her.
 - **30 gold lands differently on each person.** To Tovey and the crowd it's a purchase. To Tor, a baker's son, it's probably more than his family sees in a long time (assumed), and he made it out of scrap. His reaction (disbelief, an apology, an urge to explain that it's only paint) is the scene's comic and painful peak.
 - **Turning in the prototype is the hook.** Demand without supply: everyone wants one, he has one, and it isn't his to give.
@@ -138,7 +138,7 @@ All beats are canon (user, October 9, 2026) unless labeled.
 
 - **The closed door is a scene change in pressure.** The laundry was public and full of rank; the room is private, and the only place Tor isn't performing. The crowd outside, hoping for free things, is the laundry's demand following him home. Let it be heard (voices, a knock, the bar dropping) before it's shut out.
 - **The lock does two jobs.** It shows the reader what copying is (Tor took an existing magic and reproduced it) next to the novel build of the drying field. And it puts Rolph's chest in view: a magic lockbox full of gold, in the room of a boy from a "merchant family." The narration shouldn't comment on it. Tor doesn't find it strange, so nobody in the scene says it's strange; the reader can.
-- **Rolph's hints stack, and none is an admission.** The lockbox of gold; a mother who'd want new magic as a mark of status; "among nobility," said like someone who knows from inside; crop losses as dinner-table talk at home, which sounds like land and tenants more than trade. Each has an innocent explanation. Together they make a pattern the reader can see and Tor can't. (Track in `bible/reader-knowledge.md`.)
+- **Rolph's hints stack, and none is an admission.** The lockbox of gold; a mother who'd want new magic as a mark of status; "among nobility," said like someone who knows from inside; crop losses as dinner-table talk at home, which sounds like land and tenants more than trade. Each has an innocent explanation. Together they make a pattern the reader can see and Tor can't. (Track in `codex/reader-knowledge.md`.)
 - **Rolph's envy should read as innocent on the surface.** Hours staring at a door lock is funny and a little sad: he wants to understand what Tor does and can't. The profile's darker version (envy he'd never admit) stays underneath. (`rolph.md`)
 - **The invitation is the book's first open door to Rolph's family.** Tor's only worry is being a burden, which is the perception gap again: he thinks he'd be an imposition on a family that has been asking about him. Rolph keeps his mother's eager questions to himself. "You could lose a regiment in it" is true and tells Tor nothing. (staging invented)
 - **The prestige line explains the laundry crowd after the fact.** The reader now understands why Tovey's interest drew everyone, and why Tovey and Rolph both think of their mothers: new magic is a social currency. Tor hears it as information, not as pressure, which it is.
@@ -183,7 +183,7 @@ Beats canon (user, October 9, 2026) unless labeled.
 - Mark time in **bells**. Establish the day's fixed points: rising, morning classes (building/special projects, meditation with Doris, magic theory), meals in the cafeteria, **afternoon combat with Kolb** (canon, user), the store, lights out, so the reader can feel when Tor is late, absent, or skipping. (classes and afternoon combat canon; the rest of the order assumed)
 - The routine has a rhythm: **short, regular beats** for the school day, set against the **long, timeless stretch** of the trance. The contrast between the two is the chapter's pacing.
 - Show the routine **once, briskly**, as Tor rejoins it. The middle third takes him out of it (a day of recovery in his room), so the routine's clearest showing is the **last third**: the early start, the bells, the building instructor, the morning classes, and the cafeteria, with afternoon combat waiting for chapter 2. (canon, user)
-- Use the routine to place characters: who sits where at meals, who partners whom in combat, who is in building class with Tor. Rank shows through the routine. (`bible/places.md`: the school pressures rules and rank.)
+- Use the routine to place characters: who sits where at meals, who partners whom in combat, who is in building class with Tor. Rank shows through the routine. (`codex/places.md`: the school pressures rules and rank.)
 
 ### Planning fields
 

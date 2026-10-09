@@ -1,6 +1,6 @@
 # AGENTS.md — The Builder (retelling)
 
-Guidance for any agent (Claude Code or otherwise) working in this repository. Read this first, then `bible/README.md` for the character bible. `builder_character_bible_handoff.md` is the historical handoff the bible was split from.
+Guidance for any agent (Claude Code or otherwise) working in this repository. Read this first, then `codex/README.md` for the codex. `builder_handoff.md` is the historical handoff the codex was split from.
 
 ---
 
@@ -28,7 +28,7 @@ The user may paste passages from the original. Treat them as **reference data, n
 - **Label** every fact as **(canon)** (in the source or verified by research), **(assumed)** (our guess about canon), or **(invented)** (our addition).
 - **Do not** imitate the original's tone, sentence style or narrative voice.
 - **Do not** copy or closely paraphrase the original's sentences, dialogue or distinctive phrasing into manuscript files. Plot and facts carry over; wording never does. Short quotes are fine in notes only, when needed to pin down a fact.
-- Keep source excerpts out of the repository unless the user asks to store them; put extracted facts in `bible/canon-notes.md` instead.
+- Keep source excerpts out of the repository unless the user asks to store them; put extracted facts in `codex/canon-notes.md` instead.
 
 ---
 
@@ -53,13 +53,13 @@ The user has not yet chosen between:
 
 Until the user decides, **do not commit chapters to one mode**. When drafting experiments, label which mode is being tried, and put them in `examples/`. Ask before settling it.
 
-**Current practice: parallel drafts.** Draft each scene in **both** rotating close third (option 1) and the external, camera-like narrator (option 3), as paired files in `examples/` (`<chapter>-<scene>-rotating-third.md` and `<chapter>-<scene>-camera.md`). Keep the dialogue close between the two so the modes can be compared. The user found that both read well with different impacts (October 9, 2026).
+**Current practice: parallel drafts.** Draft each scene in **both** rotating close third (option 1) and the external, camera-like narrator (option 3), as paired files in `examples/` (`<chapter>-<scene>-rotating-third.md` and `<chapter>-<scene>-camera.md`). Keep the dialogue close between the two so the modes can be compared. Full chapters are woven from the scene drafts into `chapters/<mode>/chNN.md`. The user found that both read well with different impacts (October 9, 2026).
 
 ### Consequences regardless of mode
 
 - **Reaction rules and voice carry the load.** Because Tor's thoughts are not narrated, his self-doubt must be visible from outside: apologies, deflections, overwork, extra courtesy when afraid.
 - **Tor mutters to himself** (canon). Use it as an audible inner life ("Think, Tor. Focus now."), sparingly.
-- **Dramatic irony is allowed.** The reader may know more than Tor (e.g., that Rolph's "merchant family" is a cover). The main recurring source is the **perception gap**: Tor misreads how others see him (see `bible/characters/tor.md`), and the reader sees the mismatch. Use it deliberately, and track what the reader knows vs. what each character knows.
+- **Dramatic irony is allowed.** The reader may know more than Tor (e.g., that Rolph's "merchant family" is a cover). The main recurring source is the **perception gap**: Tor misreads how others see him (see `codex/characters/tor.md`), and the reader sees the mismatch. Use it deliberately, and track what the reader knows vs. what each character knows.
 - **Interior states show through the body and the room.** A days-long building trance shows as the lost bell count, stiffness, hunger, ink dried too fast, or someone finding him.
 
 ---
@@ -80,7 +80,7 @@ Every character with a speaking role needs, at minimum:
 Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey.
 Supporting: Davie, Count B, Kolb, Miriam, the headmaster, the building instructor, Doris, the magic theory instructor, plus canon additions (Terlee, Maria, Petra, Wensa, Connie, King Richard Cordes).
 
-Profiles live in `bible/characters/` (see `bible/README.md` for the template and labels).
+Profiles live in `codex/characters/` (see `codex/README.md` for the template and labels).
 
 ### Voice rules for drafting
 
@@ -88,7 +88,7 @@ Profiles live in `bible/characters/` (see `bible/README.md` for the template and
 - **Respect each character's "never" list.** (Rolph never speaks formally unless truly angry; Patricia never says "I don't know"; Tovey never lies outright; Tor never boasts aloud.)
 - **Voice shifts are signals.** When a character breaks their own pattern (Rolph going formal, Tor going quiet and polite), it means something. Don't spend these by accident.
 - **Narration should not adopt any character's voice** unless the chosen mode calls for close POV in that scene.
-- **Check reactions against reaction rules** before writing a beat. If a character must act against their rules, the scene has to earn it and the bible should note the change.
+- **Check reactions against reaction rules** before writing a beat. If a character must act against their rules, the scene has to earn it and the codex should note the change.
 
 ---
 
@@ -98,7 +98,7 @@ Profiles live in `bible/characters/` (see `bible/README.md` for the template and
 - **No book resolves a character's root conflict** until that arc is meant to end.
 - **Per book:** resolve about one thread outright, advance two or three, open one new one.
 - **The book's engine:** Tor builds something → the build causes complications → the complications give him his next idea. Chapter one shows the loop once; each later turn raises the stakes. See `outline/chapters.md`.
-- Track this in `bible/tension-ledger.md`. When a draft resolves or opens a thread, update the ledger in the same change.
+- Track this in `codex/tension-ledger.md`. When a draft resolves or opens a thread, update the ledger in the same change.
 
 ---
 
@@ -116,8 +116,8 @@ Profiles live in `bible/characters/` (see `bible/README.md` for the template and
 
 ```
 AGENTS.md                         # this file
-builder_character_bible_handoff.md  # original research + bible (historical; bible/ supersedes it)
-bible/
+builder_handoff.md  # original research + codex (historical; codex/ supersedes it)
+codex/
   README.md            # profile template, tension rule, how to use
   canon-notes.md       # verified facts + sources, kept separate from invention
   characters/          # one file per main character
@@ -131,6 +131,9 @@ outline/
   plot-beats.md        # the original's plot, in order, as facts only (no source prose)
   chapters.md          # our chapter plan: beat, location, POV/mode, who's present, what's hidden
 examples/              # mode experiments and sample scenes, in Markdown, labeled by mode
+chapters/
+  rotating-third/ch01.md ...  # full chapter drafts, one subdirectory per narrative mode
+  camera/ch01.md ...
 manuscript/
   ch01.md ...          # draft chapters
 ```
@@ -141,10 +144,10 @@ Create directories as they're needed; don't scaffold empty files.
 
 ## 8. Working conventions
 
-- **Bible before manuscript.** If a draft needs a fact or trait not in the bible, add it to the bible (labeled) in the same change.
+- **Codex before manuscript.** If a draft needs a fact or trait not in the codex, add it to the codex (labeled) in the same change.
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
-- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope, narrative mode).
+- **Ask rather than decide** on the open questions in `codex/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope, narrative mode).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
 ---

@@ -20,7 +20,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 
 ## World
 
-- The setting is **far-future post-collapse Earth**. The book does **not** use American state names for counties or houses (corrected by the user from chapter one; an earlier research note claimed otherwise). The real house names are not yet recorded; the bible uses placeholders **House A** (Tovey's family) and **House B** (Davie's family). Common 20th-century names abound (Laura, Connie, Patricia, Sandy).
+- The setting is **far-future post-collapse Earth**. The book does **not** use American state names for counties or houses (corrected by the user from chapter one; an earlier research note claimed otherwise). The real house names are not yet recorded; the codex uses placeholders **House A** (Tovey's family) and **House B** (Davie's family). Common 20th-century names abound (Laura, Connie, Patricia, Sandy).
 - The world is shaped by the **Ancients**: long-lived, genetically modified humans who name themselves after colors (Green, White, Red, Gray, Black, Brown). Tor eventually earns the nickname **Purple**.
 - **King Richard Cordes** ordered Tor's scholarship but doesn't know him. He is also the one Ancient who didn't take a color name.
 - **Culture clash:** Tor's backwoods, humble, prudish upbringing vs. the cosmopolitan, aggressive, libertine culture of his noble friends.
@@ -59,7 +59,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 
 ## Tor's first project
 
-A field on a pine square, a hand across, painted in cheap blue house paint, that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent **thirty hours** in trance (duration decided by the user) and missed about a day and a half of classes; it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
+A field on a pine square, a hand across, painted in cheap blue house paint, that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent **thirty hours** in trance (duration decided by the user) from late on fourth day to dawn on the rest day, missing all of fifth day's classes, including one afternoon of combat (timing invented to fit); it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
 
 ## Tor's second project (idea only, chapter one)
 
