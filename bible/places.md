@@ -6,6 +6,7 @@ Each setting squeezes a different tension, so moving the cast changes what the s
 | --- | --- | --- |
 | The school (Lairdgren, canon) | Rules, rank, and grades; Tor's accidental rule-breaking | Tor, Tovey, the headmaster |
 | Tor and Rolph's room (canon) | Privacy: the one place Tor isn't performing; the door bar shuts out the school's demands. Rolph's lockbox of gold sits in plain view. | Tor, Rolph |
+| The cafeteria (canon) | Public, everyday, and inescapable: everyone eats there, so whatever happens there has an audience. Chapter one ends as Tor leaves it for combat. | Tor, Rolph, Kolb |
 | The town around the school | Money and ordinary people; where Tor's work first reaches real lives | Tor, Miriam, Sara |
 | Two Rivers (Tor's hometown, canon) | Tor's past and family secrets; the humble self-image he clings to | Tor; any friend who visits sees a side of him they didn't know |
 | The capital | Open politics and the crown; nobody is off duty | Patricia, Count B, Tovey |

@@ -13,7 +13,7 @@ The book runs on a loop, and chapter one has to show it once, in small, so the r
 Notes for drafting:
 
 - Each turn of the loop should **raise the stakes**: from a private inconvenience to school rules, then money, nobles, and the crown.
-- Because we don't narrate Tor's thoughts (`AGENTS.md` §3), **step 3 must be visible**: muttering, a sketch on scrap wood, a question to the builder instructor, a sudden silence at the dinner table while the others keep talking. The reader should see the idea land before Tor explains it.
+- Because we don't narrate Tor's thoughts (`AGENTS.md` §3), **step 3 must be visible**: muttering, a sketch on scrap wood, a question to the building instructor, a sudden silence at the dinner table while the others keep talking. The reader should see the idea land before Tor explains it.
 - The loop is Tor's, but **other characters supply the complications** and react to the builds. That's where their voices and tensions get room.
 - Keep the routine (chapter one) as the baseline the loop disrupts. Later chapters can skip the routine or break it, because the reader already knows its shape.
 
@@ -49,7 +49,7 @@ Notes for drafting:
 | The crowd | Students who followed Tovey to see what interests him; they all want copies (canon, user) | — |
 | Davie | First minor character; doesn't know laundry needs soap, grumpy, afraid of being mocked for it (canon) | `bible/characters/supporting/davie.md` |
 
-Supporting characters (the builder instructor, the headmaster, Petra in combat class) can appear if the routine passes through them, but chapter one shouldn't introduce more names than a reader can hold. (assumed)
+Supporting characters in the last third: the building instructor, Doris, the general magic instructor, and Kolb (canon, user). Keep each to one recognizable beat; chapter one shouldn't introduce more names than a reader can hold. Petra (combat) and the headmaster can wait. (assumed)
 
 ### 2. The engine, once
 
@@ -59,10 +59,11 @@ The loop runs once, and then starts its second turn before the chapter ends.
 | --- | --- | --- |
 | Magic | The drying field on a wood square: water leaves cloth and fibers in an area, so laundry dries in moments. Built in a trance lasting days. | canon |
 | First test | About a third of the way in, at the laundry. Tor helps Davie with his washing first, then tests the field in front of Davie, Dorgal, Tovey, Trice, Sara and a crowd. | canon (user) |
-| Complication | It works, and everyone wants it. Tovey wants it for his mother; the crowd all want copies; Sara prices it at 30 gold. But Tor has to turn the prototype in for testing, so he can't give it to anyone. On top of that, he missed days of classes, and unscheduled time off risks expulsion. | canon (user; missed classes canon) |
+| Complication | It works, and everyone wants it. Tovey wants it for his mother; the crowd all want copies; Sara prices it at 30 gold. But Tor has to turn the prototype in for testing, so he can't give it to anyone. On top of that, he missed days of classes. **Tor** fears expulsion for it; nobody else does, because a builder like him is the school's rare prize. The real cost of the missed days is Kolb. | canon (user; missed classes canon) |
 | Next idea (a) | **Copies for everyone.** Tor promises nothing out loud, but he assumes he'll be making copies for all his schoolmates. | canon (user) |
 | Next idea (b) | **A food drying field.** Back in their room, Rolph wishes the field worked on fruit and vegetables, since crop losses come up often at home. Tor goes straight into working out what he'd have to change. | canon (user) |
-| Second turn begins | Next morning Tor takes the original field to his professor for testing, with the food field already in his notes. | canon (user) |
+| Second turn begins | Next morning Tor takes the original field to his building instructor for testing, with the food field already in his notes. | canon (user) |
+| The missed classes come due | At midday, Kolb confronts Tor in the cafeteria and quietly promises extra intensive workouts for missing combat. The chapter ends with Tor leaving the cafeteria for combat class, afraid: the cost of the first build, about to be paid. | canon (user) |
 
 The complication should land through other people, not through Tor's narrated worry: Tovey's request, the crowd's demand, Sara's price, Rolph's account of what Tor missed, a summons, a teacher's look.
 
@@ -72,7 +73,7 @@ The complication should land through other people, not through Tor's narrated wo
 | --- | --- | --- |
 | First third | Tor comes out of the trance with the field finished and untested; then the laundry scene and the test (beats below). | laundry canon (user); the trance opening assumed |
 | Middle third | Rolph gets Tor back to their room; the lock; Rolph's interest, his mother, the prestige of new magic; the food-drying idea; the rest of the day recovering; the night of notes (beats below). | canon (user) |
-| Last third | Next morning: an early start to show the original field to his professor for testing. | start canon (user); the rest to be confirmed |
+| Last third | The next school morning: the field handed in and the dunking, the morning's classes, Kolb in the cafeteria, and Tor heading out to combat (beats below). | canon (user) |
 
 ### The laundry scene, beat by beat
 
@@ -128,7 +129,7 @@ All beats are canon (user, October 9, 2026) unless labeled.
 6. **The idea.** Rolph says it would be nice if the field worked on fruit and vegetables, since crop losses are a frequent topic at home.
 7. **Tor goes off into a fugue** working out exactly how that would work and what he'd change to turn a clothes drying field into a food drying field. He goes to his desk and starts sketching. Rolph watches, patiently amused.
 8. **Tor remembers he's in the middle of a conversation** and apologizes.
-9. **The rest of the day:** Tor eats and recovers from the long trance, now and then making notes on the new idea. Rolph reads (studying, presumably) and keeps him company.
+9. **The rest of the day:** Tor eats and recovers from the long trance, now and then making notes on the new idea. Rolph reads (studying, presumably) and keeps him company. It's a **normal rest day**, so he misses no further classes. (decided by the user; not confirmed against the original)
 10. **That night** Tor falls asleep dreaming about the new project, wakes, and furiously scribbles notes that make perfect sense to him and are indecipherable to anyone else.
 11. **Next morning** he gets an early start, to show the original field to his professor for testing. (This opens the last third.)
 
@@ -143,23 +144,52 @@ All beats are canon (user, October 9, 2026) unless labeled.
 - **The recovery is the trance's cost, shown in the body.** Hunger, stiffness, eating more than he means to, falling asleep early. Rolph's quiet reading beside him is the first calm the chapter gives the reader.
 - **The night notes pay off later.** Make them concrete on the page: cramped lines, sigil fragments, arrows, words run together. Someone (Rolph in the morning, or the professor later) should try to read them and fail.
 
+### The next day, beat by beat
+
+Beats canon (user, October 9, 2026) unless labeled.
+
+1. **An early start.** Tor takes the original drying field to his **building instructor**, who seems to be a special projects instructor, to turn it in for testing.
+   **The dunking**, played for comedy. The instructor takes Tor to the washing area and **dunks him in a washing tub**, then uses the field to show it dries Tor's clothes without harming Tor himself. **He states his reason out loud:** a field like this has to be shown safe for use around people. **What he doesn't say, and the reader never hears,** is that he's already reasonably sure it is: Tor told him he'd tested it, and students are never as careful around new magic as they should be, so it has surely been used near people already.
+   **He never comments on the quality of the work.** The instructors assume it's top-notch and never tell Tor so.
+2. **The morning's classes.** Tor's two other class instructors: **Doris** (meditation) and a **general magic** instructor. (Which of these classes appear on the page, and in what order, is assumed.)
+3. **The cafeteria, midday.** Kolb, head of combat, which takes up the afternoons, confronts Tor and **quietly** promises him extra intensive workouts for daring to miss his class.
+4. **Rolph backs Tor** as far as he can, but it's clear nothing will stop Kolb from taking his "revenge."
+5. **Tor leaves the cafeteria and heads out to combat class, afraid.** **The chapter ends here.** Combat class opens chapter 2.
+
+**Staging notes** (invented):
+
+- **This is the routine chapter one promised.** The last third is the school morning at full speed: the bells, the walk across the courtyard, one class after another, then the cafeteria. Keep each class to a short beat so the day feels like a machine Tor has just been fed back into. Each instructor gets one recognizable line, not a scene.
+- **The dunking is comedy.** Play it for the laugh: the brisk walk to the washing area with Tor not knowing why, the splash, Tor surfacing mid-sentence, the instructor already reaching for the field, the steam, Tor standing bone-dry and bewildered with his hair still sticking up. Physical comedy works without anyone's thoughts, which suits our mode.
+- **The stated reason, and the unstated one.** The instructor says it plainly: a field like this has to be shown safe for use around people. That's the reason the reader gets. What stays hidden is that he already expected it to be safe, so the dunking was less of a gamble than it looks. On the page it should look rough, even reckless. An **unnamed student bystander** is shocked and appalled that a professor would do that to a student (suggested by the user); their horror sets up the laugh and pushes the reader toward "reckless." Don't narrate the instructor's thoughts.
+- **Tor takes it in stride.** He thinks it's a fair test, maybe even a sensible one, and apologizes for dripping. His calm against the bystander's horror is part of the joke.
+- **No praise, and nobody notices.** The instructor never says the work is good. To the instructors it's obviously top-notch and not worth saying; Tor hears the silence as a pass at best. Keep it ambiguous whether that's the school's culture or Tor's inability to hear praise (see the perception gap in `tor.md`). Don't resolve it.
+- **The scene answers a safety question nobody asked.** Is magic that pulls water out of cloth safe near a body made of water? The reader can see the stakes after the fact, once Tor is fine.
+- **It's the laundry scene's mirror.** Yesterday Tor stopped to help someone with wet clothes; today someone with power soaks his. Same tubs, same field, reversed roles.
+- **Expulsion is Tor's worry and nobody else's.** Advanced building is so rare that one such builder per cohort is a triumph for the school, and everyone knows it without being told. So when Tor brings up expulsion (to the instructor, to Rolph, to Trice), people take it as a joke, a poor one, and move on, or laugh politely. Nobody explains why it isn't a risk, because to them it's too obvious to say. The reader should piece it together from the reactions: the instructor's blank look, Rolph's grin, a change of subject. It's the perception gap again (`tor.md`), played for comedy. Use it two or three times in the chapter at most; the joke is that it keeps not landing.
+- **The handover is the first build leaving his hands.** Whatever the building instructor says or doesn't, the field is no longer Tor's. The copies he silently promised and the food field in his notes both now wait on someone else's verdict.
+- **Kolb's threat is quiet, and that's what makes it frightening.** He doesn't make a scene in the cafeteria; the rest of the room can carry on eating. The quieter he is, the more the reader believes him. (`kolb.md`)
+- **The ending turns the engine's cost into a cliffhanger.** The chapter's triumphs (the test, the price, the new idea) were all about building; the bill arrives from the one part of the school that doesn't care about building. Tor's genius has no answer to Kolb. End on the walk out, not the confrontation: Tor leaving the cafeteria, the bell, the path toward the combat grounds, his fear in his body (a dry mouth, a too-careful pace, Rolph's hand on his shoulder dropping away). Combat itself waits for chapter 2.
+- **Rolph's limits show.** He rescued Tor at the laundry; here he tries and can't. It's the first time the reader sees something Rolph can't fix, which matters for his envy and his want to protect Tor (`rolph.md`).
+- **Tor's reaction should fit his rules:** threatened himself → quiet and polite, extra courtesy (`tor.md`). He shouldn't argue, and probably thinks he deserves it. The fear is real even though he wasn't afraid of the dunking: he's calm about magic and terrified of people.
+- **Is it revenge?** The quotation marks leave room: Kolb's "revenge" may also be training he thinks a small, trance-prone builder needs. From outside, the two look the same, which suits a mode without Tor's thoughts. (Decide later; see `kolb.md`.)
+
 ### 3. The routine and its pace
 
-- Mark time in **bells**. Establish the day's fixed points (rising, meals, meditation, builder class, combat, the store, lights out) so the reader can feel when Tor is late, absent, or skipping. (canon elements; the order of the day is assumed)
+- Mark time in **bells**. Establish the day's fixed points: rising, morning classes (building/special projects, meditation with Doris, general magic), meals in the cafeteria, **afternoon combat with Kolb** (canon, user), the store, lights out, so the reader can feel when Tor is late, absent, or skipping. (classes and afternoon combat canon; the rest of the order assumed)
 - The routine has a rhythm: **short, regular beats** for the school day, set against the **long, timeless stretch** of the trance. The contrast between the two is the chapter's pacing.
-- Show the routine **once, briskly**, as Tor rejoins it. The middle third takes him out of it (a day of recovery in his room), so the routine's clearest showing is likely the **last third**: the early start, the bells, the walk to the professor, the classes he has to face after missing days. (placement assumed)
-- Use the routine to place characters: who sits where at meals, who partners whom in combat, who is in builder class with Tor. Rank shows through the routine. (`bible/places.md`: the school pressures rules and rank.)
+- Show the routine **once, briskly**, as Tor rejoins it. The middle third takes him out of it (a day of recovery in his room), so the routine's clearest showing is the **last third**: the early start, the bells, the building instructor, the morning classes, and the cafeteria, with afternoon combat waiting for chapter 2. (canon, user)
+- Use the routine to place characters: who sits where at meals, who partners whom in combat, who is in building class with Tor. Rank shows through the routine. (`bible/places.md`: the school pressures rules and rank.)
 
 ### Planning fields
 
 | Field | Entry |
 | --- | --- |
-| Plot beat | Tor finishes his first novel build (the drying field) after days in trance; tests it at the laundry, where he helps Davie and draws a crowd behind Tovey; everyone wants one, Sara prices it at 30 gold, and he has to turn the prototype in; back in their room Rolph's wish about crop losses gives him the idea of a food drying field; next morning he takes the field to his professor. (canon) |
-| Location | Lairdgren School: isolation chamber, the laundry, courtyard under the bell tower, dormitory room shared with Rolph (magic lock, Rolph's lockbox, Tor's desk), classrooms, dining hall. (canon school; specific rooms assumed) |
+| Plot beat | Tor finishes his first novel build (the drying field) after days in trance; tests it at the laundry, where he helps Davie and draws a crowd behind Tovey; everyone wants one, Sara prices it at 30 gold, and he has to turn the prototype in; back in their room Rolph's wish about crop losses gives him the idea of a food drying field; next morning he turns the field in to his building instructor, goes through the morning's classes, and is confronted in the cafeteria by Kolb, who promises extra workouts for the classes he missed; the chapter ends as Tor heads out to combat, afraid. (canon) |
+| Location | Lairdgren School: isolation chamber, the laundry, courtyard under the bell tower, dormitory room shared with Rolph (magic lock, Rolph's lockbox, Tor's desk), the washing area again (the dunking), classrooms (building, meditation, general magic), the cafeteria; the combat grounds only as where Tor is headed. (canon school and cafeteria; specific rooms assumed) |
 | Narrative mode / POV | **Undecided** (`AGENTS.md` §3). Draft experiments must be labeled by mode. |
-| Who is present | At the laundry: Tor, Davie, Dorgal, Tovey and a crowd, then Trice and Sara, then Rolph. In the room: Tor and Rolph, with the crowd outside the door. Next morning: Tor and his professor (probably the builder instructor). |
+| Who is present | At the laundry: Tor, Davie, Dorgal, Tovey and a crowd, then Trice and Sara, then Rolph. In the room: Tor and Rolph, with the crowd outside the door. Next day: the building instructor; Doris and the general magic instructor; Kolb; Rolph in the cafeteria. |
 | What the reader learns | Tor can build; he is poor, small, on a royal scholarship, and self-effacing; the school runs on bells and rank; magic is copying (common) vs. novel builds (rare); building costs time and is risky; a build's value depends on its material and how long it lasts; Tor is afraid of nobles who don't think badly of him; new magic is prestige among nobles; copying vs. building, side by side (the lock vs. the field). |
-| What stays hidden, and how | Rolph's true family (hinted, never admitted: the lockbox of gold, "among nobility," crop losses at home; Tor doesn't find any of it strange, so nobody says it); Tor's mental controls (no hint yet, or one odd moment only Sophia would notice later); the old plot (absence: no powerful people on stage yet). |
+| What stays hidden, and how | Rolph's true family (hinted, never admitted: the lockbox of gold, "among nobility," crop losses at home; Tor doesn't find any of it strange, so nobody says it); Tor's mental controls (no hint yet, or one odd moment only Doris would notice later); the old plot (absence: no powerful people on stage yet). |
 
 ### Open questions for the user
 
@@ -169,6 +199,16 @@ All beats are canon (user, October 9, 2026) unless labeled.
 4. ~~What is the chapter's next idea?~~ Copies for everyone, assumed by Tor, never promised aloud (answered October 9, 2026).
 5. ~~When do Trice and Sara arrive, and where did Sara learn to price magic?~~ After Tovey; she's from a large merchant house (answered October 9, 2026).
 6. ~~What does the rest of the chapter contain?~~ The room with Rolph, the food-drying idea, and next morning's visit to the professor (answered October 9, 2026).
-7. **What happens at the professor's?** Is the professor the builder instructor? Does the chapter end with the handover, or with the professor's reaction, the missed classes, or the expulsion risk?
-8. **Is the day of recovery sanctioned?** Tor spends the rest of the day in his room after days of missed classes. Does anyone (Rolph, a teacher) note that he's missing more, or is the trance treated as excused until the professor sees the work?
-9. **Which narrative mode** do we try for the first draft? Chapter one's tasks favor some modes over others: shifting third person can introduce characters through their own eyes; an omniscient narrator handles setting and routine efficiently; a camera-like narrator shows the trance most strikingly, from outside.
+7. ~~What happens at the professor's, and how does the chapter end?~~ The building instructor takes the field for testing; the chapter ends with Kolb in the cafeteria (answered October 9, 2026).
+8. ~~How does the building instructor react to the field?~~ He dunks Tor in a washing tub to test it on him (answered October 9, 2026). He doesn't treat the missed classes as an expulsion risk; nobody does (answered October 9, 2026). He never comments on the work's quality; the reader hears his stated reason (safety around people) but not that he already expected it to be safe (answered October 9, 2026). Still open: does the reader ever learn the unstated part?
+9. ~~Does Tor attend combat that afternoon?~~ Combat opens chapter 2; chapter 1 ends with Tor heading there, afraid (answered October 9, 2026).
+10. ~~Is the day of recovery sanctioned?~~ It was a normal rest day, so Tor missed no further classes (decided by the user, October 9, 2026).
+11. **Which narrative mode** do we try for the first draft? Chapter one's tasks favor some modes over others: shifting third person can introduce characters through their own eyes; an omniscient narrator handles setting and routine efficiently; a camera-like narrator shows the trance most strikingly, from outside.
+
+---
+
+## Chapter 2
+
+Only what's fixed so far:
+
+- **Opens with combat class** that afternoon, led by Kolb, where his promised "revenge" begins. (canon, user)

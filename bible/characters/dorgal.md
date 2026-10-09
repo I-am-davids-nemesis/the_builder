@@ -1,6 +1,10 @@
-# Dorgal
+# Dorgal Sorvey
 
 Dorgal is the charming rival builder who needs Tor to be beatable, and gradually learns he isn't.
+
+## Facts
+
+- Full name **Dorgal Sorvey**. (canon, user) Earlier research listed a book 1 bully called "Sorvey"; that is very likely Dorgal, which fits his teasing Tor at the laundry. (assumed; confirm)
 
 ## Profile
 

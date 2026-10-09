@@ -13,7 +13,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 
 - Tor Baker is a **builder**: someone who creates the magic that makes the kingdom of **Noram** function.
 - He is the son of a baker from the deep woods, studying magic on a **special scholarship from the king**.
-- His first project might fail, and he risks **expulsion for taking unscheduled time off** to work on it.
+- His first project might fail, and he risks **expulsion for taking unscheduled time off** to work on it. In our book this is **Tor's fear, not a real risk**: nobody else thinks it's worth mentioning (see How magic works). (blurb canon; reading per the user)
 - The project draws the attention of very powerful people; the world he thought he knew is a lie.
 - He is caught in noble intrigue and plotting that **began before he was born**.
 - His innocence is a liability: he could end up on the gallows for a few simple mistakes.
@@ -31,12 +31,19 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - A **tower bell** by the main courtyard rings the hours day and night; time is counted in bells.
 - Students wear **brown trousers and tunics**. There is a **student store** and **isolation chambers** for building work.
 - **Combat class is mixed** boys and girls.
-- Daily **meditation classes** train lighter versions of the building trance.
+- Daily **meditation classes** train lighter versions of the building trance; taught by **Doris**. (teacher canon, user)
+- Tor's instructors: his **building instructor**, who seems to be a **special projects** instructor; **Doris** (meditation); and a **general magic** instructor (unnamed). (canon, user)
+- **Afternoons are combat instruction**, led by head instructor **Kolb**. (canon, user)
+- Students eat in a **cafeteria**. (canon, user)
+- Instructors **don't praise work explicitly**, even when they think it's top-notch. Whether that's school culture or Tor not hearing it is left ambiguous. (canon, user)
+- The school week has **rest days** with no classes. Tor's recovery day in chapter one is one. (assumed; decided by the user for our book)
+- There is a **washing area** with washing tubs; the laundry scene and the instructor's test both happen there. (canon, user)
 
 ## How magic works
 
 - **Copying** from a template: about 1 in 60 people can do it, even untrained. Copy work runs the realm's infrastructure.
 - **Novel builds** are rare; even builder students seldom try; professionals may need dozens of attempts.
+- Advanced building like Tor's is so rare that producing **even one such builder from a whole cohort** counts as an amazing accomplishment for the school. Everyone at the school knows this instinctively; a student doing it is in no danger of expulsion for missed classes, and nobody thinks that's worth saying. (canon, user)
 - The builder must understand the idea very clearly. A **sigil on a focus** (cheap ink on unfinished wood) is a mental map that holds focus.
 - Building takes a **deep working trance** that can last days and scrambles perception afterward.
 - **Ink drying unusually fast** is a good sign.
@@ -65,7 +72,7 @@ A **food drying field**: the drying field adapted to fruit and vegetables, again
 | Petra | Combat classmate | `characters/supporting/petra.md` |
 | Sara | Reader-favorite companion for Tor; usually found with Patricia (chapter one) | `characters/sara.md` |
 | Patricia ("Trice") | Goes by Trice; divisive in later books | `characters/patricia.md` |
-| Sorvey | Book 1 bully | Profile to do |
+| Dorgal Sorvey | Full name canon (user); the "Sorvey" listed as book 1 bully is likely him (assumed) | `characters/dorgal.md` |
 | Wensa | Tried to kill Tor in book 1 | Profile to do |
 | King Richard Cordes | See World above | — |
 
@@ -82,9 +89,10 @@ Almost everything about the cast beyond Tor is invented or guessed.
 | Tovey | Heir of House A; not disdainful of Tor, though Tor fears him (canon) | Medium |
 | Davie | Fifth in line to a county; can't do his own laundry (canon, chapter one); gossip role assumed | Medium |
 | Count B | Patient schemer, plot suspect | Low |
-| Carl, Miriam, headmaster, builder instructor, Sophia | Roles from the user's list; personalities invented | Low |
+| Kolb, Doris, building instructor | Names and roles canon (user, chapter one; Kolb was "Carl" and Doris "Sophia" in earlier notes); personalities mostly invented | Low |
+| Miriam, headmaster, general magic instructor | Roles from the user's list; personalities invented | Low |
 | House A–House B feud | Created for external tension | Invented |
-| Sophia sensing Tor's mental structures | Ties to canon mental controls | Invented hook |
+| Doris sensing Tor's mental structures | Ties to canon mental controls | Invented hook |
 
 ## Content notes
 
@@ -101,4 +109,5 @@ Almost everything about the cast beyond Tor is invented or guessed.
 - booknotification.com
 - The book's opening pages, pasted by the user (October 9, 2026); used for facts only
 - The user's reread of chapter one (October 9, 2026): Patricia and Sara usually together; the name is Dorgal, not Dorian; no American state names; Count A's son is Tovey, not Clark
+- The user's notes on chapter one's last third (October 9, 2026): Tor's instructors, Kolb, Doris, the cafeteria ending; Carl renamed Kolb and Sophia renamed Doris
 - The user's notes on chapter one's laundry scene (October 9, 2026): Davie, the soap, Dorgal's teasing, Tovey and his crowd, Trice and Sara's 30-gold price, the prototype turned in for testing

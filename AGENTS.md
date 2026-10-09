@@ -76,7 +76,7 @@ Every character with a speaking role needs, at minimum:
 - **Series slice** — what book 1 resolves for them, and what it leaves open.
 
 Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey.
-Supporting: Davie, Count B, Carl, Miriam, the headmaster, the builder instructor, Sophia, plus canon additions (Terlee, Maria, Petra, Sorvey, Wensa, Connie, King Richard Cordes).
+Supporting: Davie, Count B, Kolb, Miriam, the headmaster, the building instructor, Doris, the general magic instructor, plus canon additions (Terlee, Maria, Petra, Wensa, Connie, King Richard Cordes).
 
 Profiles live in `bible/characters/` (see `bible/README.md` for the template and labels).
 
@@ -105,7 +105,7 @@ Profiles live in `bible/characters/` (see `bible/README.md` for the template and
 - **Each place squeezes a different tension** (school: rules and rank; town: money and ordinary lives; Two Rivers: Tor's past; capital: open politics; beach house: what can't be said at school; Gallaia: outside threats). Choose a scene's location for what it pressures.
 - **Ground the world in canon detail**: Lairdgren School, the tower bell counting the hours, brown tunics and trousers, the student store, isolation chambers; sigils in cheap ink on unfinished wood; copying vs. novel builds; working trances.
 - **The setting is far-future post-collapse Earth** (common 20th-century names; **no** American state names for counties or houses). Let this show in texture (ruins, odd survivals, names) without explaining it before the plot does.
-- **Describe through a character's attention** where possible: what Miriam notices in a room differs from what Carl notices. Description is another way to differentiate characters.
+- **Describe through a character's attention** where possible: what Miriam notices in a room differs from what Kolb notices. Description is another way to differentiate characters.
 - **Prefer specific over general.** A named object, a smell, a sound beats an adjective.
 
 ---
@@ -141,7 +141,7 @@ Create directories as they're needed; don't scaffold empty files.
 - **Bible before manuscript.** If a draft needs a fact or trait not in the bible, add it to the bible (labeled) in the same change.
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
-- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, builder instructor's name, the House A–House B feud, series scope, narrative mode).
+- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and general magic instructors' names, the House A–House B feud, series scope, narrative mode).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
 ---

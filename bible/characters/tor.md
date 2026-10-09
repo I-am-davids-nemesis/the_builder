@@ -44,7 +44,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 
 ## The perception gap
 
-There is a built-in tension between **how Tor thinks people see him and how they actually see him**. (canon, user) He believes nobles despise him; many don't. He believes he's a nuisance; people seek him out. Tovey is the first clear case: Tor fears him; Tovey is curious and wants a gift for his mother.
+There is a built-in tension between **how Tor thinks people see him and how they actually see him**. (canon, user) He believes nobles despise him; many don't. He believes he's a nuisance; people seek him out. Tovey is the first clear case: Tor fears him; Tovey is curious and wants a gift for his mother. The second is **expulsion**: Tor worries that missed classes could get him expelled, while everyone else knows a builder like him is the school's rare prize and takes his worry as a bad joke. (canon, user) The third is **praise**: his instructors know his work is top-notch and never say so. It's deliberately unclear whether that's the school's culture or whether Tor can't hear praise and doesn't understand that his work is better than average. (canon, user; keep it ambiguous)
 
 Since we don't narrate Tor's thoughts (`AGENTS.md` §3), the gap is shown by contrast: Tor's behavior (fear, apology, distance) set beside what the other person actually says and does. The reader sees both sides; Tor sees one. Each time the reader catches the mismatch is a small dramatic irony, and it should recur all book.
 

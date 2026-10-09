@@ -19,7 +19,7 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Dorgal | The rivalry, and one betray-or-not choice | His sponsor's hold on him |
 | Tovey | Tor's fear of him narrows; Tor starts to see him as he is | Break with his father; House A's role in the plot |
 | House A vs. House B | The feud is established and dangerous | Which house is behind the plot, if either |
-| Sophia's discovery | She senses something unusual in Tor's mind | What it is, who put it there, whether she tells |
+| Doris's discovery | She senses something unusual in Tor's mind | What it is, who put it there, whether she tells |
 
 ## Books 2–5
 

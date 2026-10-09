@@ -14,6 +14,7 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Wants a copy of the drying field **for his mother**. (canon, user)
 - Tells Tor that **among nobility**, having new magic before anyone else is a mark of significant prestige. (canon, user)
 - **Crop losses** are a frequent topic of conversation at his home. His wish that the field worked on fruit and vegetables gives Tor the idea for a food drying field. (canon, user)
+- Backs Tor when Kolb confronts him in the cafeteria, as far as he can, but can't stop Kolb. (canon, user, end of chapter one)
 - Patient and amused when Tor drifts off into work mid-conversation; keeps him company afterward, reading. (canon, user)
 
 ## Profile

@@ -42,7 +42,7 @@ Unlabeled profile content is (assumed) unless the file says otherwise.
 - **Sample lines** — calibration for the voice.
 - **Series slice** — what book 1 resolves and what it leaves open.
 
-**Supporting cast:** role, one internal tension, one external tension, one reliable reaction, and a voice recognizable in a single line. Expand to the full template if a character becomes a larger player (Count B and Sophia are the likeliest).
+**Supporting cast:** role, one internal tension, one external tension, one reliable reaction, and a voice recognizable in a single line. Expand to the full template if a character becomes a larger player (Count B and Doris are the likeliest).
 
 ## Tension rule
 
@@ -53,7 +53,7 @@ Each book resolves one small, concrete piece per character (a question answered,
 1. Confirm or correct the assumed roles for Rolph, Patricia, Sara, Dorgal and Tovey. (Patricia is the canon "Trice"; confirmed.)
 2. What are the real names of House A (Tovey's) and House B (Davie's)?
 3. Canon-faithful or reimagined? Should the bible match the published book, or is invented material fine?
-4. Name the builder instructor; decide whether the headmaster gets a name.
+4. Name the building instructor (a special projects instructor) and the general magic instructor; decide whether the headmaster gets a name.
 5. Confirm the House A–House B feud as a series spine, or replace it.
 6. How far into the series to plan (book 1, the nine-book Tor arc, or beyond).
 7. Which narrative mode replaces the original's deep internal POV.
@@ -62,5 +62,5 @@ Each book resolves one small, concrete piece per character (a question answered,
 
 - More voice tests: a noble insults Sara; Tor is summoned to the capital; an assassination attempt at the beach house; a visit to Two Rivers; arrival in Gallaia.
 - Relationship matrix for each pair of main characters. Start with Patricia and Sara, who are a canon pair: what holds them together, and how Tor changes it.
-- Profiles for canon minor characters Sorvey (bully), Wensa (tried to kill Tor) and Connie (Rolph's mother).
+- Profiles for canon minor characters Wensa (tried to kill Tor) and Connie (Rolph's mother).
 - Extend the tension ledger with columns for books 2–5.
