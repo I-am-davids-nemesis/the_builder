@@ -9,9 +9,9 @@ One situation, every character present. If you cover the names and can still tel
 | Tor | Apologizes to the room, then is already sketching the fix | "I'm sorry. That's — no, I see it. The third junction. I can fix that." |
 | Rolph | Laughs loudly to draw attention away from Tor | "Well, it was very exciting while it lasted! Who's hungry?" |
 | Patricia | Watches who in the room looks pleased | "Don't apologize in public, Tor. Note who smiled." |
-| Sarah | Goes straight to Tor, ignores everyone else | "Tor. Look at me. Are your hands burned?" |
-| Dorian | Compliments, with a sting, and feels relief | "Ambitious, Baker. Truly. Next time, perhaps something that stays in one piece." |
-| Clark | Silence, then a correction | "A failure is not a disgrace. Mocking one is. Enough." |
+| Sara | Goes straight to Tor, ignores everyone else | "Tor. Look at me. Are your hands burned?" |
+| Dorgal | Compliments, with a sting, and feels relief | "Ambitious, Baker. Truly. Next time, perhaps something that stays in one piece." |
+| Tovey | Silence, then a correction | "A failure is not a disgrace. Mocking one is. Enough." |
 | David | Commentary from the back | "Father will be thrilled. He bet against it." |
 | Carl | Unimpressed by the fuss | "Nobody died. Get up." |
 | Miriam | Asks about cost | "And what did that cost in materials, Mr. Baker? Write it down." |
@@ -21,7 +21,7 @@ One situation, every character present. If you cover the names and can still tel
 
 ## Still to write
 
-- A noble insults Sarah.
+- A noble insults Sara.
 - Tor is summoned to the capital.
 - An assassination attempt at the beach house.
 - A visit to Two Rivers.

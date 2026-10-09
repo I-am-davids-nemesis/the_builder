@@ -1,6 +1,6 @@
-# Dorian
+# Dorgal
 
-Dorian is the charming rival builder who needs Tor to be beatable, and gradually learns he isn't.
+Dorgal is the charming rival builder who needs Tor to be beatable, and gradually learns he isn't.
 
 ## Profile
 
@@ -8,7 +8,7 @@ Dorian is the charming rival builder who needs Tor to be beatable, and gradually
 - **Want:** Recognition as the best builder of his generation, and the patronage that comes with it.
 - **Need:** To value the craft more than the applause, which Tor, oddly, can teach him.
 - **Internal tension:** Admiration for Tor's work vs. resentment of what it does to his own standing.
-- **External tension:** A sponsor (house unconfirmed; Mississippi is a strong candidate) who invested in him and expects results.
+- **External tension:** A sponsor (house unconfirmed; House B is a strong candidate) who invested in him and expects results.
 - **Hidden aspect:** He copies Tor's ideas and hates himself for it.
 
 ## Reaction rules
@@ -33,4 +33,4 @@ Dorian is the charming rival builder who needs Tor to be beatable, and gradually
 
 ## Series slice
 
-Book 1 establishes the rivalry and one moment where Dorian could betray Tor and doesn't, or does and regrets it. It leaves open his sponsor's hold on him and whether he becomes a true ally.
+Book 1 establishes the rivalry and one moment where Dorgal could betray Tor and doesn't, or does and regrets it. It leaves open his sponsor's hold on him and whether he becomes a true ally.

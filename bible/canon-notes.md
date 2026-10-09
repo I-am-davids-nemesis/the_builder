@@ -20,7 +20,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 
 ## World
 
-- The setting is **far-future post-collapse Earth**. County names are old US state names (Missouri, Mississippi). Common 20th-century names abound (Laura, Connie, Patricia, Sandy).
+- The setting is **far-future post-collapse Earth**. The book does **not** use American state names for counties or houses (corrected by the user from chapter one; an earlier research note claimed otherwise). The real house names are not yet recorded; the bible uses placeholders **House A** (Tovey's family) and **House B** (David's family). Common 20th-century names abound (Laura, Connie, Patricia, Sandy).
 - The world is shaped by the **Ancients**: long-lived, genetically modified humans who name themselves after colors (Green, White, Red, Gray, Black, Brown). Tor eventually earns the nickname **Purple**.
 - **King Richard Cordes** ordered Tor's scholarship but doesn't know him. He is also the one Ancient who didn't take a color name.
 - **Culture clash:** Tor's backwoods, humble, prudish upbringing vs. the cosmopolitan, aggressive, libertine culture of his noble friends.
@@ -55,7 +55,7 @@ A field on a wood square that makes water leave cloth and fibers in an area, so 
 | Terlee | Tor's oldest sister | `characters/supporting/terlee.md` |
 | Maria | Rejected Tor in his first year | `characters/supporting/maria.md` |
 | Petra | Combat classmate | `characters/supporting/petra.md` |
-| "Sara" | Reader-favorite companion for Tor; possibly our Sarah | `characters/sarah.md` |
+| Sara | Reader-favorite companion for Tor; usually found with Patricia (chapter one) | `characters/sara.md` |
 | "Trice" | Divisive character in later books; possibly Patricia | `characters/patricia.md` |
 | Sorvey | Book 1 bully | Profile to do |
 | Wensa | Tried to kill Tor in book 1 | Profile to do |
@@ -68,14 +68,14 @@ Almost everything about the cast beyond Tor is invented or guessed.
 | Character / element | Assumed role | Confidence |
 | --- | --- | --- |
 | Rolph | Tor's closest friend and roommate; "merchant family" possibly a cover | Medium (roommate, mother Connie are canon) |
-| Patricia | Politically savvy noble student; maybe "Trice" | Low |
-| Sarah | Tor's steadiest friend, lower standing | Low (a "Sara" exists in canon) |
-| Dorian | Rival builder student with a sponsor | Low |
-| Clark | Heir of Missouri, honorable antagonist | Low |
+| Patricia | Politically savvy noble student; maybe "Trice"; usually with Sara (canon) | Low |
+| Sara | Tor's steadiest friend, lower standing | Low (name and pairing with Patricia are canon) |
+| Dorgal | Rival builder student with a sponsor | Low |
+| Tovey | Heir of House A, honorable antagonist | Low |
 | David | Gossip-network fifth son | Low |
-| Count Mississippi | Patient schemer, plot suspect | Low |
+| Count B | Patient schemer, plot suspect | Low |
 | Carl, Miriam, headmaster, builder instructor, Sophia | Roles from the user's list; personalities invented | Low |
-| Missouri–Mississippi feud | Created for external tension | Invented |
+| House A–House B feud | Created for external tension | Invented |
 | Sophia sensing Tor's mental structures | Ties to canon mental controls | Invented hook |
 
 ## Content notes
@@ -92,3 +92,4 @@ Almost everything about the cast beyond Tor is invented or guessed.
 - readerofelse.wordpress.com (review)
 - booknotification.com
 - The book's opening pages, pasted by the user (October 9, 2026); used for facts only
+- The user's reread of chapter one (October 9, 2026): Patricia and Sara usually together; the name is Dorgal, not Dorian; no American state names; Count A's son is Tovey, not Clark

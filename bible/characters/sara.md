@@ -1,10 +1,12 @@
-# Sarah
+# Sara
 
-Sarah treats Tor as a person rather than a phenomenon, which is exactly why her secret, if she has one, would hurt most.
+Sara treats Tor as a person rather than a phenomenon, which is exactly why her secret, if she has one, would hurt most.
 
 ## Facts
 
-- Readers name a **"Sara"** as a fan-favorite companion for Tor; possibly her. (assumed)
+- Spelled **Sara**. (canon)
+- Usually found **with Patricia**; the two are a pair. (canon, chapter one)
+- Readers name Sara as a fan-favorite companion for Tor. (canon)
 
 ## Profile
 
@@ -12,7 +14,7 @@ Sarah treats Tor as a person rather than a phenomenon, which is exactly why her 
 - **Want:** A life that's hers, not decided by her family's rank or by the storm around Tor.
 - **Need:** To stop shrinking herself to keep the peace. She and Tor share that flaw.
 - **Internal tension:** Wanting to stay close to Tor vs. seeing that closeness to him is dangerous and draws attention she never wanted.
-- **External tension:** Lower standing than Patricia or Clark's circle (assumed), so she's the easiest person for Tor's enemies to pressure.
+- **External tension:** Lower standing than Patricia or Tovey's circle (assumed), so she's the easiest person for Tor's enemies to pressure.
 - **Hidden aspect:** Her family's position, and anything she hasn't told Tor. (Not yet defined.)
 
 ## Reaction rules
@@ -37,4 +39,4 @@ Sarah treats Tor as a person rather than a phenomenon, which is exactly why her 
 
 ## Series slice
 
-Book 1 makes Sarah the reader's trusted anchor. It leaves open her family's position, the cost of standing beside Tor, and anything she hasn't told him.
+Book 1 makes Sara the reader's trusted anchor. It leaves open her family's position, the cost of standing beside Tor, and anything she hasn't told him.

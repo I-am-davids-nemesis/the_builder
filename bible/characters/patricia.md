@@ -6,6 +6,7 @@ Patricia sees the political board more clearly than anyone Tor's age, and she ca
 
 - Patricia is a common name in Noram. (canon)
 - Later-series readers mention a divisive character called **"Trice"**; possibly her. (assumed)
+- Usually found **with Sara**; the two are a pair. (canon, chapter one)
 
 ## Profile
 
@@ -13,7 +14,7 @@ Patricia sees the political board more clearly than anyone Tor's age, and she ca
 - **Want:** Leverage. To be the person who saw Tor's value first.
 - **Need:** To trust one person without calculating the return.
 - **Internal tension:** Real affection for Tor vs. a worldview in which affection is a liability. She tells herself the fondness is part of the strategy.
-- **External tension:** A family that expects her to deliver an advantage, and rivals (Clark's house, possibly Mississippi) who see Tor as a prize to be claimed.
+- **External tension:** A family that expects her to deliver an advantage, and rivals (Tovey's house, possibly House B) who see Tor as a prize to be claimed.
 - **Hidden aspect:** Whose interests she ultimately serves. Even she may not be sure.
 
 ## Reaction rules

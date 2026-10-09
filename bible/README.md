@@ -9,7 +9,7 @@ Split from `builder_character_bible_handoff.md` (October 9, 2026). Where the two
 | File | Contents |
 | --- | --- |
 | `canon-notes.md` | Verified facts about the book, world and magic, with sources; the canon-vs-assumed table |
-| `characters/` | One file per main character: Tor, Rolph, Patricia, Sarah, Dorian, Clark |
+| `characters/` | One file per main character: Tor, Rolph, Patricia, Sara, Dorgal, Tovey |
 | `characters/supporting/` | One file per supporting character |
 | `places.md` | Each setting and the tension it squeezes |
 | `voice-tests.md` | One situation, every character present |
@@ -41,7 +41,7 @@ Unlabeled profile content is (assumed) unless the file says otherwise.
 - **Sample lines** — calibration for the voice.
 - **Series slice** — what book 1 resolves and what it leaves open.
 
-**Supporting cast:** role, one internal tension, one external tension, one reliable reaction, and a voice recognizable in a single line. Expand to the full template if a character becomes a larger player (Count Mississippi and Sophia are the likeliest).
+**Supporting cast:** role, one internal tension, one external tension, one reliable reaction, and a voice recognizable in a single line. Expand to the full template if a character becomes a larger player (Count B and Sophia are the likeliest).
 
 ## Tension rule
 
@@ -49,16 +49,17 @@ Each book resolves one small, concrete piece per character (a question answered,
 
 ## Open questions for the user
 
-1. Confirm or correct the assumed roles for Rolph, Patricia, Sarah, Dorian and Clark. Is Patricia the canon "Trice"? Is Sarah the canon "Sara"?
-2. Canon-faithful or reimagined? Should the bible match the published book, or is invented material fine?
-3. Name the builder instructor; decide whether the headmaster gets a name.
-4. Confirm the Missouri–Mississippi feud as a series spine, or replace it.
-5. How far into the series to plan (book 1, the nine-book Tor arc, or beyond).
-6. Which narrative mode replaces the original's deep internal POV.
+1. Confirm or correct the assumed roles for Rolph, Patricia, Sara, Dorgal and Tovey. Is Patricia the canon "Trice"?
+2. What are the real names of House A (Tovey's) and House B (David's)?
+3. Canon-faithful or reimagined? Should the bible match the published book, or is invented material fine?
+4. Name the builder instructor; decide whether the headmaster gets a name.
+5. Confirm the House A–House B feud as a series spine, or replace it.
+6. How far into the series to plan (book 1, the nine-book Tor arc, or beyond).
+7. Which narrative mode replaces the original's deep internal POV.
 
 ## To do
 
-- More voice tests: a noble insults Sarah; Tor is summoned to the capital; an assassination attempt at the beach house; a visit to Two Rivers; arrival in Gallaia.
-- Relationship matrix for each pair of main characters.
+- More voice tests: a noble insults Sara; Tor is summoned to the capital; an assassination attempt at the beach house; a visit to Two Rivers; arrival in Gallaia.
+- Relationship matrix for each pair of main characters. Start with Patricia and Sara, who are a canon pair: what holds them together, and how Tor changes it.
 - Profiles for canon minor characters Sorvey (bully), Wensa (tried to kill Tor) and Connie (Rolph's mother).
 - Extend the tension ledger with columns for books 2–5.

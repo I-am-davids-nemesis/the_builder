@@ -75,15 +75,15 @@ Every character with a speaking role needs, at minimum:
 - **Sample lines** — calibration for the voice.
 - **Series slice** — what book 1 resolves for them, and what it leaves open.
 
-Main cast: Tor, Rolph, Patricia, Sarah, Dorian, Clark.
-Supporting: David, Count Mississippi, Carl, Miriam, the headmaster, the builder instructor, Sophia, plus canon additions (Terlee, Maria, Petra, Sorvey, Wensa, Connie, King Richard Cordes).
+Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey.
+Supporting: David, Count B, Carl, Miriam, the headmaster, the builder instructor, Sophia, plus canon additions (Terlee, Maria, Petra, Sorvey, Wensa, Connie, King Richard Cordes).
 
 Profiles live in `bible/characters/` (see `bible/README.md` for the template and labels).
 
 ### Voice rules for drafting
 
 - **Run the cover-the-names test** on every dialogue-heavy scene. If two characters could swap lines, revise one of them.
-- **Respect each character's "never" list.** (Rolph never speaks formally unless truly angry; Patricia never says "I don't know"; Clark never lies outright; Tor never boasts aloud.)
+- **Respect each character's "never" list.** (Rolph never speaks formally unless truly angry; Patricia never says "I don't know"; Tovey never lies outright; Tor never boasts aloud.)
 - **Voice shifts are signals.** When a character breaks their own pattern (Rolph going formal, Tor going quiet and polite), it means something. Don't spend these by accident.
 - **Narration should not adopt any character's voice** unless the chosen mode calls for close POV in that scene.
 - **Check reactions against reaction rules** before writing a beat. If a character must act against their rules, the scene has to earn it and the bible should note the change.
@@ -103,7 +103,7 @@ Profiles live in `bible/characters/` (see `bible/README.md` for the template and
 
 - **Each place squeezes a different tension** (school: rules and rank; town: money and ordinary lives; Two Rivers: Tor's past; capital: open politics; beach house: what can't be said at school; Gallaia: outside threats). Choose a scene's location for what it pressures.
 - **Ground the world in canon detail**: Lairdgren School, the tower bell counting the hours, brown tunics and trousers, the student store, isolation chambers; sigils in cheap ink on unfinished wood; copying vs. novel builds; working trances.
-- **The setting is far-future post-collapse Earth** (county names are old US states; common 20th-century names). Let this show in texture (ruins, odd survivals, names) without explaining it before the plot does.
+- **The setting is far-future post-collapse Earth** (common 20th-century names; **no** American state names for counties or houses). Let this show in texture (ruins, odd survivals, names) without explaining it before the plot does.
 - **Describe through a character's attention** where possible: what Miriam notices in a room differs from what Carl notices. Description is another way to differentiate characters.
 - **Prefer specific over general.** A named object, a smell, a sound beats an adjective.
 
@@ -140,7 +140,7 @@ Create directories as they're needed; don't scaffold empty files.
 - **Bible before manuscript.** If a draft needs a fact or trait not in the bible, add it to the bible (labeled) in the same change.
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
-- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sarah/Dorian/Clark, canon-faithful vs. reimagined, builder instructor's name, the Missouri–Mississippi feud, series scope, narrative mode).
+- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, builder instructor's name, the House A–House B feud, series scope, narrative mode).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
 ---
