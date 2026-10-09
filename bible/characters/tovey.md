@@ -8,6 +8,7 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
 - **Not disdainful of Tor, and not antagonistic.** (canon, user) Earlier notes made him an "honorable antagonist" with class contempt; that is withdrawn.
 - **Tor is afraid of him**, believing Tovey might strike out irrationally at any slight. (canon, user) The fear comes from Tor's belief that all nobles look down on commoners, not from anything Tovey has done. See the perception gap in `tor.md`.
 - **People follow him.** When Tovey goes to see something, a crowd comes along to see what he's interested in, and they want what he wants. (canon, user, chapter one)
+- Addresses Dorgal by surname ("Sorvey"); one word from him ends Dorgal's teasing. Wears a plain dark cloak with a brooch over the school brown. (invented; accepted by the user)
 - He comes to the laundry to see how the drying field works and **wants one for his mother**. (canon, user, chapter one) His mother is not yet named.
 
 ## Profile

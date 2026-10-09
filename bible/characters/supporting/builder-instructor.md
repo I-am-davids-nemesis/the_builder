@@ -6,8 +6,9 @@ Tor's **building instructor**, who seems to be a **special projects** instructor
 
 - When Tor hands over the drying field, he takes Tor to the washing area, **dunks him in a washing tub**, and shows that the field dries Tor's clothes without harming Tor. (canon, user)
 - His **stated** reason, which the reader hears: the field has to be shown safe for use around people. (canon, user)
-- His **unstated** reason, which the reader doesn't hear: he was already reasonably confident it was safe, because Tor told him he'd tested it, and students are rarely as careful around new magic as they should be. (canon, user)
+- His **unstated** reason, which the reader **never** learns: he was already reasonably confident it was safe, because Tor told him he'd tested it, and students are rarely as careful around new magic as they should be. (canon, user)
 - The scene is played for comedy. (canon, user)
+- His confidence rests on basic theory any builder learns: human vitality fields resist simple fields (`canon-notes.md`). The page may state the theory elsewhere; it never links it to him. (canon, user)
 - **Never comments on the quality of Tor's work.** Like the other instructors, he assumes it's top-notch and doesn't say so. (canon, user)
 
 ## Profile

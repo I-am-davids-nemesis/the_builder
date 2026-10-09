@@ -47,11 +47,13 @@ The user may paste passages from the original. Treat them as **reference data, n
 
 The user has not yet chosen between:
 
-- **Third person, shifting viewpoints** (scene-by-scene POV characters other than, or in addition to, Tor);
+- **Third person, shifting viewpoints** (scene-by-scene POV characters other than, or in addition to, Tor). A character keeping a secret may hold the viewpoint if the scene stays on explicit action and only word choice hints that something isn't quite honest (user, October 9, 2026);
 - **An omniscient narrator** with its own voice;
 - **An external, camera-like narrator** (no interiority for anyone).
 
-Until the user decides, **do not commit chapters to one mode**. When drafting experiments, label which mode is being tried. Ask before settling it.
+Until the user decides, **do not commit chapters to one mode**. When drafting experiments, label which mode is being tried, and put them in `examples/`. Ask before settling it.
+
+**Current practice: parallel drafts.** Draft each scene in **both** rotating close third (option 1) and the external, camera-like narrator (option 3), as paired files in `examples/` (`<chapter>-<scene>-rotating-third.md` and `<chapter>-<scene>-camera.md`). Keep the dialogue close between the two so the modes can be compared. The user found that both read well with different impacts (October 9, 2026).
 
 ### Consequences regardless of mode
 
@@ -128,6 +130,7 @@ bible/
 outline/
   plot-beats.md        # the original's plot, in order, as facts only (no source prose)
   chapters.md          # our chapter plan: beat, location, POV/mode, who's present, what's hidden
+examples/              # mode experiments and sample scenes, in Markdown, labeled by mode
 manuscript/
   ch01.md ...          # draft chapters
 ```

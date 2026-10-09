@@ -18,4 +18,4 @@ Named **Kolb** (canon, user; earlier notes called him "Carl"). **Head instructor
 - **Hidden aspect:** Whether the "revenge" is punishment or training he thinks Tor needs. The user's quotation marks leave room for both; from outside, they look the same. (invented, undecided)
 - **Voice:** Short imperatives, soldier's slang; quietest when most dangerous. (assumed)
   - "Again. Feet. You're small, so be fast. Again."
-  - "Three days, Baker. I counted. Tomorrow we make them up."
+  - "You owe me an afternoon, Baker. I counted. Tomorrow we start paying it back."

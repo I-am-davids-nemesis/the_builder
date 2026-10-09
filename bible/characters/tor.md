@@ -5,7 +5,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 ## Facts
 
 - Full name **Torrance (or Torrence) Green Baker**; "Tor" becomes the name he's famous under. (canon)
-- About **16** at the start; around 19 by book 6. (canon)
+- **20** at the start of our book 1, in his **third year** at Lairdgren. (decided by the user, October 9, 2026) Earlier research put him at about 16 at the start and around 19 by book 6; our book doesn't follow that.
 - **Small** compared to almost everyone around him. (canon)
 - Poor, a baker's son from the woods around **Two Rivers**. (canon)
 - Studies at the Lairdgren School on a scholarship ordered by King Richard Cordes, who doesn't know him. (canon)

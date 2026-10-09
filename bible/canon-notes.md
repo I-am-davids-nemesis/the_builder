@@ -36,7 +36,8 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Afternoons are combat instruction**, led by head instructor **Kolb**. (canon, user)
 - Students eat in a **cafeteria**. (canon, user)
 - Instructors **don't praise work explicitly**, even when they think it's top-notch. Whether that's school culture or Tor not hearing it is left ambiguous. (canon, user)
-- The school week has **rest days** with no classes. Tor's recovery day in chapter one is one. (assumed; decided by the user for our book)
+- The school week has **rest days** with no classes. Tor's recovery day in chapter one is one. (assumed; decided by the user for our book) Students do their laundry then, which is why the washing house is crowded. (invented; accepted by the user)
+- **Soap** is a gray, cracked lump that smells of ash; Tor buys his (likely at the student store). (invented; accepted by the user)
 - There is a **washing area** with washing tubs; the laundry scene and the instructor's test both happen there. (canon, user)
 
 ## How magic works
@@ -49,12 +50,15 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Ink drying unusually fast** is a good sign.
 - **A build's value depends on its material and how long it lasts.** One on cheap wood and paint is worth much less than one on good material. Tor's drying field, on cheap wood and paint, is still worth **30 gold**, a significant sum. (canon, user, chapter one)
 - A student's novel build (the prototype) **must be turned in for testing**. (canon, user, chapter one)
+- **Vitality fields.** All living things have some kind of vitality field; the more complex the living thing, the stronger and more complex its field. **Human vitality fields naturally resist simple fields**; damaging a person directly takes more focused, specific effort. (canon, user)
+- **Distinguishing living from non-living tissue** is one of the fundamental parts of a builder's education. (canon, user)
+- **Using the drying field:** Tor starts it by touching the center of the sigil. Water wells out of the weave in beads and runs off the cloth onto the floor; the cloth is left dry and slightly stiff. Clothes on people within range dry too (Davie's wet sleeves). (invented; accepted by the user)
 - **Copying in practice:** Tor and Rolph's door lock is a copy Tor made from the lock on Rolph's lockbox. It identifies the room's occupants and magically lifts a simple door bar on the inside. (canon, user, chapter one)
 - **New magic as prestige:** among nobility, having new magic before anyone else is a mark of significant prestige. (canon, user, chapter one)
 
 ## Tor's first project
 
-A field on a wood square that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent days in trance and missed classes; it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
+A field on a pine square, a hand across, painted in cheap blue house paint, that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent **thirty hours** in trance (duration decided by the user) and missed about a day and a half of classes; it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
 
 ## Tor's second project (idea only, chapter one)
 

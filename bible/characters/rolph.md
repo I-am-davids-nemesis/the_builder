@@ -5,7 +5,7 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 ## Facts
 
 - Spelled **Rolph** (canon; confirmed by the user).
-- Tor's **roommate for two years**. (canon)
+- Tor's **roommate for two years**. (canon) Now in his **third year**, aged **22**. (decided by the user, October 9, 2026)
 - Listens when Tor talks about magic; not frivolous. (canon)
 - Tor "had been told" Rolph is from a **merchant family**. (canon) That story may be a cover. (assumed)
 - His mother is **Connie**. (canon)
@@ -15,6 +15,7 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Tells Tor that **among nobility**, having new magic before anyone else is a mark of significant prestige. (canon, user)
 - **Crop losses** are a frequent topic of conversation at his home. His wish that the field worked on fruit and vegetables gives Tor the idea for a food drying field. (canon, user)
 - Backs Tor when Kolb confronts him in the cafeteria, as far as he can, but can't stop Kolb. (canon, user, end of chapter one)
+- Reads a room by precedence, "the way he'd been taught" (a hint; word choice only). His mother wants new things **before anyone else's mother** has them. Calls himself a merchant's son a little too readily. (invented; accepted by the user)
 - Patient and amused when Tor drifts off into work mid-conversation; keeps him company afterward, reading. (canon, user)
 
 ## Profile

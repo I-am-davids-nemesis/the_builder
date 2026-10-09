@@ -8,6 +8,7 @@ Sara treats Tor as a person rather than a phenomenon, which is exactly why her s
 - Daughter of a **large merchant house**, perhaps the **third daughter**. (canon, user; birth order uncertain)
 - Has **a lot of exposure to the capital** and to the best magic the continent has to offer. (canon, user)
 - Usually found **with Patricia**; the two are a pair. (canon, chapter one)
+- Her father taught her to price magic: "Price the board, then the work, then the years. The years are where they cheat you." He walked her through the **glass halls on the river** in the capital, where fine fields are sold set in ironwood with silver-inlaid lines. Carries a leather satchel; often has ink on her fingers. (invented; accepted by the user)
 - **Can value magic.** At Trice's prompting she prices Tor's drying field: value depends on the material and how long it lasts; on cheap wood and paint it's worth much less, but still 30 gold. (canon, user, chapter one) She learned it from her family's trade and her exposure to the capital.
 - Readers name Sara as a fan-favorite companion for Tor. (canon)
 

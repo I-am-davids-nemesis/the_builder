@@ -7,6 +7,7 @@ Patricia sees the political board more clearly than anyone Tor's age, and she ca
 - Patricia is a common name in Noram. (canon)
 - Goes by **Trice**. (canon, user, chapter one) Later-series readers call "Trice" a divisive character.
 - Usually found **with Sara**; the two are a pair. (canon, chapter one)
+- Wears her hair pinned up close and plain; enters every room without hurrying and without stopping, and crowds make room for her without deciding to. (invented; accepted by the user)
 - At the laundry in chapter one, she **gets Sara to estimate** what Tor's drying field is worth. (canon, user)
 
 ## Profile
