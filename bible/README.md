@@ -53,7 +53,7 @@ Each book resolves one small, concrete piece per character (a question answered,
 1. Confirm or correct the assumed roles for Rolph, Patricia, Sara, Dorgal and Tovey. (Patricia is the canon "Trice"; confirmed.)
 2. What are the real names of House A (Tovey's) and House B (Davie's)?
 3. Canon-faithful or reimagined? Should the bible match the published book, or is invented material fine?
-4. Name the building instructor (a special projects instructor) and the general magic instructor; decide whether the headmaster gets a name.
+4. Name the building instructor (a special projects instructor) and the magic theory instructor; decide whether the headmaster gets a name.
 5. Confirm the House A–House B feud as a series spine, or replace it.
 6. How far into the series to plan (book 1, the nine-book Tor arc, or beyond).
 7. Which narrative mode replaces the original's deep internal POV.

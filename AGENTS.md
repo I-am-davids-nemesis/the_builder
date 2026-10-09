@@ -78,7 +78,7 @@ Every character with a speaking role needs, at minimum:
 - **Series slice** — what book 1 resolves for them, and what it leaves open.
 
 Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey.
-Supporting: Davie, Count B, Kolb, Miriam, the headmaster, the building instructor, Doris, the general magic instructor, plus canon additions (Terlee, Maria, Petra, Wensa, Connie, King Richard Cordes).
+Supporting: Davie, Count B, Kolb, Miriam, the headmaster, the building instructor, Doris, the magic theory instructor, plus canon additions (Terlee, Maria, Petra, Wensa, Connie, King Richard Cordes).
 
 Profiles live in `bible/characters/` (see `bible/README.md` for the template and labels).
 
@@ -144,7 +144,7 @@ Create directories as they're needed; don't scaffold empty files.
 - **Bible before manuscript.** If a draft needs a fact or trait not in the bible, add it to the bible (labeled) in the same change.
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
-- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and general magic instructors' names, the House A–House B feud, series scope, narrative mode).
+- **Ask rather than decide** on the open questions in `bible/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope, narrative mode).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
 ---

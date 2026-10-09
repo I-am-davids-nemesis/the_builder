@@ -62,7 +62,31 @@ Tor looked up.
 
 "Sara said that."
 
-"Sara's right about most things." Rolph put his hands behind his head. "If it did fruit, now. That'd be something. Apples. Plums. Beans. You'd not believe how much rots at home in a wet year. It's all anyone talks about at dinner some autumns, the accounts come in and it's so many bushels lost in the low barns, and so many in the carts on the road, and everyone looks very grave and passes the salt—"
+"Sara's right about most things." Rolph looked at the ceiling for a moment. "Bring it yourself."
+
+"Sorry?"
+
+"Hers. The one for Mother. Bring it yourself. Come home with me over the break. To the capital." He'd meant to ask in a week or two, when it would sound offhand. He'd written to Mother about Tor in the autumn, and she'd written back by the next post, which she never did, and she'd asked a great many questions. He kept that to himself.
+
+Tor had gone still in a different way from before. "I couldn't."
+
+"You could."
+
+"Not on your holiday. Your family will want you to themselves, they won't want somebody underfoot the whole time, eating their food and taking up a bed and needing things explained. I'd be in the way. I'd only be a burden on them."
+
+"A burden," Rolph said.
+
+"I would."
+
+"It's a big house, Little Tor. Big. Draughty. Full of forks. You could lose a regiment in it. Nobody would notice one baker."
+
+"Forks?"
+
+"Dozens. You'll survive the forks." He grinned at the ceiling. "Trust me. I'll write and tell them you're coming."
+
+Tor looked at the board on his knees. "If your mother wouldn't mind," he said, very quietly, as if the answer might still be no.
+
+"She'd mind if you didn't." Rolph put his hands behind his head. "If it did fruit, now. That'd be something. Apples. Plums. Beans. You'd not believe how much rots at home in a wet year. It's all anyone talks about at dinner some autumns, the accounts come in and it's so many bushels lost in the low barns, and so many in the carts on the road, and everyone looks very grave and passes the salt—"
 
 He stopped, because Tor had stopped listening.
 
@@ -142,6 +166,7 @@ To add to the bible if kept.
 - **The door lock:** the pattern is painted in blue on the inside of the door. The bar is a length of plain ash. It lifts with a soft wooden knock when either of them comes within a stride, and drops back by itself. "It's only meant to know two." Tor made it the winter before last, after asking Rolph's permission and studying the chest for an evening.
 - **Rolph's chest:** the size of a bread bin, dark wood and iron, a lock plate with no keyhole; opens to his palm. It came with him from home in his first year, "which was the arrangement" (a hint). He takes coins from it casually.
 - **Rolph's envy:** he spent an afternoon watching the door bar go up and down and walking in and out, and understood nothing.
+- **The invitation:** Rolph invites Tor home over the next school break, to bring the field to his mother himself. The home is **in the capital** (canon, user). He'd meant to ask later, offhand; he wrote to his mother about Tor in the autumn and she replied by the next post with a great many questions, which he keeps to himself. Tor hesitates because he doesn't want to be a burden on Rolph's family during their holiday (canon, user); he doesn't know they're interested in him (canon, user). Rolph: "Big. Draughty. Full of forks. You could lose a regiment in it." (the forks line kept by the user) Tor accepts "if your mother wouldn't mind."
 - **Rolph's home:** in a wet year the autumn accounts are read at dinner: bushels lost in the low barns and in carts on the road (hint: land, not trade).
 - **Tor's food-field reasoning** (as muttered):
   - Cloth lets water go easily; fruit has skins and holds water inside.

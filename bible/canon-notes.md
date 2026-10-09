@@ -32,7 +32,8 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - Students wear **brown trousers and tunics**. There is a **student store** and **isolation chambers** for building work.
 - **Combat class is mixed** boys and girls.
 - Daily **meditation classes** train lighter versions of the building trance; taught by **Doris**. (teacher canon, user)
-- Tor's instructors: his **building instructor**, who seems to be a **special projects** instructor; **Doris** (meditation); and a **general magic** instructor (unnamed). (canon, user)
+- Tor's instructors: his **building instructor**, who seems to be a **special projects** instructor and has an office; **Doris** (meditation), who barely speaks and brings a new item each day for the class to focus on; and a **magic theory** instructor (unnamed). (canon, user)
+- Tor's morning: building instructor (early), meditation, magic theory, then lunch in the cafeteria; combat in the afternoon. (canon, user)
 - **Afternoons are combat instruction**, led by head instructor **Kolb**. (canon, user)
 - Students eat in a **cafeteria**. (canon, user)
 - Instructors **don't praise work explicitly**, even when they think it's top-notch. Whether that's school culture or Tor not hearing it is left ambiguous. (canon, user)
@@ -94,7 +95,7 @@ Almost everything about the cast beyond Tor is invented or guessed.
 | Davie | Fifth in line to a county; can't do his own laundry (canon, chapter one); gossip role assumed | Medium |
 | Count B | Patient schemer, plot suspect | Low |
 | Kolb, Doris, building instructor | Names and roles canon (user, chapter one; Kolb was "Carl" and Doris "Sophia" in earlier notes); personalities mostly invented | Low |
-| Miriam, headmaster, general magic instructor | Roles from the user's list; personalities invented | Low |
+| Miriam, headmaster, magic theory instructor | Roles from the user's list; personalities invented | Low |
 | House A–House B feud | Created for external tension | Invented |
 | Doris sensing Tor's mental structures | Ties to canon mental controls | Invented hook |
 

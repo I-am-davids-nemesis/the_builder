@@ -35,6 +35,8 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - **A friend threatened** → the meekness vanishes; he solves the problem with frightening, disproportionate competence, then apologizes for the mess.
 - **Handed a technical puzzle** → forgets food, sleep, and the people in the room; may sink into a trance lasting days. (canon) Even a passing wish from a friend counts as a puzzle: Rolph's remark about crop losses sends him straight to his desk. (canon, user)
 - **Surfaces from a fugue and finds someone waiting** → apologizes for leaving the conversation. (canon, user)
+- **Offered hospitality** → hesitates because he doesn't want to be a burden; accepts only if assured nobody minds. (canon: Rolph's invitation home, chapter one)
+- **Needs to account for himself** → reaches for a literal, honest technicality rather than the easy story he's been given. (canon seed: he thinks his building trance should count as meditation, so he should be excused from Doris's class)
 - **Asleep with a build in his head** → dreams it, wakes, and scribbles notes that make sense only to him. (canon, user)
 - **Faced with tradition or an elder's rule** → follows it to the letter. (canon)
 - **Facing a high noble** → assumes contempt; goes quiet, extra courteous and careful, as if any slip could provoke a blow. (canon: his fear of Tovey, chapter one)

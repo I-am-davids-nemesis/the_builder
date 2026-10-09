@@ -13,6 +13,7 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Very interested in Tor and his magic, in what seems to be innocent envy; he once **stared at the room lock for hours**. (canon, user)
 - Wants a copy of the drying field **for his mother**. (canon, user)
 - Tells Tor that **among nobility**, having new magic before anyone else is a mark of significant prestige. (canon, user)
+- **Invites Tor home** to visit his family **in the capital** over the next school break, right after asking for a drying field for his mother. (canon, user, chapter one) The family is interested in Tor; Tor doesn't know it. (canon, user) In the drafts, his mother answered Rolph's autumn letter about Tor by the next post, with a great many questions, which Rolph keeps to himself. (invented)
 - **Crop losses** are a frequent topic of conversation at his home. His wish that the field worked on fruit and vegetables gives Tor the idea for a food drying field. (canon, user)
 - Backs Tor when Kolb confronts him in the cafeteria, as far as he can, but can't stop Kolb. (canon, user, end of chapter one)
 - Reads a room by precedence, "the way he'd been taught" (a hint; word choice only). His mother wants new things **before anyone else's mother** has them. Calls himself a merchant's son a little too readily. (invented; accepted by the user)

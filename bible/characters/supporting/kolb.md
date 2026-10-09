@@ -4,6 +4,8 @@ Named **Kolb** (canon, user; earlier notes called him "Carl"). **Head instructor
 
 ## Facts
 
+- **Tall**, **middle-aged looking**, **bald**, with a **scar on his face**; a lot of corded muscle without being overly bulky. (canon, user) The scar is **pale and runs from the corner of one eye down into his jaw**. (invented; accepted by the user)
+
 - At midday, at the end of chapter one, he **confronts Tor in the cafeteria** and **quietly promises extra intensive workouts** for daring to miss his class. (canon, user)
 - Rolph backs Tor as far as he can, but nothing is going to stop Kolb from taking his "revenge." (canon, user)
 - Chapter one ends with Tor heading to Kolb's combat class, afraid; the class opens chapter two. (canon, user)

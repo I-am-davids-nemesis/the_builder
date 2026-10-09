@@ -58,7 +58,31 @@ Tor looked up.
 
 "Sara said that."
 
-"Sara's right about most things." Rolph put his hands behind his head. "If it did fruit, now. That'd be something. Apples. Plums. Beans. You'd not believe how much rots at home in a wet year. Some autumns it's all anyone talks about at dinner. The accounts come in and it's so many bushels lost in the low barns, and so many in the carts on the road, and everyone looks very grave and passes the salt—"
+"Sara's right about most things." Rolph looked at the ceiling for a moment. "Bring it yourself."
+
+"Sorry?"
+
+"Hers. The one for Mother. Bring it yourself. Come home with me over the break. To the capital." He said it lightly, still looking up.
+
+Tor sat very still. "I couldn't."
+
+"You could."
+
+"Not on your holiday. Your family will want you to themselves, they won't want somebody underfoot the whole time, eating their food and taking up a bed and needing things explained. I'd be in the way. I'd only be a burden on them."
+
+"A burden," Rolph said.
+
+"I would."
+
+"It's a big house, Little Tor. Big. Draughty. Full of forks. You could lose a regiment in it. Nobody would notice one baker."
+
+"Forks?"
+
+"Dozens. You'll survive the forks." He grinned at the ceiling. "Trust me. I'll write and tell them you're coming. I'll write tonight."
+
+Tor looked down at the board on his knees. "If your mother wouldn't mind," he said, very quietly.
+
+"She'd mind if you didn't." Rolph put his hands behind his head. "If it did fruit, now. That'd be something. Apples. Plums. Beans. You'd not believe how much rots at home in a wet year. Some autumns it's all anyone talks about at dinner. The accounts come in and it's so many bushels lost in the low barns, and so many in the carts on the road, and everyone looks very grave and passes the salt—"
 
 He stopped.
 
