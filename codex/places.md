@@ -7,6 +7,9 @@ Each setting squeezes a different tension, so moving the cast changes what the s
 | The school (Lairdgren, canon) | Rules, rank, and grades; Tor's accidental rule-breaking | Tor, Tovey, the headmaster |
 | Tor and Rolph's room (canon) | Privacy: the one place Tor isn't performing; the door bar shuts out the school's demands. Rolph's lockbox of gold sits in plain view. | Tor, Rolph |
 | The washing house | At the back of the dormitory court: a long low room of wet stone, one pump, a copper over a banked fire, a drain down the middle. Old white tubs, glazed inside, on iron feet cast like an animal's paws; nobody knows why there were once so many. (invented; accepted by the user) Busy on rest days. Where Tor first tests the drying field and the building instructor dunks him. | Tor, Davie |
+| The practice yard (canon, chapter two) | Bodies and rank stripped away: Kolb judges only what a student can do. The pell, the cutter, the dust. Where Tor is assigned a shield that could kill him. | Tor, Kolb, Trice, Sara |
+| The building instructor's office (canon) | Where the school meets money: the instructor brings a merchant here to buy Tor's work. | Tor, the building instructor, Douglas Sorvey |
+| The courtyard at night (canon, chapter two) | The school's public center emptied out; the bell tower overhead and nobody to see. Where Tor finds Trice losing a fight to Tovey. | Tor, Trice, Tovey |
 | The cafeteria (canon) | Public, everyday, and inescapable: everyone eats there, so whatever happens there has an audience. Chapter one ends as Tor leaves it for combat. | Tor, Rolph, Kolb |
 | The town around the school | Money and ordinary people; where Tor's work first reaches real lives | Tor, Miriam, Sara |
 | Two Rivers (Tor's hometown, canon) | Tor's past and family secrets; the humble self-image he clings to | Tor; any friend who visits sees a side of him they didn't know |

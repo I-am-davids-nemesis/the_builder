@@ -12,6 +12,10 @@ Sara treats Tor as a person rather than a phenomenon, which is exactly why her s
 - **Can value magic.** At Trice's prompting she prices Tor's drying field: value depends on the material and how long it lasts; on cheap wood and paint it's worth much less, but still 30 gold. (canon, user, chapter one) She learned it from her family's trade and her exposure to the capital.
 - Readers name Sara as a fan-favorite companion for Tor. (canon)
 
+- Her family is the **Debri** merchant house. (canon, user, chapter two)
+- Wears **black**: a student of the **special school** (a spy school with assassination training; **not revealed yet**, canon, user), like Trice. Spars with Tor all afternoon. Takes Tor's raw field for a **shield device** and calls Trice off. (canon, user, chapter two)
+- **Outbids Sorvey:** offers Tor **12 gold** per drying field, **20** on a metal plate, and becomes his **sales agent** for **10%** (who gets the 10% is unclear to Tor). Has no calling card on her that evening; says Rolph or Tovey knows where to find her and Trice. (canon, user, chapter two)
+
 ## Profile
 
 - **Role:** Tor's steadiest friend and the emotional center of his school life (assumed); the one who knows what magic is worth (canon).

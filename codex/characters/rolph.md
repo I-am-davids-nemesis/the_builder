@@ -7,7 +7,7 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Spelled **Rolph** (canon; confirmed by the user).
 - Tor's **roommate for two years**. (canon) Now in his **third year**, aged **22**. (decided by the user, October 9, 2026)
 - Listens when Tor talks about magic; not frivolous. (canon)
-- Tor "had been told" Rolph is from a **merchant family**. (canon) That story may be a cover. (assumed)
+- Tor "had been told" Rolph is from a **merchant family**. (canon) **It's a cover: Rolph's family is royal.** (canon, user, October 9, 2026) The codex treats it as known; on the page it stays **hidden from Tor and hinted to the reader**. His mother Connie is the queen, so her birthday is the queen's birthday. (assumed from canon; King Richard Cordes in `canon-notes.md`)
 - His mother is **Connie**. (canon)
 - Owns a **magic lockbox full of gold**, kept in their room. Tor copied its lock to make the room's door lock. (canon, user, chapter one) It's a hint about his family, never an admission.
 - Very interested in Tor and his magic, in what seems to be innocent envy; he once **stared at the room lock for hours**. (canon, user)
@@ -19,6 +19,9 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Reads a room by precedence, "the way he'd been taught" (a hint; word choice only). His mother wants new things **before anyone else's mother** has them. Calls himself a merchant's son a little too readily. (invented; accepted by the user)
 - Patient and amused when Tor drifts off into work mid-conversation; keeps him company afterward, reading. (canon, user)
 
+- **Chapter two:** comes back late from the **pub** saying people are very interested in the drying device. Wants **ten** for his mother to give her friends, to help sales; offers **55 gold** up front (half of 110). His mother's **birthday is in a week**; when Tor asks if that's like the queen's birthday and whether they get the day off, Rolph laughs and says yes, just like the queen. Needs them for the **express mail** (three days to the capital). (canon, user)
+- Tor teases him by playing grumpy about the order; Rolph is the one person Tor teases. (invented reading)
+
 ## Profile
 
 - **Role:** Tor's closest friend and roommate; supposedly from a merchant family. His mother, Connie, takes an interest in Tor. (Connie and roommate are canon; the rest is assumed)
@@ -26,7 +29,7 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - **Need:** To find a talent or purpose that is his own, not borrowed from his family or his friend.
 - **Internal tension:** Genuine love for Tor vs. envy of how easily Tor surpasses everyone. He'd die before admitting the second.
 - **External tension:** He hides his family's real standing, and isn't sure how much of the friendship was arranged. He suspects Connie's warmth toward Tor is partly strategy, and he's not sure he minds.
-- **Hidden aspect:** His true family. The reader can learn this early, as dramatic irony, while Tor doesn't.
+- **Hidden aspect:** His true family is royal (canon, user). The reader is hinted toward it early, as dramatic irony, while Tor doesn't see it.
 
 ## Reaction rules
 

@@ -108,7 +108,7 @@ Baker opened his mouth and nothing came out of it.
 
 Behind Tovey the room had found its voice. *Can you make another? I'll take one. Two, my sister's at the Ridge house and it's damp as a well. How long does it last? Does it do wool?* Baker turned toward each voice as it came, the way a sparrow turns toward each crumb, and his face went from pale to paler.
 
-Tovey looked back at them. They wanted it because he had. By supper there would be twenty of them asking, and by the next rest day half the school would have heard that Tovey of House A had wanted a laundry board, and something meant for his mother would have become a thing people were seen to own.
+Tovey looked back at them. They wanted it because he had. By supper there would be twenty of them asking, and by the next rest day half the school would have heard that Count Thompson had wanted a laundry board, and something meant for his mother would have become a thing people were seen to own.
 
 He had wanted a gift. He seemed to have started a market.
 

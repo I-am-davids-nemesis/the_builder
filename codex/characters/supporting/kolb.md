@@ -10,6 +10,13 @@ Named **Kolb** (canon, user; earlier notes called him "Carl"). **Head instructor
 - Rolph backs Tor as far as he can, but nothing is going to stop Kolb from taking his "revenge." (canon, user)
 - Chapter one ends with Tor heading to Kolb's combat class, afraid; the class opens chapter two. (canon, user)
 
+- **Chapter two:** relaxed, even chatty, with Tor at the pell. Hits it hard enough to shake the yard; says one such blow could kill someone without armor or a shield device; cuts the pell clean through with a **four-foot cutter**. (canon, user)
+- **Sets the shield assignment:** two weeks to build a shield that survives both kinds of attack for at least twenty minutes. (canon, user)
+- **Always tells Tor his best way to survive a fight is to run away.** Sends him on a ten-mile run to the nearest town "to warm up"; next day, three times as far, then the pell with an **iron bar** until Tor can't lift it. (canon, user)
+- Pairs Tor with Trice and Sara for unarmed sparring. When they complain Tor has a shield, he **laughs**: Tor is working on the project, and now that Kolb knows it'll likely work, he'll come at it even harder. (canon, user)
+- Talks with the **head of the special school's department** about Tor; tells him Tor can do it, or he wouldn't have set the task (as overheard by Trice). (canon, user)
+- His "revenge" turns out to be a build assignment. That leans the hidden aspect toward training, though Tor still hears it as a death threat. (invented reading)
+
 ## Profile
 
 - **Role:** A retired soldier who judges students only by what they can actually do. (assumed)

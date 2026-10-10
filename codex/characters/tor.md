@@ -25,6 +25,12 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - **External tension:** Nobles and older powers maneuvering around him; school rules he keeps breaking by accident; a family history that doesn't add up. (canon)
 - **Hidden aspect:** The mental controls. His humility, and perhaps his self-image, may have been put there by someone else. (canon, revealed later)
 
+- **Runs well.** A ten-mile run doesn't trouble him; Kolb's advice that running is his best defense suits him. Lost in thought on a run, he goes half an hour past the turn and comes back faster. (canon, user, chapter two)
+- **Fights better than he thinks.** Dodges Trice's kicks, gets inside a wheel kick and takes her down, and is winning the grappling until the knife. (canon, user, chapter two)
+- **Throws out a raw field** when a knife is put to his throat. (canon, user, chapter two) See `canon-notes.md`.
+- **Senses danger in people**: he can feel that Douglas Sorvey is dangerous. (canon, user, chapter two)
+- **Has money now**, enough to buy a hundred copper squares and acid at the store. (canon, user, chapter two)
+
 ## Reaction rules
 
 - **Praised** → deflects to luck, a teacher, or the materials; changes the subject to the work.
@@ -42,6 +48,9 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - **Facing a high noble** → assumes contempt; goes quiet, extra courteous and careful, as if any slip could provoke a blow. (canon: his fear of Tovey, chapter one)
 - **Faced with noble social customs** → embarrassment, literal-mindedness, and a strong wish to be somewhere else.
 - **A girl is friendly to him** → assumes it's kindness or a mistake. (rooted in the Maria rejection)
+- **Feels danger in someone offering a deal** → won't deal; hides behind someone else's name rather than say no himself. (canon: "Sara represents me," chapter two)
+- **Given a lethal deadline** → takes it seriously, and politely; no reassurance changes that. (canon: Kolb's shield, chapter two)
+- **Doing copy work** → gets bored and sloppy, and gives away the imperfect copies to whoever needs them. (canon, chapter two)
 - **Small talk** → tunes out and privately judges it.
 
 ## The perception gap

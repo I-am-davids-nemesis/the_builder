@@ -214,6 +214,197 @@ Beats canon (user, October 9, 2026) unless labeled.
 
 ## Chapter 2
 
-Only what's fixed so far:
+Beats are from the user's plot summary of the original's chapter two (October 9, 2026): plot points only, not the original's tone or wording (`AGENTS.md` §2).
 
-- **Opens with combat class** that afternoon, led by Kolb, where his promised "revenge" begins. (canon, user)
+### What the chapter must do
+
+1. **Pay chapter one's bill.** Kolb's "revenge" arrives and turns out to be a build assignment with a deadline: a shield in two weeks.
+2. **Turn the engine twice, faster.** The drying field leaves Tor's hands and becomes **money**: a dangerous merchant, then Sara's house, then Rolph's rush order. The stakes rise from school rules (chapter one) to money and merchant houses.
+3. **Show Tor's friends are more than they seem.** Trice and Sara fight like professionals, wear black, and belong to a "special school." Rolph's mother has a birthday the same week as the queen's.
+4. **End on a cliffhanger:** the strange numbness, Trice down in the dark courtyard, Tor swinging a sack of copper at a huge attacker who turns out to be Tovey.
+
+### Tone: light and funny
+
+The user wants the book **as light and funny as possible** (October 9, 2026). The original's chapter two is heavy with Tor's dread; ours keeps the dread visible but plays it for comedy. The comedy comes from the gap between how Tor reads a situation and what's actually happening (`codex/characters/tor.md`, the perception gap), and from physical comedy, which suits modes without narrated thought.
+
+- **The joke is never on Tor's intelligence.** He's brilliant and wrong about people. The reader laughs at the mismatch, and likes him for it.
+- **Danger stays real, but people around Tor treat it as routine.** Kolb's casual lethality, the knife at the throat, the powder: everyone else thinks this is a normal afternoon. Tor's courtesy under threat is funny because it's so out of proportion with how calm the others are.
+- **Escalating numbers are a running joke.** Sara priced the field at 30 gold in chapter one. The merchant offers 2. Sara offers 12, or 20 on metal. Rolph's order works out to 11 each. Tor thinks every offer is wildly generous. The reader remembers 30.
+- **The ending is the one place the chapter turns serious**, and it still has a sack of copper squares in it.
+
+### The engine, twice
+
+| Step | Turn one: the shield | Turn two: the drying field as product |
+| --- | --- | --- |
+| Build | The drying field (chapter one), and Tor himself: he missed combat to build | The drying field, in demand |
+| Complication | Kolb sets a lethal assignment: a shield that survives both his blows and a cutter for twenty minutes, due in two weeks | Merchants want it. Douglas Sorvey (dangerous) offers; Sara (friendly) outbids; Rolph needs ten by express mail for his mother's birthday |
+| Next idea | In sparring, Tor throws out a raw field by reflex, which shows him the shield will work, and that it needs to let air through but not dust | Copper squares etched with acid instead of paint on wood (Sara's "20 if it's on metal"); a hundred at once; copying in batches |
+| Cost | Kolb now knows it works, so the test will be harder | A night of boring copy work, then the numbness, walking home, into a fight |
+
+### Combat class, beat by beat
+
+All beats canon (user, October 9, 2026) unless labeled.
+
+1. **Kolb at the pell.** Kolb is in the practice yard hitting a **pell** (a great log buried halfway in the ground) so hard everything seems to shake. He's surprisingly relaxed with Tor.
+2. **The demonstration.** Kolb tells Tor a single blow like that could kill someone without armor or a magical shield field device. Then he draws a **cutter**, not a small tool but a **four-foot blade**, and slices cleanly through the pell.
+3. **The assignment.** Two weeks to build a new shield that withstands **both** kinds of attack (the blow and the cutter) for **at least twenty minutes**.
+4. **The warm-up.** Kolb sends Tor to run to the nearest town and back, about **ten miles**. Tor doesn't mind: Kolb always tells him his best way to survive a fight is to run away.
+5. **The run.** Tor is low, and thinks about leaving school, then loses himself in the shield problem and runs an extra half hour out before turning back, faster.
+6. **Back at the yard:** students in the usual brown, and **two in black**, which marks students of the **special school**. They turn out to be **Trice and Sara**.
+7. **Sparring, unarmed.** Kolb assigns them to spar with Tor. Trice first: she goes straight for a kick to the groin. Tor dodges, but he can't run, because he's been assigned to spar. She's skilled, especially at kicks, but tries a showy **spinning wheel kick**; Tor gets inside it and takes her to the ground.
+8. **The knife.** Tor is winning the grappling when there is suddenly a **knife at his throat**. He freezes for a second, then almost instantly throws out a **field that pushes everything away from his body**.
+9. **Sara mistakes it for a shield device** and tells Trice to back off; the knife won't help.
+10. **The powder.** Trice gets up and throws a **white powder** at him. It doesn't get through the field, but it blinds him, and he realizes he **can't breathe**. He drops the field, noting that it has to let air in but keep dust out.
+11. **The complaint.** Sara and Trice complain that Tor has a shield. Kolb laughs it off: Tor doesn't have a shield; he's working on the project Kolb set him, and now that Kolb knows it will likely work, he'll have to come at it even harder in two weeks.
+12. **The rest of the afternoon:** Sara and Trice take turns attacking Tor.
+13. **Evening:** Tor goes back to his room to finish the food drying design and start thinking about the shield.
+
+**Staging notes** (invented):
+
+- **The open is a fake-out.** Chapter one ended on dread. Chapter two opens on Kolb being pleasant, which is worse. Let him be chatty, even friendly, while explaining how easily he could kill a person. The bigger the pell's shudder, the calmer his voice.
+- **The cutter is description work.** Four feet of blade, the sound it makes, the clean cut face of the pell, the top half sliding off. Give the reader the object Tor will have to stop.
+- **The twenty minutes is the joke's punchline.** Kolb says it last, like an afterthought. Tor's reply should be courteous and appalled (`tor.md`: threatened → extra courtesy).
+- **Ten miles is home ground.** Kolb sends it as punishment; Tor treats it as the one part of combat he's good at. Kolb's own advice (run away) said back to him, or about to be, is the joke. Someone, Kolb or a classmate, should notice he's not suffering.
+- **The run is where the despair goes.** We don't narrate Tor's thoughts, so the low point shows outside: he slows at a milestone on the road, looks back toward the school, then starts muttering about fields and doesn't notice the town go by. The extra half hour is seen from the turnaround: he's well past where he should have turned. He comes back faster, which says the mood broke.
+- **The black uniforms are the reader's first clue** that Trice and Sara aren't what chapter one suggested. The special school is a spy school with assassination training (canon, user), and **none of that is revealed**: no name for it, no explanation, nobody's thoughts about it. Fighting dirty in "unarmed" sparring is as far as the hint goes. In chapter one Sara priced magic; here she fights. Nobody explains the special school. Tor recognizes them late, which is a small comedy of its own (he's busy being afraid of Kolb).
+- **Tor's fighting has to read as surprisingly competent.** He's small and fast; he gets inside the wheel kick and puts Trice down. The reader should see he's better than he thinks, and so should Trice. (Perception gap again: Tor thinks he's losing the whole time.)
+- **The knife is the turn.** One beat of stillness, then the field. It looks like a **noble's hereditary field**, and Tor is controlling it, which almost nobody has ever shown (canon, user). Nobody says that in this chapter. Sara reads it as a device; Kolb knows better and laughs. Trice may look at Tor a beat too long. That's all the reader gets. Narrate the field from outside: dust and grit sliding away from him in a ring, Trice's knife hand pushed back, Sara's reaction. Don't explain how he did it; nobody on the page understands it yet either.
+- **The powder is physical comedy.** A white cloud hanging around him in the shape of the field, Tor inside it, blind, then visibly not breathing, then the field dropping and the powder landing on him all at once. He comes out white and coughing, and possibly apologizing.
+- **The idea lands visibly.** Coughing, he mutters what's wrong with the field (air in, dust out). That's the engine's step 3, out loud.
+- **Kolb's laugh is the scene's release.** He's delighted, which means the test just got harder. Trice and Sara learn that what beat them wasn't a device, which the reader should notice more than Tor does. Kolb's delight should carry a hint that he's seen something rarer than a good student project.
+- **The afternoon of being attacked by turns** is a montage: short, rhythmic, funny. Trice tries something new each time; Sara is plainer and harder to read; Tor apologizes when he hits either of them.
+
+### The merchant, beat by beat
+
+All beats canon (user, October 9, 2026) unless labeled.
+
+1. **Pulled from class.** Next day, Tor's building instructor pulls him out of building class and takes him to his office, where a **dangerous-seeming merchant** is waiting: **Douglas Sorvey** (same family name as Dorgal). (spelling assumed; the user wrote "Sorve")
+2. **The offer:** **two gold** for each clothes drying device Tor can produce.
+3. **Tor hides behind Sara**, saying he's already agreed to have Sara represent him. (He hasn't yet; she makes it true that evening.)
+4. **Sorvey is agreeable**, and offers to pay for any new projects Tor comes up with.
+5. **Tor can feel how dangerous the man is** and is reluctant to deal with him.
+6. **Sorvey leaves his card** and takes his leave.
+7. **The instructor is clearly unhappy** that the merchant he brought in was turned down. He suggests it isn't a bad idea to **pay off the person doing the testing**. Tor thinks this is a natural, sensible idea, not a bribe solicitation.
+
+**Staging notes** (invented):
+
+- **The danger has to be visible without narrating Tor's senses.** Sorvey is polite and still; Tor goes very polite and very careful (`tor.md`: threatened → courtesy). Specifics: Sorvey never blinks first, his hands are a fighter's under a merchant's rings, he's taken the instructor's chair. The reader can sense what Tor senses from the way Tor stands.
+- **Two gold is a lowball the reader can catch.** The reader heard Sara say 30. Tor, being Tor, thinks two gold is generous and refuses anyway. That's the scene's comic core: he says no to a bad deal for the wrong reason.
+- **"Sara represents me" is half a fib** (user). Half of it is Tor's honest reading of the laundry: Sara priced the field, Trice steered the talk, and he came away half-believing something had been settled. The other half is a shield he grabs because Sorvey frightens him. Play both: he says it a little too fast, then visibly tries to work out whether it's true. It becomes true by nightfall, which is the joke.
+- **The Sorvey name lands on the reader, never on Tor.** Douglas is **Dorgal's father** (canon, user). Everyone else knows it, so nobody says it; Tor doesn't connect them. The reader should catch the name and Tor's blankness. Douglas doesn't mention his son. (The reader's confirmation can come later, from someone who assumes Tor already knows.)
+- **The instructor's hint is the funniest line in the scene, said dryly and heard innocently.** He suggests paying the tester; Tor agrees that's only fair, since testing is work. Neither says who the tester is. Whether Tor actually offers money later is open (a callback opportunity).
+- **The instructor's displeasure is a new note for him.** In chapter one his rough methods hid sound reasons. Here his motive looks plainly mercenary, and that may be the truth, or not. Keep it ambiguous (`builder-instructor.md`).
+
+### The afternoon, beat by beat
+
+1. **Kolb has Tor run three times the usual distance** (about thirty miles), then **hit the pell with an iron bar until he can't lift it anymore.** (canon, user)
+
+**Staging notes** (invented): One short beat. The pell is the same one Kolb cut in half yesterday, or a fresh one; either way it doesn't move. Tor's arms at the end (can't lift a cup at dinner, or a pen) set up the evening.
+
+### The visit, beat by beat
+
+All beats canon (user, October 9, 2026) unless labeled.
+
+1. **Trice and Sara come to Tor's room** while he's working on the shield, dressed up for the visit. Tor doesn't notice, believing they can't possibly be interested in him, least of all after beating him up yesterday.
+2. **They argue against the Sorvey house** and for the **Debri** merchant house, Sara's family.
+3. **Sara's offer:** **12 gold** per drying device, **20** if they can get it on a **metal plate**. Tor thinks it's a very good idea.
+4. **Tor worries he won't live to deliver**: he expects Kolb to kill him in two weeks when the shield is tested.
+5. **Trice's joke:** they have every confidence he'll survive; they overheard Kolb telling the head of their department he can do it, or he wouldn't have set it. The school rarely kills students; it's bad for enrollment. (The joke is canon; the original's wording stays out of our drafts. Write our own version.)
+6. **Tor takes it as Kolb keeping him focused.** The threat still feels real to him.
+7. **Sara becomes his sales agent**, for a **10%** cut. Whether Tor thinks he gets the 10% or Sara does is unclear. (canon ambiguity; see staging)
+8. **No card.** Sara has nowhere to carry a calling card in that outfit, so she tells him Rolph or Tovey knows where to find them.
+9. **After they leave**, Tor is flabbergasted at the idea of asking a count to play messenger for him; he takes it as a cruel joke.
+
+**Staging notes** (invented):
+
+- **Content guardrail (`AGENTS.md` §9).** The source has the girls dressed to seduce. Ours: they're dressed for an evening out, not for a dormitory. The comedy is entirely Tor's: he notices nothing, or notices something irrelevant (that Sara's sleeves are too thin for the cold corridor, that there's nowhere to keep a card). No description dwells on bodies; Tor's obliviousness is the whole joke.
+- **The reader gets the context; Tor doesn't.** Rolph's grin, a passing student's double take in the corridor, or Trice's visible annoyance that the effort was wasted can tell the reader the girls came prepared to charm, without anything sexual on the page.
+- **Trice and Sara work as a pair, in their own voices.** Trice argues the politics (who Sorvey is, who benefits, `patricia.md`); Sara names the numbers and makes it personal (`sara.md`). Run the cover-the-names test here.
+- **The enrollment joke is Trice's**, delivered dry. Tor hears reassurance about an assassination policy. The reader hears a joke. Tor's response should be sincere and grateful.
+- **The 10% stays ambiguous on purpose** (user): a joke now, a source of tension later. Tor agrees warmly to a number without being sure which way it runs, and nobody on the page settles it. Sara doesn't correct him. Keep the dialogue genuinely ambiguous, so neither reading can later be called a misreading of the text.
+- **"Ask Rolph or Tovey" is a perception-gap bomb.** Tor treats asking Tovey (a count) to fetch two girls for him as an obvious cruel joke. Neither girl thinks it's a joke. The reader should also notice they named **Rolph** in the same breath as a count, which Tor doesn't.
+- **Sara's metal plate is the next idea arriving from outside.** She says "20 if it's on metal," and Tor's eyes go to the materials. That's the engine's step 3 coming from another character.
+
+### Rolph's order, beat by beat
+
+All beats canon (user, October 9, 2026) unless labeled.
+
+1. **Rolph comes back late from the pub** with news: people are very interested in the drying device.
+2. **He wants his mother to get the first ten** so she can hand them out to her friends, which would help sales enormously.
+3. **Tor plays grumpy**, claiming (truthfully) he doesn't have the materials. He'll obviously do it.
+4. **Rolph offers 55 gold**, half up front on the assumption that ten will cost 110.
+5. **The rush:** his mother's birthday is in a week. Tor: "Like the queen's birthday? Do we get that day off?" Rolph chuckles: yes, just like the queen. He needs them fast to catch the **express mail**, three days to the capital.
+6. **Tor decides to do it tonight.** He has money now, so he buys **a hundred copper squares** (five inches on a side) and **acid** for etching at the school store.
+
+**Staging notes** (invented):
+
+- **The queen line is the chapter's biggest piece of dramatic irony.** Rolph's mother is the queen (canon, user). Tor asks the question as a joke; Rolph answers it truthfully, as if joking back. The narration must not wink. This is the strongest hint yet, and it should go past as fast as it can. In rotating third, Rolph's viewpoint must stay on action and word choice (the secret-keeper rule, `AGENTS.md` §3).
+- **Tor's grumpiness is a performance, and a new note for him.** He's teasing Rolph, which he only does with Rolph. It's the clearest sign of their friendship in the chapter, and the reader sees him agree before he says he will (he's already counting squares).
+- **Rolph's pub mood helps.** He's loud, a little merry, delighted with his own salesmanship. His enthusiasm sets up the scale (ten, then a hundred) that Tor takes on alone.
+- **The 110 gold is another escalating number.** Tor, who was offered 2 gold that morning, is handed 55 tonight.
+- **The day names.** The source says "next Friday"; our calendar so far uses numbered days ("fourth day," "fifth day," "rest day"; `canon-notes.md`). Use the numbered form unless the user prefers otherwise.
+
+### The night build, beat by beat
+
+All beats canon (user, October 9, 2026) unless labeled.
+
+1. **The method.** Tor etches the design on the copper with acid. **The sigil is a guide**, not what makes the magic work: he imbues the object with the field's pattern; the sigil keeps his place and shows what the object is for.
+2. **All hundred squares** get the design. Some don't come out perfectly; he decides to **give those away**: to Davie, the laundry, other scholarship students.
+3. **He splits them**: half stay in his room, half go to a school **workroom**.
+4. **Batches of ten**, a couple of hours each, harder and harder to concentrate on: copy work is boring, and it's late.
+
+**Staging notes** (invented):
+
+- **Copying is the opposite of chapter one's trance.** The trance was timeless; copying is counted. Mark it in bells and batches: ten done, the bell, ten more. The boredom is visible: Tor talking to the squares, losing count, a yawn that interrupts a sigil.
+- **The acid and copper are description work**: the green bloom on the metal, the smell, the hiss, stained fingertips, the bright lines where the design bites in.
+- **The giveaways are the copies he promised himself in chapter one**, quietly kept. Davie first. It's his reaction rule in action, and it's unremarked.
+- **The workroom setting** should be empty and cold at that hour, so the walk back through the courtyard is late and dark.
+
+### The courtyard, beat by beat
+
+**Structure** (user, October 9, 2026): we don't yet know what set off Trice's field or why she and Tovey are out so late. The likeliest answer is a **flashback in chapter three** that shows how the fight began. Chapter two **catches the fight mid-action, from Trice's viewpoint, with no cause**: she doesn't know why Tovey is like this, and she never learns that she caused it. In the camera mode, the same section opens on the two figures mid-fight with no lead-in.
+
+All beats canon (user, October 9, 2026) unless labeled.
+
+1. **The numbness.** Walking back with the finished squares in a sack, Tor's leg goes numb, as if he'd sat on it during the build. The numbness spreads. He's afraid he's done something to himself. After a moment of panic he keeps walking, hoping to walk it off.
+2. **A fight in the courtyard.** One figure is **huge** (too dark to see who); the other is smaller and faster (still bigger than Tor) and keeps pointing a **device** at the big one, making him stumble back. The smaller figure has clearly been hit several times; they're staggering as badly as Tor.
+3. **Tor is about to run**, then hears the smaller figure cry out: a girl. He recognizes **Trice's** voice.
+4. **He has to help**, or at least get between them so she can run, even if it costs him a beating. All he can think, staggering toward them, is that she'd better have a good reason to be out fighting this late.
+5. **The big man knocks Trice down** with a punch, sparks flying around him as he advances on her.
+6. **Tor swings the sack of copper squares** at him to distract him, hitting him several times before the man notices and turns.
+7. **The numbness is stronger when the man looks at him.**
+8. **It's Tovey**, Count Thompson. Tovey stops looking at Tor, and attacks. **The chapter ends.** (end point assumed: the summary stops here)
+
+**Staging notes** (invented):
+
+- **The numbness must be shown, not explained.** A leg that doesn't land where he puts it, fingers that won't close on the sack's neck, Tor talking to his own foot. The comedy (blaming himself for sitting wrong) should tip into fear as it spreads.
+- **"She'd better have a good reason" is the one funny line in the scene**, and it's Tor's: he mutters it while lurching toward danger. It's his friend-threatened reaction rule (`tor.md`) arriving in its least heroic form.
+- **The sack of copper is the chapter's thread tied off as a weapon.** Rolph's order, Sara's metal, the night's work: all of it swung at a giant's back. The sound of it should be specific (a flat clank, squares sliding inside).
+- **The sparks and the device** are unexplained magic seen from outside. Don't label them.
+- **Trice's viewpoint is honest.** She can hold the viewpoint without hiding anything from the reader, because she doesn't know about her field. What she sees: Tovey not himself, the numbness she's fighting through, her device, how badly this is going. She can't say why it started (the cause is held for chapter three), so her section begins in motion: mid-strike, mid-stumble.
+- **What's really happening** (canon, user; **not on the page**): the numbness is Tovey's hereditary field, which comes out when a high noble is enraged. Tovey is in a blind rage because Trice's own hidden field, which drives nobles to rage and which she doesn't know she has, triggered. Drafts must be consistent with this without stating it: Tovey's face should look wrong (blank, not angry in his usual way), and his numbing field should be strongest at whoever he's looking at.
+- **The reveal reverses the perception gap.** All book, Tor fears Tovey without cause. Here, for the first time, Tovey attacks him. The reader knows (from chapter one and `tovey.md`) that this isn't who Tovey is, so the reveal should land as wrong, not as confirmation. The numbness getting stronger when Tovey looks at Tor is the clue.
+- **End on the attack beginning**, not on the blow.
+
+### Planning fields
+
+| Field | Entry |
+| --- | --- |
+| Plot beat | Kolb sets Tor a two-week shield assignment that must survive a lethal blow and a cutter for twenty minutes, and sends him on a ten-mile run; Trice and Sara, in the black of the special school, spar with him; a knife at his throat makes him throw out a raw field, which shows him the shield will work and must pass air; next day the building instructor brings in Douglas Sorvey, a dangerous merchant, whom Tor turns down by claiming Sara represents him; that evening Sara and Trice outbid Sorvey for the Debri house and Sara becomes his agent; Rolph orders ten fields for his mother's birthday; Tor etches a hundred copper squares overnight; walking back numb, he finds Trice losing a fight in the courtyard, hits her attacker with the sack, and the attacker, Tovey, turns on him. (canon) |
+| Location | The practice yard (pell, cutter); the road to the nearest town; the building instructor's office; Tor and Rolph's room; the student store; a school workroom; the courtyard at night. (canon; specific rooms assumed) |
+| Narrative mode / POV | Paired drafts, rotating third and camera (`AGENTS.md` §3). Rotating third candidates: Kolb or Sara in the yard; the instructor in the merchant scene; Trice in the visit (word choice only, per the secret-keeper rule); Tor alone for the build and the courtyard. (invented) |
+| Who is present | Yard: Kolb, Trice, Sara, brown-clad students. Office: building instructor, Douglas Sorvey. Afternoon: Kolb. Room: Trice and Sara; later Rolph. Store and workroom: Tor (a clerk, possibly). Courtyard: Trice, Tovey. |
+| What the reader learns | Kolb's casual lethality and his real intent (to make Tor build); shields and cutters exist; Tor can throw out a raw field under stress; Trice and Sara are trained fighters from a special school; Sara's family is the Debri house; the Sorvey family is in trade and dangerous; the drying field has a real market (2, 12, 20, 11 gold); sigils are guides, not the magic; metal and acid etching; Rolph's mother's birthday falls the same week as the queen's; something makes Tor go numb near Tovey. |
+| What stays hidden, and how | The special school is a spy school (nobody explains; the black uniform and dirty fighting are all); Rolph's family is royal (a joke answered truthfully); Douglas is Dorgal's father (common knowledge nobody says aloud); Tor's field is noble-like and controlled (Sara mistakes it for a device; Kolb only laughs); Tovey's numbing rage field and Trice's hidden field that triggered it (chapter cut; nobody understands it on the page); Sorvey's real interest (Tor's refusal ends the scene); the instructor's motive (ambiguous); who gets the 10% (ambiguous dialogue). |
+
+### Open questions for the user
+
+1. ~~The merchant's name.~~ **Douglas Sorvey**, Dorgal's father. Tor doesn't realize it; nobody mentions it because it's common knowledge (answered October 9, 2026).
+2. ~~Tovey's title.~~ Tovey **is** Count Thompson: young, recently inherited when his father died; his mother runs things at the county seat (answered October 9, 2026).
+3. ~~The special school.~~ A spy school with a side of assassination training. **Not revealed at all yet** (answered October 9, 2026).
+4. ~~The courtyard.~~ Tovey's hereditary field causes the numbness. Trice's own hidden field, which drives nobles into a rage and which she doesn't know she has, triggered and sent Tovey into a blind rage (answered October 9, 2026). Chapter two shows none of the explanation.
+5. ~~Rolph's family.~~ Royal; hidden from Tor, hinted to the reader (answered October 9, 2026).
+6. ~~The 10%.~~ Stays unclear who gets it. It's a joke now and a source of tension later (answered October 9, 2026).
+7. ~~The fib to Sorvey.~~ Half fib, half Tor's understanding of what happened at the laundry (answered October 9, 2026).
+8. ~~Tor's raw field.~~ Unusual: it looks like a noble's hereditary field (though he's too small to be a noble), and he controls it on purpose, which very few people have ever shown (answered October 9, 2026).
+9. ~~What triggers Trice's field?~~ Unknown for now; probably established in chapter three by a flashback to how the fight began. Chapter two catches it mid-action, from Trice's viewpoint, with no cause. Whatever the reason they were out, **Trice doesn't know she caused Tovey's rage** (answered October 9, 2026).

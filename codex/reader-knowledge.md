@@ -14,3 +14,20 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | The quality of Tor's work | Nobody comments on it; the instructors' silence | Hears silence; doesn't know his work is better than average | The instructors assume it's top-notch; never said |
 | Expulsion | Tor raises it; others treat it as a poor joke and move on. Nobody says why it isn't a risk. | Believes he might be expelled for missed classes | Everyone else: one builder like him per cohort is a triumph for the school |
 | Tor's mental controls | Nothing yet | Nothing | — |
+
+## Chapter 2
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| Kolb's "revenge" | A build assignment with a deadline; Kolb laughing, delighted the shield will likely work; Trice's report that Kolb told her department head Tor can do it | Believes Kolb may kill him in two weeks | Kolb; Trice and Sara (they overheard him) |
+| Trice and Sara | Black uniforms of a special school; professional fighting, a knife and powder in "unarmed" sparring; a department head of their own. **Nothing more**: that it's a spy school is not revealed. | That they're in black and fight well; doesn't ask why | They do |
+| Tor's raw field | Thrown out by reflex; Sara takes it for a device; Kolb laughs | That it worked and blocked air | Kolb knows it wasn't a device. It looks like a noble's field, and Tor controls it, which almost nobody can; nobody says so in chapter two |
+| The drying field's price | 30 (Sara, chapter one), 2 (Sorvey), 12 or 20 (Sara), 11 (Rolph) | Thinks every offer is generous | Sara, Trice; Sorvey knew he was lowballing |
+| The Sorveys | A dangerous merchant who shares Dorgal's family name | Feels the danger; doesn't connect the name | Everyone else: Douglas is Dorgal's father, common knowledge nobody mentions |
+| The instructor's hint | Suggests paying off the tester after Sorvey is turned down | Thinks it's only fair | The instructor |
+| The girls' visit | Dressed for an evening; the reader can tell they meant to charm him (non-sexual staging) | Notices nothing; assumes they can't be interested in him | Trice and Sara |
+| Asking Tovey or Rolph | Sara names both as people who know where to find her | Thinks asking a count is a cruel joke; doesn't notice Rolph named alongside him | Sara and Trice |
+| Rolph's family | Rolph's mother's birthday is "just like the queen's"; rush by express mail to the capital | Takes it as a joke | Rolph (the family is royal) |
+| The numbness | Spreads as Tor walks; worse when Tovey looks at him | Fears he hurt himself building | Tovey's hereditary field, out because he's enraged; not explained in chapter two |
+| Tovey | Fights Trice at night and attacks Tor | Sees his fear confirmed | Nobody, fully: Trice's field enraged him, and she doesn't know she has it |
+| Tovey's title | A count, young; his mother runs the county seat (may be mentioned) | That he's Count Thompson | Everyone |

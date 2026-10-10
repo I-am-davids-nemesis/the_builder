@@ -7,6 +7,8 @@ Dorgal is the charming rival builder who needs Tor to be beatable, and gradually
 - Full name **Dorgal Sorvey**. (canon, user) Earlier research listed a book 1 bully called "Sorvey"; that is very likely Dorgal, which fits his teasing Tor at the laundry. (assumed; confirm)
 - Wears the school brown cut closer than everyone else's; leans in doorways. (invented; accepted by the user)
 
+- Shares a family name with **Douglas Sorvey**, a dangerous merchant who tries to buy Tor's drying fields (chapter two). So the Sorveys are in trade. (canon, user) **Dorgal is Douglas's son.** (canon, user) It isn't obvious to Tor at all, and nobody else mentions it because it's common knowledge. His "sponsor" in the profile is, at least in part, his father. (assumed)
+
 ## Profile
 
 - **Role:** A gifted, well-connected fellow builder student; the class star until Tor arrives. (assumed)

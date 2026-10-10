@@ -13,6 +13,8 @@ Tor's **building instructor**, who seems to be a **special projects** instructor
 - **Keeps the device** after testing it, and sends Tor to classes with an instruction: explain the previous week's absence as **a building exercise for his class**. (canon, user) It's cover Tor didn't ask for, given as an order; the consideration under it isn't spelled out.
 - **Never comments on the quality of Tor's work.** Like the other instructors, he assumes it's top-notch and doesn't say so. (canon, user)
 
+- **Chapter two:** pulls Tor out of building class to meet **Douglas Sorvey**, a merchant he brought in to "do business" with Tor, in his office. Is clearly **unhappy** when Tor turns Sorvey down. Suggests it isn't a bad idea to **pay off whoever does the testing**; Tor hears a sensible suggestion, not a request for a bribe. (canon, user) Whether he's mercenary, or nudging Tor toward a safe buyer, is open; it's the first time his motive looks plainly bad. (invented)
+
 ## Profile
 
 Personality details (assumed) unless labeled.
