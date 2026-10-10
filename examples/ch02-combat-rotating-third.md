@@ -44,23 +44,25 @@ He hit the pell again. This time Rolph saw the trunk move, a shudder that went d
 
 "No, sir."
 
-"No. Most people haven't." He leaned the waster against the pell, walked to the end of the rack where Rolph stood, and without looking at Rolph took down a long case of oiled leather. He opened it on the sand.
+"No. Most people haven't." He leaned the waster against the pell and unhooked something from his belt. Rolph had seen it hanging there for three years and taken it for a tool: a plain hilt a hand and a half long, wrapped in cord, with a line of small marks running round the guard, too regular to be nicks.
 
-The thing inside was a blade the length of a boy's arm and a half again. Four feet, Rolph thought, near enough. It was gray and plain and unpolished, and it had no edge that Rolph could see. When Kolb tipped the case, the blade turned edge-on to him and simply wasn't there: a hilt, and a long gray nothing, and then, as it tipped back, a blade again. A line of small marks ran down the flat by the hilt, too regular to be nicks.
+Kolb held it out to one side, and there was a blade on it.
+
+It didn't slide out or unfold. It was simply there, the way a thing is there when you turn round and look at it: four feet of dull gray, the length of a boy's arm and a half again. It had no edge that Rolph could see. When Kolb turned his wrist, the blade went edge-on to him and wasn't there at all: a hilt, and a long gray nothing, and then, as the wrist turned back, a blade again.
 
 "Cutter," Kolb said. "You'll have seen pictures."
 
 Tor nodded. He had gone the particular shade of pale that Rolph associated with dinners where there were too many forks.
 
-Kolb took the cutter in both hands, walked to the pell, and swung once, level, without any visible effort at all.
+Kolb walked to the pell with the cutter held loosely in one hand, as if it were a switch for cows, and swung it once, level, the way a man waves off a fly.
 
 There was no sound at all. The blade didn't slow; it went through the oak the way a hand goes through smoke, and came out the other side still traveling, and Kolb let it finish its swing. Nothing else happened, for a moment. Then the top half of the pell, which was taller than Kolb, leaned very slightly to one side, as if it had remembered an appointment, and slid off the bottom half and fell over onto the sand with a thump that Rolph felt in his knees. It rolled a little way and stopped. The cut face was smooth as a tabletop. You could have eaten off it.
 
-"Armor doesn't do much about that," Kolb said. "A shield does, if it's a good one. Most aren't." He wiped the blade on a rag from his belt, though there was nothing on it. "You build things, Baker."
+"Armor doesn't do much about that," Kolb said. "A shield does, if it's a good one. Most aren't." "You build things, Baker."
 
 "Sir, I—a little—"
 
-"I hear you build them very well. I hear it at breakfast whether I want to or not." He laid the cutter back in its case. "So build me a shield. Stops that." He nodded at the waster. "And stops that." The cutter. "Two weeks."
+"I hear you build them very well. I hear it at breakfast whether I want to or not." The blade was gone; Rolph didn't see it go. Kolb hooked the hilt back on his belt. "So build me a shield. Stops that." He nodded at the waster. "And stops that." He tapped the hilt. "Two weeks."
 
 "Yes, sir," Tor said. Then, because he was Tor: "For how long should it stop them, sir?"
 
@@ -80,9 +82,9 @@ Rolph shut his eyes.
 
 "Which is why I'm not asking him to fight me," Kolb said, without turning round. "I'm asking him to build. Different thing. Easier. I've seen him fight." He looked Tor over, the dust on his boots, the tunic, the hands, the way a man looks at a horse he's been told is sound. Rolph could not tell what he saw. "Now. Warm up. Run to town and back."
 
-"Town's ten miles!" said Rolph.
+"Town's five miles!" said Rolph.
 
-"So it's twenty, there and back. Your arithmetic's coming along." Kolb tilted his head at Tor. "What do I always tell you, Baker? About a real fight?"
+"So it's ten, there and back. Your arithmetic's coming along." Kolb tilted his head at Tor. "What do I always tell you, Baker? About a real fight?"
 
 "That I should run away from it, sir."
 
@@ -294,9 +296,9 @@ She sat down on the bench by the water butt. Sara sat beside her.
 
 The account, as far as Trice could total it, came out roughly even, which was itself a loss. She had come into the yard expecting a scholarship boy who'd be grateful for a lesson. She was leaving with a list, a sore shoulder, a question she couldn't put a price on, and a strong sense of owing something to somebody, which she disliked very much.
 
-"Who benefits," she said, half to herself, "from making a boy like that run twenty miles?"
+"Who benefits," she said, half to herself, "from making a boy like that run ten miles?"
 
-"He ran more than twenty," said Sara. "Rolph said there was a mill."
+"He ran more than ten," said Sara. "Rolph said there was a mill."
 
 They sat with that for a while. Neither of them said anything about the sand.
 
@@ -363,10 +365,10 @@ To add to the codex if kept.
 - **The practice yard:** a square of packed sand behind the long hall, weapon racks on three sides, an old wall on the fourth that belonged to something older than the school. A bench by the water butt where the students in black sit.
 - **The pell:** an oak trunk as thick as a man, sunk to half its height; beaten pale and furred at chest height.
 - **Kolb's practice weapon:** a wooden waster about as thick as a fence post.
-- **The cutter:** about four feet of plain, unpolished gray blade, kept in an oiled leather case; a line of small regular marks down the flat by the hilt (sigils; unexplained on the page). Turned edge-on, the blade vanishes. Cuts in silence, without slowing. That a cutter is magic (an infinitely thin blade that passes through any physical thing without resistance) is canon (user); the page shows it rather than explains it.
+- **The cutter:** a plain cord-wrapped hilt a hand and a half long, which Kolb wears on his belt every day (Rolph took it for a tool for three years); a line of small regular marks round the guard (sigils; unexplained on the page). The four-foot blade of dull gray is simply there when he wants it and gone when he doesn't; no sheath. Turned edge-on, the blade vanishes. Cuts in silence, without slowing. That a cutter is magic (an infinitely thin blade that passes through any physical thing without resistance) is canon (user); the page shows it rather than explains it.
 - **Kolb's run:** students run to the town well and slap the stone before turning back; they "can't lie to Kolb." Kolb smiles rarely and has never been heard to laugh aloud (Sara).
 - **Kolb punishes Rolph** with two hundred cuts at the pell's remains, for speaking twice.
-- **The town is Hollin**, ten miles from the school down a long slope; it has a square, a well, a pump, a chandler's, and a mill road out the far side. From the road, the school's bell tower stands on the ridge "like a finger."
+- **The town is Hollin**, five miles from the school (ten there and back) down a long slope; it has a square, a well, a pump, a chandler's, and a mill road out the far side. From the road, the school's bell tower stands on the ridge "like a finger."
 - **The old marker stone** a mile short of Hollin: gray, smoother than stone should be, with letters nobody can read (post-collapse texture).
 - **The east road** into the trees goes toward Two Rivers: four days on foot.
 - **The carter:** a woman who has carted cabbages into Hollin for nineteen years; her near wheel squeals. Unnamed.

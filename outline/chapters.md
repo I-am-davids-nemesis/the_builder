@@ -248,7 +248,7 @@ All beats canon (user, October 9, 2026) unless labeled.
 1. **Kolb at the pell.** Kolb is in the practice yard hitting a **pell** (a great log buried halfway in the ground) so hard everything seems to shake. He's surprisingly relaxed with Tor.
 2. **The demonstration.** Kolb tells Tor a single blow like that could kill someone without armor or a magical shield field device. Then he draws a **cutter**, not a small tool but a **four-foot blade**, and slices cleanly through the pell.
 3. **The assignment.** Two weeks to build a new shield that withstands **both** kinds of attack (the blow and the cutter) for **at least twenty minutes**.
-4. **The warm-up.** Kolb sends Tor to run to the nearest town and back, about **ten miles**. Tor doesn't mind: Kolb always tells him his best way to survive a fight is to run away.
+4. **The warm-up.** Kolb sends Tor to run to the nearest town and back: **five miles** each way, **ten** in all. Tor doesn't mind: Kolb always tells him his best way to survive a fight is to run away.
 5. **The run.** Tor is low, and thinks about leaving school, then loses himself in the shield problem and runs an extra half hour out before turning back, faster.
 6. **Back at the yard:** students in the usual brown, and **two in black**, which marks students of the **special school**. They turn out to be **Trice and Sara**.
 7. **Sparring, unarmed.** Kolb assigns them to spar with Tor. Trice first: she goes straight for a kick to the groin. Tor dodges, but he can't run, because he's been assigned to spar. She's skilled, especially at kicks, but tries a showy **spinning wheel kick**; Tor gets inside it and takes her to the ground.
@@ -262,7 +262,7 @@ All beats canon (user, October 9, 2026) unless labeled.
 **Staging notes** (invented):
 
 - **The open is a fake-out.** Chapter one ended on dread. Chapter two opens on Kolb being pleasant, which is worse. Let him be chatty, even friendly, while explaining how easily he could kill a person. The bigger the pell's shudder, the calmer his voice.
-- **The cutter is description work.** It's magic: an infinitely thin blade that passes through any physical thing without resistance (canon, user). Show it, don't explain it: the blade vanishing when it turns edge-on, the swing that doesn't slow, no sound, the mirror-smooth cut face, the top half sliding off a moment later. Give the reader the object Tor will have to stop.
+- **The cutter is description work.** It's magic: an infinitely thin blade that passes through any physical thing without resistance (canon, user). Show it, don't explain it: a bare hilt on Kolb's belt, the blade simply there when he wants it (no sheath, no wiping), the blade vanishing when it turns edge-on, the swing that doesn't slow, no sound, the mirror-smooth cut face, the top half sliding off a moment later. Give the reader the object Tor will have to stop.
 - **The twenty minutes is the joke's punchline.** Kolb says it last, like an afterthought. Tor's reply should be courteous and appalled (`tor.md`: threatened → extra courtesy).
 - **Ten miles is home ground.** Kolb sends it as punishment; Tor treats it as the one part of combat he's good at. Kolb's own advice (run away) said back to him, or about to be, is the joke. Someone, Kolb or a classmate, should notice he's not suffering.
 - **The run is where the despair goes.** We don't narrate Tor's thoughts, so the low point shows outside: he slows at a milestone on the road, looks back toward the school, then starts muttering about fields and doesn't notice the town go by. The extra half hour is seen from the turnaround: he's well past where he should have turned. He comes back faster, which says the mood broke.
@@ -278,9 +278,9 @@ All beats canon (user, October 9, 2026) unless labeled.
 
 All beats canon (user, October 9, 2026) unless labeled.
 
-1. **Pulled from class.** Next day, Tor's building instructor pulls him out of building class and takes him to his office, where a **dangerous-seeming merchant** is waiting: **Douglas Sorvey** (same family name as Dorgal). (spelling assumed; the user wrote "Sorve")
+1. **Pulled from class.** Next day, Tor's building instructor pulls him out of building class and takes him to his office, where a **dangerous-seeming merchant** is waiting: **Douglas Sorvey**, Dorgal's father, though Tor doesn't know it.
 2. **The offer:** **two gold** for each clothes drying device Tor can produce.
-3. **Tor hides behind Sara**, saying he's already agreed to have Sara represent him. (He hasn't yet; she makes it true that evening.)
+3. **Tor hides behind Sara**, saying he's already agreed to have Sara represent him. (Half fib, half his reading of the laundry; she makes it true that evening.)
 4. **Sorvey is agreeable**, and offers to pay for any new projects Tor comes up with.
 5. **Tor can feel how dangerous the man is** and is reluctant to deal with him.
 6. **Sorvey leaves his card** and takes his leave.

@@ -44,7 +44,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Soap** is a gray, cracked lump that smells of ash; Tor buys his (likely at the student store). (invented; accepted by the user)
 - There is a **practice yard** for combat, with a **pell** (a great log buried halfway in the ground) for striking practice. (canon, user, chapter two)
 - Students of the **special school** wear **black** instead of brown. Trice and Sara are among them; they have a department head of their own. What the special school is has not been stated. (canon, user, chapter two)
-- The **nearest town** is about **ten miles** from the school by road; Kolb sends students to run there and back. (canon, user, chapter two)
+- The **nearest town** is about **five miles** from the school by road; Kolb sends students to run there and back, **ten miles** in all. (canon, user, chapter two)
 - The **student store** sells **copper squares** (five inches on a side) and **acid** for etching. (canon, user, chapter two)
 - **Express mail** reaches the capital in **three days**. (canon, user, chapter two)
 - The **queen's birthday** is celebrated; Tor wonders whether students get the day off. (canon, user, chapter two)
@@ -66,7 +66,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Distinguishing living from non-living tissue** is one of the fundamental parts of a builder's education. (canon, user)
 - **Using the drying field:** Tor starts it by touching the center of the sigil. Water wells out of the weave in beads and runs off the cloth onto the floor; the cloth is left dry and slightly stiff. Clothes on people within range dry too (Davie's wet sleeves). (invented; accepted by the user)
 - **Copying in practice:** Tor and Rolph's door lock is a copy Tor made from the lock on Rolph's lockbox. It identifies the room's occupants and magically lifts a simple door bar on the inside. (canon, user, chapter one)
-- **Shields and cutters.** Magical **shield field devices** protect against blows; a strong blow can kill someone who has neither armor nor a shield. A **cutter** is a magic weapon: a **four-foot**, **infinitely thin blade** that passes through any physical thing **without resistance**, cutting it apart. Kolb slices a pell clean through with one. (canon, user, chapter two) Armor is useless against it; only a field can matter.
+- **Shields and cutters.** Magical **shield field devices** protect against blows; a strong blow can kill someone who has neither armor nor a shield. A **cutter** is a magic weapon: a **four-foot**, **infinitely thin blade** that passes through any physical thing **without resistance**, cutting it apart. The blade **extends instantly from the handle** and is gone when not in use, so it needs **no sheath**, and it never needs wiping. Kolb slices a pell clean through with one. (canon, user, chapter two) Armor is useless against it; only a field can matter.
 - **The sigil is a guide, not the magic.** The builder imbues the object with the field's pattern; the sigil helps him keep his place and makes clear what the object is for. (canon, user, chapter two)
 - **Metal focuses.** Designs can be **etched in copper with acid**. A drying field on a metal plate is worth more than one on wood (Sara: 20 gold vs. 12). (canon, user, chapter two)
 - **Copy work is slow and tiring.** Tor copies the drying field in **batches of ten**, a couple of hours per batch, and it gets harder to concentrate as the work bores him and the night gets late. (canon, user, chapter two)

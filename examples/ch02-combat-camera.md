@@ -42,21 +42,23 @@ He hit it again. The trunk shuddered, all the way down into the ground. At the r
 
 "No. Most people haven't."
 
-He leaned the waster against the pell, walked to the end of the rack where Rolph stood, and took down a long case of oiled leather without looking at him. He opened it on the sand. Inside lay a blade about four feet long, gray, plain, unpolished. As Kolb lifted the case, the blade turned edge-on toward the gate and vanished: a hilt, and nothing, and then, as the case tipped back, a blade again. A line of small regular marks ran down the flat near the hilt.
+He leaned the waster against the pell and unhooked something from his belt: a plain hilt a hand and a half long, wrapped in cord, with a line of small regular marks round the guard. He held it out to one side.
+
+There was a blade on it. It didn't slide out; it was simply there, four feet of dull gray. As Kolb turned his wrist, the blade went edge-on toward the gate and vanished: a hilt, and nothing, and then, as the wrist turned back, a blade again.
 
 "Cutter," said Kolb. "You'll have seen pictures."
 
 Tor nodded. His face had lost most of its color.
 
-Kolb took the cutter in both hands, walked to the pell, and swung once, level, with no visible effort.
+Kolb walked to the pell with the cutter held loosely in one hand and swung it once, level, the way a man waves off a fly.
 
 There was no sound. The blade went through the oak without slowing and came out the other side, and Kolb let it finish its swing. For a moment nothing else happened. Then the top half of the pell, taller than Kolb, leaned a little to one side, slid off the bottom half, and fell onto the sand with a thump. It rolled a short way and stopped. The cut face was smooth as a tabletop.
 
-"Armor doesn't do much about that," Kolb said. "A shield does, if it's a good one. Most aren't." He wiped the clean blade on a rag from his belt. "You build things, Baker."
+"Armor doesn't do much about that," Kolb said. "A shield does, if it's a good one. Most aren't." "You build things, Baker."
 
 "Sir, I—a little—"
 
-"I hear you build them very well. I hear it at breakfast whether I want to or not." He laid the cutter back in its case. "So build me a shield. Stops that." The waster. "And stops that." The cutter. "Two weeks."
+"I hear you build them very well. I hear it at breakfast whether I want to or not." The blade was gone. He hooked the hilt back on his belt. "So build me a shield. Stops that." The waster. "And stops that." He tapped the hilt. "Two weeks."
 
 "Yes, sir." Then: "For how long should it stop them, sir?"
 
@@ -76,9 +78,9 @@ At the rack, Rolph shut his eyes.
 
 "Which is why I'm not asking him to fight me," Kolb said, without turning. "I'm asking him to build. Different thing. Easier. I've seen him fight." He looked Tor up and down: boots, tunic, hands. "Now. Warm up. Run to town and back."
 
-"Town's ten miles!" said Rolph.
+"Town's five miles!" said Rolph.
 
-"So it's twenty, there and back. Your arithmetic's coming along." Kolb tilted his head. "What do I always tell you, Baker? About a real fight?"
+"So it's ten, there and back. Your arithmetic's coming along." Kolb tilted his head. "What do I always tell you, Baker? About a real fight?"
 
 "That I should run away from it, sir."
 
@@ -264,9 +266,9 @@ He walked off toward the dormitory arch, a little stiffly, talking under his bre
 
 Trice sat down on the bench by the water butt. Sara sat down beside her.
 
-"Who benefits," said Trice, "from making a boy like that run twenty miles?"
+"Who benefits," said Trice, "from making a boy like that run ten miles?"
 
-"He ran more than twenty," said Sara. "Rolph said there was a mill."
+"He ran more than ten," said Sara. "Rolph said there was a mill."
 
 Neither of them said anything else. They sat on the bench and looked at the ring in the sand, which nobody had raked.
 
