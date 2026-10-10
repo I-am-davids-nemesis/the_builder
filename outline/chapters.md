@@ -262,7 +262,7 @@ All beats canon (user, October 9, 2026) unless labeled.
 **Staging notes** (invented):
 
 - **The open is a fake-out.** Chapter one ended on dread. Chapter two opens on Kolb being pleasant, which is worse. Let him be chatty, even friendly, while explaining how easily he could kill a person. The bigger the pell's shudder, the calmer his voice.
-- **The cutter is description work.** Four feet of blade, the sound it makes, the clean cut face of the pell, the top half sliding off. Give the reader the object Tor will have to stop.
+- **The cutter is description work.** It's magic: an infinitely thin blade that passes through any physical thing without resistance (canon, user). Show it, don't explain it: the blade vanishing when it turns edge-on, the swing that doesn't slow, no sound, the mirror-smooth cut face, the top half sliding off a moment later. Give the reader the object Tor will have to stop.
 - **The twenty minutes is the joke's punchline.** Kolb says it last, like an afterthought. Tor's reply should be courteous and appalled (`tor.md`: threatened → extra courtesy).
 - **Ten miles is home ground.** Kolb sends it as punishment; Tor treats it as the one part of combat he's good at. Kolb's own advice (run away) said back to him, or about to be, is the joke. Someone, Kolb or a classmate, should notice he's not suffering.
 - **The run is where the despair goes.** We don't narrate Tor's thoughts, so the low point shows outside: he slows at a milestone on the road, looks back toward the school, then starts muttering about fields and doesn't notice the town go by. The extra half hour is seen from the turnaround: he's well past where he should have turned. He comes back faster, which says the mood broke.
