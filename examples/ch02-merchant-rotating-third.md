@@ -6,7 +6,7 @@
 
 ## Dorgal
 
-The building room was the long one on the north side, where the light came in flat and even all morning and the benches were scarred by forty years of other people's mistakes. Twenty of them sat at it in two rows, copying lamp-squares. It was the second week of lamp-squares. There would be a third.
+The building room was the long one on the north side, where the light came in flat and even all morning and the benches were scarred by forty years of other people's mistakes. The morning after the sand, twenty of them sat at it in two rows, copying lamp-squares. It was the second week of lamp-squares. There would be a third.
 
 Dorgal had laid out his three pens in a row and was using the middle one. Across the aisle and one bench down, Baker was using whatever pen had come to hand, and was holding it, Dorgal noticed, rather carefully, because there was a bruise on the back of that hand the size and color of a plum. He moved like an old man when he reached for the ink. He had moved like an old man coming in, too, and two of the second-years at the back had made a little show of flinching away from him, and Baker had apologized to them.
 

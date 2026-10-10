@@ -1,0 +1,11 @@
+# Minor characters
+
+Walk-on characters from the drafts, too small for their own file. All (invented; accepted by the user) unless labeled.
+
+| Character | Where | What's fixed |
+| --- | --- | --- |
+| **The first-year** (unnamed) | Building master's office, chapters one and two | Always late with his lamp-square copy-work (three days, then four). Witnessed the dunking ("you *drowned* him"). Frightened of Douglas Sorvey on sight; overhears the testing hint with both hands over his mouth, and tells half the school about Sorvey's visit, including "failures included." Tor greets him warmly as an old acquaintance. |
+| **The carter** (unnamed) | The Hollin road, chapter two | A woman who has carted cabbages into Hollin for nineteen years; her near wheel squeals. Finds Kolb's runners the best entertainment on the road. Offers Tor a ride, tells him Two Rivers is four days east, and keeps a cabbage for him that she ends up eating herself. |
+| **The storekeeper** (unnamed) | The student store, chapter two | Has kept the store thirty-one years; sleeps in the back; nightcap and slippers. Opens after the ninth bell for Tor's polite knocking; briefly considers calling the watch when the boy pays in gold, then looks at his face. Counts change twice, as Tor does. |
+| **Hob** | The kitchens | His mother takes in laundry in Hollin; gets one of Tor's crooked drying fields. |
+| **Abel** | The Sorvey carriage | Douglas Sorvey's coachman; broad, brown coat, newly bearded. Dorgal knows him by name. |

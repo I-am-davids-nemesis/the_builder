@@ -31,3 +31,6 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | The numbness | Spreads as Tor walks; worse when Tovey looks at him | Fears he hurt himself building | Tovey's hereditary field, out because he's enraged; not explained in chapter two |
 | Tovey | Fights Trice at night and attacks Tor | Sees his fear confirmed | Nobody, fully: Trice's field enraged him, and she doesn't know she has it |
 | Tovey's title | A count, young; his mother runs the county seat (may be mentioned) | That he's Count Thompson | Everyone |
+| The sigil | Dorgal's perfect copy does nothing; Tor's finger wanders off the line and it works anyway; "it's like a recipe" | That the sigil only keeps his place; doesn't know others think otherwise | Dorgal now knows; the reader sees what it costs him |
+| Dorgal and Douglas | Dorgal splits a nib at the Sorvey mark, knows the coachman's name; "He isn't. Particularly." | Nothing | Dorgal; everyone else (common knowledge) |
+| The fight's cause | Rotating third: Trice is mid-fight and doesn't know why; camera: two figures in the dark until the moon comes out | Only that Tovey attacked Trice and then him | Nobody on the page; held for a chapter-three flashback |

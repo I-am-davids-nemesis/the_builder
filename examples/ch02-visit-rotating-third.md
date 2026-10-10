@@ -6,7 +6,7 @@
 
 ## Petra
 
-He'd gone out at the first bell after lunch and he came back with the sun in the gate.
+Baker had gone out at the first bell after lunch and he came back with the sun in the gate.
 
 Petra was the only one still in the yard, because Kolb had kept her back to work on her guard, and because, if she was honest, she'd wanted to see whether he came back at all. Thirty miles. Kolb had said it the way he said everything, as if it were the weather, and the whole yard had gone quiet, and Baker had said, "Yes, sir," and gone. Three times to Hollin and back. Somebody had laid a bet he'd be found asleep in a ditch. Somebody else had laid a bet he'd keep going and never stop, all the way home to wherever it was he came from, and Petra had thought that was unkind, and also not impossible.
 

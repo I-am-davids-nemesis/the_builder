@@ -15,6 +15,8 @@ Patricia sees the political board more clearly than anyone Tor's age, and she ca
 - Comes to Tor's room with Sara, dressed for an evening, to steer him away from the Sorvey house and toward the Debri house. Delivers the joke that the school rarely kills students because it's bad for enrollment. (canon, user, chapter two; our wording to be written)
 - At night she's in the courtyard **fighting Tovey** with a device that makes him stumble back; she's losing, and Tovey knocks her down. (canon, user, end of chapter two) Why she and Tovey are out so late, and what set off her field, is not yet decided; probably shown in a chapter-three flashback. Whatever the reason, **she doesn't know she caused his rage.** (canon, user) Chapter two shows the fight mid-action from her viewpoint, with no cause.
 
+- **From the chapter two drafts** (invented; accepted by the user): opens against boys with a groin kick "because it saved time"; gets showy when cross; carries a small black-handled knife and a pouch of white powder; treats "unarmed" as advice. Keeps a mental list of an opponent's habits, and an "account" of who owes what. Takes her **hair down** perhaps twice a term, never without a reason; her hair is **dark** and falls past her shoulders. Deflects "Your department?" with "Mm." Our version of the enrollment joke: "the school doesn't kill students. Hardly ever. They're paid by the head." On the Sorveys: "They buy early, and then they own the stable." On Tovey: he'd be delighted to be asked, and "bring a lantern." Carries a pushing rod (see `canon-notes.md`).
+
 ## Profile
 
 - **Role:** A sharp noble student fluent in court maneuvering; Tor's guide to power and occasionally its instrument. (assumed)

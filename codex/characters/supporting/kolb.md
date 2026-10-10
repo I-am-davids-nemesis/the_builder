@@ -17,6 +17,8 @@ Named **Kolb** (canon, user; earlier notes called him "Carl"). **Head instructor
 - Talks with the **head of the special school's department** about Tor; tells him Tor can do it, or he wouldn't have set the task (as overheard by Trice). (canon, user)
 - His "revenge" turns out to be a build assignment. That leans the hidden aspect toward training, though Tor still hears it as a death threat. (invented reading)
 
+- **From the chapter two drafts** (invented; accepted by the user): wears the cutter's hilt on his belt every day. Smiles rarely; Sara has never heard him laugh aloud until the sparring. Punishes Rolph with two hundred cuts at the pell for speaking twice. Watches Tor leave on the run and says "Nice and loose" to nobody. Calls Trice and Sara "Black." Keeps Petra back late to work on her guard. "That's my homework you're complaining about."
+
 ## Profile
 
 - **Role:** A retired soldier who judges students only by what they can actually do. (assumed)

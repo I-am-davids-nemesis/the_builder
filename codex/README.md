@@ -10,7 +10,7 @@ Split from `builder_handoff.md` (October 9, 2026). Where the two disagree, the c
 | --- | --- |
 | `canon-notes.md` | Verified facts about the book, world and magic, with sources; the canon-vs-assumed table |
 | `characters/` | One file per main character: Tor, Rolph, Patricia, Sara, Dorgal, Tovey |
-| `characters/supporting/` | One file per supporting character |
+| `characters/supporting/` | One file per supporting character; walk-ons in `minor-characters.md` |
 | `places.md` | Each setting and the tension it squeezes |
 | `voice-tests.md` | One situation, every character present |
 | `tension-ledger.md` | What each book resolves and leaves open |

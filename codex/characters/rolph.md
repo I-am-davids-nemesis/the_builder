@@ -22,6 +22,8 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - **Chapter two:** comes back late from the **pub** saying people are very interested in the drying device. Wants **ten** for his mother to give her friends, to help sales; offers **55 gold** up front (half of 110). His mother's **birthday is in a week**; when Tor asks if that's like the queen's birthday and whether they get the day off, Rolph laughs and says yes, just like the queen. Needs them for the **express mail** (three days to the capital). (canon, user)
 - Tor teases him by playing grumpy about the order; Rolph is the one person Tor teases. (invented reading)
 
+- **From the chapter two drafts** (invented; accepted by the user): his lockbox opens to his flat hand on the lid. Keeps his chapter-one promise of liniment (camphor and something green). When Tor asks whether the push with the sand was wrong, Rolph's hands stay on Tor's back a moment too long (he knows what a noble field looks like; hinted by action only). Comes back from the Barrow loud and triumphant. "It's how friendship works among merchants." Laughs at the queen line "a little longer than the joke was worth"; slips once: "every great house in the—everyone who matters." Watches Tor sort out the crooked squares to give away and says nothing.
+
 ## Profile
 
 - **Role:** Tor's closest friend and roommate; supposedly from a merchant family. His mother, Connie, takes an interest in Tor. (Connie and roommate are canon; the rest is assumed)

@@ -9,6 +9,9 @@ A merchant who feels dangerous to Tor before he's said anything dangerous.
 - Offers **two gold** per clothes drying device, and to pay for any new projects Tor comes up with. Agreeable when Tor says Sara represents him. Leaves his **card** for future contact. (canon, user)
 - **Tor can feel that he's dangerous.** (canon, user)
 
+- **From the chapter two drafts** (invented; accepted by the user): not especially tall, but takes up a room when he stands; broad hands with flattened knuckles under three rings; gray gloves; makes no sound walking on boards; sits facing the door. Notices how people enter rooms (Tor stops two steps inside the door, "where men stopped who had been in rooms with him before"). Had Tor "described at length, over two dinners." Tested the field himself on his handkerchief. Offers to pay for new projects "before they're made… failures included." Asks Tor who taught him to read a room. Finds he likes the boy, "a rare and slightly unpleasant feeling."
+- **The Sorvey mark** is a ring of knotted rope with a letter inside it, on heavy cream cards and on the door of a plain black carriage drawn by grays. The coachman is **Abel**, broad, in a brown coat. (invented; accepted by the user)
+
 ## Profile
 
 All (invented) unless labeled.

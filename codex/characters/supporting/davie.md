@@ -10,6 +10,8 @@ The first minor character the reader meets: a young noble discovering, at the la
 - He meets Tor about **a third of the way into chapter one**, when the drying field is first tested. (canon, from the user)
 - He **doesn't know laundry takes soap.** He can't understand why his water won't suds up when he can see Tor's doing it. Tor teaches him basic laundry and lends him soap. (canon, from the user)
 
+- Gets the first of Tor's crooked copper drying fields: "He can't keep his shirts dry, he's got no idea, it's awful." (chapter two) (invented; accepted by the user)
+
 ## Profile
 
 - **Role:** First minor character on stage; the first real person Tor's magic touches, and so the first link in the book's engine (`outline/chapters.md`). Later, possibly the school's best source of gossip. (gossip role assumed)

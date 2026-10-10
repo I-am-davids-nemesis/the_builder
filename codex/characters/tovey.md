@@ -16,6 +16,8 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
 - Sara names him (with Rolph) as someone who knows where to find her and Trice. Tor thinks asking a count to carry a message for him is a cruel joke. (canon, user, chapter two)
 - **Attacks Trice in the courtyard at night**, sparks flying around him, and knocks her down; when Tor hits him with a sack of copper squares, he turns and attacks Tor. Tor's numbness grows stronger when Tovey looks at him. (canon, user, end of chapter two) **Why:** Trice's own hidden field drove him into a blind rage (`patricia.md`); something triggered it that night. (canon, user) The numbness is his field, which is why it's strongest when he looks at Tor. The reader isn't told any of this in chapter two.
 
+- **From the chapter two drafts** (invented; accepted by the user): when he's ordinarily angry it's "a frown and three cold words." In the rage his face is empty, "a face with nobody standing behind it," and sparks come off him. His friends at the Barrow argue that Tor should sell to them first because Tovey asked first.
+
 ## Profile
 
 - **Role:** Count Thompson, newly inherited, and the student the rest of the school takes its cues from. (canon)

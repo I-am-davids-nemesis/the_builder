@@ -15,6 +15,8 @@ Tor's **building instructor**, who seems to be a **special projects** instructor
 
 - **Chapter two:** pulls Tor out of building class to meet **Douglas Sorvey**, a merchant he brought in to "do business" with Tor, in his office. Is clearly **unhappy** when Tor turns Sorvey down. Suggests it isn't a bad idea to **pay off whoever does the testing**; Tor hears a sensible suggestion, not a request for a bribe. (canon, user) Whether he's mercenary, or nudging Tor toward a safe buyer, is open; it's the first time his motive looks plainly bad. (invented)
 
+- **From the chapter two drafts** (invented; accepted by the user): students call him the **building master**. Calls Sorvey "one of the biggest buyers in the north" who "came here because I asked him to." Gives the testing hint without naming himself; when Tor asks, "Who does the testing, sir?", his long silence could be pain or a strangled laugh, and nobody can tell. Sends the first-year's lamp-squares back: "Again. The cross is crooked."
+
 ## Profile
 
 Personality details (assumed) unless labeled.

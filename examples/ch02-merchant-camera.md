@@ -4,7 +4,7 @@
 
 ---
 
-The building room ran along the north side of the hall, and the morning light came in flat and even across two rows of scarred benches. Twenty students sat at them, copying lamp-squares: a circle, a cross, a little hooked line, forty times over.
+The building room ran along the north side of the hall, and the morning light came in flat and even across two rows of scarred benches. The next morning, twenty students sat at them, copying lamp-squares: a circle, a cross, a little hooked line, forty times over.
 
 Dorgal had three pens laid out in a row and was using the middle one. Across the aisle and one bench down, Tor held his pen carefully. There was a bruise on the back of his hand the size and color of a plum. When he reached for the ink, he did it slowly, like an old man.
 

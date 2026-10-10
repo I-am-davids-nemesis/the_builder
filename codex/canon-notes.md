@@ -52,6 +52,19 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - There are school **workrooms** where students can build, apart from the isolation chambers. (canon, user, chapter two)
 - There is a **washing area** with washing tubs; the laundry scene and the instructor's test both happen there. (canon, user)
 
+### From the chapter two drafts (invented; accepted by the user)
+
+- **The practice yard** lies behind the long hall: packed sand the color of old bread, weapon racks on three sides, and on the fourth a wall that belonged to something older than the school. Students in black sit on the bench by the water butt. The pell is an oak trunk as thick as a man; Kolb's cut one is replaced the next day with a fresh trunk in the same hole. Kolb's practice weapon is a wooden **waster** about as thick as a fence post; the punishment bar is iron, as long as a waster and as thick as a broom handle.
+- **Kolb's runners** go to the well in Hollin and slap its stone before turning back, because they can't lie to Kolb about it. The stone is polished on one side by their hands.
+- **The building room** is the long one on the north side, with flat, even morning light and benches scarred by forty years of mistakes; about twenty students. **Lamp-squares** are the standard copy-work (a circle, a cross and a little hooked line); the class is in its second week of them.
+- **The building master** (what students call the building instructor): long, gray, folded; an apron over his tunic and a magnifier on a cord; inspects work by tipping it to the window. His office smells of linseed and cold ashes. (Appearance from the chapter one drafts.)
+- **Porters** wear gray; a lamp burns at the **porters' lodge** by the gate at night.
+- **The student store** closes at the **ninth bell**. Its storekeeper has kept it thirty-one years and sleeps in the back. A five-inch copper square costs **three copper**; etching acid comes in stoppered, waxed stone jars; he also sells a lead-lined basin, tongs, rags and oiled gloves.
+- **The workroom on the east stair** has the only stove that draws; it's empty at night.
+- **The Barrow** is the pub down the hill where students drink.
+- **House Calder** is a noble house with a son at the school (not the House B placeholder unless the user decides so).
+- Tor and Rolph's room is the **fourth door on the top corridor** of the dormitory. The door bar lifts by itself for its occupants from inside as well as outside.
+
 ## How magic works
 
 - **Copying** from a template: about 1 in 60 people can do it, even untrained. Copy work runs the realm's infrastructure.
@@ -73,6 +86,16 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Tor can throw out a raw field** under stress, with no device: it pushes everything away from his body, blocks a knife and powder, and also blocks air. Sara takes it for a shield device. (canon, user, chapter two) It **looks like a noble's hereditary field**, though Tor is too small to be a noble, and **he controls it on purpose**, which very few people have ever shown. (canon, user) Nobody explains this to Tor in chapter two.
 - **New magic as prestige:** among nobility, having new magic before anyone else is a mark of significant prestige. (canon, user, chapter one)
 
+### Magic details from the chapter two drafts (invented; accepted by the user)
+
+- **The cutter** is carried as a bare **cord-wrapped hilt** a hand and a half long, with a line of small regular marks around the guard. Kolb wears his on his belt every day; Rolph took it for a tool for three years. The four-foot blade is dull gray, simply there when wanted and gone when not; seen edge-on it vanishes. It cuts in silence, without slowing, and can be swung one-handed like a switch.
+- **The drying field's sigil** has a hook at the lower left, a doubled crossing near the center, and something like a fishbone along the top edge.
+- **Etching:** the pattern is drawn on the copper in a waxy resist; the acid fizzes on bare metal and leaves the lines; the squares are rinsed in a jug. The smell is like a copper kettle boiled dry, or a cut penny. Faults: acid creeping under the wax (a wide, furry line), or a corner of the pattern not taking.
+- **How Tor copies:** hand flat over the square, eyes half closed, lips moving; he traces the etched line with one finger like a child tracing letters, and it still works when his finger wanders off the line. "It's like a recipe. You don't need it to make the bread. It just helps if you're doing forty loaves."
+- **How Dorgal was taught:** build the idea clear and whole, then press it into the board "through the sigil, the way you press a seal into wax." His perfect painted copy, drawn from memory, does nothing.
+- **Trice's device:** a rod about the length of her hand with a thumb catch; each press bucks and pushes the target back several steps with a dull *whump*. It has a few charges. Built "for getting away from someone." Unnamed and unexplained on the page.
+- **Tovey's rage, from outside:** blue-white sparks crackle off his hair and shoulders and light the stones; his face goes empty. His numbing field feels like cold going through you "like water through cloth"; hands go dull as if through three pairs of gloves, legs go first; it's worst at whoever he looks at and eases an inch when he looks away.
+
 ## Tor's first project
 
 A field on a pine square, a hand across, painted in cheap blue house paint, that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent **thirty hours** in trance (duration decided by the user) from late on fourth day to dawn on the rest day, missing all of fifth day's classes, including one afternoon of combat (timing invented to fit); it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
@@ -83,7 +106,9 @@ A **food drying field**: the drying field adapted to fruit and vegetables, again
 
 ## Tor's third project: the shield (chapter two)
 
-Set by Kolb: a **shield** that withstands **both** a lethal blow and a cutter for **at least twenty minutes**, due in **two weeks**. Kolb will test it on Tor himself. Tor's raw field in sparring shows it can work, and that it must **let air in but keep dust out**. (canon, user)
+Set by Kolb: a **shield** that withstands **both** a lethal blow and a cutter for **at least twenty minutes**, due in **two weeks**. Kolb will test it on Tor himself. Tor's raw field in sparring shows it can work, and that it must **let air in but keep dust out**. (canon, user) His first principle, from watching a carter's knife cut a cabbage stalk: a blow is a weight that can be spread, but an edge is a line that can't, so the field should **turn** a cut rather than stop it. (invented; accepted by the user)
+
+**Tor's field, seen from outside** (invented; accepted by the user): sand slides away from him in a ring with a hiss; Trice is pushed back an arm's length; the knife stops a hand's breadth from his throat; thrown powder clings to the outside in the shape of an egg. He uses it once and not again that afternoon.
 
 ## The drying field as a product (chapter two)
 
@@ -94,6 +119,8 @@ Set by Kolb: a **shield** that withstands **both** a lethal blow and a cutter fo
 | 55 gold up front for 10 (110 total) | Rolph, for his mother's birthday | Rush, by express mail | Grumbles; makes a hundred that night |
 
 (canon, user) Sara's chapter-one appraisal was 30 gold each.
+
+In the drafts (invented; accepted by the user): Rolph's 11 a board is his "friend price," "one gold off for friendship." Pub talk has a fifth-year's father offering forty. Sara's terms are "ten in the hundred, on everything sold," with her doing the selling, carting and arguing; neither she nor Tor says who gets the ten. Rolph's mother's birthday is **fifth day next week**. Tor etches all hundred squares and builds fifty that night (Rolph's ten first); fifty wait on the desk. The five or six crooked ones go to **Davie**, the **washing house** (for the sheets), **Hob** in the kitchens, and the **scholarship boys in the east wing**.
 
 ## Characters mentioned in canon
 

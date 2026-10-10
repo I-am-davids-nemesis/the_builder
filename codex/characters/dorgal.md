@@ -9,6 +9,8 @@ Dorgal is the charming rival builder who needs Tor to be beatable, and gradually
 
 - Shares a family name with **Douglas Sorvey**, a dangerous merchant who tries to buy Tor's drying fields (chapter two). So the Sorveys are in trade. (canon, user) **Dorgal is Douglas's son.** (canon, user) It isn't obvious to Tor at all, and nobody else mentions it because it's common knowledge. His "sponsor" in the profile is, at least in part, his father. (assumed)
 
+- **From the chapter two drafts** (invented; accepted by the user): lays out three pens and uses the middle one; splits a nib when he sees his father's mark on a card. Knows the Sorvey coachman by name. Teases Tor: "Off to be dunked again, Baker? Do try to float this time." Says "Interesting" to every version of the sand story. Works alone at night in the east-stair workroom on a perfect painted copy of the drying field that does nothing; hides it under a cloth when Tor comes in. Asked if he knows Sorvey: "Everyone knows him." Asked if Sorvey is nice: "He isn't. Particularly." Learns from Tor that the sigil is only a guide. Refuses a crooked copy out of pride, and stays in the workroom as long as Tor does. Afterward traces his own sigil and lets his finger wander off the line.
+
 ## Profile
 
 - **Role:** A gifted, well-connected fellow builder student; the class star until Tor arrives. (assumed)

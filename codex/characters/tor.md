@@ -16,6 +16,14 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - Believes **all nobles look down on anyone who isn't noble**, and is afraid of high nobles like Tovey, expecting them to lash out at any slight. (canon, user)
 - Has hidden **mental controls**, revealed in later books; he isn't who or what he thinks he is. (canon)
 
+- **From the chapter two drafts** (invented; accepted by the user):
+  - **Fighting:** early rather than fast; watches hands, not faces; can't be feinted; goes left when frightened; apologizes when he dodges, when he lands a blow, and when he's thrown, and thanks people for throwing him.
+  - **On the run:** stops at the marker stone, looks back at the tower, asks a carter which way Two Rivers is. Her knife on a cabbage stalk gives him the shield idea.
+  - **Calls them** "Miss Sara" and "Miss—Trice," unsure what he's allowed to call her. Assumes, when they're dressed up, that they're on their way somewhere nice.
+  - **Teases only Rolph:** a visibly poor sulk about the order.
+  - **The numbness:** talks politely to his own leg; blames himself for sitting on it wrong during the build ("Walk it off, Tor").
+  - **Rescue in its least heroic form:** scolds Trice under his breath for being out so late while staggering to help her; apologizes with every swing of the sack.
+
 ## Profile
 
 - **Role:** Scholarship builder student from Two Rivers; the kingdom's hidden piece in a game older than he is. (canon)

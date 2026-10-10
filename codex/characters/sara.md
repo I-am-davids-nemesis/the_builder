@@ -16,6 +16,8 @@ Sara treats Tor as a person rather than a phenomenon, which is exactly why her s
 - Wears **black**: a student of the **special school** (a spy school with assassination training; **not revealed yet**, canon, user), like Trice. Spars with Tor all afternoon. Takes Tor's raw field for a **shield device** and calls Trice off. (canon, user, chapter two)
 - **Outbids Sorvey:** offers Tor **12 gold** per drying field, **20** on a metal plate, and becomes his **sales agent** for **10%** (who gets the 10% is unclear to Tor). Has no calling card on her that evening; says Rolph or Tovey knows where to find her and Trice. (canon, user, chapter two)
 
+- **From the chapter two drafts** (invented; accepted by the user): in a fight, searches for a shield device at wrist, neck, belt and hem by reflex. Her father's rule: you don't price some things aloud, because it tells the listener you've never been near one. Looks at Tor after the sand "the way she'd once seen her father look at a ring a man had sold him as brass." On materials: pine warps, paint flakes, "lasting is what people pay for." Has a contract voice, her father's, slower and more even. Wears green to the visit, with a comb; leaves the comb on Tor's bed, goes back for it, overhears him, and doesn't knock. Holds his teacup for him when his hands won't work.
+
 ## Profile
 
 - **Role:** Tor's steadiest friend and the emotional center of his school life (assumed); the one who knows what magic is worth (canon).
