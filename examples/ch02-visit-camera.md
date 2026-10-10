@@ -26,7 +26,7 @@ The bar came down on the sand. He bent for it, and lifted it as far as his knees
 
 "Enough," said Kolb, from the gate. "Go and eat, Baker."
 
-Tor walked toward the arch, still holding the bar. The tall girl caught him up and took it out of his hands.
+Tor walked toward the arch, still holding the bar. The tall girl caught up to him and took it out of his hands.
 
 "Oh," he said. "Thank you. That's very kind. Thank you, um—"
 

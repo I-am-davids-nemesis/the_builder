@@ -60,7 +60,7 @@ Sorvey looked at him. Tor looked back for as long as he could, and then looked a
 
 "Debri," said Sorvey.
 
-At the window, the building master shifted his weight. Sorvey didn't look round.
+At the window, the building master shifted his weight. Sorvey didn't look around.
 
 "Then I won't tread on the Debris' toes," he said. "Not over laundry." He put the purse back inside his coat. "But I'll tell you what I'll do, Scholar Baker. Anything new you make, anything at all, whether it dries a shirt or lights a lamp or does something nobody's thought of, I'll pay for the making of it. Before it's made, if you like. You tell me what you want to try, and I'll pay for the trying." He smiled. "Failures included."
 

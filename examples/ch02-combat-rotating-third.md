@@ -16,7 +16,7 @@ Kolb set his feet again.
 
 "Sir," Tor said.
 
-The waster came round. The pell took it. Something small fell off the wall.
+The waster came around. The pell took it. Something small fell off the wall.
 
 "Baker." Kolb lowered the waster and turned, and he was smiling, which Rolph had seen perhaps twice in three years and had not enjoyed either time. "Good. You're early. I like early." His eyes moved. "Rolph. Go away."
 
@@ -44,11 +44,11 @@ He hit the pell again. This time Rolph saw the trunk move, a shudder that went d
 
 "No, sir."
 
-"No. Most people haven't." He leaned the waster against the pell and unhooked something from his belt. Rolph had seen it hanging there for three years and taken it for a tool: a plain hilt a hand and a half long, wrapped in cord, with a line of small marks running round the guard, too regular to be nicks.
+"No. Most people haven't." He leaned the waster against the pell and unhooked something from his belt. Rolph had seen it hanging there for three years and taken it for a tool: a plain hilt a hand and a half long, wrapped in cord, with a line of small marks running around the guard, too regular to be nicks.
 
 Kolb held it out to one side, and there was a blade on it.
 
-It didn't slide out or unfold. It was simply there, the way a thing is there when you turn round and look at it: four feet of dull gray, the length of a boy's arm and a half again. It had no edge that Rolph could see. When Kolb turned his wrist, the blade went edge-on to him and wasn't there at all: a hilt, and a long gray nothing, and then, as the wrist turned back, a blade again.
+It didn't slide out or unfold. It was simply there, the way a thing is there when you turn around and look at it: four feet of dull gray, the length of a boy's arm and a half again. It had no edge that Rolph could see. When Kolb turned his wrist, the blade went edge-on to him and wasn't there at all: a hilt, and a long gray nothing, and then, as the wrist turned back, a blade again.
 
 "Cutter," Kolb said. "You'll have seen pictures."
 
@@ -80,7 +80,7 @@ Rolph shut his eyes.
 
 "Sir," he said, from the rack, "sir, with respect, he's a builder, he isn't—"
 
-"Which is why I'm not asking him to fight me," Kolb said, without turning round. "I'm asking him to build. Different thing. Easier. I've seen him fight." He looked Tor over, the dust on his boots, the tunic, the hands, the way a man looks at a horse he's been told is sound. Rolph could not tell what he saw. "Now. Warm up. Run to town and back."
+"Which is why I'm not asking him to fight me," Kolb said, without turning around. "I'm asking him to build. Different thing. Easier. I've seen him fight." He looked Tor over, the dust on his boots, the tunic, the hands, the way a man looks at a horse he's been told is sound. Rolph could not tell what he saw. "Now. Warm up. Run to town and back."
 
 "Town's five miles!" said Rolph.
 
@@ -108,7 +108,7 @@ He looked at it for a long while. Then he turned his head and looked down the ot
 
 She pulled up the mule.
 
-"You want a ride back, love? Nobody'll know. I've had worse than you sat on my cabbages."
+"You want a ride back, love? Nobody'll know. I've had worse than you sitting on my cabbages."
 
 He jumped. He hadn't heard the cart, which took some doing; the near wheel squealed like a pig. "Oh! No, ma'am. Thank you, ma'am. I'm meant to be running."
 
@@ -180,7 +180,7 @@ Sara stood up. Trice stood up beside her, unhurried, and they crossed the sand t
 
 Sara stepped back to the line scratched in the sand and folded her arms, and watched Trice open the way she always opened against boys, which was with a kick straight up between the legs, because it saved time.
 
-Tor wasn't there when it arrived. He made a noise like a startled hen and was simply somewhere else, a foot to the left, and then he did what Sara would not have guessed in a hundred tries: he turned round and started to run away.
+Tor wasn't there when it arrived. He made a noise like a startled hen and was simply somewhere else, a foot to the left, and then he did what Sara would not have guessed in a hundred tries: he turned around and started to run away.
 
 "Baker," said Kolb. "Spar."
 
@@ -188,13 +188,13 @@ Tor stopped. He turned back. "Sorry, sir," he said, and then to Trice, with a li
 
 Trice's mouth went thin.
 
-What followed, Sara thought, was not what she'd been told about him, and it was not what anybody in the yard had expected either, because along the fence the pairs had stopped pretending to practice. Trice was very good. Sara had known that for years, and had the bruises to prove it. Her kicks came from everywhere: low to the knee, high to the head, a front kick that changed its mind halfway and came round from the side. And Tor wasn't there for any of them. He wasn't fast so much as early. He moved before she did, small and quick and apologetic, and twice he said "sorry" when she missed him, as if her missing were his fault.
+What followed, Sara thought, was not what she'd been told about him, and it was not what anybody in the yard had expected either, because along the fence the pairs had stopped pretending to practice. Trice was very good. Sara had known that for years, and had the bruises to prove it. Her kicks came from everywhere: low to the knee, high to the head, a front kick that changed its mind halfway and came around from the side. And Tor wasn't there for any of them. He wasn't fast so much as early. He moved before she did, small and quick and apologetic, and twice he said "sorry" when she missed him, as if her missing were his fault.
 
 Trice did not like that. Sara saw her not liking it, the set of the jaw, the little extra breath before each attack, and she knew what was coming a beat before it came. Trice always got showy when she was cross.
 
-The wheel kick was beautiful. Trice spun into it, her whole body turning like a door on its hinge, her heel coming round at head height fast enough to whistle.
+The wheel kick was beautiful. Trice spun into it, her whole body turning like a door on its hinge, her heel coming around at head height fast enough to whistle.
 
-Tor stepped inside it. He didn't go back from it, the way anybody sensible would. He went forward, into the middle of the spin where the heel couldn't reach, and caught her round the waist as she came round, and turned with her, and they both went down on the sand with Trice underneath.
+Tor stepped inside it. He didn't go back from it, the way anybody sensible would. He went forward, into the middle of the spin where the heel couldn't reach, and caught her around the waist as she came around, and turned with her, and they both went down on the sand with Trice underneath.
 
 Somebody along the fence said, "*Oh*," out loud.
 
@@ -212,7 +212,7 @@ Then the sand moved.
 
 It slid away from him all at once, in a ring, the way water jumps away from a drop of oil. It hissed. Grit and small stones skittered outward across the yard, and Trice went with them. She didn't let go so much as get put somewhere else: lifted off him, knife hand and all, and pushed back along the ground a full arm's length, her heels scoring two lines in the sand. The knife was still in her hand, held out toward him, and the point of it had stopped against nothing a hand's breadth from his throat. She leaned on it. It didn't go any farther.
 
-Sara looked for the device. Her eyes did it before she'd decided to: wrist, neck, belt, the hem of the tunic, the places people kept shield fields when they could afford them. Nothing on his wrists. Nothing at his throat but the ties of his tunic. He might have something sewn in somewhere. A personal shield that would hold off a blade at that distance, full round, and push a grown girl along the ground while it did it—her father had a rule about things like that. You didn't put a price on them out loud, because whoever was listening would know you'd never been near one.
+Sara looked for the device. Her eyes did it before she'd decided to: wrist, neck, belt, the hem of the tunic, the places people kept shield fields when they could afford them. Nothing on his wrists. Nothing at his throat but the ties of his tunic. He might have something sewn in somewhere. A personal shield that would hold off a blade at that distance, all the way around, and push a grown girl along the ground while it did it—her father had a rule about things like that. You didn't put a price on them out loud, because whoever was listening would know you'd never been near one.
 
 "Trice," she said. "Off. It's a shield. The knife won't help."
 
@@ -338,7 +338,7 @@ Rolph opened his mouth, and found that he had nothing to put in it, and shut it 
 
 "Did you see the—at the end, with Trice—"
 
-"I saw the cloud from the far end of the yard. I thought you'd exploded." Rolph worked the liniment in. "Half the second-years are saying you've got a shield sewn in your smalls. The other half are saying you don't, and they're the ones who are worried." He paused. "Did you mean to do that? The push. With the sand."
+"I saw the cloud from the far end of the yard. I thought you'd exploded." Rolph worked the liniment in. "Half the second-years are saying you've got a shield sewn into your drawers. The other half are saying you don't, and they're the ones who are worried." He paused. "Did you mean to do that? The push. With the sand."
 
 Tor thought about it, the pen hovering. "I think so," he said. "It seemed like the thing to do. Is that—was it wrong?"
 
@@ -365,7 +365,7 @@ To add to the codex if kept.
 - **The practice yard:** a square of packed sand behind the long hall, weapon racks on three sides, an old wall on the fourth that belonged to something older than the school. A bench by the water butt where the students in black sit.
 - **The pell:** an oak trunk as thick as a man, sunk to half its height; beaten pale and furred at chest height.
 - **Kolb's practice weapon:** a wooden waster about as thick as a fence post.
-- **The cutter:** a plain cord-wrapped hilt a hand and a half long, which Kolb wears on his belt every day (Rolph took it for a tool for three years); a line of small regular marks round the guard (sigils; unexplained on the page). The four-foot blade of dull gray is simply there when he wants it and gone when he doesn't; no sheath. Turned edge-on, the blade vanishes. Cuts in silence, without slowing. That a cutter is magic (an infinitely thin blade that passes through any physical thing without resistance) is canon (user); the page shows it rather than explains it.
+- **The cutter:** a plain cord-wrapped hilt a hand and a half long, which Kolb wears on his belt every day (Rolph took it for a tool for three years); a line of small regular marks around the guard (sigils; unexplained on the page). The four-foot blade of dull gray is simply there when he wants it and gone when he doesn't; no sheath. Turned edge-on, the blade vanishes. Cuts in silence, without slowing. That a cutter is magic (an infinitely thin blade that passes through any physical thing without resistance) is canon (user); the page shows it rather than explains it.
 - **Kolb's run:** students run to the town well and slap the stone before turning back; they "can't lie to Kolb." Kolb smiles rarely and has never been heard to laugh aloud (Sara).
 - **Kolb punishes Rolph** with two hundred cuts at the pell's remains, for speaking twice.
 - **The town is Hollin**, five miles from the school (ten there and back) down a long slope; it has a square, a well, a pump, a chandler's, and a mill road out the far side. From the road, the school's bell tower stands on the ridge "like a finger."

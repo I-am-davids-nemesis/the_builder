@@ -82,7 +82,7 @@ Sorvey looked at him for a while. The boy looked back, very politely, for as lon
 
 "Debri," Sorvey said.
 
-The building master shifted his weight by the window. Sorvey didn't look round at him.
+The building master shifted his weight by the window. Sorvey didn't look around at him.
 
 Debri's girl would have told him a figure, at that laundry. Sorvey could guess the figure, give or take. And the boy had heard it, and heard two, and called two *generous*, and still sat on the front of his chair with his hands tight on his knees, saying no. Not for the money. Sorvey turned that over and found that he liked it, which was a rare and slightly unpleasant feeling.
 

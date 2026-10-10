@@ -12,7 +12,7 @@ Tor came through the gate. Rolph came two steps behind him.
 
 "Sir," Tor said.
 
-The waster came round again. The pell took it. A chip of mortar fell off the wall.
+The waster came around again. The pell took it. A chip of mortar fell off the wall.
 
 "Baker." Kolb lowered the waster and turned. He was smiling. Rolph, seeing it, stopped walking. "Good. You're early. I like early." He looked past Tor. "Rolph. Go away."
 
@@ -42,7 +42,7 @@ He hit it again. The trunk shuddered, all the way down into the ground. At the r
 
 "No. Most people haven't."
 
-He leaned the waster against the pell and unhooked something from his belt: a plain hilt a hand and a half long, wrapped in cord, with a line of small regular marks round the guard. He held it out to one side.
+He leaned the waster against the pell and unhooked something from his belt: a plain hilt a hand and a half long, wrapped in cord, with a line of small regular marks around the guard. He held it out to one side.
 
 There was a blade on it. It didn't slide out; it was simply there, four feet of dull gray. As Kolb turned his wrist, the blade went edge-on toward the gate and vanished: a hilt, and nothing, and then, as the wrist turned back, a blade again.
 
@@ -102,9 +102,9 @@ He wasn't running. He was looking back up the slope to the ridge, where the scho
 
 A cart came along the town road behind him, pulled by a mule, loaded with cabbages. Its near wheel squealed at every turn. The woman driving it pulled up beside him.
 
-"You want a ride back, love? Nobody'll know. I've had worse than you sat on my cabbages."
+"You want a ride back, love? Nobody'll know. I've had worse than you sitting on my cabbages."
 
-Tor jumped and turned round. "Oh! No, ma'am. Thank you, ma'am. I'm meant to be running."
+Tor jumped and turned around. "Oh! No, ma'am. Thank you, ma'am. I'm meant to be running."
 
 "Looked like you were meant to be standing."
 
@@ -138,7 +138,7 @@ Tor was watching the knife.
 
 He was already running. He went past the cart toward Hollin, not back up the slope and not down the east road, talking to himself, his hands shaping something in the air in front of him.
 
-In Hollin's square, there was a well with a worn stone lip, polished on one side where many hands had slapped it. Tor ran past it without touching it, past the chandler's, out the far side of the square and up the mill road. A woman at the pump called after him that the school was the other way. He didn't look round.
+In Hollin's square, there was a well with a worn stone lip, polished on one side where many hands had slapped it. Tor ran past it without touching it, past the chandler's, out the far side of the square and up the mill road. A woman at the pump called after him that the school was the other way. He didn't look around.
 
 The bell in Hollin's little chapel struck the half hour. The cabbage cart stood unloading by the pump.
 
@@ -172,7 +172,7 @@ The two in black stood and crossed the sand together. Tor watched them come with
 
 Sara stepped back to a line scratched in the sand and folded her arms. Trice opened with a kick straight up between Tor's legs.
 
-Tor made a noise like a startled hen and was a foot to the left when it arrived. Then he turned round and started to run away.
+Tor made a noise like a startled hen and was a foot to the left when it arrived. Then he turned around and started to run away.
 
 "Baker," said Kolb. "Spar."
 
@@ -180,11 +180,11 @@ Tor stopped. He turned back. "Sorry, sir," he said, and to Trice, with a little 
 
 Trice's mouth went thin.
 
-Along the fence, one pair after another stopped practicing and watched. Trice's kicks came low to the knee, high to the head, a front kick that changed halfway and came round from the side. Tor wasn't there for any of them. He moved before she did, small and quick. Twice, when she missed him, he said "sorry."
+Along the fence, one pair after another stopped practicing and watched. Trice's kicks came low to the knee, high to the head, a front kick that changed halfway and came around from the side. Tor wasn't there for any of them. He moved before she did, small and quick. Twice, when she missed him, he said "sorry."
 
-Trice took an extra breath before her next attack. She spun into a wheel kick, her whole body turning, her heel coming round at head height fast enough to whistle.
+Trice took an extra breath before her next attack. She spun into a wheel kick, her whole body turning, her heel coming around at head height fast enough to whistle.
 
-Tor stepped forward, inside the spin, caught her round the waist as she came round, turned with her, and took them both down onto the sand with Trice underneath.
+Tor stepped forward, inside the spin, caught her around the waist as she came around, turned with her, and took them both down onto the sand with Trice underneath.
 
 Someone along the fence said, "*Oh*," out loud.
 
@@ -306,7 +306,7 @@ Rolph opened his mouth, and closed it, and put liniment on the stripe.
 
 "Did you see the—at the end, with Trice—"
 
-"I saw the cloud from the far end of the yard. I thought you'd exploded." Rolph worked the liniment in. "Half the second-years are saying you've got a shield sewn in your smalls. The other half are saying you don't, and they're the ones who are worried." His hands slowed. "Did you mean to do that? The push. With the sand."
+"I saw the cloud from the far end of the yard. I thought you'd exploded." Rolph worked the liniment in. "Half the second-years are saying you've got a shield sewn into your drawers. The other half are saying you don't, and they're the ones who are worried." His hands slowed. "Did you mean to do that? The push. With the sand."
 
 The pen hovered. "I think so," said Tor. "It seemed like the thing to do. Is that—was it wrong?"
 
