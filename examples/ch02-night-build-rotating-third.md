@@ -166,7 +166,7 @@ He didn't get back to sleep for some time either.
 
 The workroom on the east stair was the only one with a stove that drew, and at this hour it was always empty, which was why Dorgal used it.
 
-He had a board in front of him, pine, painted. He'd painted it from memory. He had a very good memory, and he'd stood in the washing house three days ago and looked at Baker's square for as long as he'd looked at anything in his life, and then he'd gone away and drawn it eleven times, and this was the eleventh. It was perfect. He'd checked every line against his notes. The proportions were right. The hook at the lower left, the doubled crossing near the center, the thing like a fishbone along the top edge: all right.
+He had a board in front of him, pine, painted. He'd painted it from memory. He had a very good memory, and he'd stood in the washing house two days ago and looked at Baker's square for as long as he'd looked at anything in his life, and then he'd gone away and drawn it eleven times, and this was the eleventh. It was perfect. He'd checked every line against his notes. The proportions were right. The hook at the lower left, the doubled crossing near the center, the thing like a fishbone along the top edge: all right.
 
 It did nothing.
 
