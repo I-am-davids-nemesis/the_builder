@@ -26,7 +26,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Hereditary magic.** Most **high nobles** have some form of hereditary magic, which is why they're nobles. It usually comes out only when they're **enraged**. Tovey's makes people near him go numb. (canon, user) Nobles tend to be **big**: Tor is "too small to be a noble." (canon, user)
 - **Rolph's family is royal.** Hidden from Tor, hinted to the reader. (canon, user)
 - **The special school** is a **spy school, with a side of assassination training**. Trice and Sara attend it. **Not revealed yet**: on the page, only the black uniforms, the fighting, and a department head. (canon, user)
-- **Culture clash:** Tor's backwoods, humble, prudish upbringing vs. the cosmopolitan, aggressive, libertine culture of his noble friends.
+- **Culture clash:** Tor's backwoods, humble, prudish upbringing vs. the cosmopolitan, aggressive, libertine culture of his noble friends. **Our book replaces the libertine side** with flirtation as a non-physical game of wit (see `outline/series-direction.md`).
 
 ## The school
 

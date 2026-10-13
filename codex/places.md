@@ -15,7 +15,7 @@ Each setting squeezes a different tension, so moving the cast changes what the s
 | Two Rivers (Tor's hometown, canon) | Tor's past and family secrets; the humble self-image he clings to | Tor; any friend who visits sees a side of him they didn't know |
 | The capital | Open politics and the crown; nobody is off duty | Patricia, Count B, Tovey |
 | Rolph's family home, in the capital (canon) | Tor is invited for the next school break. The private face of the capital's politics: whatever Rolph's family is, it's at home here. | Tor, Rolph, Connie |
-| The beach resort house | Leisure among nobles; the culture clash between Tor's prudishness and his friends' worldliness | Tor, Rolph, Sara |
+| The beach resort house | Leisure as cover: Trice and Sara are on a special-school field exercise and Rolph on family business, so Tor keeps being left out without knowing why; left alone, he builds (see `outline/series-direction.md`) | Tor, Rolph, Sara, Trice |
 | A city of Gallaia | Foreign rules and outside threats; Noram's rivalries look small from here | Everyone; alliances get tested away from home |
 
 The beach house is where characters say what they can't say at school. Two Rivers is where Tor's story about himself stops fitting.

@@ -9,6 +9,7 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Listens when Tor talks about magic; not frivolous. (canon)
 - Tor "had been told" Rolph is from a **merchant family**. (canon) **It's a cover: Rolph's family is royal.** (canon, user, October 9, 2026) The codex treats it as known; on the page it stays **hidden from Tor and hinted to the reader**. His mother Connie is the queen, so her birthday is the queen's birthday. (assumed from canon; King Richard Cordes in `canon-notes.md`)
 - His mother is **Connie**. (canon)
+- Has **younger sisters**. (canon, user, October 12, 2026) Names and number to be decided. With Connie, they play the court's flirtation game at its highest level, and Tor can't cope with any of them (see `outline/series-direction.md`).
 - Owns a **magic lockbox full of gold**, kept in their room. Tor copied its lock to make the room's door lock. (canon, user, chapter one) It's a hint about his family, never an admission.
 - Very interested in Tor and his magic, in what seems to be innocent envy; he once **stared at the room lock for hours**. (canon, user)
 - Wants a copy of the drying field **for his mother**. (canon, user)
