@@ -15,6 +15,15 @@ Patricia sees the political board more clearly than anyone Tor's age, and she ca
 - Comes to Tor's room with Sara, dressed for an evening, to steer him away from the Sorvey house and toward the Debri house. Delivers the joke that the school rarely kills students because it's bad for enrollment. (canon, user, chapter two; our wording to be written)
 - At night she's in the courtyard **fighting Tovey** with a device that makes him stumble back; she's losing, and Tovey knocks her down. (canon, user, end of chapter two) Why she and Tovey are out so late, and what set off her field, is not yet decided; probably shown in a chapter-three flashback. Whatever the reason, **she doesn't know she caused his rage.** (canon, user) Chapter two shows the fight mid-action from her viewpoint, with no cause.
 
+- **Chapter three** (canon, user, October 17, 2026):
+  - **Full name and title: the Ducharina Patricia Alyson Morgan**, a **duke's daughter**. Called **Tricia** in polite circles; only close friends call her **Trice**, a childhood name that stuck because a royal brat of a Prince couldn't pronounce her name as a baby. She seems fine with it. (The Prince is assumed to be Rolph; see `outline/03-chapter-three/_chapter.md`, open question 9.)
+  - **Tovey's first cousin.**
+  - Has spent **years at the special academy**, which Rolph says trains likely assassination targets; Rolph says she's "**different**," even for a noble, and that's why. (On the academy, see open question 2 in the same file.)
+  - After the fight: the **right side of her face is swollen**, the bruises already spectacular. She waits in the warded room holding something wrapped in a **soft light-blue cloth** (unexplained; a cold compress is likeliest, assumed).
+  - **Deflects blame** and keeps Tor out of trouble: Tor only tapped Tovey on the shoulder and ran. Teases Tovey out of his embarrassment, joking she'd have haunted him if he'd killed her.
+  - **Turns Tor's "what are friends for?" into a declared friendship** with Tovey, deliberately.
+  - Realizes Tor **didn't know she was noble**, and helped her for friendship alone, against a noble giant in a rage, with no possible reward. She's **mildly smitten**.
+  - In the stand-off, jokes that if Wensa keeps it up, Tor might break off **his business with her and Sara**. (So Trice counts herself in the business; who gets the 10% is still open.)
 - **From the chapter two drafts** (invented; accepted by the user): opens against boys with a groin kick "because it saved time"; gets showy when cross; carries a small black-handled knife and a pouch of white powder; treats "unarmed" as advice. Keeps a mental list of an opponent's habits, and an "account" of who owes what. Takes her **hair down** perhaps twice a term, never without a reason; her hair is **dark** and falls past her shoulders. Deflects "Your department?" with "Mm." Our version of the enrollment joke: "the school doesn't kill students. Hardly ever. They're paid by the head." On the Sorveys: "They buy early, and then they own the stable." On Tovey: he'd be delighted to be asked, and "bring a lantern." Carries a pushing rod (see `canon-notes.md`).
 
 ## Profile
@@ -25,8 +34,9 @@ Patricia sees the political board more clearly than anyone Tor's age, and she ca
 - **Internal tension:** Real affection for Tor vs. a worldview in which affection is a liability. She tells herself the fondness is part of the strategy.
 - **External tension:** A family that expects her to deliver an advantage, and rivals (Tovey's house, possibly House B) who see Tor as a prize to be claimed.
 - **Hidden aspect:** Whose interests she ultimately serves. Even she may not be sure.
-- **Hidden from herself: high noble blood.** Trice has a hereditary field, and hers **drives other nobles into a rage**. It triggers rarely enough that she hasn't noticed she's doing it. Something triggered it in the courtyard and sent Tovey into a blind rage against her. (canon, user, October 9, 2026) Her parentage is the secret behind the secret; not revealed in book 1's early chapters. Who her blood comes from is not yet defined.
-- **Hidden from Tor: the special school** is a **spy school, with a side of assassination training**. (canon, user) **Not revealed at all yet**: the black uniform, the knife and the powder are all the reader gets.
+- **Hidden from herself: high noble blood.** Trice has a hereditary field, and hers **drives other nobles into a rage**. It triggers rarely enough that she hasn't noticed she's doing it. Something triggered it in the courtyard and sent Tovey into a blind rage against her. (canon, user, October 9, 2026) Her parentage is the secret behind the secret; not revealed in book 1's early chapters. Who her blood comes from is not yet defined. (Chapter three makes her openly a duke's daughter, so what's hidden is the field and wherever it comes from, not her rank.)
+- **Hidden from Tor: the special school** is a **spy school, with a side of assassination training**. (canon, user) **Not revealed at all in chapter two**: the black uniform, the knife and the powder are all the reader gets. In chapter three, Rolph tells Tor it trains people who might be assassination targets (canon, user); whether that's the whole truth is open (`outline/03-chapter-three/_chapter.md`, question 2).
+- **Hidden from Trice: her field caused the courtyard.** In chapter three she's the victim, everyone treats her as one, and she doesn't suspect otherwise. (canon, user)
 
 ## Reaction rules
 

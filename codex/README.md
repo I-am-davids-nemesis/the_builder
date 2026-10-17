@@ -62,5 +62,5 @@ Each book resolves one small, concrete piece per character (a question answered,
 
 - More voice tests: a noble insults Sara; Tor is summoned to the capital; an assassination attempt at the beach house; a visit to Two Rivers; arrival in Gallaia.
 - Relationship matrix for each pair of main characters. Start with Patricia and Sara, who are a canon pair: what holds them together, and how Tor changes it.
-- Profiles for canon minor characters Wensa (tried to kill Tor) and Connie (Rolph's mother).
+- Profile for canon minor character Connie (Rolph's mother). (Wensa's is in `characters/supporting/wensa.md`.)
 - Extend the tension ledger with columns for books 2–5.

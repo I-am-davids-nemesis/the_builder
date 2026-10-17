@@ -11,6 +11,7 @@ One file per place in `locations/`:
 - [The building instructor's office (canon)](locations/the-building-instructors-office.md)
 - [The courtyard at night (canon, chapter two)](locations/the-courtyard-at-night.md)
 - [The cafeteria (canon)](locations/the-cafeteria.md)
+- [The administration basement (canon, chapter three)](locations/the-administration-basement.md)
 - [Hollin, the town below the school](locations/hollin-the-town-below-the-school.md)
 - [Two Rivers (Tor's hometown, canon)](locations/two-rivers.md)
 - [The capital](locations/the-capital.md)

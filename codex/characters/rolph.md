@@ -23,6 +23,16 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - **Chapter two:** comes back late from the **pub** saying people are very interested in the drying device. Wants **ten** for his mother to give her friends, to help sales; offers **55 gold** up front (half of 110). His mother's **birthday is in a week**; when Tor asks if that's like the queen's birthday and whether they get the day off, Rolph laughs and says yes, just like the queen. Needs them for the **express mail** (three days to the capital). (canon, user)
 - Tor teases him by playing grumpy about the order; Rolph is the one person Tor teases. (invented reading)
 
+- **Chapter three** (canon, user, October 17, 2026):
+  - Woken by the dean, Campbell, and told only that Tovey was attacked; Tor hands him the order and asks him to sell the rest for Tor's family, and Campbell takes Tor before Rolph can answer.
+  - Explains to Tor: Tovey hates combat rage and won't take revenge; Trice is "different," the Ducharina Patricia Alyson Morgan; the special academy trains likely assassination targets; Sara is a Debri.
+  - Tells the story of how Trice got her name: a **royal brat of a Prince** couldn't pronounce it as a baby. (That Prince is assumed to be Rolph himself; he tells it as if about someone else.)
+  - **Sara came to him the evening before** asking about Tor. He told her about Tor's family, his work ethic, and that he can **bake well enough to open a bakery**. **Rolph can't make toast**, and nor can most people he knows.
+  - Puts **four** fields in a **very fancy, ornate box** for his mother; has to wrap it well or **his mother's friends** will be a bit mean about it. The gift will beat anyone else's, **including his dad's**.
+  - Asks when the food drying field will be ready; when Tor says he's too spent to focus, Rolph is afraid he's pushing too hard and tells him to **take his time**.
+  - Hearing that **Wensa** is a secret royal guard makes him **very angry**; he demands to know if Tor is sure. Then laughs at Tor's joke. Then is furious that Tor was accused of trying to harm anyone, and storms off to breakfast with Tor in tow.
+  - Knows that **royal guards don't play by the same rules** as everyone else, and warns Tor to be careful.
+  - **Wensa is his lead bodyguard.** (canon, user) Whether he knows, and why the news makes him so angry, is undecided (`outline/03-chapter-three/_chapter.md`, question 8).
 - **From the chapter two drafts** (invented; accepted by the user): his lockbox opens to his flat hand on the lid. Keeps his chapter-one promise of liniment (camphor and something green). When Tor asks whether the push with the sand was wrong, Rolph's hands stay on Tor's back a moment too long (he knows what a noble field looks like; hinted by action only). Comes back from the Barrow loud and triumphant. "It's how friendship works among merchants." Laughs at the queen line "a little longer than the joke was worth"; slips once: "every great house in the—everyone who matters." Watches Tor sort out the crooked squares to give away and says nothing.
 
 ## Profile

@@ -39,6 +39,19 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - **Senses danger in people**: he can feel that Douglas Sorvey is dangerous. (canon, user, chapter two)
 - **Has money now**, enough to buy a hundred copper squares and acid at the store. (canon, user, chapter two)
 
+- **Chapter three** (canon, user, October 17, 2026):
+  - **Runs from Tovey's rage** as Kolb taught him, survives a blow that throws him, and hides in a wood until dawn.
+  - **Expects to die** for striking a noble, and plans to **take the blame so Trice won't**: deliver Rolph's order, then turn himself in. Asks Rolph to sell the remaining fields and send the money to his family.
+  - **Sees through wards in a deep trance.** In the basement, the trance lets him see warded doors and the people hidden by the wards on the room and its chairs. In that trance he's **less reactive and less subservient** than usual. (That this is a crack in the mental controls is our reading, assumed.)
+  - **Didn't know Trice was noble**, or that she and Tovey are cousins. Helped her because she's his friend and they're in business; can't explain it further because it's obvious to him.
+  - Believes **"there are no debts between friends."** Says "what are friends for?" to Tovey sarcastically, without sounding it, and doesn't know he's declared a friendship.
+  - Made **fifty** drying fields in one night.
+  - Stands to go quietly to a cell and **falls into Kolb's defensive stance** at the same time.
+  - Thought the special academy trained spies and assassins.
+  - **Bakes well enough to open a bakery** (Rolph). Doesn't understand why that impresses anyone.
+  - Too exhausted by stress and no sleep to focus on a build; says so.
+  - Jokes, to Rolph only, that Wensa chasing him would be more fun if she were younger.
+
 ## Reaction rules
 
 - **Praised** → deflects to luck, a teacher, or the materials; changes the subject to the work.
@@ -61,6 +74,9 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - **Given a lethal deadline** → takes it seriously, and politely; no reassurance changes that. (canon: Kolb's shield, chapter two)
 - **Doing copy work** → gets bored and sloppy, and gives away the imperfect copies to whoever needs them. (canon, chapter two)
 - **Small talk** → tunes out and privately judges it.
+- **Faced with something that won't hold his attention** (a ward) → drops into a trance to focus, and comes out the other side seeing it. (canon, user, chapter three)
+- **Asked why he helped a friend** → can't answer; changes the subject to the work. (canon seed: the yawn and the fifty, chapter three)
+- **Expects punishment** → puts his obligations in order first (the order delivered, the money sent home), then gives himself up. (canon, user, chapter three)
 
 ## The perception gap
 

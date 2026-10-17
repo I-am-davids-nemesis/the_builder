@@ -16,6 +16,16 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
 - Sara names him (with Rolph) as someone who knows where to find her and Trice. Tor thinks asking a count to carry a message for him is a cruel joke. (canon, user, chapter two)
 - **Attacks Trice in the courtyard at night**, sparks flying around him, and knocks her down; when Tor hits him with a sack of copper squares, he turns and attacks Tor. Tor's numbness grows stronger when Tovey looks at him. (canon, user, end of chapter two) **Why:** Trice's own hidden field drove him into a blind rage (`patricia.md`); something triggered it that night. (canon, user) The numbness is his field, which is why it's strongest when he looks at Tor. The reader isn't told any of this in chapter two.
 
+- **Chapter three** (canon, user, October 17, 2026):
+  - **Flies in his rage.** Chasing Tor, he falls behind on foot, then **levitates and flies** after him. At **dawn** he seems to come to himself and flies back toward the school.
+  - **Trice's first cousin** (they're close enough that marriage between them isn't a consideration). Many nobles are related through marriages made for alliances.
+  - **Not angry afterward, embarrassed**, by the loss of control a battle rage implies, and bad at showing embarrassment. **Hates combat rage** (Rolph).
+  - Arrives at the warded room **with Kolb**. **Apologizes to Trice first**, then to Tor.
+  - Tells Wensa he doesn't remember Tor assaulting him, only coming to Trice's aid, which he'd have begged Tor to do if he could have. **Politely asks Wensa for restraint** in the stand-off.
+  - Astonished that Tor has made fifty fields: as far as he knows, most manufacturers can't make **a hundred in a day** across the whole company.
+  - **A declared friend of Tor's.** Tor's offhand "what are friends for?" is taken, by noble custom and with Trice's help, as a declaration of friendship (see `canon-notes.md`).
+  - **A rare noble**: he doesn't yet treat everyone as a pawn in a game of power, which is why getting on his good side matters so much.
+  - **Much later he marries Tor's oldest sister, Terlee.** (canon, user; far beyond book 1; not to be hinted on the page yet)
 - **From the chapter two drafts** (invented; accepted by the user): when he's ordinarily angry it's "a frown and three cold words." In the rage his face is empty, "a face with nobody standing behind it," and sparks come off him. His friends at the Barrow argue that Tor should sell to them first because Tovey asked first.
 
 ## Profile
@@ -38,7 +48,8 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
 - **House B's people are involved** → suspects them first, sometimes wrongly. That's his blind spot. (assumed)
 
 - **Enraged** → his hereditary field comes out: everyone near him goes numb, sparks fly, and he stops being himself. (canon, user, chapter two) Afterward, see below.
-- **After the rage** → (undecided; chapter three will show it)
+- **After the rage** → embarrassed, not angry; apologizes to whoever he hurt, the person closest to him first; takes no revenge on whoever stopped him. Bad at showing embarrassment, so it comes out stiff. (canon, user, chapter three)
+- **Someone helps his family** → owes them, and says so. (canon seed: he'd have begged Tor to help Trice)
 
 ## Voice
 
@@ -59,4 +70,4 @@ The second line is the perception gap out loud: Tor's apology answers a threat T
 
 ## Series slice
 
-Book 1 narrows the gap: by the end Tor fears Tovey less, though he may not trust that he's right. It leaves open whether he grows into the county, how he lives with what his rage did in the courtyard, and the Thompsons' role in the older plot. (assumed)
+Book 1 narrows the gap: by the end Tor fears Tovey less, though he may not trust that he's right. Chapter three makes them declared friends, which Tovey understands and Tor doesn't. (canon, user) It leaves open whether he grows into the county, how he lives with what his rage did in the courtyard, and the Thompsons' role in the older plot. (assumed)

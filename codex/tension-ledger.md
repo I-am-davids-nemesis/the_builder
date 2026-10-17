@@ -20,9 +20,13 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Tovey | Tor's fear of him narrows; Tor starts to see him as he is | Growing into the county; living with the courtyard; the Thompsons' role in the plot |
 | Thompson vs. House B | The feud is established and dangerous | Which house is behind the plot, if either |
 | Merchant houses (chapter two) | Tor picks the Debri house (Sara) over the Sorveys | What Douglas Sorvey wants, and what he does after being refused |
-| Trice's blood | — (not raised on the page in book 1's early chapters) | Her high noble blood and rage-inducing field, unknown even to her |
+| Trice's blood | — (not raised on the page in book 1's early chapters; chapter three makes her openly a duke's daughter, and her field stays hidden) | Her high noble blood and rage-inducing field, unknown even to her |
 | Tor's noble-like field | He shows it once, under a knife | What it means that a baker's son has a field like a noble's, and controls it |
 | Doris's discovery | She senses something unusual in Tor's mind | What it is, who put it there, whether she tells |
+| Wensa (chapter three) | — | Her suspicion of Tor; whom she guards; why she tries to kill him later in book 1 |
+| The rage epidemic (chapter three) | — | Why nobles are raging more often; the plot behind it, which isn't what anyone expects |
+| Tor and Tovey's declared friendship (chapter three) | It's declared, and Tovey honors it | What it obliges; when Tor understands what he did |
+| Tor's trance-sight (chapter three) | — | Why a student can see through wards, and why he's less meek in trance |
 
 ## Books 2–5
 

@@ -26,6 +26,14 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Hereditary magic.** Most **high nobles** have some form of hereditary magic, which is why they're nobles. It usually comes out only when they're **enraged**. Tovey's makes people near him go numb. (canon, user) Nobles tend to be **big**: Tor is "too small to be a noble." (canon, user)
 - **Rolph's family is royal.** Hidden from Tor, hinted to the reader. (canon, user)
 - **The special school** is a **spy school, with a side of assassination training**. Trice and Sara attend it. **Not revealed yet**: on the page, only the black uniforms, the fighting, and a department head. (canon, user)
+- **The law on striking nobles.** Striking a noble is a **high crime**, punishable by **death**; Wensa calls assaulting a member of the peerage **treason**. (canon, user, chapter three)
+- **Declared friendship.** Among nobles, **declared friends are rare** and treated **very differently** from everyone else; a declared friend becomes a close ally. Tor's "what are friends for?" to Tovey counts as one, with Trice's help. Tor's own belief, from home: **"there are no debts between friends."** (canon, user, chapter three) What the custom obliges, and how it's declared formally, is not yet defined.
+- **Nobles intermarry** for alliances, so many are related; Trice and Tovey are **first cousins**. (canon, user, chapter three)
+- **Noble titles:** a duke's daughter is a **Ducharina** (Trice: the Ducharina Patricia Alyson Morgan). (canon, user, chapter three)
+- **The rage epidemic.** Lately, **nobles have been falling into combat rages more and more often**, and nobody knows why. People fear a plot. **There is one**, but it's different from what anyone expects and won't come clear for a long time. (canon, user, chapter three) Not yet defined; don't let drafts commit to a cause.
+- **Austra** is a foreign power: Wensa suspects Tor of being an **Austran spy**. (canon, user, chapter three) Its relation to Gallaia and Noram is not yet defined.
+- **Royal guards** guard the royal family, sometimes under cover (Wensa); they "don't play by the same rules as everyone else" (Rolph). (canon, user, chapter three)
+- **Production scale:** most magic manufacturers **can't make a hundred devices in a day**, across the whole company (Tovey). Tor made fifty in one night. (canon, user, chapter three)
 - **Culture clash:** Tor's backwoods, humble, prudish upbringing vs. the cosmopolitan, aggressive, libertine culture of his noble friends. **Our book replaces the libertine side** with flirtation as a non-physical game of wit (see `outline/series-direction.md`).
 
 ## The school
@@ -51,6 +59,10 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - There is a **pub** students can go to (Rolph comes back from it late). (canon, user, chapter two)
 - There are school **workrooms** where students can build, apart from the isolation chambers. (canon, user, chapter two)
 - There is a **washing area** with washing tubs; the laundry scene and the instructor's test both happen there. (canon, user)
+- **Staff, chapter three:** a **dean of students**, Campbell (`characters/supporting/campbell.md`); **Wensa**, who teaches accounting (`characters/supporting/wensa.md`). (canon, user)
+- **The administration building** has a **warded basement**, with a room where the school holds the hearing after the courtyard. See `locations/the-administration-basement.md`. (canon, user, chapter three)
+- **The school has holding cells**, or Wensa expects it to. (canon, user, chapter three)
+- **The special academy** (the special school), as Rolph explains it: training for people who might be **targets of assassination**, nobles and the **children of high merchants**. Trice has been there for **years**. Tor had assumed it trained spies and assassins. (canon, user, chapter three) How this squares with "a spy school, with a side of assassination training" (World, above) is an open question (`outline/03-chapter-three/_chapter.md`, question 2).
 
 ### From the chapter two drafts (invented; accepted by the user)
 
@@ -84,6 +96,8 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Metal focuses.** Designs can be **etched in copper with acid**. A drying field on a metal plate is worth more than one on wood (Sara: 20 gold vs. 12). (canon, user, chapter two)
 - **Copy work is slow and tiring.** Tor copies the drying field in **batches of ten**, a couple of hours per batch, and it gets harder to concentrate as the work bores him and the night gets late. (canon, user, chapter two)
 - **Tor can throw out a raw field** under stress, with no device: it pushes everything away from his body, blocks a knife and powder, and also blocks air. Sara takes it for a shield device. (canon, user, chapter two) It **looks like a noble's hereditary field**, though Tor is too small to be a noble, and **he controls it on purpose**, which very few people have ever shown. (canon, user) Nobody explains this to Tor in chapter two.
+- **Wards on attention.** Mental protection **wards** can be laid on a place or an object (a corridor, its doors, a room, **chairs**) so that the mind won't stay on it: a corridor feels empty, a door can't be focused on, people in warded chairs can't be seen. An **access token** pressed to a **pad** beside a warded door makes it briefly focusable. A **deep trance** let Tor see through them, which surprised the dean and alarmed Wensa. (canon, user, chapter three) How rare that is isn't stated.
+- **Tovey's rage includes flight.** In his rage he **levitates and flies**. (canon, user, chapter three) Whether flight is part of his hereditary field, or of rage fields generally, is not defined.
 - **New magic as prestige:** among nobility, having new magic before anyone else is a mark of significant prestige. (canon, user, chapter one)
 
 ### Magic details from the chapter two drafts (invented; accepted by the user)
@@ -136,7 +150,8 @@ In the drafts (invented; accepted by the user): Rolph's 11 a board is his "frien
 | Patricia ("Trice") | Goes by Trice; divisive in later books | `characters/patricia.md` |
 | Dorgal Sorvey | Full name canon (user); son of Douglas Sorvey (canon, user); the "Sorvey" listed as book 1 bully is likely him (assumed) | `characters/dorgal.md` |
 | Douglas Sorvey | Dangerous merchant; Dorgal's father | `characters/supporting/douglas-sorvey.md` |
-| Wensa | Tried to kill Tor in book 1 | Profile to do |
+| Wensa | Rolph's accounting instructor; secretly a royal guard, his lead bodyguard; tried to kill Tor in book 1 | `characters/supporting/wensa.md` |
+| Campbell | Dean of students | `characters/supporting/campbell.md` |
 | King Richard Cordes | See World above | — |
 
 ## Canon vs. assumed
@@ -175,4 +190,5 @@ Almost everything about the cast beyond Tor is invented or guessed.
 - The user's notes on chapter one's last third (October 9, 2026): Tor's instructors, Kolb, Doris, the cafeteria ending; Carl renamed Kolb and Sophia renamed Doris
 - The user's plot summary of chapter two (October 9, 2026): Kolb's shield assignment, sparring with Trice and Sara, Douglas Sorvey's offer, the Debri offer, Rolph's order, the copper build, the courtyard fight with Tovey
 - The user's answers on chapter two (October 9, 2026): Douglas is Dorgal's father; Tovey is Count Thompson; the special school is a spy school; hereditary noble fields and Trice's hidden one; Rolph's family is royal; Tor's field looks noble and is controlled
+- The user's plot summary of chapter three (October 15–17, 2026): the chase and Tovey's flight, the dean, the warded basement, Wensa, the hearing and declared friendship, Trice's title, the special academy, Rolph's gift, the rage epidemic, Austra
 - The user's notes on chapter one's laundry scene (October 9, 2026): Davie, the soap, Dorgal's teasing, Tovey and his crowd, Trice and Sara's 30-gold price, the prototype turned in for testing
