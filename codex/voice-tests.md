@@ -14,7 +14,7 @@ One situation, every character present. If you cover the names and can still tel
 | Tovey | Silence, then a correction | "A failure is not a disgrace. Mocking one is. Enough." |
 | Davie | Commentary from the back | "Father will be thrilled. He bet against it." |
 | Kolb | Unimpressed by the fuss | "Nobody died. Get up." |
-| Miriam | Asks about cost | "And what did that cost in materials, Mr. Baker? Write it down." |
+| Wensa (as accounting instructor) | Asks about cost | "And what did that cost in materials, Mr. Baker? Write it down." |
 | Headmaster | Asks a question that is really a warning | "Who else knew you were attempting this today?" |
 | Builder instructor | Examines the wreckage, not the student | "That shouldn't have held as long as it did. Why did it?" |
 | Doris | Notices his reaction, not the failure | "You weren't upset. Why weren't you upset?" |

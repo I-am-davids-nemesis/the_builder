@@ -7,5 +7,5 @@ The school's dean of students, sent to fetch Tor at dawn. (canon, user, chapter 
 - **Internal tension:** Procedure vs. a night in which none of the procedures apply. (invented)
 - **External tension:** Nobles, a royal guard and the headmaster, all of whom outrank him in this room. (invented)
 - **Reaction:** Something above his pay → notes it, says nothing, and does the next step of the job. (invented; seed: his surprise at the door)
-- **Open question:** whether his black means anything (the special school wears black). See `outline/03-chapter-three/_chapter.md`, open question 7.
+- **Open question:** whether his black means anything (the special school wears black). Undecided; describe it without comment (user, October 17, 2026).
 - **Voice:** (invented) Few words, all of them instructions. "Come along. No, leave it. Come along."

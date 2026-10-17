@@ -2,7 +2,7 @@
 
 ## The courtyard, beat by beat
 
-**Structure** (user, October 9, 2026): we don't yet know what set off Trice's field or why she and Tovey are out so late. The likeliest answer is a **flashback in chapter three** that shows how the fight began. Chapter two **catches the fight mid-action, from Trice's viewpoint, with no cause**: she doesn't know why Tovey is like this, and she never learns that she caused it. In the camera mode, the same section opens on the two figures mid-fight with no lead-in.
+**Structure** (user, October 9, 2026): we don't yet know what set off Trice's field or why she and Tovey are out so late. The likeliest answer is a **flashback in chapter three** that shows how the fight began. (Superseded October 17, 2026: no flashback. Chapter three's hearing gives the reason in one line: the cousins were out arguing about a family matter. What triggered the rage stays hidden.) Chapter two **catches the fight mid-action, from Trice's viewpoint, with no cause**: she doesn't know why Tovey is like this, and she never learns that she caused it. In the camera mode, the same section opens on the two figures mid-fight with no lead-in.
 
 All beats canon (user, October 9, 2026) unless labeled.
 

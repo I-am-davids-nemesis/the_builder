@@ -82,7 +82,7 @@ Every character with a speaking role needs, at minimum:
 - **Series slice** — what book 1 resolves for them, and what it leaves open.
 
 Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey.
-Supporting: Davie, Count B, Kolb, Miriam, the headmaster, the building instructor, Doris, the magic theory instructor, Bet Haskins (keeper of the isolation chambers), plus canon additions (Terlee, Maria, Petra, Wensa, Connie, King Richard Cordes).
+Supporting: Davie, Count B, Kolb, Wensa (accounting instructor; earlier called Miriam), the headmaster, the building instructor, Doris, the magic theory instructor, Bet Haskins (keeper of the isolation chambers), plus canon additions (Terlee, Maria, Petra, Connie, King Richard Cordes).
 
 Profiles live in `codex/characters/` (see `codex/README.md` for the template and labels).
 
@@ -111,7 +111,7 @@ Profiles live in `codex/characters/` (see `codex/README.md` for the template and
 - **Each place squeezes a different tension** (school: rules and rank; town: money and ordinary lives; Two Rivers: Tor's past; capital: open politics; beach house: what can't be said at school; Gallaia: outside threats). Choose a scene's location for what it pressures.
 - **Ground the world in canon detail**: Lairdgren School, the tower bell counting the hours, brown tunics and trousers, the student store, isolation chambers; sigils in cheap ink on unfinished wood; copying vs. novel builds; working trances.
 - **The setting is far-future post-collapse Earth** (common 20th-century names; **no** American state names for counties or houses). Let this show in texture (ruins, odd survivals, names) without explaining it before the plot does.
-- **Describe through a character's attention** where possible: what Miriam notices in a room differs from what Kolb notices. Description is another way to differentiate characters.
+- **Describe through a character's attention** where possible: what Wensa notices in a room differs from what Kolb notices. Description is another way to differentiate characters.
 - **Prefer specific over general.** A named object, a smell, a sound beats an adjective.
 
 ---

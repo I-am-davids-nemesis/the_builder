@@ -1,7 +1,7 @@
 # The warded room
 
 - **Summary:** Campbell takes Tor to the basement of the administration building, a corridor that seems empty and won't hold his attention. Tor drops into a deep trance to focus and sees a door; Campbell is surprised but takes him to it and opens it with an access token. Inside, a roaring fire doesn't warm a freezing room, and one side won't be seen. Deeper in trance, Tor sees who's sitting there: Trice, the headmaster, and Wensa, Rolph's accounting instructor.
-- **POV / mode:** Rotating third: Campbell, whose surprise makes the trance visible from outside; or Tor, with the warding shown through his body (squinting, losing his place). Camera: the narration itself skids off what the wards hide (see staging notes). (invented)
+- **POV / mode:** Rotating third: Campbell (user, October 17, 2026), whose surprise makes the trance visible from outside. Camera: the narration itself skids off what the wards hide (see staging notes).
 - **Location:** The basement of the administration building: a warded corridor, and a warded room. See `codex/locations/the-administration-basement.md`.
 - **Present:** Tor, Campbell; then Trice, the headmaster, Wensa.
 - **Reader learns:** The school has warded spaces that hide doors and people from attention; access tokens; Tor's deep trance sees through wards, which surprises adults; in trance he's less reactive and less subservient.

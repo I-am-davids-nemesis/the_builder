@@ -1,7 +1,7 @@
 # The headmaster's advice
 
 - **Summary:** The headmaster takes Tor outside and tells him to go about his routine, to give Wensa no more reason for suspicion. Tor can't see how to act normal with a royal guard who wants to blame him for everything, and with the food dryer and the shield both waiting.
-- **POV / mode:** Rotating third: the headmaster (what he doesn't say is the point), or Tor. Camera: the two of them walking out into morning. (invented)
+- **POV / mode:** Rotating third: the headmaster (user, October 17, 2026); what he doesn't say is the point, so his viewpoint stays on what he sees and does. Camera: the two of them walking out into morning.
 - **Location:** Up from the basement and outside the administration building, in early morning light.
 - **Present:** Tor, the headmaster.
 - **Reader learns:** The school's authority is on Tor's side, quietly; the danger isn't over; Tor's workload.

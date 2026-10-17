@@ -25,7 +25,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **King Richard Cordes** ordered Tor's scholarship but doesn't know him. He is also the one Ancient who didn't take a color name.
 - **Hereditary magic.** Most **high nobles** have some form of hereditary magic, which is why they're nobles. It usually comes out only when they're **enraged**. Tovey's makes people near him go numb. (canon, user) Nobles tend to be **big**: Tor is "too small to be a noble." (canon, user)
 - **Rolph's family is royal.** Hidden from Tor, hinted to the reader. (canon, user)
-- **The special school** is a **spy school, with a side of assassination training**. Trice and Sara attend it. **Not revealed yet**: on the page, only the black uniforms, the fighting, and a department head. (canon, user)
+- **The special school** is a **spy school, with a side of assassination training**. Trice and Sara attend it. **Not revealed in chapter two**: on the page, only the black uniforms, the fighting, and a department head. (canon, user) It also **trains likely assassination targets**, nobles and high merchants' children; both are true, and in chapter three Rolph tells Tor only the second. (canon, user, October 17, 2026)
 - **The law on striking nobles.** Striking a noble is a **high crime**, punishable by **death**; Wensa calls assaulting a member of the peerage **treason**. (canon, user, chapter three)
 - **Declared friendship.** Among nobles, **declared friends are rare** and treated **very differently** from everyone else; a declared friend becomes a close ally. Tor's "what are friends for?" to Tovey counts as one, with Trice's help. Tor's own belief, from home: **"there are no debts between friends."** (canon, user, chapter three) What the custom obliges, and how it's declared formally, is not yet defined.
 - **Nobles intermarry** for alliances, so many are related; Trice and Tovey are **first cousins**. (canon, user, chapter three)
@@ -62,7 +62,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Staff, chapter three:** a **dean of students**, Campbell (`characters/supporting/campbell.md`); **Wensa**, who teaches accounting (`characters/supporting/wensa.md`). (canon, user)
 - **The administration building** has a **warded basement**, with a room where the school holds the hearing after the courtyard. See `locations/the-administration-basement.md`. (canon, user, chapter three)
 - **The school has holding cells**, or Wensa expects it to. (canon, user, chapter three)
-- **The special academy** (the special school), as Rolph explains it: training for people who might be **targets of assassination**, nobles and the **children of high merchants**. Trice has been there for **years**. Tor had assumed it trained spies and assassins. (canon, user, chapter three) How this squares with "a spy school, with a side of assassination training" (World, above) is an open question (`outline/03-chapter-three/_chapter.md`, question 2).
+- **The special academy** (the special school), as Rolph explains it: training for people who might be **targets of assassination**, nobles and the **children of high merchants**. Trice has been there for **years**. Tor had assumed it trained spies and assassins. (canon, user, chapter three) It's **both** (user, October 17, 2026): it trains people who might be assassination targets, and in practice that means spycraft and the means to kill. Rolph tells Tor the polite half. See World, above.
 
 ### From the chapter two drafts (invented; accepted by the user)
 
@@ -168,7 +168,8 @@ Almost everything about the cast beyond Tor is invented or guessed.
 | Davie | Fifth in line to a county; can't do his own laundry (canon, chapter one); gossip role assumed | Medium |
 | Count B | Patient schemer, plot suspect | Low |
 | Kolb, Doris, building instructor | Names and roles canon (user, chapter one; Kolb was "Carl" and Doris "Sophia" in earlier notes); personalities mostly invented | Low |
-| Miriam, headmaster, magic theory instructor | Roles from the user's list; personalities invented | Low |
+| Headmaster, magic theory instructor | Roles from the user's list; personalities invented | Low |
+| Wensa | Accounting instructor (earlier placeholder "Miriam") and royal guard (canon, user); cover personality invented | Medium |
 | Thompson–House B feud | Created for external tension | Invented |
 | Doris sensing Tor's mental structures | Ties to canon mental controls | Invented hook |
 
