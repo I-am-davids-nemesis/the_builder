@@ -14,6 +14,8 @@ Wensa is the one adult at the school who takes Tor exactly as seriously as he ta
 - Behaves very oddly for an accounting instructor, which is how Tor sees her: he finds her suspicious too. (canon, user, chapter three)
 - **Tried to kill Tor in book 1.** (canon; `canon-notes.md`) Chapter three is where it starts.
 
+- **From the chapter three drafts** (invented; pending review): neat, sharp-faced, gray in her hair, a plain dark dress, ink on the second finger of her right hand. Sits with her weight forward and a hand by her belt. Has held her commission **nineteen years**. Teaches accounts to the third years in the cold room on the second floor; marks Rolph's sums with small neat ticks and never looks at his face for long. "I would like it noted that I objected."
+
 ## Profile
 
 - **Role:** Rolph's hidden bodyguard; the chapter-three antagonist who is right to be careful and wrong about Tor. (first canon; second our reading)

@@ -28,4 +28,5 @@ All beats canon (user, October 17, 2026) unless labeled.
 - **The token and pad** are new objects; describe them concretely. Invented suggestion: a disc on a cord, pressed to a plate set in the stone, and a sound like a held breath let out.
 - **The cold room is description work.** Fire roaring, logs shifting, heat on the face with no warmth in it, breath showing. The cold may be part of the wards; don't explain it.
 - **The reveal of the three is an odd lineup**, and Tor reacts to the oddest: why is the accounting instructor here? Trice, swollen-faced (see `04-the-hearing.md`), may wave.
+- **The chair wards drop.** Once Tor has seen through them, the headmaster switches them off ("There's no point now, is there?"), so Tor can come out of trance and still see the room. The contrast is the point: in trance he's calm and plain; out of it he's apologizing within a breath. (invented, October 17, 2026)
 - **Wensa's suspicion is physical.** She's seen a stranger walk through wards built to stop strangers, and her job is Rolph's safety. She shifts in her chair, a hand going to her belt. The reader doesn't yet know what's there.

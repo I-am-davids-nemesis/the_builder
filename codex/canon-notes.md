@@ -77,6 +77,14 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **House Calder** is a noble house with a son at the school (not the House B placeholder unless the user decides so).
 - Tor and Rolph's room is the **fourth door on the top corridor** of the dormitory. The door bar lifts by itself for its occupants from inside as well as outside.
 
+### From the chapter three drafts (invented; pending the user's review)
+
+- **The administration basement:** thirty-one steps down from the back hall; a lamp in a niche at the bottom. The warded room's door is the seventeenth flagstone on the left; Campbell counts it because he can't see it. The **access token** is a small disc of dark metal on a cord, with a frost-like pattern; the **pad** is a small brass plate at shoulder height; pressing it makes a sound like a held breath let out. The room has a low whitewashed vault and a worn rug. The **chair wards** are switched by a brass stud in the arm of the headmaster's chair (a click like a snuffbox shutting); once Tor has seen through them, the headmaster lets them drop ("There's no point now, is there?").
+- **Morning bells:** the hearing ends near the **sixth bell**; the cousins were in the court at the **second bell** of the morning.
+- **The Arlen works**, forty journeymen, makes lamps; Tovey's mother buys the county's lamps there.
+- **The infirmary** has a sister; the **holding cells** exist, somewhere.
+- **The shield** is due in **twelve days** as of chapter three's morning.
+
 ## How magic works
 
 - **Copying** from a template: about 1 in 60 people can do it, even untrained. Copy work runs the realm's infrastructure.
