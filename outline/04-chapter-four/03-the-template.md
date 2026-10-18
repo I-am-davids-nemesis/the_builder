@@ -1,17 +1,17 @@
 # The template
 
 - **Summary:** With the design finished, Tor sets out to make ten shields, and as always he builds a template first. It takes two days in an isolation chamber, over the rest day and into a class day; he asks Rolph to get his absence excused for the second. That night he comes back to the room and announces it's done. Rolph is mortified, thinking Tor drove himself this hard for the food drying field; Tor laughs and points at the lonely wooden template on the desk, finished days ago. Rolph gets him food and water, and Tor sleeps through the night.
-- **POV / mode:** Proposed rotating third: Rolph (secret-keeper rule). Alternative: Bet Haskins for the chamber, then Rolph. Camera: the chamber door and slate, then the room. (invented; to approve)
+- **POV / mode:** Rotating third: Rolph (secret-keeper rule). Camera: the chamber door and slate, then the room. (POV approved by the user, October 18, 2026)
 - **Location:** An isolation chamber (Bet Haskins's undercroft); the building office or the headmaster's office, for the excuse; Tor and Rolph's room.
 - **Present:** Tor, Rolph, Bet Haskins; whoever excuses the absence.
 - **Reader learns:** Tor always makes a template first; a template is a trance build; ten shields, for his friends; Tor can ask for help now; the food dryer is done.
-- **Hidden (and how):** Who the ten are for, exactly (he doesn't say; undecided); what the shield is worth (nobody prices it yet).
+- **Hidden (and how):** Who the ten are for (he doesn't say yet; see scene 4); what the shield is worth (nobody prices it yet).
 
 ## Beats
 
 All beats canon (user, October 17, 2026) unless labeled.
 
-1. **Ten.** As soon as the design is done, Tor sets out to make **ten** shields, for his friends: one for Kolb's test, the rest for people he thinks need one.
+1. **Ten.** As soon as the design is done, Tor sets out to make **ten** shields, for his friends: one for Kolb's test, the rest for people he thinks need one. (In the end: his own, one each for Rolph, Trice, Sara and Tovey, and the other five to the school for Kolb to manage; user, October 18, 2026.)
 2. **Template first,** as always. It takes **another two days**, in an **isolation chamber**, over the **rest day**.
 3. **The excuse.** Tor asks Rolph to go and get his absence **excused** for the second day of building.
 4. **Done.** The night after the second day, Tor comes back and announces to Rolph that the shield is finished.

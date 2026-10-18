@@ -1,7 +1,7 @@
 # Kolb's challenge
 
 - **Summary:** One day Kolb suggests Tor build a device to make a person fly. Tor insists it isn't possible. Kolb counters: the Austrans do it, and it's their chief advantage over Noram; and didn't Tor just see Tovey flying? Tor admits it must be possible, and drifts off into a fugue working out how.
-- **POV / mode:** Proposed rotating third: Kolb (he sets the idea in motion and watches it land). Camera: the practice yard. (invented; to approve)
+- **POV / mode:** Rotating third: Kolb (he sets the idea in motion and watches it land). Camera: the practice yard. (POV approved by the user, October 18, 2026)
 - **Location:** The practice yard, during or after combat class. (assumed)
 - **Present:** Tor, Kolb; classmates, perhaps Trice and Sara in black.
 - **Reader learns:** The Austrans can fly, and it's their chief advantage over Noram; Kolb is steering Tor toward builds on purpose; Tor's mind turns on a puzzle.

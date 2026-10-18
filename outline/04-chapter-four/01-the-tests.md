@@ -1,7 +1,7 @@
 # The tests
 
 - **Summary:** Tor does exactly what the headmaster told him: his regular routine, every class, every bell. And in every spare hour he tests the shield design harder, because now there's someone who might really mean him harm. Wensa is always there: in the cafeteria when he eats, nearby when he works, closest of all when he tests. The design is tried against cutters, force, fire, smoke and hot dripping wax, and by the end it holds.
-- **POV / mode:** Proposed rotating third: Wensa (secret-keeper rule: explicit action; word choice the only hint at whom she guards). Her viewpoint shows the shield's value growing in front of a trained eye, which sets up her pleasure at the test. Alternative: Tor. Camera: follows Tor, with Wensa always somewhere in frame. (invented; to approve)
+- **POV / mode:** Rotating third: Wensa (secret-keeper rule: explicit action; word choice the only hint at whom she guards). Her viewpoint shows the shield's value growing in front of a trained eye, which sets up her pleasure at the test. Camera: follows Tor, with Wensa always somewhere in frame. (POV approved by the user, October 18, 2026)
 - **Location:** The building room, meditation, theory, the cafeteria, the practice yard, a workroom at night; the places Tor tests. (invented)
 - **Present:** Tor, Wensa; Kolb (cutter, force); Doris, the building instructor, classmates in passing; Rolph, perhaps, as test assistant. (assumed)
 - **Reader learns:** Tor's routine as he keeps it now; how the shield is coming along; that Wensa is watching openly; that Tor is frightened of her and polite about it.

@@ -55,6 +55,8 @@ Until the user decides, **do not commit chapters to one mode**. When drafting ex
 
 **Current practice: parallel drafts.** Write each scene in **both** rotating close third (option 1) and the external, camera-like narrator (option 3), as the paired files `manuscript/<chapter>/<NN-scene>.rotating-third.md` and `.camera.md`. Keep the dialogue close between the two so the modes can be compared. Whole chapters are compiled from the scene files per mode. The user found that both read well with different impacts (October 9, 2026).
 
+**Keep Tor's viewpoint scarce** (user, October 18, 2026). In rotating third, Tor holds the viewpoint only when he's **alone** or something **particularly traumatic** happens to him. Otherwise the scene goes to someone watching him.
+
 ### Tone
 
 **Keep the book as light and funny as possible** (user, October 9, 2026). The original's plot points carry over; its tone does not. Danger stays real, but the comedy comes from the gap between how Tor reads a situation and what's actually happening, from physical comedy, and from the calm of everyone around him. The joke is never on Tor's intelligence.

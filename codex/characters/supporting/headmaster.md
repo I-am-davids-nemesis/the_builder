@@ -16,4 +16,4 @@ Headmaster of the Lairdgren School (canon school name). All other details (assum
 ## Chapter three
 
 - Waits in the warded room with Trice and Wensa while Tor is brought in. After the stand-off, **takes Tor outside** and tells him to **go about his routine** so as to give Wensa no more reason for suspicion. (canon, user, October 17, 2026)
-- **From the chapter three drafts** (invented; pending review): gray and spare, in a long gray gown, spectacles pushed up onto his forehead; bad knees on stairs. Polishes his spectacles when he wants a room to settle. Gives advice as questions: "Do spies generally go to breakfast?" "One thing at a time, Mr. Baker. Isn't that how you build?" Tells Tor about the leaf in his hair.
+- **From the chapter three drafts** (invented; accepted by the user): gray and spare, in a long gray gown, spectacles pushed up onto his forehead; bad knees on stairs. Polishes his spectacles when he wants a room to settle. Gives advice as questions: "Do spies generally go to breakfast?" "One thing at a time, Mr. Baker. Isn't that how you build?" Tells Tor about the leaf in his hair.

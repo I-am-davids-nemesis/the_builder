@@ -1,7 +1,7 @@
 # The first flight
 
-- **Summary:** Tor goes out alone at dawn to test the flying device, turns back for his forgotten shield, and in the sheep field fumbles the controls (on, off, on) until a gesture of frustration throws him into the sky. He learns to move slowly, flies to Hollin in a couple of minutes, takes a long time learning to turn, races home, and spends two minutes landing. Then he goes to find his friends (scene 10).
-- **POV / mode:** Proposed rotating third: Tor (alone, so the scene has nobody else to hold it). Camera: follows Tor, from the ground and then the air. (invented; to approve)
+- **Summary:** Tor goes out alone at dawn to test the flying device, turns back for his forgotten shield, and in the sheep field fumbles the controls (on, off, on) until a gesture of frustration throws him into the sky. He learns to move slowly, flies to Hollin in a couple of minutes, takes a long time learning to turn, races home, and spends two minutes landing. The chapter ends with him on the grass, alone, and a rumor starting in Hollin.
+- **POV / mode:** Rotating third: Tor (he's alone, and it's the one scene where only he can hold it; see `AGENTS.md` §3 on when Tor holds the viewpoint). Camera: follows Tor, from the ground and then the air. (POV approved by the user, October 18, 2026)
 - **Location:** The sheep field below the school (the chapter-three chase); the sky over the valley and Hollin; back at school. (canon, user)
 - **Present:** Tor, alone.
 - **Reader learns:** The flying device works; it answers the hand, and has to be moved slowly; turning and landing are hard; speed takes his breath.
@@ -37,6 +37,7 @@ All beats canon (user, October 18, 2026) unless labeled.
 - **The rumor** (user, October 18, 2026): someone in Hollin (the carter with the cabbages, a boy at the well, the chapel's bell-ringer) sees something in the early sky. By the end of the day it's a story in the town. Tor never hears of it; the reader can enjoy it alone, in a line or two, or in a later chapter.
 - **Turning is the hardest thing.** A long, slow, wobbling circle over Hollin, getting it wrong in every direction.
 - **Two minutes of landing** is endurance comedy, like Kolb's twenty: inch by inch, the grass coming up, his feet finally on the ground, and Tor lying down in it.
+- **The celebration is private** (the old scene 10's proposals moved to scene 8, user, October 18, 2026). Lying in the wet grass among the sheep, Tor laughs out loud, alone: the first time in the book he lets himself be proud, and nobody hears it. It's news, not a boast, even to himself (`tor.md`). Then the sheep, and the bell, and breakfast.
 
 - **Alone is the danger.** Every other test in the chapter had Kolb, Wensa, a crowd. This one has nobody to stop a fire or pull him down.
 - **The handheld control** should be in his hand from the first line, and the reader should know what happens if he drops it.

@@ -1,7 +1,7 @@
 # The broth
 
 - **Summary:** Near the end of the month, Tor dives into his building state, and it lasts four days. When he comes to, Trice is beside him, spooning broth into his mouth, and she's angry with him for working himself so hard. He's touched. It's almost as if she likes him.
-- **POV / mode:** Proposed rotating third: Trice (her anger is her care; she knows what she feels and has no column for it). Camera: the chamber or room, the spoon, the bowl. (invented; to approve)
+- **POV / mode:** Rotating third: Trice (her anger is her care; she knows what she feels and has no column for it). Camera: the room, the spoon, the bowl. (POV approved by the user, October 18, 2026)
 - **Location:** Tor and Rolph's room (user, October 18, 2026).
 - **Present:** Tor, Trice; Rolph and Bet Haskins offstage or in passing.
 - **Reader learns:** How long the flying build takes; Trice cares for Tor, and shows it as anger.

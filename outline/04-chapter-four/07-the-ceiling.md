@@ -1,7 +1,7 @@
 # The ceiling
 
 - **Summary:** Tor considers a few ways to make a flying field, and tests one on a piece of wood in his room, set to go up. It hits the ceiling and stays there; the field is weak enough that he can pull it down. Going up isn't much use, he realizes; he needs control. After many dead ends, he settles on a secondary, handheld control device.
-- **POV / mode:** Proposed rotating third: Rolph (he walks in on the board on the ceiling). Alternative: Tor. Camera: the room. (invented; to approve)
+- **POV / mode:** Rotating third: Rolph (he walks in on the board on the ceiling). Camera: the room. (POV approved by the user, October 18, 2026)
 - **Location:** Tor and Rolph's room.
 - **Present:** Tor; Rolph (assumed).
 - **Reader learns:** A flying field can work; it needs control; the solution is a handheld control.

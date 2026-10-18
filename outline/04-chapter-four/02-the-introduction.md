@@ -1,7 +1,7 @@
 # The introduction
 
 - **Summary:** After dinner, Dorgal corners Tor outside the dining room with two henchmen, Marco and a frightening black-eyed man slightly too old to be a student. They accuse him of having an older girlfriend on the faculty. Tor decides to set his two threats on each other: he goes back in, asks Wensa to come and explain to them why she's following him, and introduces everyone very properly, Wensa as a royal guard and the others by the titles they hold in his eyes. Then he walks away and hopes they don't decide to gang up on him.
-- **POV / mode:** Proposed rotating third: Dorgal (wounded pride, honestly held; he doesn't know about the black-eyed man's influence, so he hides nothing). Alternative: Tor. Camera: outside the dining room, then following Tor away. (invented; to approve)
+- **POV / mode:** Rotating third: Dorgal (wounded pride, honestly held; he doesn't know about the black-eyed man's influence, so he hides nothing). Camera: outside the dining room, then following Tor away. (POV approved by the user, October 18, 2026)
 - **Location:** Just outside the cafeteria: a passage, a stair, the yard by the kitchen door; then back into the dining room and out again. (invented)
 - **Present:** Tor, Dorgal, Marco, the black-eyed man; Wensa; the cafeteria crowd.
 - **Reader learns:** Dorgal has turned on Tor, and has muscle; one of them is strange; Tor can turn his enemies against each other; Dorgal's group now knows Wensa is a royal guard.

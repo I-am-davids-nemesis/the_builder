@@ -1,11 +1,11 @@
 # The test
 
 - **Summary:** After an ordinary morning of classes and lunch, Tor and Rolph walk to the testing ground with people trailing after them, and find a crowd already there. Tor announces he's ready, and Wensa attacks with three royal-guard rods almost before he can activate the shield: one blows up the pell, one bows and cracks the wall behind it, one lights a fire around Tor that she ends before the air runs out. Kolb beats on the shield for twenty minutes, then swings his cutter. Nothing gets through. Kolb laughs that it was meant to be tested on a pell; Wensa says a builder should have faith in his equipment. The headmaster wants some for the school; Sara asks if the deal still stands; Trice suggests selling the template. Then the two of them have to explain to Tor how many people will want this, and he still doesn't connect it with money. He's already thinking about version 2.
-- **POV / mode:** Proposed rotating third: Sara (she prices it, and she's the one who has to explain the scale; she hasn't held a viewpoint yet). Alternative: Kolb. Camera: the testing ground, wide. (invented; to approve)
+- **POV / mode:** Rotating third: Sara (she prices it, and she's the one who has to explain the scale; she hasn't held a viewpoint yet). Camera: the testing ground, wide. (POV approved by the user, October 18, 2026)
 - **Location:** The testing ground: the practice yard (pell, the old wall), with a pond nearby. (testing ground canon; its being the practice yard is assumed)
 - **Present:** Tor, Rolph, Kolb, Wensa, the headmaster, the building instructor, other faculty, Sara, Trice, Tovey, a crowd of students.
 - **Reader learns:** The shield works against everything; Kolb never meant to test it on Tor; Wensa's rods; her cover is gone; the shield's commercial (and, by hint, military) worth; Tor's naivety about scale; version 2.
-- **Hidden (and how):** Why Wensa is happy (she can't say; probably Rolph); what the crown will make of the shield (the headmaster's request and Wensa's pleasure only hint); who gets the 10% (still ambiguous).
+- **Hidden (and how):** Why Wensa is happy (she can't say; probably Rolph, who now has a shield of his own); what the crown will make of the shield (the headmaster's request and Wensa's pleasure only hint); who gets the 10% (still ambiguous).
 
 ## Beats
 
@@ -27,6 +27,7 @@ All beats canon (user, October 17, 2026) unless labeled.
 14. **Kolb is satisfied.**
 15. **Suggestions.** Several people suggest other things to try (drowning Tor in the nearby **pond**). Nobody tries anything.
 16. **The headmaster is enormously pleased,** and suggests Kolb beg Tor for a few for the school's use. Tor doesn't realize how valuable they are.
+    - **Who gets the ten** (user, October 18, 2026): Tor keeps his own; one each goes to his immediate friends, **Rolph, Trice, Sara and Tovey**; the **rest go to the school, for Kolb to manage**. Tor can hand them out here, or the split can be settled in a line; either way the headmaster's request is answered on the spot.
 17. **Sara asks** whether the shields are still in their deal. Tor agrees, still at **10%**. He isn't sure how he'd spend the money.
 18. **Trice:** sell the **template** to the Debri house, and collect royalties without doing the work (though Tor is much faster than other builders).
 19. **The scale.** Tor is very naive about how many people will want this. It has to be explained to him, and even then he doesn't connect it with how much money he stands to make.
