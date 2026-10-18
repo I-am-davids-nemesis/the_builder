@@ -62,9 +62,17 @@ Somewhere close, a bird said something. Another answered. Tor lifted his head.
 
 He could see the trunk in front of him now, and the moss, and his own hands on the sack, filthy and scratched. He could see, between the branches, a long way up, the gray of the coming morning, and in it, high over the edge of the wood, a black shape that wasn't throwing off any sparks at all.
 
-Tovey hung there in the air. He wasn't searching. He was quite still, with his arms at his sides and his head bowed a little, the way a man stands when he's walked into a room and can't remember why. Then he lifted his head. He turned slowly, all the way around, as if seeing the valley for the first time: the wood, the ditch, the sheep field, the school up on its hill with the tower black against the dawn. He stayed facing the school for some time.
+Tovey hung there in the air. He wasn't searching. He was quite still, with his arms at his sides and his head bowed a little, the way a man stands when he's walked into a room and can't remember why. Then he lifted his head, and looked down, and Tor saw him see how far down it was.
 
-Then he went toward it, not fast, low over the fields, and was gone behind the trees.
+He dropped.
+
+Not far, and not fast, but not at all gracefully: a lurch, and a slither, like a man missing the bottom step of a stair, and then the rest of the way all at once. He came down beyond the last trees, in the wet grass at the edge of the sheep field, on his hands and knees, and stayed there.
+
+He stayed there a long time. Tor, between his two roots, didn't move either.
+
+At last Tovey got up. It took him two tries. He stood, huge and dark and swaying a little, with mud to the elbows, and turned slowly, all the way around, as if seeing the valley for the first time: the wood, the ditch, the sheep field, the school up on its hill with the tower black against the dawn, a long, long way off. He stayed facing the school for some time.
+
+Then he put his head down, and began to walk. He walked the way a man walks who has a great many miles in his legs already and has only just found out about them: slowly, stiffly, one boot after the other, up the sheep field toward the stile. A sheep watched him go. He didn't look back.
 
 Tor let out his breath.
 

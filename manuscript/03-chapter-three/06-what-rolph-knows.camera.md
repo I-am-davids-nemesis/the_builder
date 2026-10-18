@@ -16,7 +16,7 @@ Rolph looked at him.
 
 He told it lying on his back, staring upward, in a flat, careful voice. Rolph sat and listened. The tower bell rang once during it, and neither of them looked up.
 
-"—and then he just went home," Tor was saying. "Over the trees. As if he'd left a lamp burning. And then the dean, and the basement, and the door you can't look at, and a room with a great fire in it that's colder than outside, and Trice and the headmaster and Wensa all sitting there in chairs you're not meant to be able to see. And then Tovey came in and *apologized*. To me. And everybody was very kind about it, really. Except Wensa."
+"—and then he just fell out of the air," Tor was saying. "Plop. Into the mud. And got up and walked home. As if he'd left a lamp burning. And then the dean, and the basement, and the door you can't look at, and a room with a great fire in it that's colder than outside, and Trice and the headmaster and Wensa all sitting there in chairs you're not meant to be able to see. And then Tovey came in and *apologized*. To me. And everybody was very kind about it, really. Except Wensa."
 
 He turned his head on the pillow and looked at Rolph.
 

@@ -17,7 +17,7 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
 - **Attacks Trice in the courtyard at night**, sparks flying around him, and knocks her down; when Tor hits him with a sack of copper squares, he turns and attacks Tor. Tor's numbness grows stronger when Tovey looks at him. (canon, user, end of chapter two) **Why:** Trice's own hidden field drove him into a blind rage (`patricia.md`); something triggered it that night. (canon, user) The numbness is his field, which is why it's strongest when he looks at Tor. The reader isn't told any of this in chapter two.
 
 - **Chapter three** (canon, user, October 17, 2026):
-  - **Flies in his rage.** Chasing Tor, he falls behind on foot, then **levitates and flies** after him. At **dawn** he seems to come to himself and flies back toward the school.
+  - **Flies in his rage.** Chasing Tor, he falls behind on foot, then **levitates and flies** after him. At **dawn** he seems to come to himself, and the flight goes with the rage: he comes down and has to **walk** back to the school. (user correction, October 17, 2026)
   - **Trice's first cousin** (they're close enough that marriage between them isn't a consideration). Many nobles are related through marriages made for alliances.
   - **Not angry afterward, embarrassed**, by the loss of control a battle rage implies, and bad at showing embarrassment. **Hates combat rage** (Rolph).
   - Arrives at the warded room **with Kolb**. **Apologizes to Trice first**, then to Tor.
@@ -26,7 +26,7 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
   - **A declared friend of Tor's.** Tor's offhand "what are friends for?" is taken, by noble custom and with Trice's help, as a declaration of friendship (see `canon-notes.md`).
   - **A rare noble**: he doesn't yet treat everyone as a pawn in a game of power, which is why getting on his good side matters so much.
   - **Much later he marries Tor's oldest sister, Terlee.** (canon, user; far beyond book 1; not to be hinted on the page yet)
-- **From the chapter three drafts** (invented; pending review): found after the rage on the **chapel roof**, arms around his knees; changes his coat and pins his brooch straight before facing anyone. Apologizes looking at a point above the other person's head. Calls Trice "Patricia." Tovey's **mother** and Trice's **father** are siblings.
+- **From the chapter three drafts** (invented; pending review): comes down clumsily, hands and knees in the wet grass, and walks back up the Hollin road with mud to his knees; changes his coat and pins his brooch straight before facing anyone. Apologizes looking at a point above the other person's head. Calls Trice "Patricia." Tovey's **mother** and Trice's **father** are siblings.
 - **From the chapter two drafts** (invented; accepted by the user): when he's ordinarily angry it's "a frown and three cold words." In the rage his face is empty, "a face with nobody standing behind it," and sparks come off him. His friends at the Barrow argue that Tor should sell to them first because Tovey asked first.
 
 ## Profile

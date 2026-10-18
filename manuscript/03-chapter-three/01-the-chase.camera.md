@@ -56,9 +56,15 @@ Slowly, the sky through the branches went from black to dark gray.
 
 A bird spoke. Another answered. Tor lifted his head.
 
-High over the edge of the wood, in the gray of the morning, Tovey hung in the air. No sparks came off him now. His arms hung at his sides, and his head was bowed a little, like a man who has walked into a room and forgotten why. Then he raised his head and turned, all the way around, looking at the valley: the wood, the ditch, the sheep field, the school on its hill with the bell tower black against the dawn. He stayed facing the school for some time.
+High over the edge of the wood, in the gray of the morning, Tovey hung in the air. No sparks came off him now. His arms hung at his sides, and his head was bowed a little, like a man who has walked into a room and forgotten why. Then he raised his head, and looked down.
 
-Then he flew toward it, low over the fields, not fast, and was gone behind the trees.
+He dropped: a lurch, a slither, like a man missing the last step of a stair, and then the rest of the way at once. He landed beyond the last trees in the wet grass at the edge of the sheep field, on his hands and knees, and stayed there.
+
+He stayed there a long time.
+
+At last he got up. It took him two tries. He stood swaying, mud to the elbows, and turned all the way around, looking at the valley: the wood, the ditch, the sheep field, the school on its hill with the bell tower black against the dawn, a long way off. He stayed facing the school for some time.
+
+Then he put his head down and walked toward it, slowly and stiffly, one boot after the other, up the sheep field toward the stile. A sheep watched him go. He didn't look back.
 
 Tor let his breath out.
 

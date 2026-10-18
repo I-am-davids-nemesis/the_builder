@@ -12,7 +12,7 @@ The door opened.
 
 Campbell stood aside from it at once. Kolb came in first, which was like Kolb: big and bald and unhurried, his scar pale in the firelight, glancing round the room the way he glanced round the yard, counting exits. Then, ducking under the lintel, Tovey.
 
-He'd changed his coat. That was the first thing Trice noticed, and it told her more than anything else could have. Somebody, at some point in the last hour, had found Tovey somewhere (on a roof, she'd heard; on the roof of the chapel, sitting with his arms around his knees), and talked him down, and taken him to his rooms, and he had *changed his coat*, and brushed his hair, and pinned his brooch on straight, before coming here to be looked at. He was very pale. He stood just inside the door as if he'd been placed there, perfectly upright, with his hands at his sides, and his eyes went round the room and found her and stopped.
+He'd changed his coat. That was the first thing Trice noticed, and it told her more than anything else could have. Somebody, at some point in the last hour, had found Tovey somewhere (on the Hollin road, she'd heard, trudging up the hill out of the valley with mud to his knees, a mile from anywhere), and talked him down, and taken him to his rooms, and he had *changed his coat*, and brushed his hair, and pinned his brooch on straight, before coming here to be looked at. He was very pale. He stood just inside the door as if he'd been placed there, perfectly upright, with his hands at his sides, and his eyes went round the room and found her and stopped.
 
 "Patricia," he said.
 
