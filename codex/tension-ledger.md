@@ -22,6 +22,7 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Merchant houses (chapter two) | Tor picks the Debri house (Sara) over the Sorveys | What Douglas Sorvey wants, and what he does after being refused |
 | Trice's blood | — (not raised on the page in book 1's early chapters; chapter three makes her openly a duke's daughter, and her field stays hidden) | Her high noble blood and rage-inducing field, unknown even to her |
 | Tor's noble-like field | He shows it once, under a knife | What it means that a baker's son has a field like a noble's, and controls it |
+| Austra (chapter four) | — | The Austrans fly, their chief advantage over Noram; Tor is now building the same thing |
 | Doris's discovery | She senses something unusual in Tor's mind | What it is, who put it there, whether she tells |
 | Wensa (chapter three) | — | Her suspicion of Tor (chapter four: she shadows him openly); whom she guards; whether she ever actually tries to kill him, or Tor only believes she does |
 | Dorgal's henchmen (chapter four) | — | Who Marco is; what the black-eyed man is and how he influences Dorgal; what they do with Wensa's secret |

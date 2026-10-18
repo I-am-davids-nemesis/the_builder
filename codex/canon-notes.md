@@ -31,7 +31,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Nobles intermarry** for alliances, so many are related; Trice and Tovey are **first cousins**. (canon, user, chapter three)
 - **Noble titles:** a duke's daughter is a **Ducharina** (Trice: the Ducharina Patricia Alyson Morgan). (canon, user, chapter three)
 - **The rage epidemic.** Lately, **nobles have been falling into combat rages more and more often**, and nobody knows why. People fear a plot. **There is one**, but it's different from what anyone expects and won't come clear for a long time. (canon, user, chapter three) Not yet defined; don't let drafts commit to a cause.
-- **Austra** is a foreign power: Wensa suspects Tor of being an **Austran spy**. (canon, user, chapter three) Its relation to Gallaia and Noram is not yet defined.
+- **Austra** is a foreign power: Wensa suspects Tor of being an **Austran spy**. (canon, user, chapter three) **The Austrans can fly**; it's their **chief advantage over Noram** (Kolb, chapter four) (canon, user, October 18, 2026). How they do it, and Austra's relation to Gallaia, are not yet defined.
 - **Royal guards** guard the royal family, sometimes under cover (Wensa); they "don't play by the same rules as everyone else" (Rolph). (canon, user, chapter three)
 - **Production scale:** most magic manufacturers **can't make a hundred devices in a day**, across the whole company (Tovey). Tor made fifty in one night. (canon, user, chapter three)
 - **Culture clash:** Tor's backwoods, humble, prudish upbringing vs. the cosmopolitan, aggressive, libertine culture of his noble friends. **Our book replaces the libertine side** with flirtation as a non-physical game of wit (see `outline/series-direction.md`).
@@ -142,6 +142,12 @@ Set by Kolb: a **shield** that withstands **both** a lethal blow and a cutter fo
 
 **Version 2** (user, October 17, 2026): the test shows Tor every way it could have failed (air, the ground, the moment before it's on, water). That's the next idea.
 
+
+**After the test** (canon, user, October 18, 2026): Tor works on **new versions** of the shield and makes a few copies of his different devices. His **templates are shipped to the Debri house**: all three, the shield, the drying field and the food dryer, mostly offstage (user, October 18, 2026). Tor leaves the money to his friends. He already has more **gold and silver** than he expected, kept in **a nice box** he bought and fitted with **his own lock** (user, October 18, 2026).
+
+## Tor's fourth project: the flying field (chapter four)
+
+Kolb's challenge: a device to make a person **fly**. Tor says it's impossible; Kolb points to the Austrans and to Tovey over the sheep field. (canon, user, October 18, 2026) Tor's first test is a **piece of wood** in his room, set to go up; it **hits the ceiling**, and he can pull it down because the field is weak (little time spent on it). Going up isn't enough: it needs **control**. After many dead ends, a **secondary, handheld control device**. The full build, near the end of the month, takes a **four-day** building state **in the room**, with Trice and Rolph taking turns sitting with him; Trice is feeding him broth when he comes to (user, October 18, 2026). Nobody else reacts to the flying device yet (user, October 18, 2026). He then tests it **alone**. (canon, user, October 18, 2026) Outcome not yet defined.
 ## The drying field as a product (chapter two)
 
 | Offer | From | Terms | Tor's answer |
