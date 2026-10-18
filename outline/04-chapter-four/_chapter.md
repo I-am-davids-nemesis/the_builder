@@ -20,7 +20,7 @@ Beats are from the user's notes on the original's chapter four (October 17, 2026
 | --- | --- |
 | Build | The shield, tested against cutters, force, fire, smoke and hot wax; then a template and ten copies. The food dryer template, finished offstage days earlier. |
 | Complication | Wensa watching every test; Dorgal and his henchmen cornering Tor; two more days lost in a trance, over the rest day and into a class day |
-| Next idea | To come |
+| Next idea | **Shield version 2** (user, October 17, 2026): the test shows Tor every way it could have failed (air when fire burns it, the ground cracking under him, the moment before it's on, water), and he's thinking about the next version before the congratulations are over. |
 
 ## Known elements
 
@@ -98,6 +98,7 @@ All canon (user, October 17, 2026) unless labeled. The user flagged possible plo
 **Staging notes** (invented):
 
 - **Kolb's punchline is the perception gap's biggest payoff yet.** Since chapter two Tor has believed Kolb meant to test the shield on *him*, and he has walked onto the testing ground prepared to be killed politely. The test was always meant for a pell. Nobody told him because nobody imagined he'd think otherwise. Tor misunderstood all along (user, October 17, 2026).
+- **The shield itself:** an etched **copper plate** with a couple of holes punched in it, worn on a **cord around the neck** (user). All his "commercial" builds so far are on copper. Activation is a touch, and Wensa attacks before he's done it, which is one of version 2's lessons.
 - **The rods are unexplained magic seen from outside.** Each one's "nothing happens" beat is the shield working; the pell and the wall show what it stopped. Let the crowd's reaction carry the scale.
 - **The fire is the one serious beat,** and the next idea. The shield passes air and keeps out smoke (chapter two's requirement, tested in element 2), but it can't make air. Tor's realization should be visible: a hand to his throat, a held breath, muttering. Wensa ends the fire herself (user, October 17, 2026), which matters to how the scene reads: she isn't trying to kill him, though Tor may come to believe she was.
 - **The suggestions are a comic chorus.** Students and faculty offering ways to kill Tor more thoroughly, cheerfully, while he stands there apologizing.
@@ -105,11 +106,11 @@ All canon (user, October 17, 2026) unless labeled. The user flagged possible plo
 - **Wensa is testing, and happy for Rolph** (user, October 17, 2026). A shield like this could keep him alive. She can't say so; her pleasure is visible and unexplained. Tor reads her attack as an attempt on his life, and will go on believing she means to murder him, whether or not she does.
 - **The stakes are hinted, never raised** (user, October 17, 2026). A shield that stops a cutter changes warfare. The headmaster's "for the school's use" and Wensa's pleasure are the only signs that the crown will care. Nobody says it; Tor doesn't see it.
 - **The 10% stays ambiguous** (user, October 17, 2026). "Still at the 10% level" works whichever way round it is.
-- **The money scene is the escalating-numbers joke at its peak.** Twelve gold a drying field; what is a shield that stops a cutter worth? Sara knows. Tor can't imagine spending it.
+- **The money scene is the escalating-numbers joke at its peak.** Twelve gold a drying field; what is a shield that stops a cutter worth? Sara knows. Tor can't imagine spending it. **The chapter ends on the scale being explained to him** (every guard, every soldier, every noble's child, every merchant on a road) and Tor still not connecting it to money: he's thinking about version 2.
 
 ## Proposed scenes
 
-Assumed from the three elements; to confirm once the questions are answered.
+From the three elements (invented split; confirm before scene files are made).
 
 1. **The tests.** The shield design tried against cutters, force, fire, smoke and hot wax, with Wensa always close by. (element 1, beat 1; element 2, beat 1)
 2. **The introduction.** Dorgal and his men corner Tor after dinner; Tor fetches Wensa. (element 1)
@@ -123,14 +124,14 @@ Assumed from the three elements; to confirm once the questions are answered.
 | Plot beat | Partly known: Tor builds and tests the shield under Wensa's constant watch; Dorgal and two henchmen corner him after dinner and accuse him of an older faculty girlfriend; Tor fetches Wensa, introduces them with his own titles, and leaves. With the design done, Tor makes a template over two days (the rest day and one class day, which Rolph gets excused) and ten shields. Rolph, mortified, thinks Tor did it for the food dryer; Tor points to its template, finished days ago. (canon, user) |
 | Location | The cafeteria and outside it; wherever the shield tests happen (workroom, practice yard: to come); an isolation chamber for the template; Tor and Rolph's room for the ending. |
 | Narrative mode / POV | Paired drafts, rotating third and camera. POV to decide once the scenes are known. |
-| Who is present | Tor, Wensa, Dorgal, Marco, the black-eyed man; the cafeteria crowd. Others to come (Kolb, Rolph, Trice, Sara likely). |
+| Who is present | Tests: Tor, Wensa, Kolb (others to decide). Introduction: Tor, Wensa, Dorgal, Marco, the black-eyed man; the cafeteria crowd. Template: Tor, Rolph, Bet Haskins. Test: Tor, Rolph, Kolb, Wensa, the headmaster, the building instructor, other faculty, Sara, Trice, Tovey, a crowd of students. |
 | What the reader learns | Wensa is watching openly now; Dorgal has muscle, and one of them is strange; Tor can turn his enemies on each other; Wensa's cover is now known to Dorgal's group; Tor makes shields for his friends; the food dryer is done. |
 | What stays hidden, and how | What the black-eyed man is, and his influence on Dorgal (description only; a glance, a crueler line); what passes between Wensa and Dorgal's men (never shown; Tor leaves). |
 
 ## Open questions for the user
 
-1. **The rest of the chapter.** Is there more after the ten shields (Kolb's test, giving them out), or does that belong to chapter five? How does the chapter end?
-2. **The shield's material.** What is it built on: copper, like the drying fields, or something wearable?
+1. ~~The rest of the chapter.~~ Element 3: the night after the build, and the test. The chapter ends on the scale being explained to Tor (user, October 17, 2026).
+2. ~~The shield's material.~~ An etched copper plate with holes punched for a cord, worn around the neck (user, October 17, 2026).
 3. ~~Why ten?~~ For his friends: one for Kolb's test, the rest for the people he thinks need one. His reaction rule of quietly making things for people (answered October 17, 2026).
 4. ~~Order.~~ Tests (with Wensa watching) → Dorgal's confrontation → template and ten copies (answered October 17, 2026).
 5. ~~Where he builds.~~ The template is built in an **isolation chamber**, and Tor brings the work back to the room when it's done (answered October 17, 2026).
@@ -139,3 +140,11 @@ Assumed from the three elements; to confirm once the questions are answered.
 8. ~~Why Dorgal, why now?~~ Wounded pride, his own: the workroom night curdled. But the black-eyed man has a subtle influence on him that isn't revealed until much later (answered October 17, 2026).
 9. ~~The titles.~~ Tor **does** introduce Wensa as a royal guard, aloud, in front of Dorgal's group. Her cover is blown to them (answered October 17, 2026).
 10. ~~What happens between them?~~ Never shown; the camera stays with Tor. Later chapters show only effects (answered October 17, 2026).
+11. ~~Pell or Tor?~~ Kolb always meant to test the shield on a pell. Tor misunderstood, from chapter two on (user, October 17, 2026).
+12. ~~The fire.~~ Wensa stops it before it becomes a real problem (user, October 17, 2026).
+13. ~~Wensa's attack.~~ A real test; she's happy, probably for Rolph's sake. She may never actually try to murder Tor, but **Tor will believe she does** (user, October 17, 2026).
+14. ~~The 10%.~~ Still ambiguous (user, October 17, 2026).
+15. ~~Selling military magic.~~ Hinted, not raised (user, October 17, 2026).
+16. ~~Who gets the ten?~~ Undecided (user, October 17, 2026).
+17. ~~Who else is at the test?~~ Rolph, Tovey and the building instructor (user, October 17, 2026).
+18. ~~Wensa's cover.~~ Gone (user, October 17, 2026).

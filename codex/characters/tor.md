@@ -53,6 +53,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
   - Jokes, to Rolph only, that Wensa chasing him would be more fun if she were younger.
 
 - **Chapter four** (canon, user, October 17, 2026): finishes the shield design after testing it against cutters, force, fire, smoke and hot wax; makes a template over two days (the rest day and a class day) and ten shields. **Asks Rolph to get his absence excused**, a change from chapter one's fear of expulsion. Finished the food dryer's template days earlier and said nothing. Makes the ten for **his friends**: one for Kolb's test, the rest for people he thinks need one. Builds the template in an **isolation chamber**. Introduces Wensa to Dorgal's group as a **royal guard**, aloud. (user, October 17, 2026)
+  - **The test:** walks onto the testing ground believing Kolb means to test the shield on him; it was always meant for a pell. Survives Wensa's rods and Kolb's twenty minutes and cutter. Agrees to Sara's deal at 10%; can't imagine spending the money. **Naive about scale**: has to have it explained how many people will want a shield, and still doesn't connect it with money (user, October 17, 2026). Already thinking about **version 2**. Comes to believe Wensa is trying to murder him (user, October 17, 2026).
 
 ## Reaction rules
 
@@ -76,6 +77,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - **Given a lethal deadline** → takes it seriously, and politely; no reassurance changes that. (canon: Kolb's shield, chapter two)
 - **Doing copy work** → gets bored and sloppy, and gives away the imperfect copies to whoever needs them. (canon, chapter two)
 - **Small talk** → tunes out and privately judges it.
+- **A build succeeds** → sees every way it could have failed, and starts on the next version before the praise is over. (canon seed: shield version 2, chapter four (user, October 17, 2026))
 - **Threatened by two parties at once** → introduces them to each other, with perfect courtesy, and leaves. The same instinct as hiding behind Sara's name with Sorvey (chapter two), used on purpose. (canon, user, chapter four) His introductions give people the titles they hold *in his eyes*, not their station.
 - **Faced with something that won't hold his attention** (a ward) → drops into a trance to focus, and comes out the other side seeing it. (canon, user, chapter three)
 - **Asked why he helped a friend** → can't answer; changes the subject to the work. (canon seed: the yawn and the fifty, chapter three)

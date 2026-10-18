@@ -131,12 +131,16 @@ A **food drying field**: the drying field adapted to fruit and vegetables, again
 
 ## Tor's third project: the shield (chapter two)
 
-Set by Kolb: a **shield** that withstands **both** a lethal blow and a cutter for **at least twenty minutes**, due in **two weeks**. Kolb will test it on Tor himself. Tor's raw field in sparring shows it can work, and that it must **let air in but keep dust out**. (canon, user) His first principle, from watching a carter's knife cut a cabbage stalk: a blow is a weight that can be spread, but an edge is a line that can't, so the field should **turn** a cut rather than stop it. (invented; accepted by the user)
+Set by Kolb: a **shield** that withstands **both** a lethal blow and a cutter for **at least twenty minutes**, due in **two weeks**. Kolb means to test it **on a pell**; **Tor believes** it will be tested on him, and nobody corrects him until the test (user, October 17, 2026). (The earlier note "Kolb will test it on Tor himself" was wrong.) Tor's raw field in sparring shows it can work, and that it must **let air in but keep dust out**. (canon, user) His first principle, from watching a carter's knife cut a cabbage stalk: a blow is a weight that can be spread, but an edge is a line that can't, so the field should **turn** a cut rather than stop it. (invented; accepted by the user)
 
 **Tor's field, seen from outside** (invented; accepted by the user): sand slides away from him in a ring with a hiss; Trice is pushed back an arm's length; the knife stops a hand's breadth from his throat; thrown powder clings to the outside in the shape of an egg. He uses it once and not again that afternoon.
 
 
-**Finished** (canon, user, chapter four): tested against **cutters, force, fire, smoke and hot dripping wax**. Then a **template**, which takes **two more days** (over the rest day and into a class day), and **ten** shields from it.
+**Finished** (canon, user, chapter four): tested against **cutters, force, fire, smoke and hot dripping wax**. Then a **template**, which takes **two more days** (over the rest day and into a class day) in an **isolation chamber**, and **ten** shields from it, for his friends; who actually gets them is undecided. Each is an etched **copper plate** with holes punched for a **cord**, worn around the neck (user, October 17, 2026); all of Tor's "commercial" builds so far are on copper.
+
+**The test** (canon, user, chapter four): before the headmaster, faculty (Wensa, the building instructor), Sara, Trice, Tovey, Rolph and a crowd. Wensa attacks with three royal-guard **rods** before Tor has activated it: one that shows its force only when turned on the pell (which explodes), one that bows and cracks the wall behind the pell's remains, and one that lights a fire around Tor, which she ends herself before the air runs out. Kolb beats on it with a practice weapon for twenty minutes, cracking the ground under Tor's feet, then swings his cutter. Nothing gets through. Suggestions follow (drowning him in the nearby **pond**); nobody tries them. The headmaster wants some for the school.
+
+**Version 2** (user, October 17, 2026): the test shows Tor every way it could have failed (air, the ground, the moment before it's on, water). That's the next idea.
 
 ## The drying field as a product (chapter two)
 
@@ -164,7 +168,7 @@ In the drafts (invented; accepted by the user): Rolph's 11 a board is his "frien
 | Patricia ("Trice") | Goes by Trice; divisive in later books | `characters/patricia.md` |
 | Dorgal Sorvey | Full name canon (user); son of Douglas Sorvey (canon, user); the "Sorvey" listed as book 1 bully is likely him (assumed) | `characters/dorgal.md` |
 | Douglas Sorvey | Dangerous merchant; Dorgal's father | `characters/supporting/douglas-sorvey.md` |
-| Wensa | Rolph's accounting instructor; secretly a royal guard, his lead bodyguard; tried to kill Tor in book 1 | `characters/supporting/wensa.md` |
+| Wensa | Rolph's accounting instructor; a royal guard, his lead bodyguard; **Tor believes** she tries to kill him in book 1, whether or not she does | `characters/supporting/wensa.md` |
 | Campbell | Dean of students | `characters/supporting/campbell.md` |
 | King Richard Cordes | See World above | — |
 
