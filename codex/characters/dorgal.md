@@ -11,6 +11,8 @@ Dorgal is the charming rival builder who needs Tor to be beatable, and gradually
 
 - **From the chapter two drafts** (invented; accepted by the user): lays out three pens and uses the middle one; splits a nib when he sees his father's mark on a card. Knows the Sorvey coachman by name. Teases Tor: "Off to be dunked again, Baker? Do try to float this time." Says "Interesting" to every version of the sand story. Works alone at night in the east-stair workroom on a perfect painted copy of the drying field that does nothing; hides it under a cloth when Tor comes in. Asked if he knows Sorvey: "Everyone knows him." Asked if Sorvey is nice: "He isn't. Particularly." Learns from Tor that the sigil is only a guide. Refuses a crooked copy out of pride, and stays in the workroom as long as Tor does. Afterward traces his own sigil and lets his finger wander off the line.
 
+- **Chapter four** (canon, user, October 17, 2026): **corners Tor after dinner** with two henchmen, **Marco** and an older man with nearly all-black eyes (`supporting/minor-characters.md`). They accuse Tor of having an **older girlfriend on the faculty** (Wensa, who's been following him). Tor fetches Wensa, introduces them to each other, and leaves them to it. **Why:** wounded pride, his own (the workroom night curdled), with a **subtle influence from the black-eyed man** that isn't revealed until much later. (user, October 17, 2026)
+
 ## Profile
 
 - **Role:** A gifted, well-connected fellow builder student; the class star until Tor arrives. (assumed)
@@ -18,7 +20,7 @@ Dorgal is the charming rival builder who needs Tor to be beatable, and gradually
 - **Need:** To value the craft more than the applause, which Tor, oddly, can teach him.
 - **Internal tension:** Admiration for Tor's work vs. resentment of what it does to his own standing.
 - **External tension:** A sponsor (house unconfirmed; House B is a strong candidate) who invested in him and expects results.
-- **Hidden aspect:** He copies Tor's ideas and hates himself for it.
+- **Hidden aspect:** He copies Tor's ideas and hates himself for it. And something is working on him through the black-eyed man, which he may not know himself. (user, October 17, 2026)
 
 ## Reaction rules
 

@@ -16,6 +16,8 @@ Wensa is the one adult at the school who takes Tor exactly as seriously as he ta
 
 - **From the chapter three drafts** (invented; pending review): neat, sharp-faced, gray in her hair, a plain dark dress, ink on the second finger of her right hand. Sits with her weight forward and a hand by her belt. Has held her commission **nineteen years**. Teaches accounts to the third years in the cold room on the second floor; marks Rolph's sums with small neat ticks and never looks at his face for long. "I would like it noted that I objected."
 
+- **Chapter four** (canon, user, October 17, 2026): **follows Tor around**: eats in the cafeteria when he does, is always close at hand, and is especially close when he tests ideas for the shield. When Tor comes back into the dining room and asks her to come out and explain to Dorgal and his men why she's following him, **she does**. Tor introduces her **as a royal guard**, aloud, so **her cover is blown** to Dorgal, Marco and the black-eyed man. What passes between them is never shown. (canon, user; the introduction's wording, user, October 17, 2026)
+
 ## Profile
 
 - **Role:** Rolph's hidden bodyguard; the chapter-three antagonist who is right to be careful and wrong about Tor. (first canon; second our reading)

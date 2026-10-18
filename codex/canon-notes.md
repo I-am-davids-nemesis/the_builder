@@ -88,6 +88,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 ## How magic works
 
 - **Copying** from a template: about 1 in 60 people can do it, even untrained. Copy work runs the realm's infrastructure.
+- **Tor always makes a template first**, then copies from it. A template is itself a full build, and can take days in trance. (canon, user, chapter four)
 - **Novel builds** are rare; even builder students seldom try; professionals may need dozens of attempts.
 - Advanced building like Tor's is so rare that producing **even one such builder from a whole cohort** counts as an amazing accomplishment for the school. Everyone at the school knows this instinctively; a student doing it is in no danger of expulsion for missed classes, and nobody thinks that's worth saying. (canon, user)
 - The builder must understand the idea very clearly. A **sigil on a focus** (cheap ink on unfinished wood) is a mental map that holds focus.
@@ -122,15 +123,20 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 
 A field on a pine square, a hand across, painted in cheap blue house paint, that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent **thirty hours** in trance (duration decided by the user) from late on fourth day to dawn on the rest day, missing all of fifth day's classes, including one afternoon of combat (timing invented to fit); it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
 
-## Tor's second project (idea only, chapter one)
+## Tor's second project: the food drying field (idea in chapter one; built offstage, revealed in chapter four)
 
 A **food drying field**: the drying field adapted to fruit and vegetables, against crop losses. Prompted by Rolph; sketched the same day and dreamed about that night. (canon, user)
+
+**Built** (canon, user, chapter four): Tor finished the food dryer's **template**, a plain wooden board, a couple of days before the shield template, and didn't mention it. It sits alone on the desk until Rolph notices.
 
 ## Tor's third project: the shield (chapter two)
 
 Set by Kolb: a **shield** that withstands **both** a lethal blow and a cutter for **at least twenty minutes**, due in **two weeks**. Kolb will test it on Tor himself. Tor's raw field in sparring shows it can work, and that it must **let air in but keep dust out**. (canon, user) His first principle, from watching a carter's knife cut a cabbage stalk: a blow is a weight that can be spread, but an edge is a line that can't, so the field should **turn** a cut rather than stop it. (invented; accepted by the user)
 
 **Tor's field, seen from outside** (invented; accepted by the user): sand slides away from him in a ring with a hiss; Trice is pushed back an arm's length; the knife stops a hand's breadth from his throat; thrown powder clings to the outside in the shape of an egg. He uses it once and not again that afternoon.
+
+
+**Finished** (canon, user, chapter four): tested against **cutters, force, fire, smoke and hot dripping wax**. Then a **template**, which takes **two more days** (over the rest day and into a class day), and **ten** shields from it.
 
 ## The drying field as a product (chapter two)
 
@@ -200,4 +206,5 @@ Almost everything about the cast beyond Tor is invented or guessed.
 - The user's plot summary of chapter two (October 9, 2026): Kolb's shield assignment, sparring with Trice and Sara, Douglas Sorvey's offer, the Debri offer, Rolph's order, the copper build, the courtyard fight with Tovey
 - The user's answers on chapter two (October 9, 2026): Douglas is Dorgal's father; Tovey is Count Thompson; the special school is a spy school; hereditary noble fields and Trice's hidden one; Rolph's family is royal; Tor's field looks noble and is controlled
 - The user's plot summary of chapter three (October 15–17, 2026): the chase and Tovey's flight, the dean, the warded basement, Wensa, the hearing and declared friendship, Trice's title, the special academy, Rolph's gift, the rage epidemic, Austra
+- The user's notes on chapter four (October 17, 2026): Wensa shadows Tor; Dorgal, Marco and the black-eyed man corner him; Tor introduces them to Wensa
 - The user's notes on chapter one's laundry scene (October 9, 2026): Davie, the soap, Dorgal's teasing, Tovey and his crowd, Trice and Sara's 30-gold price, the prototype turned in for testing

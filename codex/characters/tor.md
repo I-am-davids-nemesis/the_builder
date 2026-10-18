@@ -52,6 +52,8 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
   - Too exhausted by stress and no sleep to focus on a build; says so.
   - Jokes, to Rolph only, that Wensa chasing him would be more fun if she were younger.
 
+- **Chapter four** (canon, user, October 17, 2026): finishes the shield design after testing it against cutters, force, fire, smoke and hot wax; makes a template over two days (the rest day and a class day) and ten shields. **Asks Rolph to get his absence excused**, a change from chapter one's fear of expulsion. Finished the food dryer's template days earlier and said nothing. Makes the ten for **his friends**: one for Kolb's test, the rest for people he thinks need one. Builds the template in an **isolation chamber**. Introduces Wensa to Dorgal's group as a **royal guard**, aloud. (user, October 17, 2026)
+
 ## Reaction rules
 
 - **Praised** → deflects to luck, a teacher, or the materials; changes the subject to the work.
@@ -74,6 +76,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - **Given a lethal deadline** → takes it seriously, and politely; no reassurance changes that. (canon: Kolb's shield, chapter two)
 - **Doing copy work** → gets bored and sloppy, and gives away the imperfect copies to whoever needs them. (canon, chapter two)
 - **Small talk** → tunes out and privately judges it.
+- **Threatened by two parties at once** → introduces them to each other, with perfect courtesy, and leaves. The same instinct as hiding behind Sara's name with Sorvey (chapter two), used on purpose. (canon, user, chapter four) His introductions give people the titles they hold *in his eyes*, not their station.
 - **Faced with something that won't hold his attention** (a ward) → drops into a trance to focus, and comes out the other side seeing it. (canon, user, chapter three)
 - **Asked why he helped a friend** → can't answer; changes the subject to the work. (canon seed: the yawn and the fifty, chapter three)
 - **Expects punishment** → puts his obligations in order first (the order delivered, the money sent home), then gives himself up. (canon, user, chapter three)
