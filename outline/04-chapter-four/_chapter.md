@@ -23,7 +23,7 @@ Beats are from the user's notes on the original's chapter four (October 17, 2026
 | Next idea (turn one) | **Shield version 2** (user, October 17, 2026): the test shows Tor every way it could have failed (air when fire burns it, the ground cracking under him, the moment before it's on, water), and he's thinking about the next version before the congratulations are over. |
 | Build (turn two) | Shield versions; the templates sold to the Debri house; then Kolb's challenge: a **flying field**, tested on a board, controlled by a **handheld device**, built in a four-day trance (user, October 18, 2026) |
 | Complication (turn two) | It only goes up; control; four days lost; Trice's anger |
-| Next idea (turn two) | To come (the first flight's outcome) |
+| Next idea (turn two) | Left for chapter five (user, October 18, 2026). (The flight shows turning, landing and breathing at speed are problems.) |
 
 ## Known elements
 
@@ -148,9 +148,7 @@ All canon (user, October 18, 2026) unless labeled.
 
 ### 7. The first flight
 
-All canon (user, October 18, 2026) unless labeled.
-
-1. **One more scene:** Tor goes out to test the flying device, **by himself**.
+All canon (user, October 18, 2026) unless labeled. Beats in `09-the-first-flight.md`: the forgotten shield; on, off, on; a gesture throws him into the sky; slowness; Hollin in a couple of minutes; a long struggle to turn; home faster; two minutes to land; then his friends, Sara's offer to marry him, Trice's "I saw him first," and Tor taking it as a joke.
 
 **Staging notes for elements 4–7** (invented):
 
@@ -161,7 +159,7 @@ All canon (user, October 18, 2026) unless labeled.
 - **Up isn't enough** is Tor's own realization, said aloud: "It only goes *up*." The dead ends are a short list of failures (lean to steer, a second field, a rudder) before the handheld control.
 - **Four days** is chapter one's trance at full length: Bet Haskins's slate or the room, the lost bells, Rolph and Trice taking turns. Where he builds is an open question.
 - **Trice angry is Trice moved:** her reaction rule is brisk logistics when genuinely moved (`patricia.md`). She scolds while she feeds him, and the scolding is very practical. Tor's "almost as if she likes him" is the perception gap at its gentlest: the reader knows she does (chapter three). Non-sexual; care, not romance (`AGENTS.md` §9).
-- **The first flight, alone,** is the chapter's last image, and its danger: no Kolb, no crowd, no Wensa. What happens is an open question.
+- **The first flight, alone,** is the chapter's last big set piece, and its danger: no Kolb, no crowd, no Wensa. It ends in celebration, and two proposals Tor thinks are jokes.
 
 ## Proposed scenes
 
@@ -175,7 +173,8 @@ From the three elements (invented split; confirm before scene files are made).
 6. [Kolb's challenge](06-kolbs-challenge.md): fly? Impossible. The Austrans; Tovey. The fugue begins. (element 5, beats 1–4)
 7. [The ceiling](07-the-ceiling.md): options, the board on the ceiling, the control problem, dead ends, the handheld control. (element 5, beats 5–8)
 8. [The broth](08-the-broth.md): four days in the building state; Trice, angry, with broth. (element 6)
-9. [The first flight](09-the-first-flight.md): Tor tests the flying device alone. (element 7)
+9. [The first flight](09-the-first-flight.md): Tor tests the flying device alone: the shield, on-off-on, up, Hollin, turning, landing; a rumor in Hollin. (element 7)
+10. [The proposals](10-the-proposals.md): Tor celebrates with his friends; Sara offers to marry him, Trice saw him first; he thinks they're joking. (element 7)
 
 ## Planning fields
 
@@ -183,7 +182,7 @@ From the three elements (invented split; confirm before scene files are made).
 | --- | --- |
 | Plot beat | Partly known: Tor builds and tests the shield under Wensa's constant watch; Dorgal and two henchmen corner him after dinner and accuse him of an older faculty girlfriend; Tor fetches Wensa, introduces them with his own titles, and leaves. With the design done, Tor makes a template over two days (the rest day and one class day, which Rolph gets excused) and ten shields. Rolph, mortified, thinks Tor did it for the food dryer; Tor points to its template, finished days ago. (canon, user) |
 | Location | The cafeteria and outside it; wherever the shield tests happen (workroom, practice yard: to come); an isolation chamber for the template; Tor and Rolph's room for the ending. |
-| Narrative mode / POV | Paired drafts, rotating third and camera. Proposed rotating-third POV (invented; to approve): Wensa (tests; secret-keeper rule), Dorgal (introduction), Rolph (template), Sara (test), Sara or Tor (interlude), Kolb (challenge), Rolph (ceiling), Trice (broth), Tor (first flight). |
+| Narrative mode / POV | Paired drafts, rotating third and camera. Proposed rotating-third POV (invented; to approve): Wensa (tests; secret-keeper rule), Dorgal (introduction), Rolph (template), Sara (test), Sara or Tor (interlude), Kolb (challenge), Rolph (ceiling), Trice (broth), Tor (first flight), Sara or Trice (proposals). |
 | Who is present | Tests: Tor, Wensa, Kolb (others to decide). Introduction: Tor, Wensa, Dorgal, Marco, the black-eyed man; the cafeteria crowd. Template: Tor, Rolph, Bet Haskins. Test: Tor, Rolph, Kolb, Wensa, the headmaster, the building instructor, other faculty, Sara, Trice, Tovey, a crowd of students. |
 | What the reader learns | Wensa is watching openly now; Dorgal has muscle, and one of them is strange; Tor can turn his enemies on each other; Wensa's cover is now known to Dorgal's group; Tor makes shields for his friends; the food dryer is done. |
 | What stays hidden, and how | What the black-eyed man is, and his influence on Dorgal (description only; a glance, a crueler line); what passes between Wensa and Dorgal's men (never shown; Tor leaves). |
@@ -208,9 +207,12 @@ From the three elements (invented split; confirm before scene files are made).
 16. ~~Who gets the ten?~~ Undecided (user, October 17, 2026).
 17. ~~Who else is at the test?~~ Rolph, Tovey and the building instructor (user, October 17, 2026).
 18. ~~Wensa's cover.~~ Gone (user, October 17, 2026).
-19. **The first flight.** What happens? The user will describe it (October 18, 2026).
+19. ~~The first flight.~~ Described by the user (October 18, 2026); see `09-the-first-flight.md`.
 20. ~~Which templates?~~ All three, mostly offstage. Tor lets his friends handle the money; he has a box of gold and silver with his own lock (user, October 18, 2026).
 21. ~~Where is the four-day build?~~ In the room. Trice and Rolph take turns sitting with him, and it's her turn when he wakes (user, October 18, 2026).
 22. ~~Does anyone react to the flying device?~~ Nobody yet. The Austran irony is the reader's alone, saved for later (user, October 18, 2026).
 23. **The copies of "the different devices":** which ones, and for whom (the friends who were to get shields)?
 24. **The timescale.** "Near the end of the month": does chapter four cover about a month? Is the month named or numbered?
+25. ~~Are the proposals jokes?~~ More than half serious: they mean it, and they're jockeying for position; Tor can't believe it, because of Maria (user, October 18, 2026).
+26. ~~Does Hollin see him?~~ A rumor starts in the town; Tor never hears of it (user, October 18, 2026).
+27. ~~The next idea after the flight.~~ Left for chapter five (user, October 18, 2026).
