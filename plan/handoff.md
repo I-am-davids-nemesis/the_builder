@@ -5,8 +5,8 @@ Where the work stands, what's next, and what we're waiting on the user for. Read
 ## Current state
 
 - **Chapters 1–3:** drafted in both modes (`manuscript/0N-*/NN-slug.camera.md` and `.rotating-third.md`), outlined, and committed. Chapter 3's last commit was `0e463e6` (Tovey walks home once the rage ends).
-- **Chapter 4:** fully outlined, **not drafted**. Ten scene outlines in `outline/04-chapter-four/`, plus `_chapter.md` (elements 0–7 and 5a, engine table, planning fields, answered questions). Restructured October 18, 2026: a new scene 8 (the cold snap, with the proposals), broth and first flight renumbered to 9 and 10, the old proposals scene removed. `manuscript/04-chapter-four/` doesn't exist yet.
-- **Codex:** updated through chapter 4's outline (Wensa, Dorgal, Marco and the black-eyed man, the shield test, the flying field, Austra, the proposals, Maria's school dance).
+- **Chapter 4:** **drafted** in both modes, all ten scenes (`manuscript/04-chapter-four/`), one commit per scene, ending with scene 10 (the first flight). Compiled: 28,738 words in rotating third, 18,813 in camera. Restructured October 18, 2026: scene 8 is the cold snap (with the proposals); the old proposals scene was removed.
+- **Codex:** updated through chapter 4's drafts; every invented draft detail is labeled "(invented; pending the user's review)", with a per-scene list in `canon-notes.md` ("From the chapter four drafts"). Earlier: updated through chapter 4's outline (Wensa, Dorgal, Marco and the black-eyed man, the shield test, the flying field, Austra, the proposals, Maria's school dance).
 - **Git:** the local editor autosaves commits ("Autosave: Edit N files"). Check `git status` before starting.
 - **Compile:** `node ~/workspace/local_editor/bin/compile.mjs` from the book folder (all chapters and modes, plus `compiled/book.<mode>.md`), or `node ~/workspace/local_editor/bin/compile.mjs 4` for one chapter. The book has no scripts of its own; tools live in `~/workspace/local_editor`. `compiled/` is gitignored, and so is `.obsidian/`.
 
@@ -48,15 +48,14 @@ Chapter 3's invented details were accepted by the user (October 18, 2026) and re
 
 ## TODO
 
-1. **Create `manuscript/04-chapter-four/`** and draft all ten scenes in both modes, following chapter 3's practice:
-   - Read the scene outline, the relevant codex profiles, and the end of chapter 3's drafts (for voice and continuity).
-   - Rotating third: one POV per scene; the secret-keeper rule for Wensa and Rolph (explicit action, word choice only).
-   - Camera: no interiority; keep the dialogue close to the rotating-third version.
-   - Scene files hold prose only; no headings.
-   - Don't reuse the original's wording.
-   - Keep it light and funny; non-sexual (the proposals especially).
-2. **Record invented draft details** in the codex as "(invented; pending the user's review)", as done for chapter 3.
-3. **Run `node ~/workspace/local_editor/bin/compile.mjs 4`** and report word counts.
+1. **The user reviews chapter 4's drafts** and its invented details (see `canon-notes.md`), then accepts or changes them; relabel accepted ones "(invented; accepted by the user)".
+2. **Flags to raise with the user:**
+   - Scene 2: the black-eyed man laughs softly (cut?).
+   - Scene 3: Rolph excuses Tor through the building master (invented).
+   - Scene 5: Tor mentions *trying* a shield that switches itself on, and rejects it (cut, given the later plot point?).
+   - Scene 8: Sara's letter asks her father to come and see the plate (commits the Debri father to a visit?).
+   - Scene 10: the control's cord and "it keeps doing what it was last told" rule; the shield passes wind, so he can't breathe at speed (a hook for a later version); the Hollin rumor (Sam Carter, the Plough).
+3. **Revise** chapter 4 scenes as the user directs; recompile with `node ~/workspace/local_editor/bin/compile.mjs 4`.
 4. **Later:** outline chapter 5 when the user brings notes.
 
 ## Continuity to watch in chapter 4
