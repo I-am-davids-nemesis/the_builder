@@ -17,6 +17,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - Has hidden **mental controls**, revealed in later books; he isn't who or what he thinks he is. (canon)
 
 - **From the chapter two drafts** (invented; accepted by the user):
+- **From the chapter four drafts** (invented; pending the user's review): takes the proposals as "a lovely joke" and thanks Sara and Trice for being kind; "I've asked a girl to a dance before." Leaves the heater plates up "for the summer."
   - **Fighting:** early rather than fast; watches hands, not faces; can't be feinted; goes left when frightened; apologizes when he dodges, when he lands a blow, and when he's thrown, and thanks people for throwing him.
   - **On the run:** stops at the marker stone, looks back at the tower, asks a carter which way Two Rivers is. Her knife on a cabbage stalk gives him the shield idea.
   - **Calls them** "Miss Sara" and "Miss—Trice," unsure what he's allowed to call her. Assumes, when they're dressed up, that they're on their way somewhere nice.

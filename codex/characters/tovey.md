@@ -28,6 +28,7 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
   - **Much later he marries Tor's oldest sister, Terlee.** (canon, user; far beyond book 1; not to be hinted on the page yet)
 - **From the chapter three drafts** (invented; accepted by the user): comes down clumsily, hands and knees in the wet grass, and walks back up the Hollin road with mud to his knees; changes his coat and pins his brooch straight before facing anyone. Apologizes looking at a point above the other person's head. Calls Trice "Patricia." Tovey's **mother** and Trice's **father** are siblings.
 - **From the chapter four drafts** (invented; pending the user's review): calls Sara "Miss Debri." Takes his shield with "Scholar Baker," then exchanges a long, silent look with Kolb before putting it away: the only sign of what a shield like that means to a soldier.
+  - Scene 8: not cold (his rooms have a hearth and a man to keep it), but sends a note on heavy paper asking, if it's no great inconvenience to Scholar Baker, for a plate for his mother, who keeps a large house and feels the winters.
 - **From the chapter two drafts** (invented; accepted by the user): when he's ordinarily angry it's "a frown and three cold words." In the rage his face is empty, "a face with nobody standing behind it," and sparks come off him. His friends at the Barrow argue that Tor should sell to them first because Tovey asked first.
 
 ## Profile
