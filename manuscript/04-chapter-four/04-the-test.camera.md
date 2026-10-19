@@ -68,6 +68,8 @@ Beyond the stump, the old wall bowed outward, away from them, in a long, slow cu
 
 "Yes," said the headmaster mildly. "It has."
 
+Along the racks, the whispering started. "Those are guard rods." "Royal guard." "The *accounts* mistress?" "Wensa?" It went from mouth to mouth down the yard. On the faculty bench, the building master turned his head and looked at Wensa for a long moment. Trice, beside Sara, said nothing, and the corner of her mouth went up.
+
 The third rod was red.
 
 Wensa leveled it at Tor and fire came up out of the sand all around him, in a ring, waist high, then head high, roaring, yellow at the edges and white at the heart. The heat crossed the yard like an oven door opening, and the whole crowd stepped back together. Through the flames, Tor stood in a clear space the shape of an egg, with the fire pressing against the outside of it and curling round. He wasn't burning.

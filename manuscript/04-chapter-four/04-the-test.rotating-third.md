@@ -30,7 +30,7 @@ They weren't early. Half the school was early.
 
 The practice yard was full. There were students along the weapon racks three deep, and students sitting on the racks, and a row of first-years on the roof of the equipment shed with their legs hanging over, until Kolb looked at them, and then there weren't. Nobody stood near the old wall at the far end. It was the one wall in the school that belonged to something older than the school, great close-fitted blocks the color of dried bread, and the pell stood in front of it on its post, and there was a wide empty space of packed sand around the pell, and everyone had arranged themselves round the edge of it as if it were a stage.
 
-The faculty had the bench by the water butt. The headmaster was in the middle of it, gray and spare in his long gown, with his spectacles pushed up on his forehead and his hands folded on top of his stick. The building master stood at one end, with his arms crossed. Mistress Wensa stood at the other, not sitting, with her ledger under her arm and her other hand loose at her side, and Sara looked at the hand, and at the belt, and at the way she stood, and thought: *Trice was right.* Trice had said it in the first week of term. *That woman doesn't sit like a mistress of accounts.* Now everybody knew, because Baker had stood in a passage full of wet coats and told Dorgal Sorvey, and Dorgal Sorvey's friend Marco had told everyone else.
+The faculty had the bench by the water butt. The headmaster was in the middle of it, gray and spare in his long gown, with his spectacles pushed up on his forehead and his hands folded on top of his stick. The building master stood at one end, with his arms crossed. Mistress Wensa stood at the other, not sitting, with her ledger under her arm and her other hand loose at her side, and Sara looked at the hand, and at the belt, and at the way she stood, and remembered Trice saying, in the first week of term, *That woman doesn't sit like a mistress of accounts.* Sara had laughed at the time. Nobody else on the bench seemed to find it odd that the accounts mistress had come to watch a combat test, or that she hadn't sat down.
 
 Tovey was at the front of the crowd, in his dark cloak with the brooch, and a little space had opened round him, the way it always did. He nodded to them as they came. Sara and Trice went and stood beside him, and the space made room.
 
@@ -79,6 +79,8 @@ It bowed outward, away from them, in a long slow curve like a sail filling, and 
 "That wall," said the building master, to nobody, "has been there four hundred years."
 
 "Yes," said the headmaster, mildly. "It has."
+
+Along the racks the whispering had started, and Sara could hear it go from mouth to mouth like a dropped coin rolling. *Those are guard rods.* *Royal guard.* *The accounts mistress?* *Wensa?* Sara knew what a guard's rod looked like; every merchant's daughter who had ever stood in a counting house with something worth stealing in it knew. She hadn't thought to see three of them come out of a schoolmistress's belt. Beside her, Trice said nothing at all, in the particular way Trice said nothing when she had been right.
 
 The third rod was red.
 
