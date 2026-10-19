@@ -22,7 +22,7 @@ Mistress Wensa sat at the next table. She no longer carried the ledger. The hilt
 
 * * *
 
-*The shield will change, I should warn you, before it reaches you. He has already made four new ones. He says the first was wrong in four ways, and he has made one for each way, and he will put them together when he's sure. I asked him how many ways the second one would be wrong in and he said he didn't know yet, and looked very pleased about it.*
+*The shield will change, I should warn you, before it reaches you. He has already made three new ones. He says the first was wrong in four ways, and he has made one for each way but one, and he will put them together when he's sure. The fourth way he says he can't build yet, so he is practising instead, which you will hear about. I asked him how many ways the second one would be wrong in and he said he didn't know yet, and looked very pleased about it.*
 
 In the washing house, Tor sat on an upturned tub in the middle of the floor with a new copper plate on his chest. Davie heaped wet straw onto the boiler fire, stepped out, and slammed the door. He stood outside with Sara, holding it shut with both hands, looking ill.
 
@@ -44,17 +44,25 @@ Kolb said nothing.
 
 * * *
 
-At supper Tor explained the third one. It would come on by itself, he said, if anything came at him fast, so he wouldn't have to be quicker than whoever was attacking. His eyes went to Wensa's table, and he lowered his voice. "I'll never be quicker than her." But he needed someone to try it. Without warning him.
+At supper Tor explained the one he couldn't build. He'd sat up two nights over a shield that would come on by itself, he said, and every way of doing it was worse than having it off. "It would go off for a sneeze. Or a bird. Or Rolph passing me the bread." So he'd have to be quicker instead. His eyes went to Wensa's table, and he lowered his voice. "I'll never be as quick as her. But I could be quicker than I am." He needed someone to practise on him. Without warning.
 
 "Oh," said Trice. "I can do that."
 
-At breakfast the next morning she threw an apple at him from three tables away without looking up from her porridge. It struck the air a hand from his ear and bounced off under the benches. Tor jumped half out of his seat.
+At breakfast the next morning she threw an apple at him from three tables away without looking up from her porridge. It hit him on the ear.
 
-"Oh! Thank you!"
+"Ow," said Tor. "Oh! Thank you!"
 
-She threw a boot at him in the corridor before theory. A cushion in the library. In combat, a small sack of sand off the pell. Each time it bounced; each time Tor jumped, thanked her, and wrote on his wrist. By the third day other students had taken it up. By the fourth, in the main court, a first-year threw a pear at the back of Tor's head, and the pear bounced off, and Tor walked on reading a letter from home without turning round.
+She threw a boot at him in the corridor before theory; his hand slapped the copper as it arrived, and it bounced off the air and skidded down the flags. A cushion in the library hit him in the face. In combat, a small sack of sand off the pell: his hand hit his chest so fast that Kolb turned at the sound, and the sack struck nothing a hand from his shoulder and burst. Hit or not, each time Tor thanked her and wrote on his wrist. By the third day other students had taken it up, and Tor's hand had started flying to his chest at every sudden noise: a door, a dropped spoon, a sneeze in theory. On the fourth, in the main court, a first-year threw a pear at the back of his head while he stood reading a letter from home. It hit him squarely and burst.
 
-"I think it works," said Trice, and threw a spoon.
+Tor stood dripping. He looked at the letter.
+
+"Still not, then," he said.
+
+He wiped pear out of his collar, wrote on his wrist under the other notes, and drew a box round it.
+
+"That one's not done," he told Sara. "I'll have to think of something else."
+
+Trice threw a spoon at him.
 
 * * *
 

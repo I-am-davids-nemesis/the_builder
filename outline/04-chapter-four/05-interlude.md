@@ -21,7 +21,7 @@ All beats canon (user, October 18, 2026) unless labeled.
 
 **Staging notes** (invented):
 
-- **A short montage, rhythmic and dated by bells and days.** Each shield version on the desk answers one of the test's lessons: air (fire burned it), the ground (it cracked under him), the moment before it's on (Wensa was quicker), water (the pond).
+- **A short montage, rhythmic and dated by bells and days.** Shield versions answer three of the test's lessons: air (fire burned it), the ground (it cracked under him), water (the pond). The fourth, the moment before it's on (Wensa was quicker), **stays unsolved**: the shield must **not** turn itself on, which is a plot point later (user, October 18, 2026). Tor practises slapping it on faster instead.
 - **The copies** (user, October 18, 2026): drying fields for students who ask (a queue at the door, payment in kind: a pie, a mended boot, Davie's gratitude); shields for the school, handed to Kolb by the armful; food dryers for Sara to send home to the Debri house to sell. Sara's viewpoint keeps count, because Tor doesn't.
 - **The shipment** should be concrete: a crate, straw, a Debri clerk or carter, Sara's seal on the lid, Tor watching it go as if he's sending his own bread to market. The templates are the first things he's made that leave Lairdgren without him.
 - **Tor's box** rhymes with Rolph's lockbox from chapter one: the lock Tor copied for their door, now on his own box of coin. A baker's son with a strongbox. He may look at it as if it belongs to someone else.

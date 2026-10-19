@@ -168,7 +168,7 @@ All canon (user, October 18, 2026) unless labeled. Beats in `10-the-first-flight
 
 **Staging notes for elements 4–7** (invented):
 
-- **The interlude is a montage,** short and rhythmic: classes kept, shield versions on the desk (each one fixing a lesson from the test: air, the ground, the moment before it's on, water), copies for friends, and a carter or Sara's people loading a crate of templates. Tor seeing the templates off should be oddly sad, like sending bread to market.
+- **The interlude is a montage,** short and rhythmic: classes kept, shield versions on the desk (fixing air, the ground and water; the moment before it's on stays unsolved, because a self-activating shield is a later plot point (user, October 18, 2026)), copies for friends, and a carter or Sara's people loading a crate of templates. Tor seeing the templates off should be oddly sad, like sending bread to market.
 - **Kolb's challenge is a conversation Tor loses on every point.** Tor's "it isn't possible" is the voice of the textbook; Kolb's two answers (the Austrans; Tovey over the sheep field) are facts Tor already has. The idea lands visibly: Tor stops mid-sentence, and Kolb, who has seen that face before, walks away grinning.
 - **The Austrans fly** (canon). It ties to Wensa's "Austran spy" in chapter three: the country Noram fears most has the one thing Tor is now building. Nobody need say so.
 - **The board on the ceiling is the chapter's best physical comedy.** A plank pressed flat against the plaster, humming; Tor on the bed, then on the desk, then on Rolph's shoulders, hauling it down; Rolph coming in at the wrong moment. Its weakness is the point: a few minutes' field, so it can be pulled down.

@@ -18,7 +18,7 @@ Mistress Wensa was still following him. She ate at the next table, and stood in 
 
 * * *
 
-*The shield will change, I should warn you, before it reaches you. He has already made four new ones. He says the first was wrong in four ways, and he has made one for each way, and he will put them together when he's sure. I asked him how many ways the second one would be wrong in and he said he didn't know yet, and looked very pleased about it.*
+*The shield will change, I should warn you, before it reaches you. He has already made three new ones. He says the first was wrong in four ways, and he has made one for each way but one, and he will put them together when he's sure. The fourth way he says he can't build yet, so he is practising instead, which you will hear about. I asked him how many ways the second one would be wrong in and he said he didn't know yet, and looked very pleased about it.*
 
 The first new one was for the air.
 
@@ -34,17 +34,23 @@ The smoke came out in a wall, and they both went backward coughing, and when it 
 
 The second was for the ground. He had Kolb hit him with the iron bar in the practice yard, on a patch of sand that hadn't been raked, and this time there were no cracks. Instead the sand went down under him very slightly, all at once, in a wide even circle much bigger than his feet, as if he'd been standing on an invisible plate. "Like a cake on a plate," Tor said. "You don't put a cake straight on the table." Kolb said nothing to this, which Sara had come to understand was what Kolb said when he had no idea what someone meant and didn't intend to ask.
 
-The third was for the moment before it was on, and that one, to Sara's lasting regret, was Trice's.
+The moment before it was on was the one he couldn't build, and that one, to Sara's lasting regret, became Trice's.
 
-Tor had explained it at supper. The new one would come on by itself, he said, if anything came at him quickly, so that he wouldn't have to be quicker than the person attacking him; he'd never be quicker than Mistress Wensa, he said, glancing at her table, and lowered his voice, and said it again. But he'd need to know if it worked. He'd need someone to try. Without warning him.
+He'd tried, he said at supper. He'd sat up two nights over a shield that would come on by itself, and every way he could think of to do it was worse than having it off. "It would go off for a sneeze," he said. "Or a bird. Or Rolph passing me the bread." So if the shield couldn't be quicker, he'd have to be. He'd never be as quick as Mistress Wensa; he glanced at her table as he said it, and lowered his voice, and said it again. But he could be quicker than he was. He'd need someone to practise on him. Without warning.
 
 "Oh," said Trice. "I can do that."
 
-She threw an apple at him at breakfast the next morning, from three tables away, without looking up from her porridge. It struck the air a hand from his ear and bounced off and rolled away under the benches, and Tor jumped half out of his seat and said, "Oh! Thank you!" She threw a boot at him in the corridor before theory, and a cushion at him in the library, and in combat, when he wasn't looking, a small sack of sand that Kolb had been using to weight the pell, and every time the thing bounced off, and every time Tor jumped, and thanked her, and wrote something on his wrist. By the third day half the school was throwing things at him, on principle, and he'd stopped jumping. By the fourth he'd stopped noticing. Sara saw a first-year throw a pear at him in the main court, and the pear bounce off, and Tor walk on without turning his head, reading a letter from home.
+She threw an apple at him at breakfast the next morning, from three tables away, without looking up from her porridge. It hit him on the ear. Tor said, "Ow," and then, "Oh! Thank you!" and wrote something on his wrist. She threw a boot at him in the corridor before theory, and he got his hand to the copper just as it arrived, and it bounced off the air and went skidding down the flags; she threw a cushion at him in the library, and he didn't. In combat, when he wasn't looking, she threw a small sack of sand off the pell, and his hand slapped his chest so fast that Kolb turned round at the sound, and the sack struck nothing a hand from his shoulder and burst. Every time, hit or not, he thanked her. By the third day half the school was throwing things at him on principle, and his hand had taken to flying to his chest at every sudden noise, a door, a dropped spoon, a sneeze in theory, so that he went about the place looking like a man forever on the point of swearing an oath. On the fourth, Sara watched a first-year throw a pear at the back of his head in the main court while he stood reading a letter from home, and the pear hit him squarely and burst.
 
-"I think it works," said Trice, satisfied, and kept on doing it anyway.
+Tor stood there, dripping. He looked at the letter.
 
-The fourth was the pond.
+"Still not, then," he said.
+
+He wiped the pear out of his collar and wrote on his wrist, under the others, and drew a box round it. "That one's not done," he told Sara. "I'll have to think of something else."
+
+Trice went on throwing things anyway. For practice, she said.
+
+The third was the pond.
 
 * * *
 
@@ -52,7 +58,7 @@ The fourth was the pond.
 
 It was the morning of the rest day, early, with mist lying on the water, and there were more people on the bank than Sara would have liked. Rolph was there, with a towel and a rope. Tovey was there, a little apart, in his cloak, because Tor had asked him, politely and in some terror, whether he would mind standing nearby in case of anything, and Tovey had said, "Of course," and turned up a quarter of an hour early. Trice was there. Mistress Wensa was there, on the far bank, alone.
 
-Tor put the fourth shield on, and touched it, and walked into the pond.
+Tor put the third new shield on, and touched it, and walked into the pond.
 
 He walked into it as if it were a field. He went down the muddy slope with his hands behind his back and into the brown water, and the water went up to his knees, and his waist, and his chest, and it didn't touch him. It stood back from him. It stood back in the shape of the egg, so that he walked down into the pond inside a bubble of clear air, and the water curved over the top of it like glass over a cake, and then closed over his head.
 
