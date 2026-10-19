@@ -21,6 +21,7 @@ Wensa is the one adult at the school who takes Tor exactly as seriously as he ta
 - **Chapter four, after the test** (user, October 18, 2026): still teaches accounts, and still shadows Tor, now openly as a guard.
 - **From the chapter four drafts** (invented; pending the user's review): her ledger is brown calf, ruled in red; she carries one like it as cover and writes nothing in it for nine days. Waits on the bench outside meditation, the one class she can't follow Tor into. Checks his purchases with the storekeeper. Once saw a cutter used on a man at a door, and pitch come down from a gatehouse. Notes, without comment, what Rolph eats. When the design is finished she writes her first line: *Ask for one.*
   - Scene 2: for the first time in nine days she stays in her seat when Tor leaves supper, because Rolph is still eating. Looks at the black-eyed man first and longest.
+  - Scene 5: after the test she stops carrying the ledger and wears the hilt openly; students step round her. Watches from the far bank as Tor walks out of the pond, and from the gate as the templates leave.
 
 ## Profile
 
