@@ -72,7 +72,7 @@ Tor followed his look to the hills.
 
 "I thought that was a story, sir," he said faintly. "The flying. The second-years tell it. I thought it was one of the ones they tell."
 
-"I've seen it."
+"I've seen it. Last time I was away."
 
 Tor turned and looked at him, at the pale scar from eye to jaw. Kolb looked back and said nothing more about it.
 

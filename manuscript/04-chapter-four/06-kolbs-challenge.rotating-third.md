@@ -26,7 +26,7 @@ Kolb considered that. Patricia was looking at the sky, innocent as a cat.
 
 "Black," he said. "Pell. Both of you. Two hundred."
 
-They went. Debri went without a word. Patricia went with a look at Baker that Kolb filed away and didn't open; he'd been teaching seventeen years, and he'd learned the hard way which looks were his business.
+They went. Debri went without a word. Patricia went with a look at Baker that Kolb filed away and didn't open; he'd been teaching in this yard since before the racks were built, and he'd learned the hard way which looks were his business.
 
 * * *
 
@@ -82,9 +82,9 @@ Baker was looking at the hills too.
 
 "I thought that was a story, sir," he said, rather faintly. "The flying. The second-years tell it. I thought it was one of the ones they tell."
 
-"I've seen it."
+"I've seen it. Last time I was away."
 
-Baker turned and looked at him. Kolb let him look. He didn't explain the scar, or the year, or where; there are things you say to a boy and things you don't, and he'd said enough.
+Baker turned and looked at him. Kolb let him look. He didn't explain the scar, or the year, or where, or how long he'd been gone, or why he always came back; there are things you say to a boy and things you don't, and he'd said enough.
 
 "And you've seen it, Baker," he said. "Haven't you."
 
