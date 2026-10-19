@@ -20,6 +20,7 @@ Wensa is the one adult at the school who takes Tor exactly as seriously as he ta
 - **Chapter four, the test** (canon, user): attacks Tor's shield with three royal-guard **rods** almost before he can activate it (an explosion, a force that bows a wall, fire); **ends the fire herself** (user, October 17, 2026). Counters Kolb's "it was meant for a pell" with: a builder needs faith in his equipment. Seems **happy**, probably because the shield could protect Rolph (user, October 17, 2026). **Her cover is gone** after this (user, October 17, 2026).
 - **Chapter four, after the test** (user, October 18, 2026): still teaches accounts, and still shadows Tor, now openly as a guard.
 - **From the chapter four drafts** (invented; pending the user's review): her ledger is brown calf, ruled in red; she carries one like it as cover and writes nothing in it for nine days. Waits on the bench outside meditation, the one class she can't follow Tor into. Checks his purchases with the storekeeper. Once saw a cutter used on a man at a door, and pitch come down from a gatehouse. Notes, without comment, what Rolph eats. When the design is finished she writes her first line: *Ask for one.*
+  - Scene 2: for the first time in nine days she stays in her seat when Tor leaves supper, because Rolph is still eating. Looks at the black-eyed man first and longest.
 
 ## Profile
 
