@@ -11,7 +11,7 @@ All details (invented; accepted by the user, October 9, 2026). She first appears
 - Knows the **fast-drying sign**: she has seen paint dry like that "perhaps a dozen times" in thirty-one years.
 - As a girl she once touched the poured courses at the bottom of the bell tower, and they felt warmer than they should.
 - Tor thanks her every time he signs the slate; no other student ever has.
-- **From the chapter four drafts** (invented; pending the user's review): checks Tor through the door shutter every bell and chalks a mark; tells Rolph "He won't eat that" and "Go to bed, young man"; says the ink is drying on him, a dozen times in thirty-one years; tells the staff table at breakfast, two days running.
+- **From the chapter four drafts** (invented; pending the user's review): checks Tor through the door shutter every bell and chalks a mark; tells Rolph "He won't eat that" and "Go to bed, young man"; says the ink is drying on him, a dozen times in thirty-one years; tells the staff table at breakfast, two days running. Scene 9: comes up to the dormitory for Tor's four-day build with an unlit lamp "out of habit"; "Don't pull him"; water every bell; broth, warm, not hot, salt in it; "Then you come and get me, and don't run on the stair."
 
 ## Profile
 
