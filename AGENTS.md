@@ -151,7 +151,7 @@ scripts/
 - **Mirror:** every scene has one outline file, `outline/<chapter>/NN-slug.md` (no mode suffix), and every chapter has `outline/<chapter>/_chapter.md`. When you add, rename, move or delete a scene, do the same to all of its files.
 - **Reordering:** renumber with `git mv` so history follows the file.
 - **Scene files hold prose only:** no headings, no draft notes. Plot, POV and who's present go in the outline file.
-- **Whole chapters are compiled** from the scene files, per mode; don't keep hand-assembled chapter files. Run `node scripts/compile.mjs` (every chapter and mode, plus `compiled/book.<mode>.md`), or pass a chapter (`03-chapter-three` or `3`) and/or `--mode camera`. Scenes are joined with `* * *` under a heading from the folder name; a scene missing a mode file is skipped with a warning.
+- **Whole chapters are compiled** from the scene files, per mode; don't keep hand-assembled chapter files. Run `node scripts/compile.mjs` (every chapter and mode, plus `compiled/book.<mode>.md`), or pass a chapter (`03-chapter-three` or `3`) and/or `--mode camera`. Scenes are joined with `⁂` under a heading from the folder name (`* * *` inside a scene file marks a break within the scene); a scene missing a mode file is skipped with a warning.
 
 Migrated from `the_builder` (see the first commit for the source commit). The old `examples/` drafts and hand-assembled `chapters/` stay in that repository.
 

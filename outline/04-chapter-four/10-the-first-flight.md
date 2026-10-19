@@ -40,5 +40,7 @@ All beats canon (user, October 18, 2026) unless labeled.
 - **The celebration is private** (the old scene 10's proposals moved to scene 8, user, October 18, 2026). Lying in the wet grass among the sheep, Tor laughs out loud, alone: the first time in the book he lets himself be proud, and nobody hears it. It's news, not a boast, even to himself (`tor.md`). Then the sheep, and the bell, and breakfast.
 
 - **Alone is the danger.** Every other test in the chapter had Kolb, Wensa, a crowd. This one has nobody to stop a fire or pull him down.
+- **The rig** (user, October 18, 2026): an etched **copper plate worn on a belt** carries the field, like the shield on its cord; the **handheld control** is separate.
+- **Early spring** (user, October 18, 2026): dew, mist in the low ground, lambs in the sheep field.
 - **The handheld control** should be in his hand from the first line, and the reader should know what happens if he drops it.
 - **The sheep field at dawn** would echo chapter three's chase: the place he ran from a flying count, now the place he learns to fly. (invented suggestion)

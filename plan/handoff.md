@@ -33,7 +33,7 @@ The old `10-the-proposals.md` was removed; its beats moved to scene 8.
 
 ### Not blocking (decide when it matters)
 
-1. **The heater's link to the ground** (`_chapter.md` question 29): the drafts have the board on the floor with its field reaching straight down into the ground. Right, or does it need a stake or wire?
+1. ~~The heater's link to the ground.~~ A wall plate; its field reaches straight down (user, October 18, 2026).
 2. **The heater's name** (question 30).
 3. **The month:** named or numbered? The drafts avoid naming it.
 4. **Campbell's black clothes:** connected to the special school, or nothing? (Kept open on purpose.)
@@ -42,7 +42,7 @@ The old `10-the-proposals.md` was removed; its beats moved to scene 8.
 7. **The black-eyed man:** "something strange," with a subtle influence on Dorgal; explained much later. Promote him to his own file once defined.
 8. **Chapter 5:** the engine's next idea after the flight (turning, landing and breathing at speed are problems).
 9. **Codex open questions** in `codex/README.md`: House B's real name; building and theory instructors' names; headmaster's name; series scope; narrative mode (still paired drafts).
-10. **Compile script scene breaks:** explained to the user October 18, 2026; awaiting an answer.
+10. ~~Compile script scene breaks.~~ Scenes are now joined with `⁂`; `* * *` stays for breaks inside a scene (user, October 18, 2026).
 
 Chapter 3's invented details were accepted by the user (October 18, 2026) and relabeled.
 

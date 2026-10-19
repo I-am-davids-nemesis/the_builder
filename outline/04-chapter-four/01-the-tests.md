@@ -20,6 +20,7 @@ All beats canon (user, October 17, 2026) unless labeled.
 **Staging notes** (invented):
 
 - **The routine is a comic list kept with terrible seriousness.** The headmaster said act normally, so Tor is the most normal student in the history of Lairdgren: early to everything, every bell answered, homework in on time, while visibly not sleeping.
+- **Early spring** (user, October 18, 2026): thaw, mud on the yard, the water butt full.
 - **Wensa as a running gag.** At the next table. On the bench by the water butt. In the doorway of the workroom at the eleventh bell. With a ledger she never writes in. Tor greets her politely every time ("Good evening, Mistress Wensa"); she nods. The fear shows only in his courtesy (`tor.md`: threatened → extra courtesy).
 - **The tests are a montage, each with a failure that teaches him something** (engine step 3 in miniature). Suggestions:
   - *Cutters:* Kolb, or a borrowed hilt, on a test square at the pell. The first version turns the blade; a later one stops it.

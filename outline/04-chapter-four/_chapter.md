@@ -2,7 +2,7 @@
 
 Beats are from the user's notes on the original's chapter four (October 17, 2026): plot points only, not the original's tone or wording (`AGENTS.md` §2). The notes cover the opening (routine and testing) and seven elements: Wensa's shadow and Dorgal; the template build; the night after and the test; an interlude; Kolb's flying challenge and the experiments; the cold snap and the proposals (added October 18, 2026); the four-day build and Trice; and the first flight.
 
-**Timescale:** the chapter covers **about a month** (user, October 18, 2026). The cold snap falls in the middle of it; the four-day build near the end.
+**Timescale:** the chapter covers **about a month**, in **early spring** (user, October 18, 2026): thaw and mud, a late hard freeze in the middle, lambs in the sheep field by the end. The cold snap falls in the middle of it; the four-day build near the end.
 
 ## What the chapter must do
 
@@ -233,5 +233,12 @@ Split invented, then revised with the user (October 18, 2026).
 26. ~~Does Hollin see him?~~ A rumor starts in the town; Tor never hears of it (user, October 18, 2026).
 27. ~~The next idea after the flight.~~ Left for chapter five (user, October 18, 2026).
 28. ~~Where are the proposals?~~ In the room, during the cold snap (new scene 8); Rolph is there, Tovey isn't (user, October 18, 2026).
-29. **Where does the heat go?** The drafts have the heater board lie on the floor with its field reaching straight down through the building into the ground (invented). Is that right, or does it need a physical link (a stake, a wire down the wall)?
-30. **What is the heater called?** The drafts avoid a name (Rolph may call it "the stove that isn't"). Open.
+29. ~~Where does the heat go?~~ A wall plate; its field reaches straight down through the building into the ground (user, October 18, 2026).
+30. ~~What is the heater called?~~ No name yet: Tor calls it plain things, and Rolph and Sara each call it something different (user, October 18, 2026).
+31. ~~Season.~~ Early spring (user, October 18, 2026).
+32. ~~The flying device.~~ An etched copper plate worn on a belt, plus the handheld control (user, October 18, 2026).
+33. ~~The overshoot in scene 8.~~ Kept (user, October 18, 2026).
+34. ~~Wensa after her cover goes.~~ Still teaches accounts, and still shadows Tor, openly now (user, October 18, 2026).
+35. ~~The testing ground.~~ The practice yard (pell, the old wall), with a pond just below it (user, October 18, 2026).
+36. ~~The black-eyed man's name.~~ He gives none (user, October 18, 2026).
+37. ~~Where the ten shields are copied.~~ In the isolation chamber, at the end of the template's second day (user, October 18, 2026).

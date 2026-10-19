@@ -18,6 +18,7 @@ Wensa is the one adult at the school who takes Tor exactly as seriously as he ta
 
 - **Chapter four** (canon, user, October 17, 2026): **follows Tor around**: eats in the cafeteria when he does, is always close at hand, and is especially close when he tests ideas for the shield. When Tor comes back into the dining room and asks her to come out and explain to Dorgal and his men why she's following him, **she does**. Tor introduces her **as a royal guard**, aloud, so **her cover is blown** to Dorgal, Marco and the black-eyed man. What passes between them is never shown. (canon, user; the introduction's wording, user, October 17, 2026)
 - **Chapter four, the test** (canon, user): attacks Tor's shield with three royal-guard **rods** almost before he can activate it (an explosion, a force that bows a wall, fire); **ends the fire herself** (user, October 17, 2026). Counters Kolb's "it was meant for a pell" with: a builder needs faith in his equipment. Seems **happy**, probably because the shield could protect Rolph (user, October 17, 2026). **Her cover is gone** after this (user, October 17, 2026).
+- **Chapter four, after the test** (user, October 18, 2026): still teaches accounts, and still shadows Tor, now openly as a guard.
 
 ## Profile
 

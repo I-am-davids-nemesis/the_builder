@@ -2,7 +2,7 @@
 // Compile scene files into whole chapters and a whole book, one file per
 // narrative mode (AGENTS.md §7). Follows the editor's compile rules
 // (~/workspace/local_editor/PLAN.md): chapter headings come from the folder
-// names, and scenes are joined with `* * *`.
+// names, and scenes are joined with `⁂` (`* * *` stays for breaks inside a scene).
 //
 //   node scripts/compile.mjs                      every chapter, every mode
 //   node scripts/compile.mjs 03-chapter-three     one chapter (folder name or number)
@@ -85,7 +85,7 @@ async function compileChapter(chapter, mode, warnings) {
     const text = (await readFile(join(MANUSCRIPT, chapter.name, s.file), 'utf8')).trim();
     if (text) parts.push(text);
   }
-  return { body: `# ${chapter.title}\n\n${parts.join('\n\n* * *\n\n')}\n`, scenes: parts.length };
+  return { body: `# ${chapter.title}\n\n${parts.join('\n\n⁂\n\n')}\n`, scenes: parts.length };
 }
 
 function words(text) {
