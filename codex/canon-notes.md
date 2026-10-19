@@ -85,6 +85,12 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **The infirmary** has a sister; the **holding cells** exist, somewhere.
 - **The shield** is due in **twelve days** as of chapter three's morning.
 
+### From the chapter four drafts (invented; pending the user's review)
+
+- **Scene 1 (the tests):** Tor books one of the small **workrooms on the east stair**, a slate on the door (BAKER, 9th–12th), bench, stool, brazier, window. He buys from the **student store** twenty thin-gauge copper squares, acid, a pot of resist, two dozen tallow candles and a bag of straw ("it smokes nicely when it's damp"); the storekeeper keeps a book of purchases. The meditation room is the long room under the eaves.
+- **Shield test sequence:** first version **turns** the cutter, which slides off and takes the top off the pell ("stand next to that and you'd lose an ear"); by the fifth day a square **stops** it dead. Under the iron bar a thin square splits "like a dropped plate"; Tor goes up a gauge ("it's like a crust"). A candle flame lies down sideways against the field; a live coal hangs a hand above his knee. Smoke clings to the outside of an **egg-shaped** clear space while air passes ("the air's smaller"). Hot wax beads and rolls off the curve; held over his head, it runs off all round "like rain down a window." The design is finished on the **ninth night**; the template follows, and the test is on the **twelfth day**.
+
+
 ## How magic works
 
 - **Copying** from a template: about 1 in 60 people can do it, even untrained. Copy work runs the realm's infrastructure.
