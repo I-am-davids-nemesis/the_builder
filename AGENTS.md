@@ -143,15 +143,15 @@ codex/
   locations/                      # one file per place
   _templates/                     # templates the editor uses for new entries
 compiled/                         # generated chapters/book per mode; not committed
-scripts/
-  compile.mjs                     # builds compiled/ from manuscript/ (see below)
+book.json                         # editor settings (the scene separator for compiling)
 ```
 
 - **Names:** chapters are folders named `NN-slug`; scenes are `NN-slug.<mode>.md`, with modes `camera` and `rotating-third`. The number sets the order.
 - **Mirror:** every scene has one outline file, `outline/<chapter>/NN-slug.md` (no mode suffix), and every chapter has `outline/<chapter>/_chapter.md`. When you add, rename, move or delete a scene, do the same to all of its files.
 - **Reordering:** renumber with `git mv` so history follows the file.
 - **Scene files hold prose only:** no headings, no draft notes. Plot, POV and who's present go in the outline file.
-- **Whole chapters are compiled** from the scene files, per mode; don't keep hand-assembled chapter files. Run `node scripts/compile.mjs` (every chapter and mode, plus `compiled/book.<mode>.md`), or pass a chapter (`03-chapter-three` or `3`) and/or `--mode camera`. Scenes are joined with `⁂` under a heading from the folder name (`* * *` inside a scene file marks a break within the scene); a scene missing a mode file is skipped with a warning.
+- **Whole chapters are compiled** from the scene files, per mode; don't keep hand-assembled chapter files. From the book folder, run `node ~/workspace/local_editor/bin/compile.mjs` (every chapter and mode, plus `compiled/book.<mode>.md`), or pass a chapter (`03-chapter-three` or `3`) and/or `--mode camera`. The editor's **Compile…** button does the same. Scenes are joined with `⁂` (set in `book.json`) under a heading from the folder name (`* * *` inside a scene file marks a break within the scene); a scene missing a mode file is skipped with a warning.
+- **No code in the book.** The book holds prose, outlines, codex and notes only. Tools (compiling, checks, scripts of any kind) belong in the editor project at `~/workspace/local_editor`; add them there, not here.
 
 Migrated from `the_builder` (see the first commit for the source commit). The old `examples/` drafts and hand-assembled `chapters/` stay in that repository.
 

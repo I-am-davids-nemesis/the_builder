@@ -8,7 +8,7 @@ Where the work stands, what's next, and what we're waiting on the user for. Read
 - **Chapter 4:** fully outlined, **not drafted**. Ten scene outlines in `outline/04-chapter-four/`, plus `_chapter.md` (elements 0–7 and 5a, engine table, planning fields, answered questions). Restructured October 18, 2026: a new scene 8 (the cold snap, with the proposals), broth and first flight renumbered to 9 and 10, the old proposals scene removed. `manuscript/04-chapter-four/` doesn't exist yet.
 - **Codex:** updated through chapter 4's outline (Wensa, Dorgal, Marco and the black-eyed man, the shield test, the flying field, Austra, the proposals, Maria's school dance).
 - **Git:** the local editor autosaves commits ("Autosave: Edit N files"). Check `git status` before starting.
-- **Compile:** `node scripts/compile.mjs` (all chapters and modes, plus `compiled/book.<mode>.md`), or `node scripts/compile.mjs 4` for one chapter. `compiled/` is gitignored, and so is `.obsidian/`.
+- **Compile:** `node ~/workspace/local_editor/bin/compile.mjs` from the book folder (all chapters and modes, plus `compiled/book.<mode>.md`), or `node ~/workspace/local_editor/bin/compile.mjs 4` for one chapter. The book has no scripts of its own; tools live in `~/workspace/local_editor`. `compiled/` is gitignored, and so is `.obsidian/`.
 
 ## Chapter 4 scenes (outlined; POVs approved October 18, 2026)
 
@@ -56,7 +56,7 @@ Chapter 3's invented details were accepted by the user (October 18, 2026) and re
    - Don't reuse the original's wording.
    - Keep it light and funny; non-sexual (the proposals especially).
 2. **Record invented draft details** in the codex as "(invented; pending the user's review)", as done for chapter 3.
-3. **Run `node scripts/compile.mjs 4`** and report word counts.
+3. **Run `node ~/workspace/local_editor/bin/compile.mjs 4`** and report word counts.
 4. **Later:** outline chapter 5 when the user brings notes.
 
 ## Continuity to watch in chapter 4
