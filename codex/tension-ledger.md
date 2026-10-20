@@ -15,7 +15,7 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Tor's humility | He can act decisively when friends are threatened | Whether his self-image is his own or was put there |
 | Rolph | Loyalty proven under pressure | His envy; his own purpose; his true family, and whether the friendship was arranged |
 | Patricia | She'll protect Tor when it counts | Whose interests she ultimately serves |
-| Sara | Established as Tor's safe harbor | Her family's position; anything she hasn't told him |
+| Sara | Established as Tor's safe harbor | Her family's position; anything she hasn't told him; why her letters still go to "Father" when her mother runs the Debri house |
 | Dorgal | The rivalry, and one betray-or-not choice | His sponsor's hold on him |
 | Tovey | Tor's fear of him narrows; Tor starts to see him as he is | Growing into the county; living with the courtyard; the Thompsons' role in the plot |
 | Thompson vs. House B | The feud is established and dangerous | Which house is behind the plot, if either |

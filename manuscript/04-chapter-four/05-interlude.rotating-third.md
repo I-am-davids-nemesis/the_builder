@@ -2,7 +2,7 @@
 
 *The shield passed. You will have heard by now from someone, because half the school has written home about it, and I expect the other half's letters have only been held up by the spelling. I enclose a description. I have not enclosed a price, because you taught me not to put a number in a letter that I couldn't stand behind in a court, and I can't stand behind any number yet. It's too big. I keep getting to the end of it and finding there's more.*
 
-Sara stopped, and read it over, and crossed out *It's too big*, because her father would only underline it and send it back. Then she wrote it in again, smaller, because it was true.
+Sara stopped, and read it over, and crossed out *It's too big*, because it would only come back underlined. Then she wrote it in again, smaller, because it was true.
 
 * * *
 

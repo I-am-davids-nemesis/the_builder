@@ -13,6 +13,8 @@ Sara treats Tor as a person rather than a phenomenon, which is exactly why her s
 - Readers name Sara as a fan-favorite companion for Tor. (canon)
 
 - Her family is the **Debri** merchant house. (canon, user, chapter two)
+- **Her mother runs the Debri house.** (canon, user, October 19, 2026) Her **father is no longer its head**; why (accident, tragedy, mischief or something else) is **undecided** (user, October 19, 2026).
+- **She still writes her letters home to "Father,"** though they certainly go to her mother. (user, October 19, 2026: the user likes this.) Her pricing lessons and her contract voice are her father's, from before. Chapter four's drafts keep the pretense intact: the letters open *Father,*; scene 8's ends "Please come and see it yourself," so whoever comes, it would be her mother.
 - Wears **black**: a student of the **special school** (a spy school with assassination training, which also trains likely assassination targets; canon, user. Chapter three gives Tor only the second, from Rolph), like Trice. Spars with Tor all afternoon. Takes Tor's raw field for a **shield device** and calls Trice off. (canon, user, chapter two)
 - **Outbids Sorvey:** offers Tor **12 gold** per drying field, **20** on a metal plate, and becomes his **sales agent** for **10%** (who gets the 10% is unclear to Tor). Has no calling card on her that evening; says Rolph or Tovey knows where to find her and Trice. (canon, user, chapter two)
 
@@ -32,7 +34,7 @@ Sara treats Tor as a person rather than a phenomenon, which is exactly why her s
 - **Need:** To stop shrinking herself to keep the peace. She and Tor share that flaw.
 - **Internal tension:** Wanting to stay close to Tor vs. seeing that closeness to him is dangerous and draws attention she never wanted.
 - **External tension:** Rich but not noble: a merchant's daughter among nobles (canon background; framing assumed), so she's the easiest person for Tor's enemies to pressure. A third daughter of a trading house may be expected to marry or trade well for the family. (assumed)
-- **Hidden aspect:** What her family wants from the friendship, if anything, and anything she hasn't told Tor. (Not yet defined.) Possible hook (invented): as a real merchant's daughter, she may notice that Rolph's "merchant family" story doesn't fit.
+- **Hidden aspect:** Why she still addresses her letters to her father when her mother runs the house, and what happened to him (undecided; user, October 19, 2026). Also: what her family wants from the friendship, if anything, and anything she hasn't told Tor. (Not yet defined.) Possible hook (invented): as a real merchant's daughter, she may notice that Rolph's "merchant family" story doesn't fit.
 
 ## Reaction rules
 

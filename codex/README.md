@@ -57,6 +57,7 @@ Each book resolves one small, concrete piece per character (a question answered,
 5. Confirm the Thompson–House B feud as a series spine, or replace it. (Tovey's father is dead, so any feud is inherited.)
 6. How far into the series to plan (book 1, the nine-book Tor arc, or beyond).
 7. Which narrative mode replaces the original's deep internal POV.
+8. Why is Sara's father no longer head of the Debri house (accident, tragedy, mischief, other)? Her mother runs it; Sara still writes to "Father" (user, October 19, 2026).
 
 ## To do
 

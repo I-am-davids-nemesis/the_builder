@@ -210,7 +210,7 @@ Trice glanced sideways at Sara. Sara didn't glance back.
 
 They both looked at her.
 
-"To the Debri house," said Trice. "Not the shields. The template. Let Sara's father's builders make the copies, and you take a share of every one they sell, and you never have to make another unless you want to." She tucked her own shield inside her collar. "You're faster than anyone they've got, of course. You're faster than anyone anyone's got. But you've also got classes, and you've also got to sleep, occasionally, whatever you think. Let someone else do the copying."
+"To the Debri house," said Trice. "Not the shields. The template. Let the Debri builders make the copies, and you take a share of every one they sell, and you never have to make another unless you want to." She tucked her own shield inside her collar. "You're faster than anyone they've got, of course. You're faster than anyone anyone's got. But you've also got classes, and you've also got to sleep, occasionally, whatever you think. Let someone else do the copying."
 
 "I don't mind the copying," said Tor.
 
