@@ -1,16 +1,25 @@
-# Handoff (October 18, 2026; updated after the user's answers)
+# Handoff (October 19, 2026; chapter 4 drafted, Sara's family noted)
 
 Where the work stands, what's next, and what we're waiting on the user for. Read `AGENTS.md` first; this file only covers the current state.
 
 ## Current state
 
 - **Chapters 1–3:** drafted in both modes (`manuscript/0N-*/NN-slug.camera.md` and `.rotating-third.md`), outlined, and committed. Chapter 3's last commit was `0e463e6` (Tovey walks home once the rage ends).
-- **Chapter 4:** **drafted** in both modes, all ten scenes (`manuscript/04-chapter-four/`), one commit per scene, ending with scene 10 (the first flight). Compiled: 28,738 words in rotating third, 18,813 in camera. Restructured October 18, 2026: scene 8 is the cold snap (with the proposals); the old proposals scene was removed.
+- **Chapter 4:** **drafted** in both modes, all ten scenes (`manuscript/04-chapter-four/`), one commit per scene, ending with scene 10 (the first flight). Compiled: 28,734 words in rotating third, 18,813 in camera. The user is reading it through (October 19, 2026). Restructured October 18, 2026: scene 8 is the cold snap (with the proposals); the old proposals scene was removed.
 - **Codex:** updated through chapter 4's drafts; every invented draft detail is labeled "(invented; pending the user's review)", with a per-scene list in `canon-notes.md` ("From the chapter four drafts"). Earlier: updated through chapter 4's outline (Wensa, Dorgal, Marco and the black-eyed man, the shield test, the flying field, Austra, the proposals, Maria's school dance).
 - **Git:** the local editor autosaves commits ("Autosave: Edit N files"). Check `git status` before starting.
 - **Compile:** `node ~/workspace/local_editor/bin/compile.mjs` from the book folder (all chapters and modes, plus `compiled/book.<mode>.md`), or `node ~/workspace/local_editor/bin/compile.mjs 4` for one chapter. The book has no scripts of its own; tools live in `~/workspace/local_editor`. `compiled/` is gitignored, and so is `.obsidian/`.
 
-## Chapter 4 scenes (outlined; POVs approved October 18, 2026)
+## Sara's family (user, October 19, 2026)
+
+- **Her mother runs the Debri house.** Her father is no longer its head; why (accident, tragedy, mischief, other) is undecided (`codex/README.md`, question 8).
+- **Sara still writes home to "Father,"** though the letters go to her mother. The user likes this.
+- **The reveal happens when the friends eventually visit the Debri house** (`outline/book-plan.md`, "Planned reveals"). The visit isn't placed in the book yet.
+- **Until then, keep the pretense:** letters open *Father,*; nobody says who reads them or writes back; no Sara or Trice viewpoint states it. "My father would say…" is Sara quoting him from before.
+- Fixed to fit (commit `06daf74`): scene 4's "Sara's father's builders" is now "the Debri builders" (both modes); scene 5's "her father would only underline it and send it back" is now "it would only come back underlined." Scene 8's "Please come and see it yourself" now points at her mother, if anyone comes.
+- Details in `codex/characters/sara.md` and `codex/tension-ledger.md`.
+
+## Chapter 4 scenes (drafted; POVs approved October 18, 2026)
 
 The chapter covers about a month. Tor holds the rotating-third viewpoint only when he's alone or something traumatic happens to him (`AGENTS.md` §3).
 
@@ -40,9 +49,10 @@ The old `10-the-proposals.md` was removed; its beats moved to scene 8.
 5. **The 10%:** stays ambiguous for now.
 6. **Marco:** left open.
 7. **The black-eyed man:** "something strange," with a subtle influence on Dorgal; explained much later. Promote him to his own file once defined.
-8. **Chapter 5:** the engine's next idea after the flight (turning, landing and breathing at speed are problems).
-9. **Codex open questions** in `codex/README.md`: House B's real name; building and theory instructors' names; headmaster's name; series scope; narrative mode (still paired drafts).
-10. ~~Compile script scene breaks.~~ Scenes are now joined with `⁂`; `* * *` stays for breaks inside a scene (user, October 18, 2026).
+8. **Sara's father:** why he's no longer head of the Debri house; and when the Debri house visit happens in the book.
+9. **Chapter 5:** the engine's next idea after the flight (turning, landing and breathing at speed are problems).
+10. **Codex open questions** in `codex/README.md`: House B's real name; building and theory instructors' names; headmaster's name; series scope; narrative mode (still paired drafts).
+11. ~~Compile script scene breaks.~~ Scenes are now joined with `⁂`; `* * *` stays for breaks inside a scene (user, October 18, 2026).
 
 Chapter 3's invented details were accepted by the user (October 18, 2026) and relabeled.
 
@@ -53,7 +63,7 @@ Chapter 3's invented details were accepted by the user (October 18, 2026) and re
    - Scene 2: the black-eyed man laughs softly (cut?).
    - Scene 3: Rolph excuses Tor through the building master (invented).
    - Scene 5: Tor mentions *trying* a shield that switches itself on, and rejects it (cut, given the later plot point?).
-   - Scene 8: Sara's letter asks her father to come and see the plate (commits the Debri father to a visit?).
+   - Scene 8: Sara's letter asks "Father" to come and see the plate; it reaches her mother. Does that set up a visit from her, or should it stay unanswered until the Debri house trip?
    - Scene 10: the control's cord and "it keeps doing what it was last told" rule; the shield passes wind, so he can't breathe at speed (a hook for a later version); the Hollin rumor (Sam Carter, the Plough).
 3. **Revise** chapter 4 scenes as the user directs; recompile with `node ~/workspace/local_editor/bin/compile.mjs 4`.
 4. **Later:** outline chapter 5 when the user brings notes.
@@ -70,4 +80,5 @@ Chapter 3's invented details were accepted by the user (October 18, 2026) and re
 - **The sheep field and the wood** below the school are where Tor ran from Tovey in chapter 3, and where he first flies.
 - **Hollin** is five miles away (Kolb's runs, the carter, the well, the chapel).
 - **Tor's money:** he lets his friends handle it, and keeps his gold and silver in a box he bought and fitted with his own lock.
+- **Sara's letters** go to "Father" but reach her mother; don't reveal it before the Debri house visit.
 - **Rolph's voice:** formal only when truly angry. Tor teases only Rolph. Trice never says "I don't know." Tovey never lies outright. Tor never boasts aloud.
