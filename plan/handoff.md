@@ -49,10 +49,11 @@ The old `10-the-proposals.md` was removed; its beats moved to scene 8.
 5. **The 10%:** stays ambiguous for now.
 6. **Marco:** left open.
 7. **The black-eyed man:** "something strange," with a subtle influence on Dorgal; explained much later. Promote him to his own file once defined.
-8. **Sara's father:** why he's no longer head of the Debri house; and when the Debri house visit happens in the book.
-9. **Chapter 5:** the engine's next idea after the flight (turning, landing and breathing at speed are problems).
-10. **Codex open questions** in `codex/README.md`: House B's real name; building and theory instructors' names; headmaster's name; series scope; narrative mode (still paired drafts).
-11. ~~Compile script scene breaks.~~ Scenes are now joined with `⁂`; `* * *` stays for breaks inside a scene (user, October 18, 2026).
+8. **The bell count** (`codex/time-and-bells.md`): confirm the twelve-and-twelve system; how many rest days a week has, and whether there's a sixth day.
+9. **Sara's father:** why he's no longer head of the Debri house; and when the Debri house visit happens in the book.
+10. **Chapter 5:** the engine's next idea after the flight (turning, landing and breathing at speed are problems).
+11. **Codex open questions** in `codex/README.md`: House B's real name; building and theory instructors' names; headmaster's name; series scope; narrative mode (still paired drafts).
+12. ~~Compile script scene breaks.~~ Scenes are now joined with `⁂`; `* * *` stays for breaks inside a scene (user, October 18, 2026).
 
 Chapter 3's invented details were accepted by the user (October 18, 2026) and relabeled.
 
@@ -80,5 +81,6 @@ Chapter 3's invented details were accepted by the user (October 18, 2026) and re
 - **The sheep field and the wood** below the school are where Tor ran from Tovey in chapter 3, and where he first flies.
 - **Hollin** is five miles away (Kolb's runs, the carter, the well, the chapel).
 - **Tor's money:** he lets his friends handle it, and keeps his gold and silver in a box he bought and fitted with his own lock.
+- **Bells:** two counts of twelve a day, from midnight and from noon; the day starts at midnight; dawn is about the fifth bell in early spring; classes start at the sixth (`codex/time-and-bells.md`, October 19, 2026).
 - **Sara's letters** go to "Father" but reach her mother; don't reveal it before the Debri house visit.
 - **Rolph's voice:** formal only when truly angry. Tor teases only Rolph. Trice never says "I don't know." Tovey never lies outright. Tor never boasts aloud.

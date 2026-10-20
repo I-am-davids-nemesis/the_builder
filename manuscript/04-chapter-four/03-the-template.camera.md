@@ -12,11 +12,11 @@ The door closed. Footsteps went away down the corridor, quick and light, and dow
 
 The undercroft lay under the old wing, at the bottom of a stair worn into a dip in the middle of every step. It was cool and dry and smelled of stone and lamp oil. There were six oak doors along the passage, each with a slate on a nail beside it. Five slates were clean. The sixth said, in round, careful chalk:
 
-*BAKER, T. — In: first bell, rest day.*
+*BAKER, T. — In: fifth bell, rest day.*
 
 Across from it stood a bench. Mistress Wensa sat at one end, her ledger on her knee.
 
-Rolph came down the stair at the fourth bell with a tray: bread, a heel of ham, a jug of milk, two apples. At the bottom he stopped.
+Rolph came down the stair at the seventh bell with a tray: bread, a heel of ham, a jug of milk, two apples. At the bottom he stopped.
 
 Wensa looked up at him, briefly, and then past him, up the stair.
 
@@ -26,7 +26,7 @@ Rolph's jaw tightened. His hands tightened on the tray. Then both loosened.
 
 He set the tray on the floor by Tor's door and knocked once. Nothing happened. He sat down on the other end of the bench.
 
-They sat. Far above them, the bell rang the fifth hour.
+They sat. Far above them, the bell rang the eighth hour.
 
 A small, square, gray woman in an apron came along the passage with a lamp. She stopped at Tor's door, put her eye to a little shutter set in the oak at head height, looked for the space of three breaths, and closed it. She took the chalk from the ledge under the slate and made a mark. Then she looked at the tray, and at Rolph, and at Wensa, and at Rolph again.
 
@@ -36,7 +36,7 @@ A small, square, gray woman in an apron came along the passage with a lamp. She 
 
 "Well, then." She looked at the two of them on the bench a moment longer, expressionless, and went on down the passage.
 
-The bell rang the sixth hour. Wensa turned no pages.
+The bell rang the ninth hour. Wensa turned no pages.
 
 "He hasn't done anything, you know," said Rolph, to the opposite wall. "He hasn't done one single thing."
 
@@ -46,7 +46,7 @@ Rolph turned and looked at her. She was looking at Tor's door. Her hand lay flat
 
 * * *
 
-At supper the hall was full of it. "Baker's in the chambers." "Since the first bell." "Haskins told the kitchen." "He's making shields for the whole school." "He's making one for the *king*." At Dorgal Sorvey's table, nobody was talking. Dorgal ate with his eyes on his plate, and the large fourth-year beside him had a full plate in front of him and didn't touch it.
+At supper the hall was full of it. "Baker's in the chambers." "Since the fifth bell." "Haskins told the kitchen." "He's making shields for the whole school." "He's making one for the *king*." At Dorgal Sorvey's table, nobody was talking. Dorgal ate with his eyes on his plate, and the large fourth-year beside him had a full plate in front of him and didn't touch it.
 
 At the tenth bell the tray was still on the floor by the chamber door. The bread had gone hard and the milk had a skin on it. Both apples sat exactly where they'd been put. Rolph took it away and put down a fresh one. The slate had twelve chalk marks on it in a neat row.
 
@@ -60,7 +60,7 @@ She put her eye to the shutter and looked for longer this time.
 
 * * *
 
-Before the first bell of the next day, a class day, Rolph came down again. Wensa was already on the bench. Neither spoke. The slate had twenty-three marks.
+Before the fifth bell of the next day, a class day, Rolph came down again. Wensa was already on the bench. Neither spoke. The slate had twenty-three marks.
 
 At a quarter to the bell, Bet Haskins came along the passage and, this time, knocked softly and opened the door.
 
@@ -94,7 +94,7 @@ The building master's office smelled of linseed and cold ashes. He stood at the 
 
 "Yes?"
 
-"Sir. I've come about Tor. About Baker, sir. He's in the chambers, sir, he's been there since the first bell yesterday, he's building, he hasn't stopped once, Mistress Haskins says the ink's drying on him, and he asked me, sir, he *asked*, he said would I come and see you and ask if he could be excused today, and to say he's sorry, and he is, sir, he really is, he'd come himself only he can't stop just where he is, and I know it's a class day, sir, but if you'd seen him, honestly, it's not that he doesn't want to come, he's just, he's busy being—"
+"Sir. I've come about Tor. About Baker, sir. He's in the chambers, sir, he's been there since the fifth bell yesterday, he's building, he hasn't stopped once, Mistress Haskins says the ink's drying on him, and he asked me, sir, he *asked*, he said would I come and see you and ask if he could be excused today, and to say he's sorry, and he is, sir, he really is, he'd come himself only he can't stop just where he is, and I know it's a class day, sir, but if you'd seen him, honestly, it's not that he doesn't want to come, he's just, he's busy being—"
 
 The building master turned and looked at him over the top of the board.
 

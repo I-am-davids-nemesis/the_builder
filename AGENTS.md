@@ -136,6 +136,7 @@ outline/
 codex/
   README.md                       # profile template, tension rule, how to use
   canon-notes.md  voice-tests.md  tension-ledger.md  reader-knowledge.md
+  time-and-bells.md               # how the bells count the hours; days and weeks
   places-overview.md              # how places work as pressure; links to locations/
   builder-handoff.md              # original research + codex (historical; codex/ supersedes it)
   characters/                     # one file per main character

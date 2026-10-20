@@ -6,7 +6,7 @@ She sat on the edge of her bed in three pairs of stockings and looked at it. The
 
 * * *
 
-By the second bell, girls stood three deep round the stove at the end of the corridor, in blankets, coats, a brother's old riding cloak. The stove went out twice from the draught.
+By the fifth bell, girls stood three deep round the stove at the end of the corridor, in blankets, coats, a brother's old riding cloak. The stove went out twice from the draught.
 
 In accounts, Mistress Wensa taught in her gloves. The figures she chalked on the board were slightly less neat than usual.
 

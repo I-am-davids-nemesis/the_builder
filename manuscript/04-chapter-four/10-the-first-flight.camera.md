@@ -1,4 +1,4 @@
-Before the first bell the room was dark blue. Rolph lay asleep on his back with one arm off the bed and his mouth open.
+Before the fourth bell the room was dark blue. Rolph lay asleep on his back with one arm off the bed and his mouth open.
 
 Tor dressed without lighting a candle. He buckled on his old brown belt, which had a fresh hole bored in it with a knife point. A copper plate a hand and a half wide rode at the small of his back, under his tunic. From the desk he took the small flattened thing the size of a hen's egg, fitted it into his right palm, slipped the loop of cord at one end over his wrist, and pulled it snug. He tugged it twice. Then a third time.
 
@@ -130,10 +130,10 @@ He laughed out loud, lying in the dew, with his hands full of grass and his eyes
 
 "It works," he told the sky, not loudly. "I went to *Hollin*."
 
-Up on the hill, the bell began to ring the first bell. He lay and listened to it, the stroke and the echo off the chapel roof, until it was done.
+Up on the hill, the bell began to ring the fifth bell. He lay and listened to it, the stroke and the echo off the chapel roof, until it was done.
 
 Then he got up, brushed himself off, looked down at one boot, which had lost its lace, and went up the hill to breakfast with the lace flapping, saying nothing to anyone.
 
 * * *
 
-In Hollin, at the well, Sam Carter told his mother he'd seen a rook the size of a man go round and round the chapel tower before the first bell, and was sent indoors for lying. By noon the miller had seen it too. By evening it had been a man, then a man with wings, then an Austran, and three people in the Plough swore they'd heard it singing.
+In Hollin, at the well, Sam Carter told his mother he'd seen a rook the size of a man go round and round the chapel tower before the fifth bell, and was sent indoors for lying. By noon the miller had seen it too. By evening it had been a man, then a man with wings, then an Austran, and three people in the Plough swore they'd heard it singing.

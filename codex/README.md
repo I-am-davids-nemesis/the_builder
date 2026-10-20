@@ -15,6 +15,7 @@ Split from `builder_handoff.md` (October 9, 2026). Where the two disagree, the c
 | `voice-tests.md` | One situation, every character present |
 | `tension-ledger.md` | What each book resolves and leaves open |
 | `reader-knowledge.md` | What the reader knows vs. what each character knows, by chapter |
+| `time-and-bells.md` | How the bells count the hours, a school day by the bells, days and weeks |
 
 Still to create, when there's content for it: `relationships.md` (see `AGENTS.md` §7).
 

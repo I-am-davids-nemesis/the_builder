@@ -1,4 +1,4 @@
-Tor woke before the first bell, which he hadn't meant to, and lay for a moment in the gray with his heart going, and then remembered why.
+Tor woke before the fourth bell, which he hadn't meant to, and lay for a moment in the gray with his heart going, and then remembered why.
 
 The room was dark blue. Rolph was asleep on his back with one arm off the bed and his mouth open, breathing like a slow saw. The plate over Tor's own bed was doing nothing, which was right; the night had been mild. On the desk, where Trice had left them two days ago and where he had very carefully not touched them since, because she'd said *wash, sleep, eat*, and he had, lay the copper and the little flattened thing beside it.
 
@@ -18,7 +18,7 @@ The chair at the end of the corridor was still there, by the window, empty. Mist
 
 * * *
 
-The court was gray and wet and silent, and the gate was on the latch, the way it always was before the first bell for the bakers' boys who came up from Hollin with the bread. Tor slipped through. The road went down to the left. He went right instead, along the wall and down the path through the long grass, toward the sheep field, with the dew soaking through his boots in the first dozen steps and the mist lying in the low ground ahead like milk in a saucer.
+The court was gray and wet and silent, and the gate was on the latch, the way it always was before the fifth bell for the bakers' boys who came up from Hollin with the bread. Tor slipped through. The road went down to the left. He went right instead, along the wall and down the path through the long grass, toward the sheep field, with the dew soaking through his boots in the first dozen steps and the mist lying in the low ground ahead like milk in a saucer.
 
 He was halfway down the hill when his hand slapped his chest.
 
@@ -164,10 +164,10 @@ He didn't mean to. It came up out of him from somewhere low down, the way the pl
 
 "It works," he said to it. Not loudly. Just telling it, the way you'd tell someone a piece of news. "I went to *Hollin*."
 
-Up on the hill, the bell began to ring the first bell. He lay there and counted the stroke and the echo off the chapel roof, and thought about breakfast, and about Rolph, still asleep with his arm off the bed, and about Trice, who would want to know, and who would be furious, and who would want to know how *fast*. He thought he might not tell anybody quite yet. He thought he might keep it for a day, just one, the way you kept the first apple off a tree in your pocket and kept touching it.
+Up on the hill, the bell began to ring the fifth bell. He lay there and counted the stroke and the echo off the chapel roof, and thought about breakfast, and about Rolph, still asleep with his arm off the bed, and about Trice, who would want to know, and who would be furious, and who would want to know how *fast*. He thought he might not tell anybody quite yet. He thought he might keep it for a day, just one, the way you kept the first apple off a tree in your pocket and kept touching it.
 
 Then he got up, and brushed himself off, and found he'd lost a boot-lace somewhere over the valley, and went up to breakfast.
 
 * * *
 
-In Hollin, at the well, a boy named Sam Carter told his mother he'd seen a rook the size of a man go round and round the chapel tower before the first bell, and been sent indoors for lying. By noon the miller had seen it too. By evening it had been a man, then a man with wings, then an Austran, and three people in the Plough swore they'd heard it singing.
+In Hollin, at the well, a boy named Sam Carter told his mother he'd seen a rook the size of a man go round and round the chapel tower before the fifth bell, and been sent indoors for lying. By noon the miller had seen it too. By evening it had been a man, then a man with wings, then an Austran, and three people in the Plough swore they'd heard it singing.
