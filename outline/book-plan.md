@@ -16,3 +16,7 @@ Notes for drafting:
 - Because we don't narrate Tor's thoughts (`AGENTS.md` §3), **step 3 must be visible**: muttering, a sketch on scrap wood, a question to the building instructor, a sudden silence at the dinner table while the others keep talking. The reader should see the idea land before Tor explains it.
 - The loop is Tor's, but **other characters supply the complications** and react to the builds. That's where their voices and tensions get room.
 - Keep the routine (chapter one) as the baseline the loop disrupts. Later chapters can skip the routine or break it, because the reader already knows its shape.
+
+## Planned reveals
+
+- **Sara's family** (user, October 19, 2026): her mother runs the Debri house, though Sara's letters home are addressed to "Father." The reveal happens when the friends eventually **visit the Debri house**. Until then, drafts keep the pretense: letters open *Father,*, and nobody says who reads them or writes back. Why the father is no longer head is undecided (`codex/README.md`, question 8). The visit itself isn't placed in the book yet.
