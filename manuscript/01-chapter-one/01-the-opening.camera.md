@@ -6,7 +6,7 @@ The bell's echo came back off the chapel roof, a beat behind each stroke. In the
 
 Under the east range, down six worn steps, a corridor ran the length of the undercroft. Six doors faced onto it, each with a sliding shutter at eye height and a slate hanging on a nail beside it. A woman sat on a stool at the end of the corridor with a shawl round her shoulders and a lump of chalk in her lap. At the bell she got up and walked to the fourth door.
 
-The slate beside it read, in chalk: *BAKER, T. — In: late, fourth day.* Under that ran a long tally of short strokes. She added one. She ran her thumb along them. Her lips moved.
+The slate beside it read, in chalk: *BAKER, T. — In: late, fifth day.* Under that ran a long tally of short strokes. She added one. She ran her thumb along them. Her lips moved.
 
 She slid the shutter back.
 
@@ -30,7 +30,7 @@ She unbolted the door.
 
 He stared at her. His lips moved, very slightly.
 
-"Rest day," he said. "Then I've missed—fifth day. All of fifth day." The color went out of his face, what color there was. "Oh, no. Oh, they'll send me home."
+"Rest day," he said. "Then I've missed—sixth day. All of sixth day." The color went out of his face, what color there was. "Oh, no. Oh, they'll send me home."
 
 The woman said nothing.
 

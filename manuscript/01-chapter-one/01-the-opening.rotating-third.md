@@ -4,13 +4,13 @@ She had been keeper of the isolation chambers for thirty-one years, and in that 
 
 The chambers ran along the undercroft of the east range, six doors in a row, each with a shutter at eye height and a slate on a nail beside it. The slate on the fourth door said, in her own chalk:
 
-*BAKER, T. — In: late, fourth day.*
+*BAKER, T. — In: late, fifth day.*
 
 Under that, a tally. One stroke for every bell she'd looked in on him since. She counted them with her thumb. Thirty, near enough.
 
 She slid the shutter back.
 
-The chamber was a stone box, whitewashed once, with a bench, a stool, a high window no bigger than a loaf, and a lamp that had burned down to a blue bead. On the bench lay a square of pale pine and a saucer of blue paint. On the stool sat the boy, exactly as he had been sitting at the last bell, and the bell before that, and every bell since late on fourth day: hands flat on his thighs, back straight, eyes open and fixed on the pine.
+The chamber was a stone box, whitewashed once, with a bench, a stool, a high window no bigger than a loaf, and a lamp that had burned down to a blue bead. On the bench lay a square of pale pine and a saucer of blue paint. On the stool sat the boy, exactly as he had been sitting at the last bell, and the bell before that, and every bell since late on fifth day: hands flat on his thighs, back straight, eyes open and fixed on the pine.
 
 He was a small thing. That had been the first thing anybody said about him, three years ago, when he'd come up from the forests round Two Rivers on a scholarship with the king's own seal on it, though nobody had ever been able to say why the king should have bothered. The kitchens had called him the king's boy for a term or two, then got used to him. He was twenty now, by his records, and could have passed for fifteen in a poor light. He rarely smiled. He talked to himself. He thanked her every time he signed the slate, which no other student had ever done.
 
@@ -34,7 +34,7 @@ Bet unbolted the door.
 
 He looked up at her. She watched him do the sum. She watched it come out wrong, and then come out right, which was worse.
 
-"Rest day," he said. "Then I've missed—fifth day. All of fifth day." His face went white under the gray. "Oh, no. Oh, they'll send me home."
+"Rest day," he said. "Then I've missed—sixth day. All of sixth day." His face went white under the gray. "Oh, no. Oh, they'll send me home."
 
 Bet had nothing to say to that, so she didn't say anything.
 

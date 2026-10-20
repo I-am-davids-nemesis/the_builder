@@ -1,6 +1,6 @@
 # Time and the bells
 
-How the school, and Noram generally, tells the time. Settled October 19, 2026 by checking every bell in chapters 1–4 and taking the system most of the drafts already used; the few scenes that didn't fit were fixed (see the end). The tower bell itself is canon; the counting system is (invented; pending the user's review).
+How the school, and Noram generally, tells the time. Settled October 19, 2026 by checking every bell in chapters 1–4 and taking the system most of the drafts already used; the few scenes that didn't fit were fixed (see the end). The tower bell itself is canon. The twelve-and-twelve count and the seven-day week were confirmed by the user on October 19, 2026: the count is easy to understand, and it makes sense that people kept it even if they no longer know why.
 
 ## The tower bell
 
@@ -12,7 +12,7 @@ How the school, and Noram generally, tells the time. Settled October 19, 2026 by
 
 ## How the count works
 
-(invented; pending the user's review)
+(user, October 19, 2026; the details below are from the drafts)
 
 - **The bell strikes the number of the hour**, one stroke per hour: one stroke at the first bell, six at the sixth.
 - **Two counts of twelve a day.** The count runs **from midnight to noon and again from noon to midnight**. The first bell is the first hour after midnight; the twelfth at midday is **the noon bell**; the twelfth at night is midnight.
@@ -48,16 +48,18 @@ In winter, dawn comes later and the morning bells are dark.
 
 ## Days, weeks and longer
 
-- **Days are numbered:** first day, second day, third day, fourth day, fifth day. Class days are the numbered ones. (assumed from the drafts)
-- **The rest day** has no classes; students do their laundry. (assumed; decided by the user) It follows fifth day: Tor goes into the chamber late on fourth day and comes out at the first bell of the rest day, about thirty bells later.
-- **How many rest days** a week has, and whether there's a sixth day, isn't settled. The drafts never name a day after fifth day except the rest day. (open)
+- **The week has seven days, with one rest day** (user, October 19, 2026).
+- **The six class days are numbered:** first day, second day, third day, fourth day, fifth day, sixth day. **The rest day** is the seventh and last day of the week; it has no classes, and students do their laundry. (user; laundry invented and accepted) The next day is first day of a new week, so Tor's apology on the day after chapter one's rest day is about "last week."
+- **Chapter one's trance** runs from late on fifth day to the first bell of the rest day, about thirty bells, and he misses all of sixth day (shifted from fourth and fifth day on October 19, 2026, so the rest day follows sixth day).
 - **Months** aren't named in the drafts; chapter four avoids naming its month. (open; `plan/handoff.md`)
 - **Years at school:** students are first-years, second-years and so on. **Seasons:** chapter four runs about a month in early spring (user, October 18, 2026).
 - **Distances in time:** express mail reaches the capital in **three days** (canon, user); Two Rivers is four days east on foot (invented; accepted by the user); Hollin is five miles, about an hour's run each way for Kolb's runners, and about two minutes by air (chapter four).
 
 ## Fixes made for consistency (October 19, 2026)
 
-Almost everything already fit the count above. Three scenes used "first bell" to mean dawn instead, and were moved onto the count:
+**For the seven-day week:** chapter 1 (both modes) now has Tor go in *late, fifth day* and miss all of *sixth day*, and Kolb's line is "Sixth day"; the chapter 1 outline, `canon-notes.md` and Bet Haskins's profile match. In chapter 4, scene 3, the food dryer template has sat on the desk since fourth day, which is now "four days" ("Three and a half," says Tor), since fifth and sixth day come before the rest day.
+
+**For the count:** almost everything already fit. Three scenes used "first bell" to mean dawn instead, and were moved onto the count:
 
 - **Chapter 4, scene 3 (the template), both modes:** Tor goes down at the **fifth** bell of the rest day (was the first); Rolph brings breakfast at the **seventh** (was the fourth); he and Wensa sit through the **eighth and ninth** hours (were the fifth and sixth); "since the fifth bell"; by the tenth bell of the night the slate has **seventeen** marks (was twelve); Rolph comes back before the **fifth** bell of the class day, and the slate's twenty-three marks now add up.
 - **Chapter 4, scene 8 (the cold snap), both modes:** the girls crowd the stoves **by the fifth bell** (the second bell would have been the middle of the night).

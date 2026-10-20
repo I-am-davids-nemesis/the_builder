@@ -135,7 +135,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 
 ## Tor's first project
 
-A field on a pine square, a hand across, painted in cheap blue house paint, that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent **thirty hours** in trance (duration decided by the user) from late on fourth day to dawn on the rest day, missing all of fifth day's classes, including one afternoon of combat (timing invented to fit); it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
+A field on a pine square, a hand across, painted in cheap blue house paint, that makes water leave cloth and fibers in an area, so laundry dries in moments. He spent **thirty hours** in trance (duration decided by the user) from late on fifth day to the first bell of the rest day, missing all of sixth day's classes (days shifted October 19, 2026, when the user set a seven-day week), including one afternoon of combat (timing invented to fit); it is untested at the opening. He first tests it at the laundry, about a third of the way into chapter one (see `outline/chapters.md`). The user describes the focus as cheap wood and **paint**; earlier notes said ink. (canon, user)
 
 ## Tor's second project: the food drying field (idea in chapter one; built offstage, revealed in chapter four)
 

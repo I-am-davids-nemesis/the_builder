@@ -154,9 +154,9 @@ Rolph looked at the board for a long time. He looked at the ring on it. He put t
 
 "I was going to say. But you were writing to your mother. And then there was the wax."
 
-"It's been on the desk," said Rolph, "for three days."
+"It's been on the desk," said Rolph, "for four days."
 
-"Two and a half," said Tor helpfully, and laughed again, and slid down the door frame until he was sitting on the floor with the shields in his lap.
+"Three and a half," said Tor helpfully, and laughed again, and slid down the door frame until he was sitting on the floor with the shields in his lap.
 
 * * *
 

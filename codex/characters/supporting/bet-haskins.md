@@ -5,7 +5,7 @@ All details (invented; accepted by the user, October 9, 2026). She first appears
 ## Facts
 
 - Keeper of the **isolation chambers** for **thirty-one years**. Unnamed in the camera-mode draft.
-- Looks in on each occupant **every bell**, day and night, and keeps a **tally on a slate** hung by each door. Students chalk their own times in and out. Tor's entry: *BAKER, T. — In: late, fourth day* / *Out: first bell, rest day*, followed by *Thank you*.
+- Looks in on each occupant **every bell**, day and night, and keeps a **tally on a slate** hung by each door. Students chalk their own times in and out. Tor's entry: *BAKER, T. — In: late, fifth day* / *Out: first bell, rest day*, followed by *Thank you*.
 - Knows the bell intimately: which stroke is the clapper and which the echo off the chapel roof.
 - Can read students by how they come in: the ones out in an hour with nothing, the ones who sit a day and a night for a half-working lamp-square.
 - Knows the **fast-drying sign**: she has seen paint dry like that "perhaps a dozen times" in thirty-one years.

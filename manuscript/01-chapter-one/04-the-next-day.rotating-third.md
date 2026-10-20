@@ -190,7 +190,7 @@ Tor put his spoon down. He stood. "Sir."
 
 Tor sat.
 
-"Fifth day," Kolb said. His voice was low and quite pleasant, the voice of a man remarking on the weather to an acquaintance. Nobody beyond their end of the bench could have heard it. "You weren't in my yard."
+"Sixth day," Kolb said. His voice was low and quite pleasant, the voice of a man remarking on the weather to an acquaintance. Nobody beyond their end of the bench could have heard it. "You weren't in my yard."
 
 "No, sir. I'm sorry, sir. I was doing a building exercise for—"
 

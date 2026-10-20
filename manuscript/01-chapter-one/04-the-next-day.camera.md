@@ -176,7 +176,7 @@ Tor put down his spoon and stood up. "Sir."
 
 Tor sat.
 
-"Fifth day," Kolb said. He spoke low and pleasantly, as if mentioning the weather. At the next table, nobody looked round. "You weren't in my yard."
+"Sixth day," Kolb said. He spoke low and pleasantly, as if mentioning the weather. At the next table, nobody looked round. "You weren't in my yard."
 
 "No, sir. I'm sorry, sir. I was doing a building exercise for—"
 
