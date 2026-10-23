@@ -196,11 +196,29 @@ He was looking at the copper on the bench. Not at the luggage line. At the coppe
 
 "Tor," said Sara. "Three days is fast. Three days is—" She stopped, and found her contract voice, and used it, because otherwise she'd have said something foolish. "Three days would be very acceptable."
 
-"All right." He was still writing. Then he put the pen down, and looked at the letter again, and at the seal on it, and his face did something she didn't expect. "Children," he said.
+"All right." He was still writing. Then he stopped, and looked at the letter again, and at the seal on it, and his face did something she didn't expect. "Children," he said.
 
 "Yes."
 
-He nodded, once, and got up.
+He put the pen down. He put it down hard enough that the ink jumped off the nib in a spray across the drawing, and he didn't blot it.
+
+"They put the sewer by the cistern," he said.
+
+"It's an old town, Tor. Things get built where there's room, and then—"
+
+"You don't put the sewer by the water." He was on his feet. Sara hadn't seen him get up. "Everybody knows that. My *father* knows that, and he bakes bread. You dig the privy downhill of the well and you dig it *far*. That's not building. That's not anything. That's *sense*." His hands had closed. He looked at them as if they belonged to somebody else, and didn't open them. "And then the river comes up in the spring, the way it does every spring, the way every single person in that town knew it would, and it all goes in together, and now it's *children*."
+
+Sara said nothing. She had heard Tor apologize in every tone a voice could take. She had never once heard him use this one.
+
+"This won't fix it," said Tor. "You have to tell them that. The house, the town, whoever's in charge of it. This is a bucket under a leak. It'll make the water clean. It won't take the sewer out of it. And I don't know how long it lasts. I've never made one this size. Ten years. Twenty, maybe, if it's kept dry and nobody backs a cart into it. And then one morning it stops, and nobody's mended anything in all that time, because the water was clean, so why would they? And then it's children again." He took a breath. "They have to dig it up. They have to move it. Will you put that in the letter? Please. In those words."
+
+"I'll put it in," said Sara. "In those words."
+
+"Thank you." He looked down at the ink across his drawing, as if somebody else had done it. His hands came open. "Sorry. I'm sorry. I didn't mean to shout."
+
+"You didn't shout."
+
+"I nearly did." He wiped the nib on his sleeve. Then he nodded, once, to nobody in particular, and went to the door.
 
 Sara watched him pack. She'd watched him go into a trance before. She'd watched him go in with no food and come out with none, gray and stiff and blinking, and had once, after the template, sat beside Trice on a bench in the undercroft while Rolph went for bread. So she watched now with her arms folded and her mouth already open to say it, and didn't need to.
 
@@ -214,7 +232,7 @@ He went down to the kitchens and came back with a basket. In the basket was a lo
 
 "I'll tell her you packed properly," said Sara, and found she had to look out of the window for a moment.
 
-He went down the east stair with the basket on one arm and the tea-tray copper under the other and a roll of drawings in his teeth, and at the bottom he turned toward the old wing, and the worn stair, and the undercroft. He didn't look back. He was muttering round the drawings. Sara stood at the top of the stair and listened to him go, and to the bell, which began just then to ring the first bell after noon, and counted it without meaning to, and then went to write a letter in her contract voice that would not say *three days* in case it turned out to be four, and would not say *children* at all.
+He went down the east stair with the basket on one arm and the tea-tray copper under the other and a roll of drawings in his teeth, and at the bottom he turned toward the old wing, and the worn stair, and the undercroft. He didn't look back. He was muttering round the drawings. Sara stood at the top of the stair and listened to him go, and to the bell, which began just then to ring the first bell after noon, and counted it without meaning to, and then went to write a letter in her contract voice that would not say *three days* in case it turned out to be four, and would not say *children* at all, and would say, in his words, underlined, that the sewer must be dug up and moved, because the field would not last forever.
 
 * * *
 

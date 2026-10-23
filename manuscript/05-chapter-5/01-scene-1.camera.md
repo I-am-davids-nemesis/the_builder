@@ -180,11 +180,29 @@ He stopped. His eyes had gone to the copper on the bench.
 
 "Tor," said Sara. "Three days is fast. Three days is—" She stopped, and when she went on her voice was slower and very even. "Three days would be very acceptable."
 
-"All right." He kept writing. Then he put the pen down and looked at the letter again, at the seal. "Children," he said.
+"All right." He kept writing. Then he stopped and looked at the letter again, at the seal. "Children," he said.
 
 "Yes."
 
-He nodded once and stood up.
+He put the pen down. He put it down hard enough that ink sprayed off the nib across the drawing. He didn't blot it.
+
+"They put the sewer by the cistern," he said.
+
+"It's an old town, Tor. Things get built where there's room, and then—"
+
+"You don't put the sewer by the water." He was on his feet. "Everybody knows that. My *father* knows that, and he bakes bread. You dig the privy downhill of the well and you dig it *far*. That's not building. That's not anything. That's *sense*." His hands had closed into fists at his sides. He glanced down at them and left them closed. "And then the river comes up in the spring, the way it does every spring, the way every single person in that town knew it would, and it all goes in together, and now it's *children*."
+
+Sara didn't answer. She stood very still, with the letter's envelope in her hand, and watched him.
+
+"This won't fix it," said Tor. "You have to tell them that. The house, the town, whoever's in charge of it. This is a bucket under a leak. It'll make the water clean. It won't take the sewer out of it. And I don't know how long it lasts. I've never made one this size. Ten years. Twenty, maybe, if it's kept dry and nobody backs a cart into it. And then one morning it stops, and nobody's mended anything in all that time, because the water was clean, so why would they? And then it's children again." He took a breath. "They have to dig it up. They have to move it. Will you put that in the letter? Please. In those words."
+
+"I'll put it in," said Sara. "In those words."
+
+"Thank you." He looked down at the ink across his drawing. His hands opened. "Sorry. I'm sorry. I didn't mean to shout."
+
+"You didn't shout."
+
+"I nearly did." He wiped the nib on his sleeve, and nodded once to nobody in particular.
 
 Sara folded her arms. She opened her mouth.
 
@@ -200,7 +218,7 @@ Sara closed her mouth.
 
 "I'll tell her you packed properly," said Sara, and turned and looked out of the window.
 
-He went down the east stair with the basket on his arm, the tea-tray copper under the other, and a roll of drawings in his teeth. At the bottom he turned toward the old wing and the worn stair that went down to the undercroft. He was muttering round the drawings. The bell began to ring the first bell after noon. Sara stood at the top of the stair until it had finished, and then went to her room and took out paper, and wrote, and crossed out *three days*, and wrote *as soon as may be*, and did not write *children*.
+He went down the east stair with the basket on his arm, the tea-tray copper under the other, and a roll of drawings in his teeth. At the bottom he turned toward the old wing and the worn stair that went down to the undercroft. He was muttering round the drawings. The bell began to ring the first bell after noon. Sara stood at the top of the stair until it had finished, and then went to her room and took out paper, and wrote, and crossed out *three days*, and wrote *as soon as may be*, and did not write *children*. Near the bottom she wrote a sentence slowly, checking it against nothing, and underlined it twice: *The sewer must be dug up and moved; the field will not last forever.*
 
 * * *
 
