@@ -32,4 +32,4 @@
 - **"Two Bends"** in the summary is read as **Two Rivers**, Tor's hometown in the codex. (Check with the user.)
 - **The plate on the wall** had a stop for *enough* since the cold snap, so in the heat it simply did nothing: not heating, just not cooling.
 - **Ashford** (a river town ten days south, eleven thousand people, a Debri trading town) and the **Thompson house on the Hill** in the capital are new.
-- **The luggage plates follow the belt**, which ties them to the flying rig; Tor makes **ten**, because builds come in multiples of ten (user, October 23, 2026) and he doesn't know how many he needs ("Rolph takes four").
+- **The luggage plates follow the belt**, which ties them to the flying rig; Tor makes **ten**, because builds come in multiples of ten (user, October 23, 2026) and he doesn't know how many he needs ("Rolph takes four"). One trunk is Tor's own, full of extra devices for the capital (user, October 23, 2026): "mine, for the spares."

@@ -232,7 +232,7 @@ There were ten of them. Flat copper plates, square, each about the size of a tea
 
 Bet looked at the plates. The plates, in so far as plates can, looked at nothing.
 
-"They're for luggage," said Tor. He set the crate down on her bench and took up the chalk. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt round his own waist, as if she'd know what that meant. "Rolph takes four. I don't know what you take to the capital, so I did ten. You always do ten."
+"They're for luggage," said Tor. He set the crate down on her bench and took up the chalk. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt round his own waist, as if she'd know what that meant. "Rolph takes four. And there's mine, for the spares, in case anybody needs anything. I don't know what you take to the capital, so I did ten. You always do ten."
 
 He signed out. *Out: third bell of the afternoon, fifth day.* And under it, as he always did, *Thank you.*
 

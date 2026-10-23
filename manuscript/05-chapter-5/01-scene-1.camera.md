@@ -222,7 +222,7 @@ Each was square, the size of a tea tray. They came one after another at the heig
 
 Bet Haskins looked at the plates. She did not pick up her mending.
 
-"They're for luggage," said Tor. He set the crate on the end of her bench and took the chalk from its string. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt at his waist. "Rolph takes four. I don't know what you take to the capital, so I did ten. You always do ten."
+"They're for luggage," said Tor. He set the crate on the end of her bench and took the chalk from its string. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt at his waist. "Rolph takes four. And there's mine, for the spares, in case anybody needs anything. I don't know what you take to the capital, so I did ten. You always do ten."
 
 He wrote on the slate: *Out: third bell of the afternoon, fifth day.* Under it, *Thank you.*
 
