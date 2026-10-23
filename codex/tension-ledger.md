@@ -28,6 +28,7 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Dorgal's henchmen (chapter four) | — | Who Marco is; what the black-eyed man is and how he influences Dorgal; what they do with Wensa's secret |
 | The rage epidemic (chapter three) | — | Why nobles are raging more often; the plot behind it, which isn't what anyone expects |
 | Tor and Tovey's declared friendship (chapter three) | It's declared, and Tovey honors it | What it obliges; when Tor understands what he did |
+| Tor's devices in other hands (chapter five) | — | The city guard already carries his flying controls; how they got them, and who decides the rules for flying |
 | Tor's trance-sight (chapter three) | — | Why a student can see through wards, and why he's less meek in trance |
 
 ## Books 2–5

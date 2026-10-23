@@ -24,12 +24,43 @@ Tor can feel that the head servant is grateful, even though he doesn't make any 
 The servants bring cool water, and the ice even has chunks of ice in it.  Tor is very impressed and thinks that would be a neat effect to make an ice machine, as that would go over very well in a place as hot as the capital.  Tor's mind starts to drift off into how he could make it, and conversely an oven. Trice has to physically distract him from going off into a trance.
 Tor wonders if all noble women are as violent as Trice; most of his sisters are relatively meek, except Teira, and they didn't hit him nearly as much as Trice did. (even if it is mostly in combat class).
 Trice reminds them that they are all going out to their own places now, and will meet up the next day at Debri house for luncheon (mid afternoon)
-- **POV / mode:**
-- **Location:**
-- **Present:**
-- **Reader learns:**
+- **POV / mode:** Rotating third, five sections: Tovey (the court; the coach; the teardrop shield), Sara (the stops), the river (Sara, lightly), Rolph (the city and the guards), Trice (the Thompson house; Dallow; the ice). Tor never holds the viewpoint. Camera: the same sections, from outside. (invented; pending the user's review)
+- **Location:** The main court at Lairdgren; the air south; Ashby Market and two other stops; the river and the milestone road; the sky outside the capital's wall; the river gate; the carriage through the city; the Thompson town house on the Hill.
+- **Present:** Tor, Rolph, Trice, Sara, Tovey; Tovey's coachmen; an innkeeper and townspeople; Captain Curtis, Daws and four more city guards; Dallow (the Thompsons' butler) and servants.
+- **Reader learns:** The luggage plates and the new teardrop shield work; five students can fly from school to the capital in a day. The city guard already has Tor's flying controls, and flying inside the walls is forbidden after accidents. Rolph's given name is **Alphonse**. Tor can feel a strong emotion through a person's field, for the first time.
 - **Hidden (and how):**
+  - **Rolph is the prince:** never stated. Hinted by the innkeepers' second, longer looks at Rolph (Sara files them); Captain Curtis's half-raised salute and the "home" he swallows; Daws staring; the carriages already waiting; Rolph not giving the city's population "from the last count"; and "who would have to be asked to change" the order. Tor takes "Alphonse" as an awful family name.
+  - **How the guards got Tor's controls:** not explained. Sara looks straight ahead; Trice says "Mm." (open; see the questions below)
+  - **Sara's mother runs the Debri house:** untouched; the friends will lunch there tomorrow, where the reveal is planned (`sara.md`).
 
 ## Beats
 
-1.
+1. **The coach.** At the fifth bell on the last morning of term, Tovey has the Thompson coach ready. Trice has three trunks. (canon, user; details invented)
+2. **"We're flying."** Tor arrives with ten luggage plates, his own trunk on one. Trice: then he carries all three of hers. He straps everyone's trunks on and hands out the copper buttons. His trunk rides low: presents for Rolph's mother, and spares. (canon, user)
+3. **Too fast to see.** Tovey has tried the belt fast: cold, no breath, eyes streaming. Tor has a new **teardrop shield**, round in front and trailing behind "like a drip off the pump spout, lying down," worn over the old one. (canon, user; wording invented)
+4. **The stops.** About ten hours with stops to eat and use the facilities at nicer towns. Towns fear an Austran invasion until they see Count Thompson, and look a second time at Rolph. Tor is shy, stands up for the plates, and stares at a bridge and a pull-chain like a country boy. (canon, user; specifics invented)
+5. **Which river.** The last stretch follows a river; they pick the wrong one, then find the right one by a well-kept road with milestones to the city. (canon, user)
+6. **Homemade trinkets.** Tor worries his presents aren't good enough; everyone tells him he'll be a hit as long as he remembers to talk to people. Tovey adds: careful how much you give away at the first house. (canon, user; Tovey's line invented)
+7. **The city.** Ten times bigger than anything Tor has seen, a thick white wall, white stone, color everywhere. (canon, user)
+8. **The guards.** Six city guards in red and white come up with force lances in their left hands and Tor's controls strapped to their right. One admires the flying trunks and is silenced. Left-handed salute; the nobles nod, Sara bobs a mid-air curtsey, Tor nods and says "Greetings." (canon, user)
+9. **Alphonse.** Tovey names everyone, and Rolph as "Alphonse—but we all call him Rolph at school and when traveling. For safety." The guards welcome them without quite giving him away. (canon, user)
+10. **No flying in the city.** It's too new for rules; there have been accidents. Captain Curtis leads them to the gate, where carriages are already waiting for people and luggage. (canon, user; the accidents invented)
+11. **The carriage.** Very hot. Tovey: flying in is far superior, and every noble will want to. (canon, user)
+12. **The third house.** Tovey dismisses the huge Thompson town house as his third, for the council of counts in the autumn. The servants thought they'd be a week. Tor feels it's his fault. (canon, user)
+13. **Feeling it.** Tor feels that the butler, Dallow, is very pleased under his blank face, and realizes he's sensing it through the field: theory-class knowledge he's never experienced, because he builds physical things. (canon, user)
+14. **Ice.** Iced water. Tor drifts toward an ice machine, then an oven; Trice drops ice down his collar. (canon, user; the ice down the collar invented)
+15. **Violent noble women.** Tor asks whether all noble ladies are this violent; his sisters are meek, except Teira, and none hits him as much as Trice. "Only the ones who like you." (canon, user; Trice's answer invented)
+16. **Tomorrow.** Trice: everyone to their own places now; luncheon at the Debri house tomorrow, mid-afternoon. (canon, user)
+
+**Staging notes** (invented):
+
+- **Ten plates, ten trunks:** Trice 3, Rolph 4, Sara 1, Tovey 1, Tor 1.
+- **Flying in formation:** Tor flies at the front with the others in the still air behind him, like geese.
+- **The milestone** reads *THE CITY — 22*.
+- **Luncheon in the capital** is at the third bell after noon.
+
+**Questions for the user:**
+
+- **How did the city guard get Tor's flying controls?** Kolb has only three, and no flying template has gone to the Debri house in the drafts so far. Possibly the Debri house, the crown or the school had them copied; the scene leaves it unexplained.
+- **Wensa:** as Rolph's lead bodyguard she would hardly let him fly off without her. She's left out of this scene for now.
+- **Speed:** Tor reached Hollin (five miles) in about two minutes. At that speed ten hours would be far more than a six-day coach journey, so the long day has to come from the stops, the trunks and the slowest flier. The draft doesn't give a speed.
