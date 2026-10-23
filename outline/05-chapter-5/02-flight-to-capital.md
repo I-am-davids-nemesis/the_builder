@@ -21,7 +21,9 @@
 - Servants aren't quite ready for Tovey to be back -- they thought it would take at least a week to ride the carriage in.
 Tor feels bad that the servants are not prepared, since he insisted they all fly in.
 Tor can feel that the head servant is grateful, even though he doesn't make any outward sign; Tor realizes that he can pick up this strong feeling 'by magic'.  Its not super odd, since he has heard about it before in theory class, but he has never experienced it himself since he has focused on building devices that have physical effects.
-The servants bring cool water, and the ice even has chunks of ice in it.  Tor is very impressed and thinks that would be a neat effect to 
+The servants bring cool water, and the ice even has chunks of ice in it.  Tor is very impressed and thinks that would be a neat effect to make an ice machine, as that would go over very well in a place as hot as the capital.  Tor's mind starts to drift off into how he could make it, and conversely an oven. Trice has to physically distract him from going off into a trance.
+Tor wonders if all noble women are as violent as Trice; most of his sisters are relatively meek, except Teira, and they didn't hit him nearly as much as Trice did. (even if it is mostly in combat class).
+Trice reminds them that they are all going out to their own places now, and will meet up the next day at Debri house for luncheon (mid afternoon)
 - **POV / mode:**
 - **Location:**
 - **Present:**
