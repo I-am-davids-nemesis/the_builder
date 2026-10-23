@@ -21,7 +21,7 @@
 2. **A student again.** Nearly a month of ordinary classes; Rolph counts nineteen days without a trance. (canon, user; the count invented)
 3. **The hot day.** Halfway through spring the heat comes overnight. Rolph finds Tor sweating at the desk under his own plate and laughs: the whole school has turned their plates round to cool, and Tor forgot his. Tor turns it, and apologizes to it. (canon, user)
 4. **The invitation.** Tovey is going home "for work" and expects Tor to stay; Rolph asked first, and Tor is practically family: "Brothers beat friends." (canon, user)
-5. **Not needed at home.** Tor counts his family on his fingers: Jenny is old enough to knead, which frees Anne too. They'll miss him, but they don't need him. He says yes. (canon, user; names invented)
+5. **Not needed at home.** Tor counts his family on his fingers: Tessa is old enough to knead, which frees Tilda too. They'll miss him, but they don't need him. He says yes. (canon, user; names invented)
 6. **Trunks.** Rolph mentions trunks; Tor starts drawing luggage that follows its owner while Rolph talks about the house being "right in the middle." Rolph thinks it's a gift. (canon, user)
 7. **Ashford.** Three days later Sara brings a letter under the Debri seal: sewage in a river town's cistern, flux, deaths. Tor grumbles that a purifier is a second-year sigil, then sees the answer: a small field on the pipe, ten in a row. "Children." (canon, user; the design invented)
 8. **He packs.** For once Tor packs his own food for a trance. "Tell her I packed *properly*." (canon, user; Trice's line invented)

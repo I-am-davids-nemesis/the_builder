@@ -102,7 +102,7 @@ Tor said nothing. He had both hands flat on the blanket on either side of him. H
 
 "All right."
 
-"For the harvest. They need—" He stopped. His right hand began to move against the blanket, a finger at a time. "There's Terlee. And Mother. And Father, and the twins, and Robbie, and Anne's back from her place now. And Jenny's nine." He looked down at the finger. "She can knead. She was just starting to, at midwinter. If she's kneading, then Anne doesn't have to watch her, so that's—" The finger moved. "That's two. That's two people, really. That's more than me." He looked at his hand, and then up at Rolph. His eyebrows were up and the corners of his mouth were up, and then, for a moment, they weren't. "They don't need me."
+"For the harvest. They need—" He stopped. His right hand began to move against the blanket, a finger at a time. "There's Terlee. And Mother. And Father, and the twins, and Tam, and Tilda's back from her place now. And Tessa's nine." He looked down at the finger. "She can knead. She was just starting to, at midwinter. If she's kneading, then Tilda doesn't have to watch her, so that's—" The finger moved. "That's two. That's two people, really. That's more than me." He looked at his hand, and then up at Rolph. His eyebrows were up and the corners of his mouth were up, and then, for a moment, they weren't. "They don't need me."
 
 "They'll miss you."
 
