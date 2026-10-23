@@ -130,7 +130,7 @@ He laughed out loud, lying in the dew, with his hands full of grass and his eyes
 
 "It works," he told the sky, not loudly. "I went to *Hollin*."
 
-Up on the hill, the bell began to ring the fifth bell. He lay and listened to it, the stroke and the echo off the chapel roof, until it was done.
+Up on the hill, the bell began to ring the fifth bell. He lay and listened to it, five strokes and their echoes off the chapel roof, until it was done.
 
 Then he got up, brushed himself off, looked down at one boot, which had lost its lace, and went up the hill to breakfast with the lace flapping, saying nothing to anyone.
 

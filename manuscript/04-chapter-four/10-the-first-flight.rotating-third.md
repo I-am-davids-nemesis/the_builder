@@ -64,7 +64,7 @@ Nothing happened.
 
 And then, a moment too late, the way it always came, he understood that it had. The first press had been *on*. He'd felt nothing, because there was nothing to feel: he'd been holding his hand still, and a still hand told the plate to stay where it was, and he was already where he was, on the ground, so it had stayed. It had been working perfectly. And he'd just turned it off.
 
-"Oh, for—" said Tor, and pressed it again. On. He knew it was on, now. He stood there with his hand quite still and his heart going and nothing happening, because nothing was meant to happen, and he understood all of that perfectly well, and it didn't help in the least. He'd spent four days on it. He'd spent a month. He'd hung off the ceiling. He'd broken Rolph's window and stood Rolph's boots up the wall and given Trice a whole rota to keep, and here he was in a field, in the wet, at dawn, standing perfectly still so as to go nowhere.
+"Oh, for—" said Tor, and pressed it again. On. He knew it was on, now. He stood there with his hand quite still and his heart going and nothing happening, because nothing was meant to happen, and he understood all of that perfectly well, and it didn't help in the least. He'd spent four days on it. He'd spent a month. He'd stuck a plank to the ceiling. He'd cracked the window and stood Rolph's boots up the wall and given Trice a whole rota to keep, and here he was in a field, in the wet, at dawn, standing perfectly still so as to go nowhere.
 
 "*Come on*," said Tor, and threw both his hands up in the air.
 
@@ -164,7 +164,7 @@ He didn't mean to. It came up out of him from somewhere low down, the way the pl
 
 "It works," he said to it. Not loudly. Just telling it, the way you'd tell someone a piece of news. "I went to *Hollin*."
 
-Up on the hill, the bell began to ring the fifth bell. He lay there and counted the stroke and the echo off the chapel roof, and thought about breakfast, and about Rolph, still asleep with his arm off the bed, and about Trice, who would want to know, and who would be furious, and who would want to know how *fast*. He thought he might not tell anybody quite yet. He thought he might keep it for a day, just one, the way you kept the first apple off a tree in your pocket and kept touching it.
+Up on the hill, the bell began to ring the fifth bell. He lay there and counted the five strokes and their echoes off the chapel roof, and thought about breakfast, and about Rolph, still asleep with his arm off the bed, and about Trice, who would want to know, and who would be furious, and who would want to know how *fast*. He thought he might not tell anybody quite yet. He thought he might keep it for a day, just one, the way you kept the first apple off a tree in your pocket and kept touching it.
 
 Then he got up, and brushed himself off, and found he'd lost a boot-lace somewhere over the valley, and went up to breakfast.
 
