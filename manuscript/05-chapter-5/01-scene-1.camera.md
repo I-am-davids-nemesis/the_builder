@@ -214,7 +214,7 @@ Tor came out with one hand on the frame. He was carrying a crate. In it, standin
 
 Bet Haskins, on the bench opposite, put down her mending. "Well, then."
 
-Behind him, four flat copper plates came out of the chamber.
+Behind him, ten flat copper plates came out of the chamber.
 
 Each was square, the size of a tea tray. They came one after another at the height of a man's knee, in a line, a little apart, with nothing holding them up. When Tor stopped, they stopped. The first one bumped gently into the back of his leg.
 
@@ -222,11 +222,11 @@ Each was square, the size of a tea tray. They came one after another at the heig
 
 Bet Haskins looked at the plates. She did not pick up her mending.
 
-"They're for luggage," said Tor. He set the crate on the end of her bench and took the chalk from its string. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt at his waist. "I needed four. Rolph takes four. I think I might need five. I don't know what you take to the capital."
+"They're for luggage," said Tor. He set the crate on the end of her bench and took the chalk from its string. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt at his waist. "Rolph takes four. I don't know what you take to the capital, so I did ten. You always do ten."
 
 He wrote on the slate: *Out: third bell of the afternoon, fifth day.* Under it, *Thank you.*
 
-Then he picked up the crate and walked off along the passage toward the worn stair. The four plates swung round in a line and went after him, at knee height, bobbing a little. At the foot of the stair he stopped, and they stopped. He went up a step. The plates hung where they were. Then the first one rose, a step's height, and came on, and the others came after it, one step at a time, up the stair and out of sight into the light.
+Then he picked up the crate and walked off along the passage toward the worn stair. The ten plates swung round in a line and went after him, at knee height, bobbing a little. At the foot of the stair he stopped, and they stopped. He went up a step. The plates hung where they were. Then the first one rose, a step's height, and came on, and the others came after it, one step at a time, up the stair and out of sight into the light.
 
 Bet Haskins sat on her bench. After some time she reached over and took the slate off its nail and held it on her knee and looked at it. She hung it back up.
 

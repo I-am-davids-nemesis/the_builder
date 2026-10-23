@@ -228,15 +228,15 @@ He came out slowly, the way they all did, with one hand on the door frame. He wa
 
 Then she saw what was behind him, and didn't say anything else.
 
-There were four of them. Flat copper plates, square, each about the size of a tea tray, and they came out of the chamber after him one behind the other at the height of a man's knee, floating, in a line. When he stopped, they stopped. The first one bumped very gently into the back of his leg, and he said "Sorry" to it, and it backed off a hand's breadth and hung there, waiting.
+There were ten of them. Flat copper plates, square, each about the size of a tea tray, and they came out of the chamber after him one behind the other at the height of a man's knee, floating, in a line. When he stopped, they stopped. The first one bumped very gently into the back of his leg, and he said "Sorry" to it, and it backed off a hand's breadth and hung there, waiting.
 
 Bet looked at the plates. The plates, in so far as plates can, looked at nothing.
 
-"They're for luggage," said Tor. He set the crate down on her bench and took up the chalk. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt round his own waist, as if she'd know what that meant. "I needed four. Rolph takes four. I think I might need five. I don't know what you take to the capital."
+"They're for luggage," said Tor. He set the crate down on her bench and took up the chalk. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt round his own waist, as if she'd know what that meant. "Rolph takes four. I don't know what you take to the capital, so I did ten. You always do ten."
 
 He signed out. *Out: third bell of the afternoon, fifth day.* And under it, as he always did, *Thank you.*
 
-Then he picked up the crate again and went along the passage toward the worn stair, and the four plates swung round in a line and went after him, at knee height, in perfect order, bobbing a little, the way a row of ducklings goes after the duck. At the foot of the stair he stopped, and they stopped. He went up a step. They considered this. Then the first one rose, very carefully, a step's height, and came on, and the others came after it, one step at a time, all the way up, into the light.
+Then he picked up the crate again and went along the passage toward the worn stair, and the ten plates swung round in a line and went after him, at knee height, in perfect order, bobbing a little, the way a row of ducklings goes after the duck. At the foot of the stair he stopped, and they stopped. He went up a step. They considered this. Then the first one rose, very carefully, a step's height, and came on, and the others came after it, one step at a time, all the way up, into the light.
 
 Bet Haskins sat down on her bench.
 

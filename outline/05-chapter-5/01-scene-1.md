@@ -25,11 +25,11 @@
 6. **Trunks.** Rolph mentions trunks; Tor starts drawing luggage that follows its owner while Rolph talks about the house being "right in the middle." Rolph thinks it's a gift. (canon, user)
 7. **Ashford.** Three days later Sara brings a letter under the Debri seal: sewage in a river town's cistern, flux, deaths. Tor grumbles that a purifier is a second-year sigil, then sees the answer: a small field on the pipe, ten in a row. "Children." (canon, user; the design invented)
 8. **He packs.** For once Tor packs his own food for a trance. "Tell her I packed *properly*." (canon, user; Trice's line invented)
-9. **The undercroft.** Two days later he comes out with the template and ten purifier sheets, and four luggage plates following him up the stair like ducklings. Bet Haskins will have something to say at breakfast. (canon, user; details invented)
+9. **The undercroft.** Two days later he comes out with the template and ten purifier sheets, and ten luggage plates following him up the stair like ducklings. Bet Haskins will have something to say at breakfast. (canon, user; details invented)
 
 **Staging notes** (invented):
 
 - **"Two Bends"** in the summary is read as **Two Rivers**, Tor's hometown in the codex. (Check with the user.)
 - **The plate on the wall** had a stop for *enough* since the cold snap, so in the heat it simply did nothing: not heating, just not cooling.
 - **Ashford** (a river town ten days south, eleven thousand people, a Debri trading town) and the **Thompson house on the Hill** in the capital are new.
-- **The luggage plates follow the belt**, which ties them to the flying rig; Tor isn't sure how many he needs ("Rolph takes four").
+- **The luggage plates follow the belt**, which ties them to the flying rig; Tor makes **ten**, because builds come in multiples of ten (user, October 23, 2026) and he doesn't know how many he needs ("Rolph takes four").
