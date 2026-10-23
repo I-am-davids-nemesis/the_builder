@@ -124,7 +124,7 @@ Tor went pink. "I'm sorry."
 
 Behind him, a pen began to scratch.
 
-Tor was back at the desk with a fresh sheet. On it, ruled neatly, was a square box with a strap round it; under the box, a flat plate; beside it, a stick figure wearing a belt. An arrow ran from the figure to the box. A second arrow curved from the box back to the figure. Under it was a word, written small.
+Tor was back at the desk with a fresh sheet. On it, ruled neatly, was a square box with a strap round it; under the box, a flat plate; beside it, a stick figure with a dot drawn at its pocket. An arrow ran from the figure to the box. A second arrow curved from the box back to the figure. Under it was a word, written small.
 
 "There's a great hall," said Rolph, watching the back of Tor's head, "where they do the winter dinners, and the ceiling's got all the old gods on it, and one of them's got the wrong number of fingers, and you're not allowed to say."
 
@@ -222,7 +222,7 @@ Each was square, the size of a tea tray. They came one after another at the heig
 
 Bet Haskins looked at the plates. She did not pick up her mending.
 
-"They're for luggage," said Tor. He set the crate on the end of her bench and took the chalk from its string. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt at his waist. "Rolph takes four. And there's mine, for the spares, in case anybody needs anything. I don't know what you take to the capital, so I did ten. You always do ten."
+"They're for luggage," said Tor. He set the crate on the end of her bench and took the chalk from its string. "You put a trunk on, and they follow. Each one's got its own button. You keep the button in your pocket, and the plate follows the button." He patted his tunic pocket. It clinked. "They've all got mine just now, that's why." "Rolph takes four. And there's mine, for the spares, in case anybody needs anything. I don't know what you take to the capital, so I did ten. You always do ten."
 
 He wrote on the slate: *Out: third bell of the afternoon, fifth day.* Under it, *Thank you.*
 

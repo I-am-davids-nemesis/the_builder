@@ -132,7 +132,7 @@ Tor went pink. "I'm sorry."
 
 There was the small scratching sound of a pen.
 
-Rolph opened one eye. Tor was at the desk again, in the cool now, with his back to the room and his head down, drawing. Not the thing he'd been drawing when Rolph came in. A new sheet. Rolph could see it from the bed, over Tor's shoulder: a square box, very neatly ruled, with a strap round it. A trunk. And under the trunk, a flat plate. And beside the trunk, a small stick figure with a belt on, and an arrow from the figure to the trunk, and a second arrow, curving, from the trunk back to the figure, and a word under it that Rolph couldn't make out.
+Rolph opened one eye. Tor was at the desk again, in the cool now, with his back to the room and his head down, drawing. Not the thing he'd been drawing when Rolph came in. A new sheet. Rolph could see it from the bed, over Tor's shoulder: a square box, very neatly ruled, with a strap round it. A trunk. And under the trunk, a flat plate. And beside the trunk, a small stick figure with a dot in its pocket, and an arrow from the figure to the trunk, and a second arrow, curving, from the trunk back to the figure, and a word under it that Rolph couldn't make out.
 
 "There's a great hall," Rolph said, watching him, "where they do the winter dinners, and the ceiling's got all the old gods on it, and one of them's got the wrong number of fingers, and you're not allowed to say."
 
@@ -232,7 +232,7 @@ There were ten of them. Flat copper plates, square, each about the size of a tea
 
 Bet looked at the plates. The plates, in so far as plates can, looked at nothing.
 
-"They're for luggage," said Tor. He set the crate down on her bench and took up the chalk. "You put a trunk on, and they follow. They follow the belt." He touched the plain brown belt round his own waist, as if she'd know what that meant. "Rolph takes four. And there's mine, for the spares, in case anybody needs anything. I don't know what you take to the capital, so I did ten. You always do ten."
+"They're for luggage," said Tor. He set the crate down on her bench and took up the chalk. "You put a trunk on, and they follow. Each one's got its own button. You keep the button in your pocket, and the plate follows the button." He patted his tunic pocket, which clinked, as if she'd know what that meant. "They've all got mine just now, that's why." "Rolph takes four. And there's mine, for the spares, in case anybody needs anything. I don't know what you take to the capital, so I did ten. You always do ten."
 
 He signed out. *Out: third bell of the afternoon, fifth day.* And under it, as he always did, *Thank you.*
 
