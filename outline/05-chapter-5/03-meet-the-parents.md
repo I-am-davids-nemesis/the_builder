@@ -1,6 +1,7 @@
 # Meet the Parents
 
 - **Summary:**
+- tor goes to Rolphs house and meets his mother
 - **POV / mode:**
 - **Location:**
 - **Present:**
