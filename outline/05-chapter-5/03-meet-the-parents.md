@@ -1,7 +1,7 @@
 # Meet the Parents
 
 - **Summary:**
-- tor goes to Rolphs house and meets his mother
+- tor goes to Rolphs house and meets his mother but not his father (just the dog)
 - **POV / mode:** Rotating third (proposed): Rolph for the arrival (a secret-keeper may hold the viewpoint if it stays on action and word choice; `AGENTS.md` §3); Connie for the gifts and dinner; Tor alone at night. Camera: follows Tor in, and stays at the dinner table. (invented; pending the user's review)
 - **Location:** Rolph's family home in the capital (`codex/locations/rolphs-family-home-in-the-capital.md`): in through the garden side, "where we actually live" (chapter five, scene 1), never the front. A sitting room, the great hall with the old gods on the ceiling, a guest room over the city.
 - **Present:** Tor, Rolph, Connie; Rolph's younger sisters; servants; Admiral the dog. Possibly Wensa; possibly Rolph's father (see the questions).
