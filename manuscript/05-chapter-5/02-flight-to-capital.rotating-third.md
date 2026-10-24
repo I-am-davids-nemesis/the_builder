@@ -234,7 +234,7 @@ Rolph knew what was in those right hands. So did Tor; Rolph heard him make a sma
 
 Nobody answered him. Sara was looking straight ahead. Trice said, "Mm."
 
-The guards came to a halt in the air some twenty yards off, all together, smartly, and the wedge opened into a line. They were good. Somebody had drilled them, and not for long, and hard. The man at the front was older, gray at the temples, with a captain's gold on his sash and a face that had been out in a lot of weather. He looked them over: five young people in school brown and school black and a dark noble's cloak, and a train of trunks hanging in the air behind them like washing.
+The guards came to a halt in the air some twenty yards off, all together, smartly, and the wedge opened into a line. They were good. Somebody had drilled them; not for long, but hard. The man at the front was older, gray at the temples, with a captain's gold on his sash and a face that had been out in a lot of weather. He looked them over: five young people in school brown and school black and a dark noble's cloak, and a train of trunks hanging in the air behind them like washing.
 
 "Oh, look at the *trunks*," said one of the guards at the end of the line, a young one, in pure delight. "Sir, look, the trunks are—"
 
