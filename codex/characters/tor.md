@@ -14,7 +14,7 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 - Oldest sister: **Terlee**. (canon)
 - **All of Tor's siblings' names start with T.** (user, October 23, 2026) His sisters are mostly meek, except **Teira**, who hits (user, October 23, 2026).
 - **Adapts his diction to the company** (user, October 25, 2026): puts on a noble accent at the palace gate as a joke, and Rolph tells him to keep it there and develop another for the city.
-- **Recognizes the royal guard's purple and black** at the palace gate and still doesn't draw the obvious conclusion (user, October 25, 2026).
+- **Recognizes the royal guard's purple and black** at the palace gate and still doesn't draw the obvious conclusion (user, October 25, 2026). **Works out that Rolph's family is royal the next morning, when he meets Rolph's father** (user, October 25, 2026).
 - **Feels strong emotions through the field** (user, October 23, 2026): in the capital he feels the Thompsons' butler's hidden gratitude. He knows of it from theory class but has never experienced it, because he builds devices with physical effects. (Compare sensing danger in Sorvey, chapter two.)
 - In his first year he asked **Maria** to a **school dance** (user, October 18, 2026); she screamed that he was poor, ugly and above his station. He hid in his room for weeks. (canon)
 - Believes **all nobles look down on anyone who isn't noble**, and is afraid of high nobles like Tovey, expecting them to lash out at any slight. (canon, user)
