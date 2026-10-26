@@ -4,6 +4,7 @@ Wensa is the one adult at the school who takes Tor exactly as seriously as he ta
 
 ## Facts
 
+- **Stays at the school over the summer**; the palace has plenty of royal guards of the same mind (user, October 25, 2026).
 - **Rolph's accounting instructor** at the school. (canon, user, chapter three) She is the accounting professor earlier notes called **Miriam**, a placeholder name (user, October 17, 2026).
 - **Secretly a royal guard**, sent as the **lead bodyguard for Rolph**. She has to keep her cover as much as she can, but her first duty is to keep Rolph **physically** safe. She doesn't care who his friends are. (canon, user, chapter three)
 - **Present in the warded room** after the courtyard fight, with Trice and the headmaster. (canon, user, chapter three)

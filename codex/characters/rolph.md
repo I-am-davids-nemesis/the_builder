@@ -10,7 +10,9 @@ Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter a
 - Tor "had been told" Rolph is from a **merchant family**. (canon) **It's a cover: Rolph's family is royal.** (canon, user, October 9, 2026) The codex treats it as known; on the page it stays **hidden from Tor and hinted to the reader**. His mother Connie is the queen, so her birthday is the queen's birthday. (assumed from canon; King Richard Cordes in `canon-notes.md`)
 - His mother is **Connie**. (canon)
 - His given name is **Alphonse**; "Rolph" is what friends call him at school and when traveling, "for safety" (Tovey). (user, October 23, 2026) Tor takes it for an awful family name.
-- Has **younger sisters**. (canon, user, October 12, 2026) Names and number to be decided. With Connie, they play the court's flirtation game at its highest level, and Tor can't cope with any of them (see `outline/series-direction.md`).
+- Has **younger sisters**. (canon, user, October 12, 2026) **Two** of them; one is **Karina**, who calls him "Alphie" (user, October 25, 2026). The other's name, and both ages, are to be decided.
+- **Code-switches at home** (user, October 25, 2026): at the palace gate he drops into a noble's speech, more Tovey than Sara. That's register, not anger; the "never formal" rule below is about Rolph among friends.
+- **His father** couldn't make it to dinner on Tor's first night (user, October 25, 2026). With Connie, they play the court's flirtation game at its highest level, and Tor can't cope with any of them (see `outline/series-direction.md`).
 - Owns a **magic lockbox full of gold**, kept in their room. Tor copied its lock to make the room's door lock. (canon, user, chapter one) It's a hint about his family, never an admission.
 - Very interested in Tor and his magic, in what seems to be innocent envy; he once **stared at the room lock for hours**. (canon, user)
 - Wants a copy of the drying field **for his mother**. (canon, user)
