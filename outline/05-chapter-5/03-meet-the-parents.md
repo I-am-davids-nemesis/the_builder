@@ -39,7 +39,7 @@ All beats (invented; pending the user's review) unless labeled.
 
 **Questions for the user:**
 
-- **Rolph's father**, King Richard Cordes if Connie is the queen (`rolph.md` assumes so; `canon-notes.md` says the king ordered Tor's scholarship and is an Ancient). Does he appear in this scene? Options: absent ("working late"); a brief, unremarkable man at the end of the table whom Tor takes for an uncle; or a full meeting.
+- **Rolph's father**, King Richard Cordes if Connie is the queen (`rolph.md` assumes so; `canon-notes.md` says the king ordered Tor's scholarship; he's named after an Ancient, not one himself). Does he appear in this scene? Options: absent ("working late"); a brief, unremarkable man at the end of the table whom Tor takes for an uncle; or a full meeting.
 - **The sisters:** how many, their names, and how old.
 - **Wensa:** as Rolph's lead bodyguard, she could appear here in her real role, in the household, which would terrify Tor (he believes she's trying to kill him). Use it here, later, or not at all?
 - **How long Tor believes the merchant story** once he's inside the palace. Does canon have him realize during this visit, or later?
