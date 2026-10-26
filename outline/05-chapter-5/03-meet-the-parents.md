@@ -1,7 +1,12 @@
 # Meet the Parents
 
 - **Summary:**
-- tor goes to Rolphs house and meets his mother but not his father (just the dog)
+- They get to a back gate in another giant white wall. There are guards in purple and black — this is the uniform of the royal guard. Tor recognizes that they are royal guards and some part of his brain is really frustrated that he doesn’t see the obvious consequence. The head gate guard is George who greets Rolph as “ young sir”. Rolph code switches and starts speaking like a noble— more like Tovey than a merchant like Sara. Tor thinks this is quite funny and puts on a noble accent himself as a joke, making a joke about staying in the “small house” that he can see the roof of above the wall — small only in comparison to the massive building that is quite a bit further away, but still behind the wall. Rolph thinks the accent is actually quite appropriate for his house and advises tor to keep that accent and maybe develop another one for out in the city. This is a good chance to see Tors adaptive behavior by having his word choice and diction evolve to suit the people he is around. Just to be clear the reference to staying in the small house is a joke meant to invoke the idea of having to stay in a outhouse as that is the kind of small house that they have in Two Rivers
+
+They get through the gate with a warning from the guard that they have a list of everyone allowed inside
+
+Rolph takes them to the ‘small house’ which is much bigger than any building tor has been in. Rolph tells him they will have dinner later and to get cleaned up. 
+Tor is astonished at his suite of rooms — bigger than he could imagine and very fancy. He feels too dirty to even walk in them. He immediately goes to the bathroom and washes himself as clean as possible. Then he steps out of the bath  
 - **POV / mode:** Rotating third (proposed): Rolph for the arrival (a secret-keeper may hold the viewpoint if it stays on action and word choice; `AGENTS.md` §3); Connie for the gifts and dinner; Tor alone at night. Camera: follows Tor in, and stays at the dinner table. (invented; pending the user's review)
 - **Location:** Rolph's family home in the capital (`codex/locations/rolphs-family-home-in-the-capital.md`): in through the garden side, "where we actually live" (chapter five, scene 1), never the front. A sitting room, the great hall with the old gods on the ceiling, a guest room over the city.
 - **Present:** Tor, Rolph, Connie; Rolph's younger sisters; servants; Admiral the dog. Possibly Wensa; possibly Rolph's father (see the questions).
