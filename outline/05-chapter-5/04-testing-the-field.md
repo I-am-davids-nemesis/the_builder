@@ -11,7 +11,7 @@
 * Burks tries to return the amulet, but Tor insists that it is a gift and he should keep it.
 * after breakfast, the man helps Tor choose and wear one of Rolph's old clothes sets.  Afterwards, Burks leaves Tor
 
-- **POV / mode:** Rotating third (proposed): Tor alone through the dawn, the extra batch and the testing walk (`AGENTS.md` §3); a servant who meets Burks in the corridor with the clothes (Quavel, or a footman) for one short beat of outside reaction; then, from the knock, a viewpoint **outside** Burks. Burks is Green, so his own viewpoint would have too much to hide. Tor alone in the bath. Camera: follows Tor all morning. (invented; pending the user's review; see the questions)
+- **POV / mode:** Rotating third (proposed): Tor alone through the dawn, the extra batch and the testing walk (`AGENTS.md` §3); a servant who meets Burks in the corridor with the clothes (Quavel, or a footman) for one short beat of outside reaction; then, from the knock, a viewpoint **outside** Burks: Burks is Green, and **no Ancient ever holds the viewpoint** (user, October 27, 2026; `AGENTS.md` §3). Tor alone in the bath. Camera: follows Tor all morning. (invented; pending the user's review)
 - **Location:** The small house: Tor's suite (the green table, the made bed, the bath); its corridors and stairs, the kitchens, and outside on the fig walk and in the garden for the testing walk. (summary, user; the fig walk from scene 3)
 - **Present:** Tor; "Burks"; servants and kitchen staff glimpsed on the walk. Rolph, Connie and the sisters are offstage (Rolph has sent the clothes).
 - **Reader learns:** The personal cooling amulet works, worn on a hemp string like a shield, in the heat outside and in the kitchen, "most effective." It holds a person at the right temperature so steadily that it makes hot bath water feel merely cool, so it comes off for bathing. Tor has made an extra batch. Rolph's old clothes fit Tor well enough for the luncheon.
@@ -42,15 +42,11 @@ Beats follow the user's summary (user, October 27, 2026) unless labeled.
 - **Tor is definitely tired** after the all-nighter (user); he can **nap on the way to the luncheon** (user), in the carriage.
 - **Tor meets Rolph's father in the next scene** (user), which is when he works out the truth about the family.
 
-**Questions for the user:**
-
-- **Burks's viewpoint:** should he never hold one, at least in book 1? I've proposed watching him only from outside.
-
-**Answered** (user, October 27, 2026):
+**Answered questions** (user, October 27, 2026):
 
 - **Burks looks and sounds a bit like Tor.** Describe the familiarity so Tor can't place it (a face he has seen in a basin, a voice that sounds like a brother's), never naming the likeness.
 - **The palace and staff know him as Count Lairdgren**, the school's name. So the corridor servant sees *Count Lairdgren* carrying an armful of clothes and freezes; Tor hears only "Burks."
-
+- **Burks never holds the viewpoint**, and nor does any Ancient (`AGENTS.md` §3).
 - **Is Burks Rolph's father?** No, Burks turns out to be the Ancient, Green.  The one who has been running Noram for the last 3000 years, and the inventor of the system of magic that the continent uses.  But that doesn't come up yet, just a funny episode.
 - **When does Tor realize?**  Tor meets Rolph's father in the next scene
 - **His height:** "slightly taller than Tor" makes him small for a noble, and nobles are large in the codex (Tor is "too small to be a noble"). Is that a deliberate hint, about Tor or the family? ==> it is a deliberate hint about Burks

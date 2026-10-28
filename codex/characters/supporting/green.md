@@ -10,6 +10,8 @@ The Ancient who has run Noram for three thousand years, met by Tor as a man who 
 - **The palace and its staff know him as Count Lairdgren**, the same name as the school (user, October 27, 2026). (Spelled as the school is in the codex: Lairdgren.) "Burks" is the name he gives Tor.
 - Tor's middle name is **Green** (`tor.md`, canon). Any connection is not stated in the codex; don't hint beyond the familiar face and voice until the user decides.
 
+- **Never holds the viewpoint.** No narration from any Ancient's point of view; he's seen only from outside (user, October 27, 2026; `AGENTS.md` §3).
+
 ## Profile
 
 All (open); to be developed with the user.
