@@ -11,11 +11,11 @@
 * Burks tries to return the amulet, but Tor insists that it is a gift and he should keep it.
 * after breakfast, the man helps Tor choose and wear one of Rolph's old clothes sets.  Afterwards, Burks leaves Tor
 
-- **POV / mode:** Rotating third (proposed): Tor alone through the dawn, the extra batch and the testing walk (`AGENTS.md` §3); a servant who meets the stranger in the corridor with the clothes (Quavel, or a footman) for one short beat of outside reaction; "Burks" from the knock to his exit, kept strictly on action and word choice, as a secret-keeper's viewpoint must be; Tor alone in the bath. Camera: follows Tor all morning. (invented; pending the user's review)
+- **POV / mode:** Rotating third (proposed): Tor alone through the dawn, the extra batch and the testing walk (`AGENTS.md` §3); a servant who meets Burks in the corridor with the clothes (Quavel, or a footman) for one short beat of outside reaction; then, from the knock, a viewpoint **outside** Burks. Burks is Green, so his own viewpoint would have too much to hide. Tor alone in the bath. Camera: follows Tor all morning. (invented; pending the user's review; see the questions)
 - **Location:** The small house: Tor's suite (the green table, the made bed, the bath); its corridors and stairs, the kitchens, and outside on the fig walk and in the garden for the testing walk. (summary, user; the fig walk from scene 3)
 - **Present:** Tor; "Burks"; servants and kitchen staff glimpsed on the walk. Rolph, Connie and the sisters are offstage (Rolph has sent the clothes).
 - **Reader learns:** The personal cooling amulet works, worn on a hemp string like a shield, in the heat outside and in the kitchen, "most effective." It holds a person at the right temperature so steadily that it makes hot bath water feel merely cool, so it comes off for bathing. Tor has made an extra batch. Rolph's old clothes fit Tor well enough for the luncheon.
-- **Hidden (and how):** Who Burks really is (see the questions). Hinted by description only: slightly taller than Tor, strangely familiar in face and voice (like Rolph), the long look at the unslept bed, servants going still as he passes on the testing walk. Tor takes him for Rolph's valet and never asks.
+- **Hidden (and how):** **Burks is Green**, the Ancient who has run Noram for 3,000 years and invented its magic (user, October 27, 2026; `codex/characters/supporting/green.md`). It doesn't come up yet: on the page this is just a funny episode. Hinted by description only: **slightly taller than Tor**, small for anyone of rank (a deliberate hint about Burks, user); strangely familiar in face and voice; the long look at the unslept bed; the attention he gives the amulet. Tor takes him for a servant and never asks.
 
 ## Beats
 
@@ -38,8 +38,17 @@ Beats follow the user's summary (user, October 27, 2026) unless labeled.
 - **The joke of the scene** is a man who almost certainly doesn't fetch clothes, fetching clothes, and being thanked, tested on and given a present by a guest who thinks he's the help. Burks plays it perfectly straight.
 - **The kitchen test** is where the household learns about the amulet; the kitchen's reaction (the hottest room in the house, a man walking through it cool) can be told by Burks in one dry line.
 - **Twenty amulets** after this scene: the first ten as counted in scene 3, and the extra batch.
+- **The joke has a second layer the reader can't see yet:** the inventor of the continent's magic is shown a new kind of magic by a sleepless boy in a borrowed room, puts it on, tests it in the kitchen, and calls it "most effective." Write Burks's lines so they reread differently later.
+- **Tor is definitely tired** after the all-nighter (user); he can **nap on the way to the luncheon** (user), in the carriage.
+- **Tor meets Rolph's father in the next scene** (user), which is when he works out the truth about the family.
 
 **Questions for the user:**
+
+- **Whom does Burks look and sound like?** I'd assumed Rolph. Given who he is, should the familiar face and voice point somewhere else (Tor himself, say)? It changes how the description should read.
+- **Does the household know him as Burks?** For example, servants who go still or step aside as he passes, or nobody noticing him at all. Either shapes the corridor beat.
+- **Burks's viewpoint:** should he never hold one, at least in book 1? I've proposed watching him only from outside.
+
+**Answered** (user, October 27, 2026):
 
 - **Is Burks Rolph's father?** No, Burks turns out to be the Ancient, Green.  The one who has been running Noram for the last 3000 years, and the inventor of the system of magic that the continent uses.  But that doesn't come up yet, just a funny episode.
 - **When does Tor realize?**  Tor meets Rolph's father in the next scene

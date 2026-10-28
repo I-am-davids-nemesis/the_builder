@@ -1,0 +1,22 @@
+# Green ("Burks")
+
+The Ancient who has run Noram for three thousand years, met by Tor as a man who brings him clothes. Every scene with him should be funny on the surface and enormous underneath.
+
+## Facts
+
+- **Green** is an **Ancient**, one of the long-lived, color-named humans (`canon-notes.md`). He has been **running Noram for the last 3,000 years**, and he **invented the system of magic the continent uses**. (user, October 27, 2026)
+- In chapter five, scene 4, he comes to Tor's room in the small house as **"Burks"**, with an armful of Rolph's old clothes, and Tor takes him for a servant. Who he is **doesn't come up yet**: it's a funny episode. (user, October 27, 2026)
+- **Slightly taller than Tor**, so small for someone of rank (nobles are big). This is a **deliberate hint about Burks** (user, October 27, 2026). Looks strangely familiar to Tor, and something in his voice is familiar too (user).
+- Tor's middle name is **Green** (`tor.md`, canon). Any connection is not stated in the codex; don't hint beyond the familiar face and voice until the user decides.
+
+## Profile
+
+All (open); to be developed with the user.
+
+- **Role:** the hidden power behind Noram, and behind the magic Tor builds with.
+- **Hidden aspect:** everything above, on the page. What he wants with Tor, and what he knows about Tor's past and the mental controls (`tor.md`), is undecided.
+- **Voice (from the outline):** a servant's courtesy played perfectly straight: "Sir?", "Most effective, sir."
+
+## Series slice
+
+Book 1: a funny morning with a man called Burks. Everything else stays open.

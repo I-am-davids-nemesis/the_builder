@@ -29,6 +29,7 @@ When a draft resolves or opens a thread, update this file in the same change.
 | The rage epidemic (chapter three) | — | Why nobles are raging more often; the plot behind it, which isn't what anyone expects |
 | Tor and Tovey's declared friendship (chapter three) | It's declared, and Tovey honors it | What it obliges; when Tor understands what he did |
 | Tor's devices in other hands (chapter five) | — | The city guard already carries his flying controls; how they got them, and who decides the rules for flying |
+| Burks (chapter five) | — | That the man who brought Tor's clothes is Green, the Ancient who runs Noram and invented its magic; why he came |
 | Tor's trance-sight (chapter three) | — | Why a student can see through wards, and why he's less meek in trance |
 
 ## Books 2–5
