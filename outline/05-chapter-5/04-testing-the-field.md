@@ -15,7 +15,7 @@
 - **Location:** The small house: Tor's suite (the green table, the made bed, the bath); its corridors and stairs, the kitchens, and outside on the fig walk and in the garden for the testing walk. (summary, user; the fig walk from scene 3)
 - **Present:** Tor; "Burks"; servants and kitchen staff glimpsed on the walk. Rolph, Connie and the sisters are offstage (Rolph has sent the clothes).
 - **Reader learns:** The personal cooling amulet works, worn on a hemp string like a shield, in the heat outside and in the kitchen, "most effective." It holds a person at the right temperature so steadily that it makes hot bath water feel merely cool, so it comes off for bathing. Tor has made an extra batch. Rolph's old clothes fit Tor well enough for the luncheon.
-- **Hidden (and how):** **Burks is Green**, the Ancient who has run Noram for 3,000 years and invented its magic (user, October 27, 2026; `codex/characters/supporting/green.md`). It doesn't come up yet: on the page this is just a funny episode. Hinted by description only: **slightly taller than Tor**, small for anyone of rank (a deliberate hint about Burks, user); strangely familiar in face and voice; the long look at the unslept bed; the attention he gives the amulet. Tor takes him for a servant and never asks.
+- **Hidden (and how):** **Burks is Green**, the Ancient who has run Noram for 3,000 years and invented its magic (user, October 27, 2026; `codex/characters/supporting/green.md`). It doesn't come up yet: on the page this is just a funny episode. Hinted by description only: **slightly taller than Tor**, small for anyone of rank (a deliberate hint about Burks, user); strangely familiar in face and voice, because he looks and sounds a bit like Tor (user); the staff know him as Count Lairdgren (user); the long look at the unslept bed; the attention he gives the amulet. Tor takes him for a servant and never asks.
 
 ## Beats
 
@@ -44,11 +44,12 @@ Beats follow the user's summary (user, October 27, 2026) unless labeled.
 
 **Questions for the user:**
 
-- **Whom does Burks look and sound like?** I'd assumed Rolph. Given who he is, should the familiar face and voice point somewhere else (Tor himself, say)? It changes how the description should read.
-- **Does the household know him as Burks?** For example, servants who go still or step aside as he passes, or nobody noticing him at all. Either shapes the corridor beat.
 - **Burks's viewpoint:** should he never hold one, at least in book 1? I've proposed watching him only from outside.
 
 **Answered** (user, October 27, 2026):
+
+- **Burks looks and sounds a bit like Tor.** Describe the familiarity so Tor can't place it (a face he has seen in a basin, a voice that sounds like a brother's), never naming the likeness.
+- **The palace and staff know him as Count Lairdgren**, the school's name. So the corridor servant sees *Count Lairdgren* carrying an armful of clothes and freezes; Tor hears only "Burks."
 
 - **Is Burks Rolph's father?** No, Burks turns out to be the Ancient, Green.  The one who has been running Noram for the last 3000 years, and the inventor of the system of magic that the continent uses.  But that doesn't come up yet, just a funny episode.
 - **When does Tor realize?**  Tor meets Rolph's father in the next scene
