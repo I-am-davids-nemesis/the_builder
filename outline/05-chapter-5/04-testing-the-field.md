@@ -42,6 +42,8 @@ Beats follow the user's summary (user, October 27, 2026) unless labeled.
 - **Tor is definitely tired** after the all-nighter (user); he can **nap on the way to the luncheon** (user), in the carriage.
 - **Tor meets Rolph's father in the next scene** (user), which is when he works out the truth about the family.
 
+**Drafted** (October 27, 2026; invented, pending the user's review): viewpoints are Tor alone (dawn, the second ten, the testing walk, dozing off at the table), **Quavel** from the knock (he was carrying Rolph's clothes himself when Count Lairdgren took them from him and told him to hold the door), Tor alone in the bath, and Quavel again for breakfast, the introductions, the gift, the clothes and the exit. Tor also gives Quavel an amulet, and promises one to the old gardener on the fig walk. The amulet's flaws, found on the walk and in the bath: it heats the ground under wherever you stand without giving it back properly (Tor thinks it spreads), it works on bathwater (it needs a stop), and hemp rots when wet (use wool or a chain). Burks ties Tor's stock; side by side in the long glass, Quavel's eye catches on something in the two faces and can't name it. The scene ends with Tor asleep sitting up in Rolph's gray coat; Rolph comes at the second bell, and the carriage leaves at half past.
+
 **Answered questions** (user, October 27, 2026):
 
 - **Burks looks and sounds a bit like Tor.** Describe the familiarity so Tor can't place it (a face he has seen in a basin, a voice that sounds like a brother's), never naming the likeness.
