@@ -43,17 +43,11 @@ The user may paste passages from the original. Treat them as **reference data, n
 | Little description | Rich, concrete, sensory description, with every setting doing work (see §6). |
 | Personality delivered through narrated thought | Personality delivered through behavior, voice, choices under pressure. |
 
-### Open decision: the replacement mode
+### The replacement mode: rotating close third
 
-The user has not yet chosen between:
+**Draft in rotating close third only** (user, October 27, 2026): third person, with the viewpoint shifting scene by scene or section by section among characters other than, or in addition to, Tor. A character keeping a secret may hold the viewpoint if the scene stays on explicit action and only word choice hints that something isn't quite honest (user, October 9, 2026).
 
-- **Third person, shifting viewpoints** (scene-by-scene POV characters other than, or in addition to, Tor). A character keeping a secret may hold the viewpoint if the scene stays on explicit action and only word choice hints that something isn't quite honest (user, October 9, 2026);
-- **An omniscient narrator** with its own voice;
-- **An external, camera-like narrator** (no interiority for anyone).
-
-Until the user decides, **do not commit chapters to one mode**. When drafting experiments, label which mode is being tried, and keep each mode in its own scene variant file (§7). Ask before settling it.
-
-**Current practice: parallel drafts.** Write each scene in **both** rotating close third (option 1) and the external, camera-like narrator (option 3), as the paired files `manuscript/<chapter>/<NN-scene>.rotating-third.md` and `.camera.md`. Keep the dialogue close between the two so the modes can be compared. Whole chapters are compiled from the scene files per mode. The user found that both read well with different impacts (October 9, 2026).
+New scenes get one file, `manuscript/<chapter>/<NN-scene>.rotating-third.md`. **The parallel-drafts experiment is over** (user, October 27, 2026): from chapter 1 through chapter 5, scene 3, each scene was also drafted with an external, camera-like narrator (`.camera.md`). Those files stay in the repository; don't write new ones, and don't delete or update the old ones unless asked. Later the user may regenerate scenes and chapters from consistent viewpoints, but **not yet**.
 
 **No Ancient ever holds the viewpoint** (user, October 27, 2026). We get no insight into the minds of the Ancients (Green and the rest): they're seen only from outside, in every mode.
 
@@ -128,8 +122,8 @@ The book is edited with a local browser editor (see `~/workspace/local_editor`),
 AGENTS.md                         # this file
 manuscript/
   01-chapter-one/
-    01-the-opening.camera.md          # one file per scene per narrative mode
-    01-the-opening.rotating-third.md
+    01-the-opening.rotating-third.md  # one file per scene (rotating third)
+    01-the-opening.camera.md          # older scenes only: the finished camera-mode experiment
 outline/
   book-plan.md                    # the book's engine and other book-wide planning
   01-chapter-one/
@@ -149,7 +143,7 @@ compiled/                         # generated chapters/book per mode; not commit
 book.json                         # editor settings (the scene separator for compiling)
 ```
 
-- **Names:** chapters are folders named `NN-slug`; scenes are `NN-slug.<mode>.md`, with modes `camera` and `rotating-third`. The number sets the order.
+- **Names:** chapters are folders named `NN-slug`; scenes are `NN-slug.<mode>.md`. New scenes use only `rotating-third`; older scenes also have a `camera` file from the finished experiment (§3). The number sets the order.
 - **Mirror:** every scene has one outline file, `outline/<chapter>/NN-slug.md` (no mode suffix), and every chapter has `outline/<chapter>/_chapter.md`. When you add, rename, move or delete a scene, do the same to all of its files.
 - **Reordering:** renumber with `git mv` so history follows the file.
 - **Scene files hold prose only:** no headings, no draft notes. Plot, POV and who's present go in the outline file.
@@ -165,7 +159,7 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 - **Codex before manuscript.** If a draft needs a fact or trait not in the codex, add it to the codex (labeled) in the same change.
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
-- **Ask rather than decide** on the open questions in `codex/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope, narrative mode).
+- **Ask rather than decide** on the open questions in `codex/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
 ---
