@@ -354,13 +354,13 @@ She revised the mouse.
 
 He sat. He sat on her left, with Karina across from him, very bright-eyed and very pleased with herself in her blue, and Varley beside her, sixteen and watchful, who had been told at some length by her sister what had happened upstairs and plainly hadn't decided yet what she thought about it. Alphonse sat at the foot of the little knot, by the window, where he could see everybody.
 
-The servers came. The soup came: cold, green, with a curl of cream on it, because nobody in the city ate hot soup in this heat if they could help it. It was set before Connie, and before each of them in turn. The server at Torrance's elbow, a young man named Peck who had been in the house a year, set the bowl down and stepped back.
+The servers came. The soup came: cold, green, with a curl of cream on it, because nobody in the city ate hot soup in this heat if they could help it. It was set before Connie, and before each of them in turn. Quavel, the head server, who had served the guest himself at every dinner in this room for twenty years, set Torrance's bowl down and stepped back.
 
 And Torrance, who had had nothing since the posting house at noon, and who had just been told to sit, and who was nothing if not obedient, picked up his spoon, and smiled at the soup, and took the first mouthful.
 
 There was a stillness.
 
-It was very small. A stranger wouldn't have seen it. Peck's hand, which had been reaching for the next bowl, stopped halfway, in the air. Varley's eyes went straight to her mother's face. Karina's mouth twitched at one corner. At the foot of the table, Alphonse put his own spoon down very gently on the cloth, the way you'd put down something that might go off.
+It was very small. A stranger wouldn't have seen it. Quavel's hand, which had been reaching for the next bowl, stopped halfway, in the air. Varley's eyes went straight to her mother's face. Karina's mouth twitched at one corner. At the foot of the table, Alphonse put his own spoon down very gently on the cloth, the way you'd put down something that might go off.
 
 In this house, at this table, at every table it had ever laid, the first bite was the host's. It always had been. You sat; the food came; the host ate, and you watched her eat, and then you ate, and that was how you knew. There were people in the city who'd have stood up and left the room.
 
@@ -372,7 +372,7 @@ Connie picked up her spoon and took her own mouthful, quite unhurried, as if she
 
 "It is cucumber," she said. "And I think your mother is quite right."
 
-Peck's hand finished its journey. Varley let her breath out. The meal went on.
+Quavel's hand finished its journey. Varley let her breath out. The meal went on.
 
 * * *
 
@@ -400,7 +400,7 @@ She watched it happen. She'd watched a great many men talk about the thing they 
 
 "It's the cellar," he said. "Do you know, ma'am, when you go down into a cellar in summer, how it's cool? And in winter it's warm, warmer than the kitchen? That's because down there it's always the same. The ground doesn't care what the weather's doing. It's like a great big— like a bank, really, that you can put warm into and take warm out of. And the plate just reaches down. Through the house. Into the ground under it. And it carries the warm. It doesn't *make* any, that's the important part, making's dear, it just *carries* it, the way you'd carry water in a bucket, from where there's too much to where there's not enough. And in summer there's too much up here and not enough down there, so it carries it down. And in winter you turn it round—"
 
-The servers had stopped moving. Connie noticed that. Peck was standing against the wall with a sauceboat in his hand, quite still, listening. So was the man beside him.
+The servers had stopped moving. Connie noticed that. Quavel was standing against the wall with a sauceboat in his hand, quite still, listening, which Connie had not seen him do in twenty years. So was the man beside him.
 
 "—and over a year," said Torrance, "it more or less pays itself back. The ground lends you the warm in winter, and you give it back in summer. So you hardly need to feed it anything at all. It'll go for years." He stopped. He seemed to hear himself; the Hill came back into his voice in a rush, and his hands went down into his lap. "Sorry. I've gone on."
 

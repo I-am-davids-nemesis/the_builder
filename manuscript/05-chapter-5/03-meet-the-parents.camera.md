@@ -290,11 +290,11 @@ His voice was well-schooled and pleasant, a little lazy in the vowels. The woman
 
 He sat at her left, across from Karina. The younger girl, beside Karina, looked from Tor to her sister and back. Rolph took the seat at the end, by the window.
 
-The servers moved. Bowls of cold green soup with a curl of cream on each were set down in turn: before the woman, before each of the girls, before Rolph. The young server at Tor's elbow set his bowl down and stepped back.
+The servers moved. Bowls of cold green soup with a curl of cream on each were set down in turn: before the woman, before each of the girls, before Rolph. The head server, a gray, upright man, set Tor's bowl down himself and stepped back.
 
 Tor picked up his spoon, smiled at the soup, and took the first mouthful.
 
-The young server's hand stopped halfway to the next bowl. The younger girl's eyes went straight to her mother. One corner of Karina's mouth twitched. At the end of the table, Rolph laid his own spoon down on the cloth, very gently.
+The head server's hand stopped halfway to the next bowl. The younger girl's eyes went straight to her mother. One corner of Karina's mouth twitched. At the end of the table, Rolph laid his own spoon down on the cloth, very gently.
 
 Tor swallowed and looked up, delighted.
 
@@ -304,7 +304,7 @@ The woman picked up her spoon and took a mouthful, unhurried.
 
 "It is cucumber," she said. "And I think your mother is quite right."
 
-The server's hand finished its journey. The younger girl breathed out. Spoons moved round the table.
+The head server's hand finished its journey. The younger girl breathed out. Spoons moved round the table.
 
 * * *
 
@@ -328,7 +328,7 @@ Tor put down his fork. His hands came up off his lap and began to draw in the ai
 
 "It's the cellar. Do you know, ma'am, when you go down into a cellar in summer, how it's cool? And in winter it's warm, warmer than the kitchen? That's because down there it's always the same. The ground doesn't care what the weather's doing. It's like a great big— like a bank, really, that you can put warm into and take warm out of. And the plate just reaches down. Through the house. Into the ground under it. And it carries the warm. It doesn't *make* any, that's the important part, making's dear, it just *carries* it, the way you'd carry water in a bucket, from where there's too much to where there's not enough. And in summer there's too much up here and not enough down there, so it carries it down. And in winter you turn it round—"
 
-Along the walls, the servers had stopped moving. The young one stood with a sauceboat in his hand, listening.
+Along the walls, the servers had stopped moving. The head server stood with a sauceboat in his hand, listening.
 
 "—and over a year it more or less pays itself back. The ground lends you the warm in winter, and you give it back in summer. So you hardly need to feed it anything at all. It'll go for years." He stopped. The long vowels came back all at once, and his hands went into his lap. "Sorry. I've gone on."
 
