@@ -168,7 +168,7 @@ It had been like walking into an oven, all the way along the corridor. It had be
 
 Then she saw the plate on the table, square on the green cloth, and understood.
 
-She'd heard. Everyone had heard. Somebody's cousin had come back from somewhere with a story about a plate on a wall that turned a room cold in a heat wave, and there'd been talk all through the spring of the Debri house, and a waiting list, and a price that made Father raise his eyebrows at dinner. Lady Arden had one. *One.* In her morning room. She'd had it a fortnight and nobody had been able to talk about anything else.
+She'd heard. Everyone had heard. Lady Arden's boy was at Lairdgren, the same as Alphie, and a month ago he had sent his mother a plate from school, packed in straw, by express, with a note that said only *Put it on the wall*. Nobody knew where he'd got it. Nobody could buy one; Lady Arden's friends had asked everywhere. It had turned her morning room cold in the first heat of the summer, and she had been receiving in it ever since, every afternoon, in a shawl, and nobody in the city had been able to talk about anything else. Lady Arden had one. *One.*
 
 And here was this one, on a table, in a guest suite, like a dish of fruit.
 
