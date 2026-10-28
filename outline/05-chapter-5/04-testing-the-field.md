@@ -41,7 +41,7 @@ Beats follow the user's summary (user, October 27, 2026) unless labeled.
 
 **Questions for the user:**
 
-- **Is Burks Rolph's father?** You said Tor works out the truth in the morning when he meets Rolph's father, and Connie said "your father's home in the morning." Burks looks and sounds familiar (like Rolph). If he is the father, is "Burks" an alias, or a private name? And is he King Richard Cordes?
-- **When does Tor realize?** The summary ends with Burks leaving. Does Tor work it out at the end of this scene (from something Burks says or does), or in the next scene, when Burks is introduced properly?
-- **His height:** "slightly taller than Tor" makes him small for a noble, and nobles are large in the codex (Tor is "too small to be a noble"). Is that a deliberate hint, about Tor or the family?
-- **Tor's sleep:** he stayed up all night. Does the trance leave him needing sleep before the luncheon, or does the amulet test carry him through?
+- **Is Burks Rolph's father?** No, Burks turns out to be the Ancient, Green.  The one who has been running Noram for the last 3000 years, and the inventor of the system of magic that the continent uses.  But that doesn't come up yet, just a funny episode.
+- **When does Tor realize?**  Tor meets Rolph's father in the next scene
+- **His height:** "slightly taller than Tor" makes him small for a noble, and nobles are large in the codex (Tor is "too small to be a noble"). Is that a deliberate hint, about Tor or the family? ==> it is a deliberate hint about Burks
+- **Tor's sleep:** he stayed up all night. Does the trance leave him needing sleep before the luncheon, or does the amulet test carry him through?  ==> he is definitely tired, but maybe he can nap on the way to the luncheon
