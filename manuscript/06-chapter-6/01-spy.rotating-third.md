@@ -64,7 +64,7 @@ Ursula's hand had gone to the brooch. She hadn't told it to.
 
 She heard herself say it, and heard how it came out, too quick and too high, like a girl caught in the pantry, and was furious, because there was nothing to be caught *at*. There was nothing. She made herself breathe. She made herself look at Alphie, not at the scholar, and say it properly.
 
-"Count Ward gave it to me. At my name day, in the spring. He's an old friend of my father's, he's always been very kind. It came in a little box with a note, and the note said—" She stopped. She had been going to say *the note said to wear it the first time I saw you this summer*, because it had, in a very pretty hand, *it would please an old man to think of it at court*; and some cold small part of her, the part her mother had spent nineteen years training, closed its hand over the words before they got out. "It said many happy returns." She lifted her chin. "Alphie. I've kept every term. Every single one, since I was four. You know I have. I've never so much as—"
+"Count Ward gave it to me. At my name day, in the spring. He's a friend of my father's, he's always been very kind. It came in a little box with a note, and the note said—" She stopped. She had been going to say *the note said to wear it the first time I saw you this summer*, because it had, in a very pretty hand, *it would please me to think of it at court*; and some cold small part of her, the part her mother had spent nineteen years training, closed its hand over the words before they got out. "It said many happy returns." She lifted her chin. "Alphie. I've kept every term. Every single one, since I was four. You know I have. I've never so much as—"
 
 "Urs," said Alphie, gently. "Nobody said—"
 
