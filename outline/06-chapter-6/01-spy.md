@@ -20,6 +20,51 @@
 Rolph intervenes and calms his father down, and somehow they determine that Ursula is probably not at fault here.  The king does refuse to reinstate the engagement.  Rolph says that they need to get together with Ursula's parents, his mother, and ideally Count Ward to try to hash out the problem before it comes to war between the kingdom and County Ward.  The king agrees and suggests dinner tonight, since everyone is in town.
 * at some point Ursula realizes that Tor didn't know who she was, or that Rolph was even a prince when he offered to marry her. She finds that very noble, or more precisely, more than noble, since he did it without looking for recompense or a title.  Rolph comes to his defense and says that Tor is going to be going places, and he already should have at least one mark of valor for saving the city -- he did that without question or asking for compensation, just when he heard there was a need.  And it was difficult enough that people thought he would die in the attempt -- 6 days of focus on building, and people weren't sure if he was going to come out of it.
 * 
+## Layout options (October 28, 2026; pending the user's choice)
+
+The summary holds roughly sixteen beats in three registers: a mystery (the brooch), a comedy (the royal reveal, "Rich," the presents, the "Tor-" names) and a crisis (Ursula ruined, the engagement broken, Tor's offer). The order in the summary interleaves them: crisis, comedy, crisis, comedy, resolution. Ursula sobbing next to the "Tor-heating" joke is the main risk. Three ways to lay it out:
+
+### Option A: one scene, three movements (plot order as given)
+
+Same location throughout (Tor's cool suite), in the summary's order, split by `* * *` and handed between viewpoints:
+
+1. **The brooch (Ursula's viewpoint).** The introduction; Rolph's "arranged when I was seven and she was four"; Tor notices the brooch and won't let it go; her "it's only jewelry"; she admits it was Count Ward's present and swears she's kept every term. Her viewpoint lets the reader *know* she's innocent while the room doesn't.
+2. **The king (Tor's viewpoint: the one traumatic moment that earns it).** The king walks in mid-thunderstorm; "Father!" / "Your Majesty"; the realization; Connie → Rick → "Rich, please"; Tor sits down. Then the king's questions, Ursula breaking, the decree, Tor's offer, "not of the peerage," the noble condition, and Connie's "Dear, this is Torrance Baker…"
+3. **The fallout (Connie's viewpoint).** The presents (moved here, as the release valve after the crisis); the "Tor-" names; Galasia; Rolph calms his father; the verdict; dinner tonight; Ursula realizes Tor didn't know who anyone was; Rolph's mark-of-valor speech.
+
+*Pros:* keeps every beat in the user's order; one continuous pressure-cooker. *Cons:* the longest scene in the book by far; the presents still arrive while Ursula is newly ruined.
+
+### Option B: split into two scenes at the crisis (recommended)
+
+**Scene 1, "The Brooch":** introduction, arrangement history, the brooch, Count Ward, the king's entrance, the realization and "Rich," Tor sitting down, the questions, Ursula's tears, the decree, Tor's offer, and the king's "not of the peerage." **End on Connie's line, "Dear, this is Torrance Baker—"**, with the list of what he's done landing as the cut. Viewpoints: Ursula, then Tor for the reveal.
+
+**Scene 2, "Tor-Everything":** picks up in the same room a beat later, calmer. Tor realizes he has the king and queen in front of him and hasn't given them their presents; the amulets; "Tor-shields" (a terrible name, he says); Galasia; "when did you make these?" ("Last night… it's a little warm here"); Rolph calms his father; the verdict; no reinstatement; dinner tonight with Ursula's parents and Count Ward; Ursula realizes Tor didn't know; Rolph's mark-of-valor speech. Viewpoint: Connie, or Rolph.
+
+*Pros:* keeps the user's order; gives the crisis a clean ending and the comedy its own room; each scene is about the length of the others in chapter 5. *Cons:* two scenes in one room, back to back.
+
+### Option C: comedy first, then the crisis
+
+Reorder so the light half comes before the dark:
+
+1. **Royal reveal first.** The king and queen come in to meet the guest a few minutes after Ursula, before anyone has noticed the brooch. The realization; "Rich"; Tor sits down. The king doesn't recognize him (the noble condition), which brings on Connie's "Dear, this is Torrance Baker…" and the list. Presents; "Tor-" names; Galasia; "last night."
+2. **Then the brooch.** Wound up, sleepless and talking about the amulets, Tor feels the brooch and can't stop himself. The questions, the tears, the decree, the offer, "not of the peerage," Rolph calming his father, the verdict, dinner.
+3. **Close on Ursula** realizing Tor offered without knowing who anyone was, and Rolph's valor speech.
+
+*Pros:* cleanest tonal arc (light → dark → warm), and the scene ends on its emotional point. *Cons:* changes two of the user's triggers: the king no longer walks in mid-rant and overhears the brooch talk, and the noble condition is triggered by recognition, not by the marriage offer.
+
+## Continuity questions (October 28, 2026)
+
+1. **Galasia vs. Ashford.** The purifier town in chapter 5, scene 1 is **Ashford** (invented). Is Galasia its canon name (rename Ashford), or a different city? (`codex/locations/a-city-of-gallaia.md` is a separate, foreign place.)
+2. **"Six days of focus… people thought he'd die."** In our chapter 5 Tor spends about two days in the isolation chamber, packs food, and nobody fears for him. Keep the chapter 5 version (and Rolph exaggerates), or revise chapter 5?
+3. **A mark of valor for "saving the city":** chapter 5 treats the purifier as a quick job Tor grumbled about. Is the scale (eleven thousand people) enough, or should news of deaths averted reach the capital first?
+4. **"The clothing one":** which device is that? It isn't in the codex. (The drying field, perhaps?)
+5. **Alphonse or Alphonso, Connie or Constance:** our drafts use **Alphonse**. Is the queen's formal name **Constance**?
+6. **Count Ward / County Ward:** new. Is Ward the real name of **House B / Count B** (Davie's father), or a different house?
+7. **Austran high tech:** the brooch isn't magical at all, so it must be Austran technology. This is new world-building: Austra uses *technology*, not magic. Confirm; it may also explain how they fly.
+8. **The Debri luncheon** is at the third bell, the same afternoon, and this scene starts at the second bell. Does the luncheon still happen (late, with news), get postponed, or move to chapter 6's next scene?
+9. **The king's size:** the quote gives him a "huge head," which fits Rolph growing into "his father's height." Ursula is **six foot six** in the quote; confirm that height.
+10. **The quoted passages** in the summary read like text from the original. Per `AGENTS.md` §2, the drafts will take only the facts from them (the noble condition, the queen's list, the "Tor-" names), not the wording, and those passages could be trimmed to notes once the facts are recorded.
+
 - **POV / mode:**
 - **Location:**
 - **Present:**
