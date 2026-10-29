@@ -18,6 +18,8 @@
 [end quote]
 
 Rolph intervenes and calms his father down, and somehow they determine that Ursula is probably not at fault here.  The king does refuse to reinstate the engagement.  Rolph says that they need to get together with Ursula's parents, his mother, and ideally Count Ward to try to hash out the problem before it comes to war between the kingdom and County Ward.  The king agrees and suggests dinner tonight, since everyone is in town.
+* at some point Ursula realizes that Tor didn't know who she was, or that Rolph was even a prince when he offered to marry her. She finds that very noble, or more precisely, more than noble, since he did it without looking for recompense or a title.  Rolph comes to his defense and says that Tor is going to be going places, and he already should have at least one mark of valor for saving the city -- he did that without question or asking for compensation, just when he heard there was a need.  And it was difficult enough that people thought he would die in the attempt -- 6 days of focus on building, and people weren't sure if he was going to come out of it.
+* 
 - **POV / mode:**
 - **Location:**
 - **Present:**
