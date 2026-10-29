@@ -27,6 +27,8 @@
 8. **He packs.** For once Tor packs his own food for a trance. "Tell her I packed *properly*." (canon, user; Trice's line invented)
 9. **The undercroft.** Two days later he comes out with the template and ten purifier sheets, and ten luggage plates following him up the stair like ducklings. Bet Haskins will have something to say at breakfast. (canon, user; details invented)
 
+**To revise** (user, October 28, 2026): **the Ashford build should take longer.** In chapter 6, Rolph says Tor deserves a mark of valor for saving Ashford: six days of building, and people weren't sure he'd come out of it. The current draft has about two days, a packed basket and nobody worried. Revise beats 8–9 and the Bet Haskins section to match once the length is settled (see the questions in `outline/06-chapter-6/02-tor-everything.md`).
+
 **Staging notes** (invented):
 
 - **"Two Bends"** in the summary is read as **Two Rivers**, Tor's hometown in the codex. (Check with the user.)
