@@ -317,3 +317,41 @@ Then he went out, and Quavel, after a moment, followed him, and shut the door.
 In the corridor, Count Lairdgren walked away toward the back stairs without a word, at his even pace, his hand resting, briefly, on the front of his coat.
 
 Quavel stood outside the guest's door with a copper square in his pocket and listened to the house. Below, faintly, the kitchens. Outside, the rake on the fig walk. Behind the door, a chair scraping, and then nothing, and then, very softly, the slow, even breathing of a young man who has sat down in a borrowed coat, very carefully so as not to crease it, and gone to sleep sitting up.
+
+* * *
+
+Quavel had a house to run, and he went and ran it. But at the second bell he found that he had business on the second floor, a matter of the linen press at the end of the corridor, which he had been meaning to look into for some years.
+
+He was looking into it when Master Alphonse came up the main stair.
+
+He wasn't alone. There was a young lady on his arm, or rather he was on hers; she was half a head taller than he was, and walked as if she had been told at an early age to take up exactly the room she was owed and not an inch less. She was very fair, her hair the pale yellow of new straw, put up close and plain under a small hat, and she wore a walking dress the gray-blue of a pigeon's wing. It was a strong face, long and level, with a straight nose and a wide, steady mouth. Nobody, Quavel thought, would ever have called it pretty. Nobody who had seen it walk down a room would have forgotten it, either.
+
+He knew the face. Every servant in the house knew it. He set down the stack of pillowcases he had not been counting and stood very straight.
+
+"Quavel," said Master Alphonse. He was in his good blue coat, the one for calling, and he was smiling the smile Quavel had last seen on him at nine years old, when they'd put him up on a horse a hand too tall for him in front of half the city and told him to look pleased. "Is he up?"
+
+"The scholar is resting, sir. He was up all night." Quavel paused. "Working."
+
+"Of course he was." Master Alphonse let out a breath that was nearly a laugh. He looked at the door. He looked, for a moment, at the young lady beside him, who was looking at the door too, with polite and complete attention, the way a buyer looks at a horse before the dealer has said a word. "Well. Open it, would you?"
+
+Quavel opened it.
+
+The guest was asleep in the chair by the green table, upright, his hands folded in his lap, in the gray coat with the green cuffs and the waistcoat with the small leaves, his chin sunk on the white stock and his hair gone back to its own opinions. The copper squares lay in their two stacks beside him. The room was cool. The young lady stopped on the threshold as the cool came round her, and her eyebrows went up a fraction, and she looked at the plate on the green cloth for some time.
+
+Master Alphonse crossed the room and put his hand on the guest's shoulder.
+
+"Tor. Tor. Wake up."
+
+The guest woke all at once, the way children and soldiers do, and was on his feet before he was entirely awake, one hand going flat to his chest. "Sorry. Sorry, is it the bell? I'm ready. I'm dressed, look, Burks did the—" He saw the young lady in the doorway, and stopped, and his back straightened, and his chin came up a hair, and he bowed from the shoulders, quite correctly, in Count Thompson's very voice. "I beg your pardon, my lady. Good afternoon."
+
+"Good afternoon," said the young lady. Her voice was low and clear and gave nothing away.
+
+Master Alphonse stood between them. He looked from one to the other. He put his hands behind his back, and took them out again, and Quavel, at the door, saw him do it and wished, for no reason he could have given, that he had stayed with the linen.
+
+"Tor," said Master Alphonse, "I'd like you to meet Ursula Benevolence Matilde Thorgood." He took a breath. "My fiancée."
+
+The guest looked at him.
+
+He looked at Master Alphonse for a long moment, with his mouth a little open and his hand still flat on his chest, over the copper, as if something had just been thrown at him and he hadn't yet worked out whether it had hit.
+
+"Your," said Tor.
