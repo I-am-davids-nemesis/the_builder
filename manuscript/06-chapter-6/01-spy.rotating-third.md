@@ -86,7 +86,7 @@ Beside him, all in one movement, Ursula sank: down and down, her skirt spreading
 
 The man in the doorway was enormous.
 
-He filled it. He filled it the way a bull fills a gate, side to side, with a little room left over at the top only because the door had been built for him. He was bigger than Rolph, bigger than Tovey, bigger than anyone Tor had ever stood in a room with; a great wide man in a plain dark coat, with a broad, heavy, clever face and a short beard going gray at the chin, and a huge head of gray-brown hair, and Rolph's eyes. Exactly Rolph's eyes. Behind him, smaller, in the dark dress from last night, with her rings on, stood Rolph's mother.
+He filled it. He filled it the way a bull fills a gate, side to side, with a little room left over at the top only because the door had been built for him. He was bigger than Rolph, bigger than Tovey, bigger than anyone Tor had ever stood in a room with; a great broad man in a plain dark coat that strained across the shoulders and hung loose at the waist, all of him muscle, built like a smith or a man who'd spent his life lifting stone; with a broad, clever face, a short red beard going gray at the chin, a huge head of red hair, and Rolph's eyes. Exactly Rolph's eyes. Behind him, smaller, in the dark dress from last night, with her rings on, stood Rolph's mother.
 
 *Father.*
 
@@ -114,7 +114,7 @@ Somewhere far off in the house a door shut. Ursula, still down in her curtsey, m
 
 The king winced.
 
-It was a small wince, and a pained one, and it went across that broad heavy face and was gone; but Tor saw it, and he would remember it, afterward, as the moment he found out that kings could wince.
+It was a small wince, and a pained one, and it went across that broad, weathered face and was gone; but Tor saw it, and he would remember it, afterward, as the moment he found out that kings could wince.
 
 "Not Rick," said the king. His voice was deep and slow and surprisingly mild, like a big bell rung softly. "Please. Not Rick. My brother called me Rick. *Icky Ricky*, when we were boys, for the whole of one summer, because I'd fallen in the carp pond, and it was a long summer." He sighed. "Rich, if you must. Richard, if you'd rather. Not Rick."
 
