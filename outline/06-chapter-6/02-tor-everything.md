@@ -30,7 +30,9 @@ Rolph intervenes and calms his father down, and somehow they determine that Ursu
 
 - **Tor needs to leave for the Debri luncheon** at the end (scene 3, user). The scene can close on Rolph checking the bell.
 
+**Drafted** (October 28, 2026; invented, pending the user's review): Connie's viewpoint throughout. She finishes the introduction (Ashford, the shields Captain Curtis keeps writing about, the flying rigs, the cool rooms); the king finally "has" Tor. The amulets: Connie feels the heat go "the way a headache goes"; Tor gives a spare to Ursula without hesitating; Rolph tucks his out of sight. Rolph's "I thought I knew" stings him. Tor tells the king Ursula was like "someone who'd been robbed in their sleep, and woke up." Ursula hands over the brooch; the king won't undo the decree ("a betrothal to this house can't carry a question in it"). Rolph, in his own voice, says that's how wars start. Dinner is set in the small dining room; Connie writes the cards. Ursula: "You weren't counting." Rolph: six days, "we didn't know if he was going to" come out. Tor: "It's the second-year sigil." The third bell rings, so they're late for Sara. Tor grabs two amulets "for Sara, and for Trice," and calls the king "Rich" on the way out.
+
 **Questions for the user:**
 
-1. **"The clothing one":** which device is that? It isn't in the codex.
+1. **"The clothing one"** is drafted as the original **drying field** from the laundry (chapter 1), the device that dries clothes; Lady Arden's maids use one in front of guests (invented). Confirm.
 2. **The Ashford build's length:** see the note in `outline/05-chapter-5/01-scene-1.md`.
