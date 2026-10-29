@@ -32,6 +32,9 @@ Beats follow the user's summary (user, October 27, 2026) unless labeled.
 9. **Burks.** Tor finally introduces himself, so the man will stop calling him "sir," and asks his name. "Burks." (user)
 10. **A gift.** Burks tries to give the amulet back; Tor insists it's a gift and he must keep it. (user)
 11. **Rolph's old clothes.** After breakfast Burks helps Tor choose one of Rolph's old sets and put it on properly. Then he leaves. (user)
+12. **Cliffhanger: Rolph's fiancée.** At the second bell Rolph comes to fetch Tor for the luncheon, and he isn't alone. Tor, woken from his chair in the borrowed coat, meets **Ursula Benevolence Matilde Thorgood**: tall, blonde, striking but not particularly beautiful (user). Rolph introduces her as his **fiancée**. Tor has never heard of her (invented; confirm). The scene, and the chapter, end on the introduction. (user, October 28, 2026; moved here from the planned scene 5, "Rolph's Fiancé")
+   - **POV:** Quavel, still in the corridor, sees Master Alphonse coming with the lady and opens the door for them, so the beat stays short and seen from outside (invented).
+   - **Hidden:** why Rolph never mentioned her, and what kind of match it is. Rolph's face at the introduction is the only hint (invented).
 
 **Staging notes** (invented):
 
@@ -40,7 +43,8 @@ Beats follow the user's summary (user, October 27, 2026) unless labeled.
 - **Twenty amulets** after this scene: the first ten as counted in scene 3, and the extra batch.
 - **The joke has a second layer the reader can't see yet:** the inventor of the continent's magic is shown a new kind of magic by a sleepless boy in a borrowed room, puts it on, tests it in the kitchen, and calls it "most effective." Write Burks's lines so they reread differently later.
 - **Tor is definitely tired** after the all-nighter (user); he can **nap on the way to the luncheon** (user), in the carriage.
-- **Tor meets Rolph's father in the next scene** (user), which is when he works out the truth about the family.
+- **Tor meets Rolph's father in the next scene** (user), which is when he works out the truth about the family. With the fiancée beat now ending this scene and the chapter, that meeting falls in chapter 6.
+- **The ending moves:** the draft currently ends with Tor asleep in the chair; the fiancée cliffhanger (beat 12) comes after that, when Rolph wakes him.
 
 **Drafted** (October 27, 2026; invented, pending the user's review): viewpoints are Tor alone (dawn, the second ten, the testing walk, dozing off at the table), **Quavel** from the knock (he was carrying Rolph's clothes himself when Count Lairdgren took them from him and told him to hold the door), Tor alone in the bath, and Quavel again for breakfast, the introductions, the gift, the clothes and the exit. Tor also gives Quavel an amulet, and promises one to the old gardener on the fig walk. The amulet's flaws, found on the walk and in the bath: it heats the ground under wherever you stand without giving it back properly (Tor thinks it spreads), it works on bathwater (it needs a stop), and hemp rots when wet (use wool or a chain). Burks ties Tor's stock; side by side in the long glass, Quavel's eye catches on something in the two faces and can't name it. The scene ends with Tor asleep sitting up in Rolph's gray coat; Rolph comes at the second bell, and the carriage leaves at half past.
 
