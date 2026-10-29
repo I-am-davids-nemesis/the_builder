@@ -2,6 +2,56 @@
 
 Tor is a genius who believes he is a nuisance, and every scene with him should test that belief.
 
+## Description
+
+Tor is small: the smallest student at Lairdgren, a head shorter than anyone in the practice yard, smaller than Davie's youngest sister, and level with the shoulder of a tall woman. He's twenty but could pass for fifteen, and strangers take him for a boy. No color is ever given for his hair, eyes or skin. His hair is notable only for its disorder: wet and plastered flat after washing, standing up on one side after sleeping on it, collecting leaves and powder. After a long build he goes gray-faced under the eyes and stiff in the back. He blushes fast and completely, from candle-pale to radish-red, and in chapter three he wears scratches and a bruised jaw from the chase, which heal.
+
+He dresses in the school's brown: a tunic gone shiny at the elbows, brown trousers, boots, and his father's old brown belt, cut down, with an extra hole bored for weight he lost. In summer he carries a shield plate on a cord at his chest and, later, a copper amulet on gray hemp string. In the capital he's put into Rolph's outgrown clothes: a gray linen summer coat with the cuffs turned back to show green lining, a leaf-patterned waistcoat and a white stock someone else ties for him. He works in gloves too big for him.
+
+He holds himself carefully. He stands very straight with his hands clasped behind his back or knotted in front of him, sits on the edge of a chair with his hands clamped between his knees, and wears a polite, slightly braced face when he expects to be scolded. Thinking, he tilts his head to one side, his lips move, and his tongue goes between his teeth. In a trance he sits motionless with his hands flat on his thighs. He mutters to himself, apologizes to objects, and moves left when frightened; his hand slaps flat to his chest by reflex since the shield drills. His voice is plain and rural, rough and broad, "with flour on it," and cracks small after a trance. He can also copy a noble's drawl almost perfectly, and his accent shifts toward whoever he's with.
+
+### Image prompt
+
+A slight young man of about twenty who looks fifteen, noticeably shorter than everyone around him, standing very straight with his hands clasped behind his back. He wears a plain brown wool tunic worn shiny at the elbows, brown trousers, scuffed boots and an old cut-down brown leather belt; a small square copper plate hangs on a cord at his chest. His hair is untidy and sticks up on one side; his face is earnest, slightly braced and polite, with a faint flush and shadows of sleeplessness under the eyes. He stands in a stone workroom with a bench, a brazier and sheets of etched copper, lit by a single high window in gray morning light. The mood is quiet, careful and a little anxious, with a hint of hidden brilliance.
+
+### From the manuscript
+
+- "He was a small thing." (manuscript/01-chapter-one/01-the-opening.rotating-third.md)
+- "could have passed for fifteen in a poor light" (manuscript/01-chapter-one/01-the-opening.rotating-third.md)
+- "His voice came out cracked and small." (manuscript/01-chapter-one/01-the-opening.rotating-third.md)
+- "in a brown tunic gone shiny at the elbows" (manuscript/01-chapter-one/02-the-laundry-scene.rotating-third.md)
+- "He was small for a third-year" (manuscript/01-chapter-one/02-the-laundry-scene.camera.md)
+- "He had a gray smudge under one eye and his hair was wet at the front" (manuscript/01-chapter-one/04-the-next-day.rotating-third.md)
+- "the smallest boy in the yard, by a head" (manuscript/02-chapter-two/01-combat-class.camera.md)
+- "white from his hair to his elbows, like a loaf that had been rolled in flour" (manuscript/02-chapter-two/01-combat-class.rotating-third.md)
+- "Tor, in gloves much too big for him" (manuscript/02-chapter-two/04-rolphs-order-and-the-night-build.camera.md)
+- "There was exactly one student at Lairdgren that small." (manuscript/02-chapter-two/05-the-courtyard.rotating-third.md)
+- "He went left. He always went left." (manuscript/03-chapter-three/01-the-chase.rotating-third.md)
+- "his eyes had the very clear, very calm look in them" (manuscript/03-chapter-three/02-the-dean.rotating-third.md)
+- "His hands, which had been knotted together in front of him" (manuscript/03-chapter-three/03-the-warded-room.rotating-third.md)
+- "sitting on the very edge of the chair with his hands clamped between his knees" (manuscript/03-chapter-three/04-the-hearing.rotating-third.md)
+- "standing very straight, hands clasped" (manuscript/03-chapter-three/05-the-headmasters-advice.rotating-third.md)
+- "that polite, slightly braced face he always wore" (manuscript/04-chapter-four/06-kolbs-challenge.rotating-third.md)
+- "with his head on one side" (manuscript/04-chapter-four/04-the-test.rotating-third.md)
+- "his old belt, the brown one from home that his father had cut down" (manuscript/04-chapter-four/10-the-first-flight.rotating-third.md)
+- "with his tongue between his teeth" (manuscript/05-chapter-5/01-scene-1.rotating-third.md)
+- "from the color of a candle to the color of a radish" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
+- "something from a long way east, with flour on it" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
+- "His hair stood straight up on one side where his head had been lying on it." (manuscript/05-chapter-5/04-testing-the-field.rotating-third.md)
+- "a gray linen coat with the cuffs turned back to show green" (manuscript/05-chapter-5/04-testing-the-field.rotating-third.md)
+- "He came up, she thought, perhaps to her shoulder" (manuscript/06-chapter-6/01-spy.rotating-third.md)
+
+### Open questions
+
+- Hair color, eye color, skin tone and face shape are never stated anywhere.
+- Height is only ever relative (a head shorter than the yard, smaller than Davie's youngest sister, to Ursula's shoulder); no absolute height, and "too small to be a noble" is the codex's only measure.
+- Build is unspecified beyond "small": thin or wiry? He "got thinner" over the four-day build in chapter four, which suggests he's lean to begin with.
+- The codex says he "rarely smiles" (canon), but later chapters have him smiling, beaming and laughing often. Which is the baseline?
+- His native accent is "from a long way east" and rural, but he passes for a Hill noble by copying Tovey; which voice is his resting one in the capital chapters is a running choice.
+- He's meant to look and sound "a bit like" Burks (Green), but neither face is described closely enough to show the likeness.
+- No permanent marks: the chapter-three scratches and bruise heal. Any scar, mole or distinguishing feature is open.
+- For a picture: school brown or the borrowed capital clothes? The prompt uses school brown as his usual dress.
+
 ## Facts
 
 - Full name **Torrance (or Torrence) Green Baker**; "Tor" becomes the name he's famous under. (canon)
