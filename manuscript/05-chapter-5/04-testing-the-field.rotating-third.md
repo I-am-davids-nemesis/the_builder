@@ -324,7 +324,7 @@ Quavel had a house to run, and he went and ran it. But at the second bell he fou
 
 He was looking into it when Master Alphonse came up the main stair.
 
-He wasn't alone. There was a young lady on his arm, or rather he was on hers; she was half a head taller than he was, and walked as if she had been told at an early age to take up exactly the room she was owed and not an inch less. She was very fair, her hair the pale yellow of new straw, put up close and plain under a small hat, and she wore a walking dress the gray-blue of a pigeon's wing. It was a strong face, long and level, with a straight nose and a wide, steady mouth. Nobody, Quavel thought, would ever have called it pretty. Nobody who had seen it walk down a room would have forgotten it, either.
+He wasn't alone. There was a young lady on his arm. She was tall, taller than any merchant's daughter Quavel had ever served, and came up nearly to Master Alphonse's ear, which few people did now that he had begun, at last, to grow into his father's height; and she walked as if she had been told at an early age to take up exactly the room she was owed and not an inch less. She was very fair, her hair the pale yellow of new straw, put up close and plain under a small hat, and she wore a walking dress the gray-blue of a pigeon's wing. It was a strong face, long and level, with a straight nose and a wide, steady mouth. Nobody, Quavel thought, would ever have called it pretty. Nobody who had seen it walk down a room would have forgotten it, either.
 
 He knew the face. Every servant in the house knew it. He set down the stack of pillowcases he had not been counting and stood very straight.
 
