@@ -4,6 +4,13 @@
 - **Who it tests most:** Tor, Kolb, Trice, Sara
 - **The testing ground** (user, October 18, 2026): Tor's shield is tested here, at the pell before the old wall; a **pond** lies just below the yard, toward the sheep field.
 
+## Fixed traits
+
+- Packed, pale, bread-colored sand underfoot. (canon, chapter two)
+- A square yard: straight lines of weapon racks on three sides, the ancient wall of huge close-fitted blocks closing the fourth. (canon, chapter two)
+- A single barkless oak pell, thick as a man, standing in front of the old wall. (canon, chapters two and four)
+- A water butt and bench in one corner. (canon, chapter two)
+
 ## Description
 
 The yard lies behind the long hall, down a flight of steps from it: a square of packed sand the color of old bread, fenced on three sides by weapon racks and closed on the fourth by the old wall, the one wall in the school older than the school, built of great close-fitted blocks the color of dried bread. A gate lets onto it. There's an equipment shed with a roof first-years like to sit on, a bench beside a water butt at one corner (the bench where the girls in black sit, and later where Wensa watches) with a dipper on a hook, and a line scratched in the sand for sparring. In the middle, in front of the old wall, stands the pell: an oak trunk as thick as a man, sunk to half its height, the bark long gone and the wood at chest height beaten pale and furred like a chewed pencil. It gets cut, topped and blown apart, and there are always more pells.
@@ -14,7 +21,7 @@ It's a loud place: the flat, enormous sound of a waster on the pell, the racks r
 
 ### Image prompt
 
-A school combat practice yard of packed, pale tan sand, enclosed on three sides by long wooden weapon racks holding wooden practice blades, and on the fourth by a very old wall of huge, close-fitted, bread-colored stone blocks, far older than the buildings around it. In front of the wall stands a single thick, barkless oak post sunk upright in the sand, its middle beaten pale and splintered. A small wooden equipment shed sits to one side; in one corner a wooden water butt with a dipper on a hook stands beside a plain bench. Stone steps lead up to a long hall behind. Late-afternoon light throws the long shadows of the racks across the sand, and beyond the yard a slope runs down to a small brown pond and distant blue hills. The mood is quiet, worn and workmanlike.
+A square, enclosed school combat practice yard of packed, pale tan sand, seen from the top of the steps down from the long hall. The far side of the square is closed by one very old straight wall of huge, close-fitted, bread-colored stone blocks, far older than the buildings around it. The left and right sides have no walls: each is a single straight line of freestanding wooden weapon racks holding wooden practice blades, standing end to end like a low fence, with grass and open sky beyond them. In the middle of the yard, directly in front of the old wall, stands the pell: a squat, flat-topped post cut from an oak trunk as thick as a man, with no branches and no bark, sunk in the sand so that only about chest height stands above it, its sides beaten pale and splintered. A small wooden equipment shed stands against the racks on one side; in the near corner a wooden water butt with a dipper on a hook stands beside a plain bench, and a straight line is scratched in the sand for sparring. Over the top of the old wall, the hills across the valley go blue in the distance. Late-afternoon light throws the long shadows of the racks across the sand. The mood is quiet, worn and workmanlike.
 
 ### From the manuscript
 
@@ -50,8 +57,4 @@ A school combat practice yard of packed, pale tan sand, enclosed on three sides 
 - **After the test:** the old wall is bowed and cracked, and the pell was blown to splinters. Was the wall mended, and when was a new pell set? (One stands again by chapter 5.)
 - **Size:** never given. It holds thirty-odd pairs and, on test days, about a hundred onlookers.
 - **The armory chest** where Kolb keeps the school's shields is "under the long hall," not in the yard; is there an entrance from the yard?
-- Proposed fixed trait: packed, pale bread-colored sand underfoot.
-- Proposed fixed trait: weapon racks on three sides; the ancient wall of huge close-fitted blocks on the fourth.
-- Proposed fixed trait: a single barkless oak pell, thick as a man, standing before the old wall.
-- Proposed fixed trait: the water butt and bench in one corner.
 - Proposed fixed trait: steps up to the long hall behind; the pond and the sheep field below.

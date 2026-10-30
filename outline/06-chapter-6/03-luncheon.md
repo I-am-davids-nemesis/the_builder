@@ -21,7 +21,13 @@
 - Tor is aghast, thinking himself too undesirable. "The people of the Capital seemed to treat teasing and joking about things like marriage as a game. He'd pick it up, or learn to avoid people here. One way or the other, it would be fixed, eventually. At the moment he felt like just doing the latter, but he knew he was just a bit tired."
   
 - Rolph is unamused (Tor knows that Rolph really likes Sara, and has for the last couple of years,  even if they haven't even dated).  Rolph/Alphonse insists that while Tor is in the capital, that all marriage proposals be sent to his mother, the Queen.
-- Sara is surprised that Tor knows about Rolph/Alphonse's secret.  Rolph, 
+- Sara is surprised that Tor knows about Rolph/Alphonse's secret.  Rolph, tells her that Tor had to find out, given the situation at home (which he says he'll go into later)
+- the table moves on to business, with a lot of suggestions about what future devices that Tor could come up with for them to manufacture.  Tor asks for paper and a pencil so that he can write the ideas down;
+- They finally leave and Tor nearly cries in relief from getting away from all the stressful people.
+- as they get back in the carriage for the ride back to the palace, Tor looks through the pile of ideas, and one idea sticks out: a lot of people don't want to learn to use the flying devices -- too afraid of heights and too much for one person, since you also would need a shield.  But one of the ideas is a way to move a lot of goods at once.  Tor starts to think about how he could make a flying cart, like the luggage plates, but bigger, and able to be moved along a road, even if it is just floating.
+- Rolph starts talking about the situation with Ursula -- such a mess. Now he can't marry her, and they have this whole thing with Count Ward that could blow up into a war.  But he really wants to make sure that Ursula is not just abandoned as a potential spy.  Getting her married off would solve the issue, but she is required to marry within 3 steps of her station, and given that she is heir to County Thorgood, that makes her as good as a Countess, which means should would have to marry a baron or better.
+- Apparently a letter had been sent to Trice, so she would be at dinner that evening
+- Tor wonders if they should involve their friend Count Thompson; Rolph thinks that the fewer people that know the easier it will be to prevent a war.
 - **POV / mode:**
 - **Location:**
 - **Present:**
