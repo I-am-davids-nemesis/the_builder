@@ -28,11 +28,22 @@
 - Rolph starts talking about the situation with Ursula -- such a mess. Now he can't marry her, and they have this whole thing with Count Ward that could blow up into a war.  But he really wants to make sure that Ursula is not just abandoned as a potential spy.  Getting her married off would solve the issue, but she is required to marry within 3 steps of her station, and given that she is heir to County Thorgood, that makes her as good as a Countess, which means should would have to marry a baron or better.
 - Apparently a letter had been sent to Trice, so she would be at dinner that evening
 - Tor wonders if they should involve their friend Count Thompson; Rolph thinks that the fewer people that know the easier it will be to prevent a war.
-- **POV / mode:**
-- **Location:**
-- **Present:**
+- **POV / mode:** Rotating third (proposed): **Rolph** in the carriage there (Tor's panic, and the semi-trance seen from outside); **Sara** from the forecourt to the end of the luncheon (the reveal is hers, and she can now hold it, since this is the Debri house visit where `sara.md` places it; her panic when her mother bows to Rolph; her reading of Tor as genuine); **Rolph** again in the carriage back (Ursula, the three-steps rule, Tor muttering over the idea pile). Tor never holds the viewpoint: he's never alone, and the semi-trance is shown from outside. (invented; pending the user's review)
+- **Location:** The carriage across the capital, the Debri house forecourt and steps (`codex/locations/debri-house.md`), and the **interior hall open at the sides onto fountain courtyards** (user), set for a working lunch: a long table with food and papers. The carriage back toward the palace.
+- **Present:** Tor, Rolph, Sara; **Heather Debri**, head of the house, who looks like an older Sara; a couple of dozen Debri people at the table, half men, half women; servants. Not present: Trice and Tovey (see the questions); Sara's brother **Kris** is mentioned as heir (present or not, open).
 - **Reader learns:**
+  - **Sara's mother runs the Debri house** (the planned reveal, `outline/book-plan.md`); her name is **Heather Debri**. Sara has a brother, **Kris**, who will inherit.
+  - The Debri house knows Rolph is the prince and bows to him; Sara learns that Tor knows.
+  - The house **can't pay Tor right now**: a large military shield order from the king has tied up the money. Tor takes materials instead (copper, chains for the amulets, acid), and asks for money and building supplies to go to his family and to Two Rivers.
+  - Heather proposes Sara as a match; Rolph has all proposals routed through the queen while Tor is in the capital. Tor knows Rolph has liked Sara for a couple of years.
+  - Ursula is **heir to County Thorgood**, as good as a countess, and must marry **within three steps of her station** (a baron or better).
+  - Tor's next idea: a **flying cart** for goods, like the luggage plates but bigger, moved along a road.
+  - Trice will be at the dinner tonight.
 - **Hidden (and how):**
+  - **Why Sara's father is no longer head** stays undecided (`codex/README.md`, question 8). The scene shows her cutting Tor off ("my mother is the head of the house") and doesn't explain.
+  - **Rolph's feelings for Sara**: Tor knows; Sara doesn't. Shown only in Rolph's anger at Heather and his rule about proposals.
+  - **Whether Heather meant the match or the money**: Sara's line ("didn't have to dress up to distract him") and Heather's face leave it open.
+  - **Count Ward's intentions** stay offstage until the dinner.
 
 **Tor's clothes on the way to the Debri house** (from chapter 5, scene 4 and chapter 6, scenes 1–2; marked where assumed):
 
