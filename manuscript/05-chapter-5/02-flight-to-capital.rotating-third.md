@@ -432,7 +432,17 @@ Trice regarded him over the rim of her glass. He was standing there dripping, qu
 
 There was a short silence. Tor looked at her, puzzled, as if she'd answered a question in a language he could only nearly follow, and then laughed, uncertainly, the way he laughed at a joke he hadn't quite got, and sat down on the edge of his chair, and fished the ice out of his belt.
 
-Trice put the glass down. "Right," she said briskly. "Tovey's here. The rest of us aren't stopping. Rolph's taking Tor home, and Sara and I are going to the Debri house, and Tovey can take his own sheets off." She stood up. "Tomorrow. Luncheon. At the Debri house, all of us. At the third bell after noon, which is luncheon in the capital, Master Baker, so don't come at noon and stand on the step." She looked at him. "And don't make an oven before then."
+Trice put the glass down. "Right," she said briskly. "Tovey's here. The rest of us aren't stopping. Rolph's taking Tor home, and Sara and I are going to the Debri house, and Tovey can take his own sheets off." She stood up. "Tomorrow. Luncheon. At the Debri house, the third bell after noon, which is luncheon in the capital, Master Baker, so don't come at noon and stand on the step."
+
+"You're all coming?" said Tor.
+
+"Tovey has his own business," said Trice, without looking at her cousin, who inclined his head gravely, as if it had been his idea. "And I have mine. Sara wants you to herself, Master Baker. It's a working lunch." She glanced at Rolph. "You may bring him. Try not to talk."
+
+"Thank you so much," said Rolph.
+
+Sara said nothing at all. She was looking at Tor, and she had her contract face on, the one Trice had known for nine years, and under it, very faintly, something that wasn't contract at all.
+
+Trice looked back at Tor. "And don't make an oven before then."
 
 "I wasn't going to *make* it."
 

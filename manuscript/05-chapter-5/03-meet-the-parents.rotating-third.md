@@ -460,7 +460,7 @@ He sat and looked at them. He was tired, he supposed; he'd been up before the fi
 
 He thought about dinner. Varley asking about the copper, and going red, and asking anyway. Karina doing sums; he'd felt her doing sums, all through the fish, like an abacus going in the next room. Rolph's mother, who'd let him talk, and had looked at him, the whole time, as if she wanted to know every single thing. Who had been kind. Who'd sat there in her dark dress, at the end of her table, with a little shine of sweat on her lip all through dinner, the whole of dinner, in the heat, and never once said so.
 
-And tomorrow there was luncheon, at the Debri house, in the middle of the afternoon, in the hottest part of the day, and Trice and Sara would come, and Tovey, all of them, in their good things, across the whole hot city.
+And tomorrow there was luncheon, at the Debri house, in the middle of the afternoon, in the hottest part of the day: a working lunch, Trice had said, whatever that meant, with Sara and whoever Sara worked with, in their good things, and Rolph and himself crossing the whole hot city to get there.
 
 He'd brought presents. He'd brought a whole trunk of presents, and they were all for walls.
 

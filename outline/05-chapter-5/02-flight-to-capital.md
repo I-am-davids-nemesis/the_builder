@@ -50,7 +50,7 @@ Trice reminds them that they are all going out to their own places now, and will
 13. **Feeling it.** Tor feels that the butler, Dallow, is very pleased under his blank face, and realizes he's sensing it through the field: theory-class knowledge he's never experienced, because he builds physical things. (canon, user)
 14. **Ice.** Iced water. Tor drifts toward an ice machine, then an oven; Trice drops ice down his collar. (canon, user; the ice down the collar invented)
 15. **Violent noble women.** Tor asks whether all noble ladies are this violent; his sisters are meek, except Teira, and none hits him as much as Trice. "Only the ones who like you." (canon, user; Trice's answer invented)
-16. **Tomorrow.** Trice: everyone to their own places now; luncheon at the Debri house tomorrow, mid-afternoon. (canon, user)
+16. **Tomorrow.** Trice: everyone to their own places now; luncheon at the Debri house tomorrow, mid-afternoon. (canon, user) Revised (user, October 30, 2026): it's a working lunch, and Sara wants Tor to herself. Tovey has his own business; Trice says she has hers, really to give Sara room to settle the payment with Tor. Rolph may come.
 
 **Staging notes** (invented):
 
