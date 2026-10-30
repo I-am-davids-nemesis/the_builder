@@ -2,6 +2,51 @@
 
 Sara treats Tor as a person rather than a phenomenon, which is exactly why her secret, if she has one, would hurt most.
 
+## Description
+
+Almost nothing is fixed about Sara's face or body. She's the shorter of the pair she makes with Trice, and shorter than Ursula. Her hair, eyes and coloring are never given. What marks her is what she carries and does: a leather satchel on a long strap, ink on two fingers, and a habit of pricing things with her eyes. She crouches to look at a piece of work without touching it, looks from one side and the other, bends close and draws back. She watches people's faces as they look at things they want to buy, as she has since childhood.
+
+At school she wears the special school's black, like Trice, and sits with her apart on the bench by the water butt. Off duty she has worn green, with sleeves too thin for the cold dormitory corridors, and a comb in her hair, chosen from three. In the cold snap she sleeps in every stocking she owns, walks with her chin in her collar and her hands in her armpits, and wraps herself in a blanket and shawl. In the heat she fans herself with whatever paper is nearest. She travels with one trunk and her satchel.
+
+She does things without asking: pours the tea, holds the cup to Tor's mouth, crosses a yard toward a fire before she's thought about it. Her voice is gentle and plain, and it uses Tor's name ("Tor. Thirty gold. Did you hear me?"). When a deal turns real it changes into her father's contract voice, slower, even and very clear, "the voice she used across a table when there was paper on it." When moved, she looks out of the window rather than let it show. Her one recorded flush, after a clumsy mid-air curtsey, went to her ears.
+
+### Image prompt
+
+A young woman, not tall, in a plain, close-fitting black school uniform, with a leather satchel on a long strap across her body and ink stains on two fingers of her right hand. She crouches beside a workbench to study a small square of painted pine without touching it, head tilted, eyes narrowed in a merchant's appraising look, her expression warm but shrewd. The setting is a stone-flagged washing house with old white enamel tubs on iron feet and a wet floor, in cool gray daylight from high windows. The mood is calm, attentive and quietly competent.
+
+### From the manuscript
+
+- "The other had a leather satchel on a long strap and ink on two fingers." (manuscript/01-chapter-one/02-the-laundry-scene.camera.md)
+- "Trice, the taller of the two" (manuscript/01-chapter-one/02-the-laundry-scene.camera.md)
+- "Sara crouched by the bench. She didn't touch the square" (manuscript/01-chapter-one/02-the-laundry-scene.rotating-third.md)
+- "Tor. Thirty gold. Did you hear me?" (manuscript/01-chapter-one/02-the-laundry-scene.rotating-third.md)
+- "the two of them in black" (manuscript/02-chapter-two/01-combat-class.rotating-third.md)
+- "Sara was in green, with sleeves too thin for the dormitory corridors, and had spent ten minutes deciding which of three combs." (manuscript/02-chapter-two/03-the-afternoon-and-the-visit.rotating-third.md)
+- "Sara poured the tea. She did it without asking, the way she did things" (manuscript/02-chapter-two/03-the-afternoon-and-the-visit.rotating-third.md)
+- "the voice her father used, Trice suspected, when a contract was about to be real" (manuscript/02-chapter-two/03-the-afternoon-and-the-visit.rotating-third.md)
+- "Sara put her hand to her hair, where the comb had been" (manuscript/02-chapter-two/03-the-afternoon-and-the-visit.camera.md)
+- "who had spent her whole childhood watching people's faces as they looked at things they wanted to buy" (manuscript/04-chapter-four/04-the-test.rotating-third.md)
+- "She was moving before she'd thought about it." (manuscript/04-chapter-four/04-the-test.rotating-third.md)
+- "Trice caught her by the back of the collar" (manuscript/04-chapter-four/04-the-test.rotating-third.md)
+- "She sat on the edge of her bed in every stocking she owned" (manuscript/04-chapter-four/08-the-cold-snap.rotating-third.md)
+- "Sara walked with her chin down in her collar and her hands in her armpits" (manuscript/04-chapter-four/08-the-cold-snap.rotating-third.md)
+- "fanning herself with the theory essay" (manuscript/04-chapter-four/08-the-cold-snap.rotating-third.md)
+- "the voice she used across a table when there was paper on it, the voice that was her father's" (manuscript/04-chapter-four/08-the-cold-snap.rotating-third.md)
+- "and found she had to look out of the window for a moment" (manuscript/05-chapter-5/01-scene-1.rotating-third.md)
+- "Sara stayed standing, with the letter in both hands." (manuscript/05-chapter-5/01-scene-1.camera.md)
+- "Miss Debri with one and a satchel" (manuscript/05-chapter-5/02-flight-to-capital.rotating-third.md)
+- "so that she sank a foot and came up again like a cork" (manuscript/05-chapter-5/02-flight-to-capital.rotating-third.md)
+- "Sara said, \"Rolph,\" in her careful voice" (manuscript/05-chapter-5/02-flight-to-capital.rotating-third.md)
+
+### Open questions
+
+- Hair color and length, eye color, skin tone and face are never described. Only the comb tells us her hair can be put up.
+- Height is only relative: shorter than Trice and than Ursula. Her build is never given.
+- Her age isn't stated anywhere (she and Trice have been friends nine years; the codex gives no number).
+- After the mid-air curtsey her ears go pink, but pink ears are Trice's established tell (`patricia.md`). Give Sara a different sign, or let them share it?
+- Is the ink always there, or only in early scenes? It's a strong visual habit if kept.
+- For a picture: school black, or the green she wears off duty? The prompt uses black, since that's what she wears in most scenes.
+
 ## Facts
 
 - Spelled **Sara**. (canon)
