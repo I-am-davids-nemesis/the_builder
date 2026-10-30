@@ -10,7 +10,17 @@ The first minor character the reader meets: a young noble discovering, at the la
 - He meets Tor about **a third of the way into chapter one**, when the drying field is first tested. (canon, from the user)
 - He **doesn't know laundry takes soap.** He can't understand why his water won't suds up when he can see Tor's doing it. Tor teaches him basic laundry and lends him soap. (canon, from the user)
 
+- **Looks:** younger than Tor but a bit bigger; neatly combed, medium-brown hair; Germanic features. (canon, from the user, October 30, 2026)
+
 - Gets the first of Tor's crooked copper drying fields: "He can't keep his shirts dry, he's got no idea, it's awful." (chapter two) (invented; accepted by the user)
+
+## Description
+
+Davie is younger than Tor but a bit bigger, taller and broader across the shoulders. His hair is medium brown and neatly combed. His features are Germanic: a broad, square-jawed face with a straight nose and fair skin. (canon, from the user; the face is our reading of "Germanic") His ears go red when he's embarrassed. (canon, chapter one) He wears the school's brown tunic and trousers, and at the laundry has his sleeves rolled to the elbow and his tunic dark with splashes. (canon, chapter one)
+
+### Look
+
+A sturdy young noble, younger than Tor but a little taller and broader. Neatly combed medium-brown hair. A broad, square-jawed Germanic face with a straight nose and fair skin. The school's brown wool tunic and brown trousers.
 
 ## Profile
 

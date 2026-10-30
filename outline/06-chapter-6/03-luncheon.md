@@ -9,8 +9,19 @@
 - Tor is immediately uncomfortable with the large number of people. Tor has to sink back into his half-trance to deal with it, making him a bit slower to respond to social cues.
 - Sara walks over to a middle aged woman who looks like an older version of her; she stands and Sara introduces her mother as the head of Debri house.  Tor mumbles, "I thought your father..." and Sara cuts him off, saying "my mother is the head of the house."  Sara's mother is Heather Debri.  Heather bows to Rolph, which has everyone else standing and bowing to Rolph. Sara's eyes go wide, instantly looking toward Tor.  Heather doesn't notice her daughters panic, and welcomes Prince Alphonse, and then Tor, inviting them to be seated in the chairs across the table from her. Tor realizes that the accent that Heather is using is not at all like the noble accent, and remembers Rolph telling him he needs a city accent.  He desperately tries to mimic a mashup of Rolph's and Sara's accent from when they were in school.
 - Heather apologies for not having a cooling unit -- they have been unable to keep any for themselves, they have been selling too quickly, and to nobles, so they couldn't keep any, even for important business meetings.  Heather reinforces how proud Debri house is to be working with 'Master Baker'
-- Tor pulls out his extra equilibrium devices, suddenly feeling bad that he doesn't have enough for everyone
-- 
+- Tor pulls out his extra equilibrium devices, suddenly feeling bad that he doesn't have enough for everyone, only having brought one each for Trice and Sara.
+- The group passes the devices around, marveling at how effective they are.
+- Heather of course wants to carry/manufacture these devices as well.
+- Heather brings up an uncomfortable problem: due to a large military order for the shield devices, they don't have any of Tor's money for him at the moment.
+- This makes Alphonse very angry on his friends behalf; not yelling angry, but asking if this is the reputation that Debri house wants -- not paying its best designer.  Heather, of course, is very apologetic and doesn't want to cause this kind of issue, but since it was the king who ordered it -- with a significant look at Alphonse -- there isn't much she can do.
+- Tor is very uncomfortable with the exchange, and decides he doesn't need the money right now anyway -- if Debri could just provide him with the materials he needs to build, he would be okay.  Heather can't believe he would do this and thinks it is some kind of trick to put her house into a bad situation with them owing more and more to Tor; Sara can see that Tor is genuine and advises her mother to accept this and provide Tor with everything he needs -- copper plates, chains for the amulets, acid, etc.  She insists that Tor is just accepting Heather's request for more time for payment.  Tor does request a bit of money be sent to his family in Two Rivers, as well as materials the town might need, e.g. for building houses, and making everything winter safe.
+- Sara says, see, it didn't have to dress up to distract him even...
+- Rolph is unamused: "really, Heather? Turning your own daughter on him like that?  How very, Noble, of you.  I expected more from a trading house"
+- Heather looks a little sick, but, says that it would be a good match.  Sara isn't in line to inherit (her brother Kris is), so it would be very helpful for Sara to have such a good husband.  She asks Tor if she should send an emissary to his mother to start the marriage negotiations.
+- Tor is aghast, thinking himself too undesirable. "The people of the Capital seemed to treat teasing and joking about things like marriage as a game. He'd pick it up, or learn to avoid people here. One way or the other, it would be fixed, eventually. At the moment he felt like just doing the latter, but he knew he was just a bit tired."
+  
+- Rolph is unamused (Tor knows that Rolph really likes Sara, and has for the last couple of years,  even if they haven't even dated).  Rolph/Alphonse insists that while Tor is in the capital, that all marriage proposals be sent to his mother, the Queen.
+- Sara is surprised that Tor knows about Rolph/Alphonse's secret.  Rolph, 
 - **POV / mode:**
 - **Location:**
 - **Present:**

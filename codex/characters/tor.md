@@ -4,15 +4,19 @@ Tor is a genius who believes he is a nuisance, and every scene with him should t
 
 ## Description
 
-Tor is small: the smallest student at Lairdgren, a head shorter than anyone in the practice yard, smaller than Davie's youngest sister, and level with the shoulder of a tall woman. He's twenty but could pass for fifteen, and strangers take him for a boy. No color is ever given for his hair, eyes or skin. His hair is notable only for its disorder: wet and plastered flat after washing, standing up on one side after sleeping on it, collecting leaves and powder. After a long build he goes gray-faced under the eyes and stiff in the back. He blushes fast and completely, from candle-pale to radish-red, and in chapter three he wears scratches and a bruised jaw from the chase, which heal.
+Tor is small: the smallest student at Lairdgren, a head shorter than anyone in the practice yard, smaller than Davie's youngest sister, and level with the shoulder of a tall woman. He's twenty but could pass for fifteen, and strangers take him for a boy. His hair is black. (canon, from the user, October 30, 2026; the manuscript never gives it a color) No color is given for his eyes or skin. His hair is notable otherwise only for its disorder: wet and plastered flat after washing, standing up on one side after sleeping on it, collecting leaves and powder. After a long build he goes gray-faced under the eyes and stiff in the back. He blushes fast and completely, from candle-pale to radish-red, and in chapter three he wears scratches and a bruised jaw from the chase, which heal.
 
 He dresses in the school's brown: a tunic gone shiny at the elbows, brown trousers, boots, and his father's old brown belt, cut down, with an extra hole bored for weight he lost. In summer he carries a shield plate on a cord at his chest and, later, a copper amulet on gray hemp string. In the capital he's put into Rolph's outgrown clothes: a gray linen summer coat with the cuffs turned back to show green lining, a leaf-patterned waistcoat and a white stock someone else ties for him. He works in gloves too big for him.
 
 He holds himself carefully. He stands very straight with his hands clasped behind his back or knotted in front of him, sits on the edge of a chair with his hands clamped between his knees, and wears a polite, slightly braced face when he expects to be scolded. Thinking, he tilts his head to one side, his lips move, and his tongue goes between his teeth. In a trance he sits motionless with his hands flat on his thighs. He mutters to himself, apologizes to objects, and moves left when frightened; his hand slaps flat to his chest by reflex since the shield drills. His voice is plain and rural, rough and broad, "with flour on it," and cracks small after a trance. He can also copy a noble's drawl almost perfectly, and his accent shifts toward whoever he's with.
 
+### Look
+
+Small and slight: a young man of twenty who could pass for fifteen, a head shorter than the other students. Untidy black hair that sticks up on one side; a pale face that flushes red fast, often gray with tiredness under the eyes. He wears the school's brown: a wool tunic gone shiny at the elbows, brown trousers, boots and an old cut-down brown leather belt.
+
 ### Image prompt
 
-A slight young man of about twenty who looks fifteen, noticeably shorter than everyone around him, standing very straight with his hands clasped behind his back. He wears a plain brown wool tunic worn shiny at the elbows, brown trousers, scuffed boots and an old cut-down brown leather belt; a small square copper plate hangs on a cord at his chest. His hair is untidy and sticks up on one side; his face is earnest, slightly braced and polite, with a faint flush and shadows of sleeplessness under the eyes. He stands in a stone workroom with a bench, a brazier and sheets of etched copper, lit by a single high window in gray morning light. The mood is quiet, careful and a little anxious, with a hint of hidden brilliance.
+A slight young man of about twenty who looks fifteen, noticeably shorter than everyone around him, standing very straight with his hands clasped behind his back. He wears a plain brown wool tunic worn shiny at the elbows, brown trousers, scuffed boots and an old cut-down brown leather belt; a small square copper plate hangs on a cord at his chest. His black hair is untidy and sticks up on one side; his face is earnest, slightly braced and polite, with a faint flush and shadows of sleeplessness under the eyes. He stands in a stone workroom with a bench, a brazier and sheets of etched copper, lit by a single high window in gray morning light. The mood is quiet, careful and a little anxious, with a hint of hidden brilliance.
 
 ### From the manuscript
 
@@ -51,6 +55,10 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 - He's meant to look and sound "a bit like" Burks (Green), but neither face is described closely enough to show the likeness.
 - No permanent marks: the chapter-three scratches and bruise heal. Any scar, mole or distinguishing feature is open.
 - For a picture: school brown or the borrowed capital clothes? The prompt uses school brown as his usual dress.
+
+## Fixed traits
+
+- Black hair, untidy, often sticking up on one side. (canon, from the user)
 
 ## Facts
 

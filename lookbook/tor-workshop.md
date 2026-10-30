@@ -1,6 +1,8 @@
 ---
 of:
   - codex/characters/tor.md
+use: reference
+view: full
 ---
 
-![Tor in the workshop](tor-workshop.jpg)
+![Tor Workshop](tor-workshop.jpg)

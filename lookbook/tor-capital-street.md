@@ -1,6 +1,9 @@
 ---
 of:
   - codex/characters/tor.md
+use: reference
+view: full
+variant: capital clothes
 ---
 
-![Tor in the capital](tor-capital-street.jpg)
+![Tor Capital Street](tor-capital-street.jpg)
