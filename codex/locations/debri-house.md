@@ -14,13 +14,9 @@ It's a green house as well as a white one. Big terracotta pots stand along every
 
 - **What it pressures:** Sara's family, and her letters to "Father." The house is where the reader and Tor learn that her mother runs it (`characters/sara.md`). Money, trade and hospitality on display; the merchant's answer to the palace.
 - **Who it tests most:** Sara; Tor (another great house, on the same day as the palace); Trice, who is at home here.
-- **Details to reuse:** the hot, open forecourt of pale flagstones; the wide shallow steps; the great studded door with its small wicket; the lattice balustrades; the paired horseshoe windows with tawny curtains; the saffron and rust banners with their dark emblem; the palms in terracotta pots; the striped awnings over the terraces; the crown of open arches at the top.
+- **Details to reuse:** the hot, open forecourt of pale flagstones; the wide shallow steps; the great studded door with its small wicket; the lattice balustrades; the paired horseshoe windows with tawny curtains; the saffron and rust banners with the dark balance on them; the palms in terracotta pots; the striped awnings over the terraces; the crown of open arches at the top.
 
 **Open questions** (from the image; pending the user's review):
 
 - **Settled** (user, October 29, 2026): the book uses this description, not the Tudor-with-veranda idea; the scale is right; guests are received in the interior hall open onto fountain courtyards.
-- **The emblem on the banners** (the Debri house mark). Options (pending the user's choice):
-  1. **A balance**, a merchant's scale with its pans level: fair weight, honest trade. Sara's father's "price the board, then the work, then the years" in a picture.
-  2. **A ship's hull under a single star**: the river trade and the wharf warehouses that carry the house's goods; the star for the house's luck, or its founder.
-  3. **A key over an open hand**: what the house holds in trust, and what it gives. Fits a family that sells other people's work (Tor's) and keeps their secrets (the letters to "Father").
-  4. **A wheat sheaf bound with a ring**: grain, the house's oldest trade (Ashford's grain and wool), bound by contract; the ring could double as Sara's seal ring.
+- **The emblem** (user, October 29, 2026): the Debri house mark is **a balance**, a merchant's scale with its pans level, for fair weight and honest trade. It's Sara's father's "price the board, then the work, then the years" in a picture. It's the dark device on the saffron and rust banners.
