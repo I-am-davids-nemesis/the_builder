@@ -59,4 +59,47 @@
 
 ## Beats
 
-1.
+Beats follow the user's summary (user, October 30, 2026) unless labeled.
+
+1. **The carriage there.** Tor panics about how he spoke to the king and queen. Rolph: he gave them presents, and now that he's spoken to the king as a person he can't go servile without it looking like mockery; utmost respect in public, but in private the tone is set. (user)
+2. **Half-trance.** Tor sinks into a semi-trance to cope and barely speaks for the rest of the ride. (Rolph's viewpoint: lips moving, eyes unfocused, hand flat on his chest.) (user; staging invented)
+3. **The forecourt.** Sara comes out to meet them, smiling but strained: everything's set up. The house (`debri-house.md`): forecourt, wide steps, the great studded door, the balance on the banners. (user)
+4. **A business lunch.** The interior hall, open onto fountain courtyards; a long table and a couple of dozen people, half men and half women, with food and papers. (user)
+5. **Too many people.** Tor sinks back into his half-trance and is slow to pick up social cues. (user)
+6. **"My mother is the head of the house."** Sara introduces a middle-aged woman who looks like an older version of her: her mother, **Heather Debri**, head of the house. Tor: "I thought your father—" Sara cuts him off. (user) Heather can add that Sara wrote she couldn't price the plate and asked her to come and see for herself, so the "Father" letters are seen for what they are (invented; ties to chapter 4, scene 8).
+7. **The bow.** Heather bows to Rolph, and the whole table stands and bows. Sara's eyes go wide, straight to Tor. Heather, not seeing her daughter's panic, welcomes Prince Alphonse, then Tor, and seats them across from her. (user)
+8. **A city accent.** Tor hears that Heather's accent isn't the noble one, remembers Rolph's advice, and tries a mash-up of Rolph's and Sara's school accents. (user)
+9. **No cooling plates.** Heather apologizes: they've sold every cooling unit to nobles as fast as they could and can't keep one even for a meeting like this. The house is proud to work with "Master Baker." (user; see the questions)
+10. **Two amulets.** Tor takes out the two he brought, for Trice and Sara, and feels bad there aren't enough for everyone. (user)
+11. **Passed round.** The table tries them and marvels. (user)
+12. **Heather wants them** to carry and manufacture. (user)
+13. **No money.** Heather: a large military order for the shields, ordered by the king, means they have none of Tor's money for him now. (user)
+14. **Rolph, cold.** Not shouting: is this the reputation the Debri house wants, not paying its best designer? Heather, apologetic, points out the king ordered it, with a look at Alphonse. (user)
+15. **Materials, not money.** Tor, miserable at the exchange, says he doesn't need the money now; materials would do. Heather suspects a trick to put the house deeper in his debt; Sara sees he's genuine and tells her mother to accept: copper plates, chains for the amulets, acid, everything. He's only granting her the time she asked for. Tor asks that some money go to his family in Two Rivers, and materials the town needs for houses and for the winter. (user)
+16. **"Didn't even have to dress up."** Sara: see, she didn't even have to dress up to distract him. (user; callback to chapter 2, scene 3)
+17. **"How very noble of you."** Rolph, unamused: "Really, Heather? Turning your own daughter on him like that? How very noble of you. I expected more from a trading house." (user)
+18. **A good match.** Heather, looking a little sick, says it would be: Sara isn't the heir (her brother Kris is), and Tor would be a very good husband. Should she send an emissary to his mother to open negotiations? (user)
+19. **Aghast.** Tor thinks himself far too undesirable for it to be meant. The capital plays at marriage like a game; he'll learn it, or learn to avoid it. He's just tired. (user; Tor's thoughts shown through what he says and does, since he isn't the viewpoint)
+20. **Proposals to the Queen.** Rolph, unamused (he has liked Sara for a couple of years, and Tor knows it): while Tor is in the capital, all marriage proposals go to the Queen. (user)
+21. **"He knows?"** Sara is startled that Tor knows about Rolph. Rolph: he had to find out, given the situation at home; he'll explain later. (user)
+22. **Business.** The table turns to ideas for devices the house could make. Tor asks for paper and a pencil and writes them all down. (user)
+23. **Relief.** They leave; Tor nearly cries with relief at being away from so many people. (user)
+24. **The flying cart.** In the carriage Tor goes through the pile. Most people won't learn the flying rigs (heights, and a shield besides), but one idea is moving a lot of goods at once: a cart that floats, like the luggage plates but bigger, moved along a road. Tor starts on it. (user)
+25. **Ursula.** Rolph talks it through: he can't marry her now, Count Ward could become a war, and he won't have her abandoned as a suspected spy. Marrying her off would solve it, but she must marry within three steps of her station; as heir to County Thorgood she's as good as a countess, so a baron or better. (user)
+26. **Trice.** A letter has gone to Trice; she'll be at dinner tonight. (user)
+27. **Tovey?** Tor asks whether they should bring in Count Thompson; Rolph: the fewer who know, the easier it is to prevent a war. (user)
+
+**Staging notes** (invented):
+
+- **Sara's panic is the scene's comic engine:** she has spent two years keeping Rolph's secret and her mother's, and her mother blows the first in front of Tor, who already knows, while Sara tries to manage the second. Her viewpoint lets the reader enjoy both.
+- **Tor's accent mash-up** should be audible to Sara: Rolph's school vowels with her own clipped trade endings, and none of it quite matching.
+- **Rolph's anger is the formal kind** (`rolph.md`: formality from Rolph is a red flag). "How very noble of you" is the moment he goes formal.
+- **Tension ledger:** this scene resolves part of Sara's thread (the reveal that her mother runs the house; the "Father" letters) while leaving why open. Update `codex/tension-ledger.md` when it's drafted.
+
+**Questions for the user:**
+
+1. **Where are Trice and Tovey?** In chapter 5, scene 2, Trice set the luncheon for "all of us," and she was going to the Debri house with Sara, so she'd be there already; Tovey was invited too. The summary leaves both out, and Trice is sent a letter for tonight's dinner. Is Trice away (called home to the Morgans?), and Tovey not invited after all?
+2. **Cooling units sold to nobles:** on October 27 we settled that the Debri house *isn't* selling cooling plates yet; only Lady Arden has one, sent home by her son, which is why Karina treats them as a mark of rank. Heather's line says they've sold them as fast as they can. Change Heather's line (they've had requests they can't fill, and no template), or revise the earlier decision?
+3. **Kris:** is he at the table? Older or younger than Sara? (`sara.md` has her as perhaps a third daughter.)
+4. **The military order:** the king ordered shields from the Debri house before this summer. Does Tor learn here that his shields are being made for the army, and does that bother him?
+5. **Rolph and Sara:** confirm that Rolph's feelings for Sara are new to the codex. They aren't in `rolph.md` yet, and will be added to his hidden aspect and tension once confirmed.
