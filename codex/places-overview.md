@@ -16,6 +16,7 @@ One file per place in `locations/`:
 - [Two Rivers (Tor's hometown, canon)](locations/two-rivers.md)
 - [The capital](locations/the-capital.md)
 - [Rolph's family home, in the capital (canon)](locations/rolphs-family-home-in-the-capital.md)
+- [The Debri house, in the capital](locations/debri-house.md)
 - [The beach resort house](locations/the-beach-resort-house.md)
 - [A city of Gallaia](locations/a-city-of-gallaia.md)
 
