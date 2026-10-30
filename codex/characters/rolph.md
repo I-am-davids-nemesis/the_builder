@@ -2,6 +2,50 @@
 
 Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter as Tor's friend.
 
+## Description
+
+Rolph is a big, broad-shouldered young man of twenty-two, very tall and still growing, beginning at last to grow into his father's height. Only his father and the tallest women look him nearly in the eye. He has his father's eyes, though their color is never given; neither is his hair. He's strong enough to carry Tor on his shoulders to pull a plank off the ceiling, staggering when a boot lands on his collarbone. His hand on Tor's shoulder is "a big hand on a small shoulder." His face reddens in the cold and shines in a hot room.
+
+At school he wears the school's brown, usually loosely: sleeves pushed up, collar open. In the room he goes down to his shirt or nightshirt, and lies on his bed with his boots on or kicks them off. He owns a heavy winter coat. At home in the capital he dresses for calling in a good blue coat. His outgrown clothes from when he was fourteen, a gray linen summer coat and a leaf-patterned waistcoat, nearly fit Tor.
+
+He's loud and easy: he comes up stairs louder than the pub he's been in, takes over rooms with "Right!" and "Trust me," calls Tor "Little Tor," and laughs until he has to put his spoon down or hold on to a carriage. He lounges with his hands behind his head and grins at ceilings. He slings an arm round Tor's shoulders and steers him out of crowds, elbows ready. He reads a room by who stands nearest whom, "the way he'd been taught." When he's upset he goes quiet, straightens his collar twice, or puts his face in his hands. At home his back straightens and his chin comes up without his deciding it, and his voice loses its school edges, "very little Barrow in it and a good deal of long table."
+
+### Image prompt
+
+A tall, broad-shouldered young man of about twenty-two, still filling out into a very large frame, standing at ease with one big arm slung round the shoulders of a much smaller companion. He wears a plain brown wool tunic with the sleeves pushed up and the collar open, brown trousers and sturdy boots. He has an open, good-humored face mid-grin, a little flushed, with a watchful look in the eyes as he takes in the room. The setting is a stone-flagged washing house with old white enamel tubs on iron feet, wet floors and steam, in cool gray daylight from high windows. The mood is warm, protective and lively.
+
+### From the manuscript
+
+- "a broad-shouldered third-year with his sleeves pushed up and his collar open" (manuscript/01-chapter-one/02-the-laundry-scene.camera.md)
+- "took the room's measure the way he always did, the way he'd been taught to take a room" (manuscript/01-chapter-one/02-the-laundry-scene.rotating-third.md)
+- "He had an arm round Tor's shoulders by then" (manuscript/01-chapter-one/02-the-laundry-scene.rotating-third.md)
+- "The board, Little Tor. Pick up the board." (manuscript/01-chapter-one/02-the-laundry-scene.rotating-third.md)
+- "He grinned at the ceiling." (manuscript/01-chapter-one/03-the-room-scene.rotating-third.md)
+- "Rolph put his hands behind his head." (manuscript/01-chapter-one/03-the-room-scene.rotating-third.md)
+- "Rolph laughed so hard he had to put his spoon down." (manuscript/01-chapter-one/04-the-next-day.rotating-third.md)
+- "The Barrow had been loud, and Rolph had been louder" (manuscript/02-chapter-two/04-rolphs-order-and-the-night-build.rotating-third.md)
+- "Rolph stood in the middle of the room in his nightshirt." (manuscript/03-chapter-three/02-the-dean.rotating-third.md)
+- "a boot on his collarbone, and Rolph staggered" (manuscript/04-chapter-four/07-the-ceiling.rotating-third.md)
+- "with his face red from the cold and his breath going up in a cloud, and he was grinning" (manuscript/04-chapter-four/08-the-cold-snap.rotating-third.md)
+- "Rolph had taken off his tunic and was sitting in his shirt" (manuscript/04-chapter-four/08-the-cold-snap.rotating-third.md)
+- "kicked his boots off and lay back" (manuscript/05-chapter-5/01-scene-1.rotating-third.md)
+- "Rolph put his face in his hands." (manuscript/05-chapter-5/02-flight-to-capital.rotating-third.md)
+- "Something happened to Rolph's back. He didn't decide it." (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
+- "a voice that had very little Barrow in it and a good deal of long table" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
+- "in his good blue coat, the one for calling" (manuscript/05-chapter-5/04-testing-the-field.rotating-third.md)
+- "now that he had begun, at last, to grow into his father's height" (manuscript/05-chapter-5/04-testing-the-field.rotating-third.md)
+- "and Rolph's eyes. Exactly Rolph's eyes." (manuscript/06-chapter-6/01-spy.rotating-third.md)
+- "a big hand on a small shoulder" (manuscript/06-chapter-6/02-tor-everything.rotating-third.md)
+
+### Open questions
+
+- Hair color is never stated. His father is red-haired (`canon-notes.md`); is Rolph?
+- Eye color is never stated, only that his eyes are exactly his father's.
+- Face shape, features and complexion are never described; nor is any scar or mark.
+- Height is only relative: taller than Ursula, who is tall, shorter than his father, and still growing. "Broad-shouldered" is the only word on build; how heavy or muscled he is is open (his father is muscular, not fat).
+- His fourteen-year-old clothes "would go round [Tor] twice" (Rolph, chapter 5 "Meet the Parents"), yet the coat is only a hand's breadth too long in the sleeve when Tor wears it ("Testing the Field"). A small inconsistency in how much bigger Rolph was at fourteen.
+- At school he dresses loosely in brown; at home, in good coats. Which should a portrait use? The prompt uses school brown, since that's where most scenes happen.
+
 ## Facts
 
 - Spelled **Rolph** (canon; confirmed by the user).
