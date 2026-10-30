@@ -5,7 +5,8 @@
 - Tor has to go into a semi-trance in order to deal with the stress, so he doesn't talk much more for the ride over.
 - when they get to Debri house, Sara comes out to greet them, smiling but looking strained. She says they have everything set up.
 - The house looks great -- not as big as the palace, but bigger than the guest house Tor is staying in. **Style settled** (user, October 29, 2026): the terraced white-stone house of the lookbook image, as described in `codex/locations/debri-house.md` (forecourt, wide steps, the great studded door, lattice terraces, horseshoe arches, palms, awnings), not the earlier Tudor-with-veranda idea.
-- They meet the Debri house and eat in the **interior hall, open at the sides onto courtyards with fountains** (user, October 29, 2026).
+- They meet the Debri house -- it turns out to be  and eat in the **interior hall, open at the sides onto courtyards with fountains** (user, October 29, 2026).
+- 
 - **POV / mode:**
 - **Location:**
 - **Present:**
