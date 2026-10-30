@@ -1,6 +1,6 @@
 # Debri House
 
-The Debri house in the capital, the merchant house Sara's family runs. Description from the lookbook image (`lookbook/gemini-generated-image-ttq8f4ttq8f4ttq8.jpg`; pending the user's review).
+The Debri house in the capital, the merchant house Sara's family runs. Description from the lookbook image (`lookbook/debri-house.jpg`; pending the user's review).
 
 The house faces a wide, open forecourt paved in great pale flagstones, worn smooth and a little uneven, bright as a threshing floor in the afternoon sun. Everything is built of the same white stone as the rest of the capital, cut in big squared blocks with fine joints, warm and creamy where the light falls and gray-blue in the shade. It rises in tiers like a stepped hill: a plain, heavy base of stone along the forecourt; above it a long terrace with a pierced stone balustrade, its panels carved into a lattice of interlocking stars and crosses; then a second terrace; then a third, crowned by a row of small horseshoe arches open to the sky. Wings stand forward on either side like the arms of a chair, so the forecourt feels half enclosed and the house seems to come out to meet whoever arrives.
 
