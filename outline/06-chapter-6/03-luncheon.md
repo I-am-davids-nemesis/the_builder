@@ -18,7 +18,10 @@
 - Sara says, see, it didn't have to dress up to distract him even...
 - Rolph is unamused: "really, Heather? Turning your own daughter on him like that?  How very, Noble, of you.  I expected more from a trading house"
 - Heather looks a little sick, but, says that it would be a good match.  Sara isn't in line to inherit (her brother Kris is), so it would be very helpful for Sara to have such a good husband.  She asks Tor if she should send an emissary to his mother to start the marriage negotiations.
-- Tor is aghast, thinking himself too undesirable. "The people of the Capital seemed to treat teasing and joking about things like marriage as a game. He'd pick it up, or learn to avoid people here. One way or the other, it would be fixed, eventually. At the moment he felt like just doing the latter, but he knew he was just a bit tired."
+- Tor is aghast, thinking himself too undesirable. Facts from the original's passage (wording not to be reused):
+  - He decides people in the capital treat teasing about marriage as a game.
+  - He'll either learn it, or learn to avoid people here, and it will sort itself out eventually.
+  - Right now he'd rather avoid them, but he knows he's just tired.
   
 - Rolph is unamused (Tor knows that Rolph really likes Sara, and has for the last couple of years,  even if they haven't even dated).  Rolph/Alphonse insists that while Tor is in the capital, that all marriage proposals be sent to his mother, the Queen.
 - Sara is surprised that Tor knows about Rolph/Alphonse's secret.  Rolph, tells her that Tor had to find out, given the situation at home (which he says he'll go into later)
