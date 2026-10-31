@@ -60,6 +60,16 @@ A small, square, gray-haired woman of advanced middle age, with pale, calm, unre
 - Proposed fixed trait: pale, calm eyes.
 - Proposed fixed trait: apron and gray shawl, with a lamp in hand.
 
+## Fixed traits
+
+- Small and square: shorter than most adults, and solid and broad through the shoulders and waist rather than slight.
+- An older woman, at least in her late forties: thirty-one years as keeper, after knowing the school as a girl.
+- Gray hair.
+- Pale, light eyes with a calm, unbothered look.
+- A long working apron over a plain dress.
+- A gray wool shawl round her shoulders when she's away from the undercroft.
+- A small oil lamp in her hand, lit or not.
+
 ## Facts
 
 - Keeper of the **isolation chambers** for **thirty-one years**. Unnamed in the camera-mode draft.
