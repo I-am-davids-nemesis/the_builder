@@ -29,7 +29,8 @@ When a draft resolves or opens a thread, update this file in the same change.
 | The rage epidemic (chapter three) | — | Why nobles are raging more often; the plot behind it, which isn't what anyone expects |
 | Tor and Tovey's declared friendship (chapter three) | It's declared, and Tovey honors it | What it obliges; when Tor understands what he did |
 | Tor's devices in other hands (chapter five) | — | The city guard already carries his flying controls; how they got them, and who decides the rules for flying |
-| Count Ward's brooch (chapter six) | — | What the brooch is and who reads it; whether Count Ward knew; whether it comes to war with County Ward; Ursula's ruin |
+| Count Ward's brooch (chapter six) | Chapter 7: Ursula is cleared in public and given a sham marriage (Baron Hyrees); no war at the dinner | What the brooch is and who reads it; whether Ward knew, or Maria planned it; whether it comes to war with County Ward; the unfairness of Ursula's year away |
+| Training combat rage (chapter seven) | — | Rage fields have always been too dangerous to train; Tor's shield is the first counter, and the king has seen it |
 | Burks (chapter five) | — | That the man who brought Tor's clothes is Green, the Ancient who runs Noram and invented its magic; why he came |
 | Tor's trance-sight (chapter three) | — | Why a student can see through wards, and why he's less meek in trance |
 
