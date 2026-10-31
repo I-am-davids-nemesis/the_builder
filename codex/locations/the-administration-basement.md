@@ -1,3 +1,6 @@
+---
+aliases: [the warded room]
+---
 # The administration basement (canon, chapter three)
 
 Under the administration building: a **very cold** corridor that feels **empty**, and wrong, because the mind won't stay on it. Its doors can't be focused on without a deep trance or an **access token** pressed to a **pad** beside them. Behind one is a room where a **roaring fire** gives no warmth, and **one side can't be focused on**: wards on the room and on its **chairs** hide who is sitting there. (canon, user) The cold may be the wards' doing (assumed).

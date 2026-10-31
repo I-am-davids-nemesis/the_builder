@@ -1,3 +1,6 @@
+---
+aliases: [Baker, Torrance, Tor Baker]
+---
 # Tor Baker (Torrance Green Baker)
 
 Tor is a genius who believes he is a nuisance, and every scene with him should test that belief.

@@ -1,3 +1,6 @@
+---
+aliases: [Mr. Sorvey, Sorvey, the Sorveys]
+---
 # Douglas Sorvey, merchant
 
 A merchant who feels dangerous to Tor before he's said anything dangerous.

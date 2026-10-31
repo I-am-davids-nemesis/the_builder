@@ -1,3 +1,6 @@
+---
+aliases: [Count Thompson, Thompson, the Count]
+---
 # Tovey, Count Thompson
 
 Tovey is the noble Tor is most afraid of, and the one with the least reason to be feared. The distance between the two is his story in book 1.

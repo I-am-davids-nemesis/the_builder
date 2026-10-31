@@ -1,3 +1,6 @@
+---
+aliases: [Haskins]
+---
 # Bet Haskins, keeper of the isolation chambers
 
 All details (invented; accepted by the user, October 9, 2026). She first appears in chapter one's opening, where Tor comes out of his trance.

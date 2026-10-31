@@ -1,3 +1,6 @@
+---
+aliases: [Burks, Count Lairdgren, the Count]
+---
 # Green ("Burks")
 
 The Ancient who has run Noram for three thousand years, met by Tor as a man who brings him clothes. Every scene with him should be funny on the surface and enormous underneath.

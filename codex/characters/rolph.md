@@ -1,3 +1,6 @@
+---
+aliases: [Alphie, Alphonse, Your Highness]
+---
 # Rolph
 
 Rolph is Tor's loud, loyal shield who is quietly afraid he'll only ever matter as Tor's friend.

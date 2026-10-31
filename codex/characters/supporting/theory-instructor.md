@@ -1,3 +1,6 @@
+---
+aliases: [theory master, Theory master]
+---
 # The magic theory instructor (name TBD)
 
 One of Tor's three class instructors, alongside his building instructor and Doris. Teaches **magic theory** (earlier notes said "general magic"). (canon, user)

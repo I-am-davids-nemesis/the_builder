@@ -1,3 +1,6 @@
+---
+aliases: [Trice, Tricia, Ducharina, Miss Morgan]
+---
 # Patricia ("Trice")
 
 Patricia sees the political board more clearly than anyone Tor's age, and she can't decide whether he's a friend or her best move.

@@ -1,3 +1,6 @@
+---
+aliases: [Two Rivers, the village]
+---
 # Two Rivers (Tor's hometown, canon)
 
 - **What it pressures:** Tor's past and family secrets; the humble self-image he clings to

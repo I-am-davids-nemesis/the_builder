@@ -1,3 +1,6 @@
+---
+aliases: [the capital, the city]
+---
 # The capital
 
 - **What it pressures:** Open politics and the crown; nobody is off duty

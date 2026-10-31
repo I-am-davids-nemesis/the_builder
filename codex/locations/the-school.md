@@ -1,3 +1,6 @@
+---
+aliases: [Lairdgren, the school, the academy]
+---
 # The school (Lairdgren, canon)
 
 - **What it pressures:** Rules, rank, and grades; Tor's accidental rule-breaking

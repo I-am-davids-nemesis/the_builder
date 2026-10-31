@@ -1,3 +1,6 @@
+---
+aliases: [building master, the master]
+---
 # The building instructor (name TBD)
 
 Tor's **building instructor**, who seems to be a **special projects** instructor. Tor brings him the drying field for testing on the morning after the laundry, at the start of chapter one's last third. (canon, user)

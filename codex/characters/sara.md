@@ -1,3 +1,6 @@
+---
+aliases: [Miss Debri, Debri]
+---
 # Sara
 
 Sara treats Tor as a person rather than a phenomenon, which is exactly why her secret, if she has one, would hurt most.

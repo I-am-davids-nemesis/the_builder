@@ -1,3 +1,6 @@
+---
+aliases: [the dean, dean of students]
+---
 # Campbell, dean of students
 
 The school's dean of students, sent to fetch Tor at dawn. (canon, user, chapter three)

@@ -1,3 +1,6 @@
+---
+aliases: [building master's office]
+---
 # The building instructor's office (canon)
 
 - **What it pressures:** Where the school meets money: the instructor brings a merchant here to buy Tor's work.

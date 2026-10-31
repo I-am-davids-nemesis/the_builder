@@ -1,3 +1,6 @@
+---
+aliases: [cafeteria, dining hall]
+---
 # The cafeteria (canon)
 
 - **What it pressures:** Public, everyday, and inescapable: everyone eats there, so whatever happens there has an audience. Chapter one ends as Tor leaves it for combat.

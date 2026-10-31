@@ -1,3 +1,6 @@
+---
+aliases: [Debri house]
+---
 # Debri House
 
 The Debri house in the capital, the merchant house Sara's family runs. Description from the lookbook image (`lookbook/debri-house.jpg`; pending the user's review).

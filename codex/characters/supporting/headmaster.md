@@ -1,3 +1,6 @@
+---
+aliases: [the headmaster, headmaster]
+---
 # The headmaster (name TBD)
 
 Headmaster of the Lairdgren School (canon school name). All other details (assumed).

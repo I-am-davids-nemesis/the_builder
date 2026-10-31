@@ -1,3 +1,6 @@
+---
+aliases: [Master Sorvey, Sorvey]
+---
 # Dorgal Sorvey
 
 Dorgal is the charming rival builder who needs Tor to be beatable, and gradually learns he isn't.
