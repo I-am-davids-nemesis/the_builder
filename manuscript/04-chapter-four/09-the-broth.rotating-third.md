@@ -26,7 +26,7 @@ Rolph had come down to breakfast and found Trice and said, in his ordinary voice
 
 That was the first day. By the second, Bet Haskins had heard. Trice was never afterward sure how; the woman lived under the old wing and came up for meals and nothing else, and yet at the fourth bell of the afternoon there she was at the top of the dormitory stair, gray shawl, lamp unlit in her hand out of habit, asking which door was Baker's.
 
-She stood in the doorway a long while, looking at him. Tor sat at the desk with his back to them. He had a square of copper on the wood in front of him, bigger than a shield, and a second thing beside it no bigger than a hen's egg, flattened, and his right hand went from one to the other and back without hurrying, a stylus in it, then a brush, then the stylus again. His left hand lay flat beside the egg-shaped thing, as if keeping it from rolling away. He did not look round. He had not, as far as Trice knew, looked round since supper on fourth day.
+She stood in the doorway a long while, looking at him, so short that Trice could see the whole room over her head. Tor sat at the desk with his back to them. He had a square of copper on the wood in front of him, bigger than a shield, and a second thing beside it no bigger than a hen's egg, flattened, and his right hand went from one to the other and back without hurrying, a stylus in it, then a brush, then the stylus again. His left hand lay flat beside the egg-shaped thing, as if keeping it from rolling away. He did not look round. He had not, as far as Trice knew, looked round since supper on fourth day.
 
 "Well, then," said Bet Haskins.
 

@@ -40,7 +40,7 @@ A woman came along the passage from the far end, small and square and gray, in a
 
 "I know," said Rolph. "It's for when he stops."
 
-"Well, then." She considered the two of them on the bench a moment longer, and her face did nothing at all, which Rolph thought was rather heroic. Then she went on down the passage with her lamp.
+"Well, then." She considered the two of them on the bench a moment longer, and her face did nothing at all, which Rolph thought was rather heroic. Then she went on down the passage with her lamp, her shadow going short and square ahead of her along the wall.
 
 The bell went for the ninth hour. Mistress Wensa turned no pages.
 

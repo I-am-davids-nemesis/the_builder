@@ -236,7 +236,7 @@ He went down the east stair with the basket on one arm and the tea-tray copper u
 
 * * *
 
-Bet Haskins had looked in on him every bell for two days. She had a slate by the door with the marks on it to prove it, forty-nine, in her own chalk, under his: *BAKER, T. — In: second bell after noon, third day.* For most of those bells he'd been sitting on the floor of the chamber with his back to the wall and a big copper plate across his knees, and his lips moving. Twice he'd been eating an apple, without looking at it. Once, in the dark of the second night, he'd been asleep, curled on his side round the plate like a dog round a bone, and she'd stood at the shutter longer than she needed to and then gone back to her bench.
+Bet Haskins had looked in on him every bell for two days, getting up off her bench with her lamp each time, and by the second night getting up a little more stiffly. She had a slate by the door with the marks on it to prove it, forty-nine, in her own chalk, under his: *BAKER, T. — In: second bell after noon, third day.* For most of those bells he'd been sitting on the floor of the chamber with his back to the wall and a big copper plate across his knees, and his lips moving. Twice he'd been eating an apple, without looking at it. Once, in the dark of the second night, he'd been asleep, curled on his side round the plate like a dog round a bone, and she'd stood at the shutter longer than she needed to and then gone back to her bench.
 
 On the fifth day, at the third bell of the afternoon, the chamber door opened, and he came out.
 
