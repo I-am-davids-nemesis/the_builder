@@ -159,13 +159,23 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
 - **Questions are always welcome** (user, October 31, 2026). With any request, the agent may ask questions: to fill holes in the plot or motivation, to expand an idea, or to confirm something it has invented. Ask alongside the work rather than instead of it: do what can be done, label inventions (§2), and list the questions at the end of the reply and, when they're about a scene, in its outline file.
-  - **Question format** (user, October 31, 2026), so the editor's questions UI can find every list. Start each list with a line that is exactly `**Questions:**`, then a numbered list with one question per item. Each item opens with a short bold label and ends with a question mark. Use the same format in replies and in outline files. Nothing else goes inside the list.
+  - **Question format** (user, October 31, 2026), so the editor's questions UI can find every list. Start each list with a line that is exactly `**Questions:**`, then a numbered list with one question per item. Each item opens with a short bold label and ends with a question mark. Use the same format in replies and in outline files. Nothing else goes inside the list. Examples of the format in a reply go inside a code block, so the UI doesn't take them for real questions.
+  - **Suggested answers** (user, October 31, 2026). Under each question, indented as sub-bullets, offer what you'd do if not told otherwise:
+    - exactly one line starting `Default:`, giving the answer the agent will use if the user accepts it;
+    - optionally, up to three lines starting `Option:`, giving real alternatives.
+
+    Keep each to one line. A question with no sensible default (a name only the user can choose, for instance) gets `Default: none` and its options, if any. The user may accept the default, pick an option, or override both with a note of their own.
 
     ```
     **Questions:**
 
     1. **Maria's role:** is she knowingly working for Austra, or being used herself?
+       - Default: She knows; she arranged the brooch, and Ward doesn't.
+       - Option: She's being used too, by someone in her own family.
+       - Option: Leave it open for book 2.
     2. **The jeweler:** does the crown send for him, and does he exist?
+       - Default: The crown sends; the shop exists, but the jeweler left the city in the spring.
+       - Option: There's no such jeweler; Ward invented him.
     ```
 - **Ask rather than decide** on the open questions in `codex/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
