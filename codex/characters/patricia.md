@@ -60,6 +60,7 @@ A tall, poised young woman in a close-fitting plain black uniform, her dark hair
 - Patricia is a common name in Noram. (canon)
 - Goes by **Trice**. (canon, user, chapter one) Later-series readers call "Trice" a divisive character.
 - Usually found **with Sara**; the two are a pair. (canon, chapter one)
+- Her hair is **dark brown**; for the royal dinner in chapter 6 she wears **light violet**, her hair up with a few ringlets falling round her face (user, October 30, 2026). She calls the queen "Aunt Constance" (user; whether by blood is open).
 - Wears her hair pinned up close and plain; enters every room without hurrying and without stopping, and crowds make room for her without deciding to. (invented; accepted by the user)
 - At the laundry in chapter one, she **gets Sara to estimate** what Tor's drying field is worth. (canon, user)
 

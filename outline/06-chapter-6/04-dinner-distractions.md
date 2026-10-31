@@ -21,12 +21,58 @@
 - 
 
 - 
-- **POV / mode:**
-- **Location:**
-- **Present:**
+- **POV / mode:** Rotating third (proposed). **Quavel** for the dressing: Burks is Green, and no Ancient holds the viewpoint, so the scene is seen by someone who knows him as Count Lairdgren (`AGENTS.md` §3; `green.md`). **Rolph** for the corridor (the first bite, the duel) and the arrival in the dining room, up to Trice's entrance. **Trice** from her entrance to the end: Connie's account, the baron jest, the king's drought, shaking Tor out of the trance, her low opinion of Ward, and the cliffhanger, seen on Tor's face. Tor never holds the viewpoint. (invented; pending the user's review)
+- **Location:** Tor's suite in the small house; a corridor on the way down; the **formal dining room** (larger than the small dining room of chapter 5), cooled by Tor's plate.
+- **Present:** Tor; Burks; Rolph; Queen Constance (Connie); Quavel and fifteen or more staff; Trice; Ursula with her parents, **Count Horace Thorgood** and **Countess Marigold**; the king; **Count Ward** and his wife, **Maria**.
 - **Reader learns:**
+  - The **king's crest**: a falcon with spread wings, a shield in its talons, in silver on purple, the king's colors. Worn on the breast over black, it marks the wearer as holding the **king's favor**, so Tor's rudeness or promises would count as the king's.
+  - Tor wears his **fourth** shield version.
+  - The **first-bite rule** in full: the host eats first, and the person most likely to be poisoned sits at the far end and eats last. Tonight that's Ursula and Ward. Last night Connie took Tor's first bite as him volunteering as taster.
+  - Rolph warns Tor off challenging Ward to a duel; a commoner who did so would be put to death even if he won, and Ward would dodge it anyway, since Tor's shield makes him practically invincible.
+  - Connie greets Tor as she greets her son. Tor gives his own amulet to a servant; Rolph and the queen follow.
+  - Connie floats making Tor a **baron** ("a few empty baronies lying around"), which would put Ursula within three steps. Trice, not smiling: "I really do."
+  - Ursula's parents. Ursula introduces Tor as **"Master Wizard Torrance Baker."**
+  - **A drought in Ford County**, west of the capital on the Pacifico ocean: dry, warm, with water that can't irrigate. Food will have to go west, against the usual flow, as it does every decade or so.
+  - Count Ward is huge, nearly the king's size; his wife is **Maria**.
 - **Hidden (and how):**
+  - What the brooch was and what Ward knew: left for the dinner itself (chapter 7).
+  - Who Burks is: seen through Quavel, who knows him only as Count Lairdgren.
+  - Whether the baron idea is a joke or a plan: Connie's tone is "low and playful," and Rolph says it may be all they have.
+  - Trice's feelings: shown in her eyes flying open, her deep breath and "I really do," never stated.
+  - What Tor senses in Thorgood, "as if he is only twelve": left as a puzzle (see the questions).
 
 ## Beats
 
-1.
+Beats follow the user's summary (user, October 30, 2026) unless labeled.
+
+1. **Burks again.** Back at the small house, Burks comes to dress Tor for dinner. Tor worries he looks terrible; Burks says he doesn't; Tor thinks Burks would say that anyway. "Oh no, sir. I would certainly tell you, so that we could fix it." (user)
+2. **The king's colors.** Burks dresses him in black, with the king's crest on his breast: a silver falcon, wings spread, a shield in its talons, on purple. Wearing it means he holds the king's favor, so no promises and no rudeness tonight, because both would be the king's. (user)
+3. **What Tor brings.** The spare amulets, a room-cooling plate, and his newest shield, the fourth version, since he keeps finding flaws in the others. (user)
+4. **The corridor: first bites.** Rolph intercepts him: don't eat first; the host eats first because of poison, and the person most likely to be poisoned sits at the far end and eats last, as proof. Tor must eat before Ward. "It doesn't have to make sense. It's tradition." Tor realizes he ate first last night; Rolph says his mother took it as Tor going first to show there was no poison. Tonight Ursula and Ward eat last. Tor: but Ursula didn't do anything. Rolph: it won't look that way to anyone else; she carried the thing. (user)
+5. **No duels.** Rolph: don't challenge Ward to a duel. Tor is flabbergasted: a commoner challenging a count would be put to death even if he won. Rolph: Ward wouldn't accept anyway; with that shield Tor is practically invincible. Tor promises to challenge only people he can physically beat: children, and babies, mostly. Rolph laughs, then sobers: he'll try to do the same, but it may not be easy. (user)
+6. **The formal dining room.** The queen is already there, with Quavel at her side. She greets Alphonse and Tor the same way, with a kiss in the air by the cheek. Tor is mortified. (user)
+7. **Cooling.** The queen asks Quavel to fetch a couple of cooling plates. Tor: he's brought one, and swears it's enough even for this room. He's worried about the servants going in and out in uniform: he's brought ten personal ones for them. There are at least fifteen staff. Tor takes his own off and hands it over; Rolph, chuckling, does the same; the queen, seeing it, has to follow. Two still go without, and Tor feels bad about it. (user; see the questions on the count)
+8. **No chairs.** Tor looks for a chair; Rolph: nobody sits until all the guests are here. (user)
+9. **Trice.** She arrives in light violet, her dark brown hair up with a few ringlets falling round her face, smiling: is the cat out of the bag? Connie: "Hard to hide a whole palace." Connie fills her in. Trice is less concerned than Tor expected, which puzzles him, until the queen mentions Tor's offer to marry Ursula, and Trice's eyes fly open. (user)
+10. **A baron.** Connie: it was remarkable; Tor didn't know who Ursula was beyond her being engaged to Alphonse, and acted without a thought for himself. It can't be allowed yet, but the offer has weight, and nobody will say the crown did less than its best by her. They might find him a title; there are a few empty baronies. Trice, back to the room, sticks her tongue out at her aunt for teasing. Rolph: it may be all they have to keep the peace tonight, and Tor would make an excellent baron. Trice takes a slow, very deep breath and, not smiling, says she really thinks so. (user; facts from the quoted passage, wording to be ours)
+11. **The Thorgoods.** Ursula comes in with her parents and introduces Tor as "Master Wizard Torrance Baker." They're delighted to meet the young man who offered for their daughter and defended her. Rolph makes the introductions: Count Horace Thorgood and Countess Marigold; Tor and Patricia will help tonight if they can. (user)
+12. **Twelve.** Tor can't place the count's age by feel; he feels about twelve. (user; see the questions)
+13. **The king.** Everyone but the queen bows. The king hopes this can be settled quickly, because there's a problem in Ford County: a drought. It lies west of the capital, dry and warm, beside the Pacifico ocean: water everywhere and none to irrigate with, and the best cropland hundreds of miles inland. It happens every decade or so, and food will have to go west, the wrong way. Tor starts thinking about it at once. (user)
+14. **Trice brings him back.** Before he goes too deep, Trice shakes him out of it. (user)
+15. **Ward.** Count Ward and his wife walk in. Trice thinks it bold, almost a declaration that they're untouchable, though she doesn't think much of Ward's intelligence. (user)
+16. **Maria.** Tor sees the count: huge, nearly the king's size, if less proper. While he's taking in the figure Ward cuts, he sees the much shorter woman on his arm. It's **Maria**. Chapter ends. (user; `codex/characters/supporting/maria.md`)
+
+**Staging notes** (invented):
+
+- **The engine turns:** the luncheon gave Tor the floating cart; the king's drought gives it a destination. Let Tor's half-trance in beat 13 show the cart going west (a muttered "you'd need a lot of them"), so the reader connects it before he does.
+- **Maria through Trice's eyes:** Trice may know the story of the dance (school gossip), or may not. Either way she sees Tor's face change, and in the viewpoint that's the cliffhanger: not what Tor feels, but what she sees him feel.
+- **The crest and the guards:** the royal guard wears purple and black; Tor in black with silver on purple quietly matches them. George's people would notice.
+
+**Questions for the user:**
+
+1. **"Master Wizard":** is that a title, a courtesy for builders, or Ursula's own flourish? It's new to the codex.
+2. **"As if he is only twelve":** the summary says this is Count Thorgood, and that it "doesn't match his wizard status." Is Count Thorgood a builder or wizard too, or does "his" mean Tor's? And what does Tor sense: a childlike mind, real youth, or something done to him?
+3. **The amulet count:** Tor made twenty (chapter 5, scene 4). Most are already given away: the royal family, Burks, Quavel, Ursula, two at the Debri house, and one promised to the gardener. Did he make another ten after the luncheon (another short trance, perhaps from the Debri copper), or should he bring fewer than ten?
+4. **"Aunt Constance":** is the queen Trice's aunt by blood (sister to the Duke of Morgan, or to Tovey's mother?), or is it a courtesy title from childhood? If by blood, Tovey may be Rolph's cousin too.
+5. **Maria:** how did a girl who left Lairdgren come to be Count Ward's wife, and does Ward know about the dance? Is she older than she looks next to him (Ward is middle-aged)?
+6. **The quoted passage** in beat 10 reads like text from the original; the draft will use its facts, not its wording (`AGENTS.md` §2).
