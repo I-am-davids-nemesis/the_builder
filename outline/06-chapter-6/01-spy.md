@@ -56,7 +56,18 @@
 **Questions:**
 
 1. **The queen's entrance:** the draft has Connie come in behind the king; is that right, or should she arrive a moment later?
+   - Default: Behind the king, as drafted.
+   - Option: A moment later, just after "Rick."
 2. **Tor's vocabulary:** does Tor know the word "technology," or does he only know the brooch isn't magic (as drafted)?
+   - Default: He only knows it isn't magic; he never says "technology."
+   - Option: He knows the word from theory class, as the name of a banned thing.
 3. **Ward and Ursula:** the draft makes Ward "a friend of my father's"; is that right, and what is County Ward to the crown (a border county, a rival)?
+   - Default: A friend of her father's; County Ward neighbors County Thorgood, with old ties between them.
+   - Option: County Ward is a border county facing Austra.
+   - Option: County Ward is an old rival of the crown.
 4. **Names:** the drafts use **Alphonse** and **Constance**; are those the spellings you want (not Alphonso)?
+   - Default: Alphonse and Constance.
+   - Option: Alphonso and Constance.
 5. **Ursula's height and age:** is she six foot six, as in the original's passage, and nineteen, since she was four when Rolph was seven?
+   - Default: Six foot six, and nineteen.
+   - Option: Tall but no exact height on the page; nineteen.

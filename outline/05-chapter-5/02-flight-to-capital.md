@@ -64,4 +64,9 @@ Trice reminds them that they are all going out to their own places now, and will
 **Questions:**
 
 1. **The guards' flying controls:** Kolb has only three, and no flying template has gone to the Debri house; how did the city guard get Tor's controls (the Debri house, the crown, the school)?
+   - Default: The school reported Kolb's three to the crown, and the royal builders copied them.
+   - Option: The Debri house quietly received a flying template.
+   - Option: Leave it unexplained in book 1.
 2. **Speed:** Tor reached Hollin (five miles) in about two minutes, so ten hours of flying would cover far more than a six-day coach journey; should the long day come from the stops, the trunks and the slowest flier, or should the flight be given a slower speed?
+   - Default: The stops, the trunks and the slowest flier fill the day; no speed is stated.
+   - Option: Give loaded flight a cruising speed well below Tor's dash to Hollin.

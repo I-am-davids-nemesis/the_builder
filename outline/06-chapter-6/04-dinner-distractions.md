@@ -95,4 +95,9 @@ Beats follow the user's summary (user, October 30, 2026) unless labeled.
 **Questions:**
 
 1. **Maria and Ward:** how did they meet, and does Ward know about the dance?
+   - Default: Her family arranged the match after she left Lairdgren; Ward doesn't know about the dance.
+   - Option: Ward knows, and thinks it's funny.
+   - Option: Leave it open.
 2. **The queen's family:** is she sister to both the Duke of Morgan (Trice's father) and Tovey's mother, which would make Rolph, Trice and Tovey all first cousins?
+   - Default: Yes; all three are first cousins.
+   - Option: She's the Duke of Morgan's sister only; Tovey is related to Rolph through marriage.

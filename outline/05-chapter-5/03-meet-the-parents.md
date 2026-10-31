@@ -60,3 +60,5 @@ Beats follow the user's summary above (user, October 25, 2026) unless labeled.
 **Questions:**
 
 1. **The missing series-direction file:** `codex/characters/rolph.md` and `tor.md` link to `outline/series-direction.md` for the flirtation game, but that file doesn't exist in this repository; should it be brought over from the old repository, or should the links be removed?
+   - Default: Remove the links, and put the flirtation-game notes in `canon-notes.md`.
+   - Option: Bring the file over from the old repository.

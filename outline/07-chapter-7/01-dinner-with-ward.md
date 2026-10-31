@@ -165,11 +165,25 @@ These come from making the holes canon (October 31, 2026).
 **Questions:**
 
 1. **Maria's role:** the draft steers the reader toward her (Trice's column, the steering hand); is she knowingly working for Austra, or is she herself being used?
+   - Default: She knows; she arranged the brooch, and Ward doesn't.
+   - Option: She's being used too, by someone in her own family.
+   - Option: Leave it open for book 2.
 2. **The Wylde fear:** now that the court reads Tor as a possible Wylde, does that follow him (nobles courting him, or wary of him, or Maria trying to make peace), or is it a one-dinner chill?
+   - Default: It follows him lightly: nobles are careful and courteous with him, and Maria later tries to make peace.
+   - Option: A one-dinner chill, never mentioned again.
 3. **The jeweler on the Hill:** Ward's story names one; does the crown send to him, as Trice suggests at the table, and does he exist?
+   - Default: The crown sends; the shop exists, but the jeweler left the city in the spring.
+   - Option: There's no such jeweler; Ward invented him.
 4. **County Thorgood and the coast:** Ward hints that the Thorgoods, "so near the coast," keep Austran company; is County Thorgood coastal and near Ford, or was that just Ward's slander?
+   - Default: Inland; Ward's hint is slander.
+   - Option: Coastal, near Ford, which gives the slander teeth.
 5. **"I'll remember that you said it":** is this a seed for the king acting on the unfairness to Ursula later, or for Tor's barony?
+   - Default: The king shortens Ursula's year away later and restores her name early.
+   - Option: A seed for Tor's barony.
+   - Option: Both.
 6. **Training rages:** the king's unspoken thought (beat 34) is now an open thread; does it reach the page in book 1, perhaps with Kolb hearing of it at school, or wait for a later book?
+   - Default: Wait for a later book; in book 1, only the king's look.
+   - Option: Kolb hears of it at school before the end of book 1.
 
 **Answered** (user, October 31, 2026):
 

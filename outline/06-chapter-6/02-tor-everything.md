@@ -40,4 +40,8 @@ Rolph intervenes and calms his father down, and somehow they determine that Ursu
 **Questions:**
 
 1. **"The clothing one":** it's drafted as the original laundry drying field from chapter 1, with Lady Arden's maids using one in front of guests (invented); is that the device you meant?
+   - Default: Yes, the laundry drying field.
+   - Option: A different device; say which.
 2. **The Ashford build's length:** Rolph says six days and that nobody knew if Tor would come out, but chapter 5's draft still has two easy days; should I revise chapter 5, scene 1 to six days now, and who was afraid for him?
+   - Default: Revise to six days now; Bet Haskins, Sara and Rolph fear for him, and the basket he packed runs out on day three.
+   - Option: Keep two days, and have Rolph exaggerate.
