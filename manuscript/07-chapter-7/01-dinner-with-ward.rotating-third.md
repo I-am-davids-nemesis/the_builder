@@ -64,6 +64,8 @@ They were seated at last, and Trice made sure she was across from him.
 
 It had taken some work. Her aunt had placed the table, and her aunt's placing was not lightly disturbed; but Trice had caught Quavel's eye on the way in, and Quavel had caught hers, and somehow, when the chairs were drawn out, Trice was sitting directly opposite Tor with Ursula at her right and a clear view of the far end of the table, where Count Ward sat down heavily in the last chair, with Maria at his side.
 
+Trice had seen the snub. Everyone had; it had been made to be seen. Maria had bowed to the king, the queen, the prince, the Thorgoods, and had not let her eyes rest for one instant on the girl standing beside them. It was neatly done. It said, before anyone had said a word about brooches: *there's a girl at this table who took a married man's gifts, and I am his wife, and I will not look at her.* Trice turned it over and admired it, the way you admire a good cut in the yard that's just been made on someone else. Ward hadn't thought of that. Ward couldn't have. She looked down the table at the slim figure in green, sitting very upright with her hand near her husband's sleeve, and filed her, in a column of her own, near the top.
+
 Tor looked terrible.
 
 Not to anyone else, perhaps. To anyone else he looked like a well-dressed boy sitting very straight with his hands in his lap and the king's falcon on his breast. But Trice had seen him in a ring of fire, and she knew the difference. His face had gone the color of candle wax. His eyes were open and steady and looking at the white cloth in front of him, and they weren't seeing it. His lips moved, very slightly, and then stopped, and then moved again. He was trying to go under. She could see him trying. She could see it not working.
@@ -378,7 +380,7 @@ Rolph looked at the floor. At the cracks running across it, branching and branch
 
 * * *
 
-The Thorgoods went. The Wards went: Maria first, her hand on her husband's arm, steering, her face composed; Ward behind her, still slow and baffled, like a man who has lost a fight and can't remember having started one. The doors closed. The guard melted back into the paneling, all but two.
+The Thorgoods went. The Wards went: Maria first, her hand on her husband's arm, steering, her face composed; Ward behind her, still slow and baffled, like a man who has lost a fight and can't remember having started one. The doors closed. The guard melted back into the paneling, all but two. One of them had gone first to the wreck of the table and come back with something small in his gloved hand, and given it to the king; and Rolph saw the blue and white wings of the dragonfly go into his father's coat, and not come out again.
 
 And Trice was on Tor before the doors had stopped swinging.
 

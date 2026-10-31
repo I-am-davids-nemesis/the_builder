@@ -81,7 +81,7 @@
 
 ## Motivation and holes
 
-The summary's events work; several of the reasons behind them still come from the pregnancy version, or are missing. In order of how much they matter (invented analysis; pending the user's review):
+**Canon** (accepted by the user, October 31, 2026): everything in this section is now settled for the book, and the codex records it (`canon-notes.md`, `maria.md`, `tor.md`, `tension-ledger.md`). The summary's events work; these are the reasons behind them, replacing the pregnancy version's reasons or filling gaps. In order of how much they matter:
 
 1. **The dinner never talks about the brooch.** The summary's argument ("suborning his daughter," "low character to accept jewelry," "gold digger") is the pregnancy argument. In the spy version the fight has to be about the dragonfly. Proposed:
    - **Thorgood's charge:** Ward used his daughter as a carrier, putting an Austran thing on a child's collar and sending her into the king's house with it: treason, and a father's outrage.
@@ -100,15 +100,15 @@ The summary's events work; several of the reasons behind them still come from th
 
 ## Beats
 
-Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes from the holes above are marked (invented).
+Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes from the holes above are marked (invented, accepted), and are canon as of October 31, 2026.
 
 1. **Maria.** Rolph turns, sees Maria on Ward's arm, and panics, more frightened than Tor has ever seen him: he didn't know she'd married Ward; he'd never have brought Tor. People notice. (user)
 2. **The queen's body.** Without a beat, Connie steps past Rolph and turns, so that she blocks Tor from the room with her own body, and looks at him with a question. (user)
 3. **"It's nothing."** Tor can't speak for anger and shame. He shakes his head, tries to drop into a trance deep enough to shut out the room, and can't; he calms a little. "I'm fine. It's nothing important." He knows he's red. He hadn't known, back then, that she had noble blood. (user; facts from the quoted passage, wording to be ours)
 4. **Wylde and Doretta.** Connie looks at Rolph; Rolph mutters that it's like Count Wylde and Doretta, only maybe for real, and worse, since Doretta was gentler and had better reason. The whole group reacts. The tale isn't explained. (user)
-5. **The bows.** The Wards approach. Connie smiles and puts her arm round Tor's shoulders. Everyone bows. Maria refuses to look at Ursula at all, a public snub, which leaves her looking at the queen and Rolph. (user) Her snub is the first move in Ward's defense, casting Ursula as the girl who angled for gifts (invented; hole 3).
+5. **The bows.** The Wards approach. Connie smiles and puts her arm round Tor's shoulders. Everyone bows. Maria refuses to look at Ursula at all, a public snub, which leaves her looking at the queen and Rolph. (user) Her snub is the first move in Ward's defense, casting Ursula as the girl who angled for gifts (invented, accepted; hole 3).
 6. **She smiles at him.** When her eyes reach Tor she smiles, but what comes off her is troubled. Tor decides she doesn't recognize him. (user) The reader knows better (hole 4).
-7. **The brooch on the table.** Before they sit, the king sets the dragonfly in front of his own place, without comment, where everyone can see it. Ward looks at it once. (invented; hole 2) It stays with the crown afterward; Tor, a schoolboy, never gets to study it. High technology is banned on the continent, so whoever owns it is breaking the law (user).
+7. **The brooch on the table.** Before they sit, the king sets the dragonfly in front of his own place, without comment, where everyone can see it. Ward looks at it once. (invented, accepted; hole 2) It stays with the crown afterward; Tor, a schoolboy, never gets to study it. High technology is banned on the continent, so whoever owns it is breaking the law (user).
 8. **Seated.** At last. (user)
 9. **The drink.** Distraught, Tor takes a sip of juice before the king. The king rises, bows to him: "You honor us." Ursula drinks at once, a long drink, and gets a smaller bow. Then the king, the queen, Rolph, Trice; then, after kicks from Trice and Ursula and a prod from the servant behind him, Tor; the Thorgoods; and last Ward, who looks at his cup a long moment before he drinks. (user) Tor's juice: he never drinks alcohol (user).
 10. **Out of sorts.** Tor still doesn't know how to act; the old weeks after the dance come back. (user)
@@ -119,10 +119,10 @@ Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes f
 15. **"I want one."** Trice mouths it at Tor across the table; hers went to Heather Debri. (user)
 16. **Smaller portions.** Tor's plates are smaller than anyone's. He takes it as a courtesy, since he couldn't finish his dessert last night. (user) (The kitchen noticed: Quavel's doing, invented.)
 17. **After the meal.** Wine for everyone; water for Tor. (user)
-18. **The argument.** Business begins, and becomes a shouting match between Thorgood and Ward. (user) Thorgood: Ward used his daughter to carry an Austran thing into the king's house. Ward: a trinket bought in good faith; perhaps the girl's family has Austran friends; and what sort of girl takes jewels from a married man? (invented; hole 1) Maria murmurs to Ward between his lines.
+18. **The argument.** Business begins, and becomes a shouting match between Thorgood and Ward. (user) Thorgood: Ward used his daughter to carry an Austran thing into the king's house. Ward: a trinket bought in good faith; perhaps the girl's family has Austran friends; and what sort of girl takes jewels from a married man? (invented, accepted; hole 1) Maria murmurs to Ward between his lines.
 19. **Trice tries.** She offers helpful suggestions, leaning in, upset. (user) Her field is at work, and neither she nor the reader is told (user, October 31, 2026).
 20. **Rolph breaks.** At Ward's "low character," Rolph stands, goes into a combat rage, flips the table with his field, and walks at Ward, who goes into a defensive rage of his own. (user) Tor has never once seen Rolph lose his temper in two years. That's the only hint at why (user). Ward's field is **confusion**: round him people go muddled and slow, so instead of fleeing they back to the walls and stand there (user).
-21. **Tor sees the war.** The prince striking a count at the king's table: there's no undoing that. He's the only person in the room who can't be hurt. (invented; hole 7) He turns on his shield and steps between them. (user)
+21. **Tor sees the war.** The prince striking a count at the king's table: there's no undoing that. He's the only person in the room who can't be hurt. (invented, accepted; hole 7) He turns on his shield and steps between them. (user)
 22. **Between the giants.** Ward tries to hit him out of the way and can't. Rolph never tries to hit him, only to step round, and Tor keeps moving to stay between them. Everyone else scrambles to the walls; the royal guard comes out round the king. (user)
 23. **A line of force.** Tor feels it: Rolph's rage pushes force in a straight line, and anything in it is carried until it hits something. Chairs fly. His shield stops it, and stops Ward's confusion too, mostly: he got it on fast enough that he only feels the muddle in his fingers and toes (user, October 31, 2026). A line that carries what's in it… the drought. You could move *water* that way, and then you'd only have to filter it. It comes together in his head while he keeps stepping between them, perfectly safe; Rolph isn't even trying, and at last Ward turns everything he has on the shield. (user)
 24. **"Does anybody know a noble?"** Tor realizes none of this is helping Ursula, and calls to the people along the walls: does anyone know a noble she could marry? After a while Countess Thorgood calls back, a little sarcastically: "Howard Turnbull?" (user)
@@ -131,9 +131,9 @@ Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes f
 27. **"Where were we?"** A guard tries to shake his shoulder and can't, because of the shield; is he all right? Tor surfaces: oh yes, just thinking. Where were they? Howard Turnbull? Who is he; is he good enough for Ursula? (user)
 28. **The room.** Everyone feels ready to run to Tor; most are badly shaken. (user)
 29. **Howard Turnbull explained.** The countess: he's everybody's idiot or absent relative, not a real man. A sham marriage: Ursula steps out of society for a year or two and comes back when her poor husband has "died." (user)
-30. **Tor objects.** (Replaces the original's objection about the child; invented, hole 9.) It isn't fair: she's to vanish for a year, married to nobody, for something she didn't do, while the man who gave her the brooch goes home. The room is silent. The king: it's the best the law allows tonight. The others accept it grudgingly.
+30. **Tor objects.** (Replaces the original's objection about the child; invented, accepted; hole 9.) It isn't fair: she's to vanish for a year, married to nobody, for something she didn't do, while the man who gave her the brooch goes home. The room is silent. The king: it's the best the law allows tonight. The others accept it grudgingly.
 31. **Rolph's head.** Post-rage, Rolph has a pounding headache, half dehydration, half hunger, half hangover; the rage burns the body's own stores. (user)
-32. **Baron Hyrees.** The empty barony of Hyrees will do; Ursula marries the baron, and after a year he dies. (user) Trice catches her aunt's eye: the barony meant for Tor's joke (invented; hole 10). When Ursula hesitates, **the queen** holds out the prospect that once she's "widowed," Rolph might marry her after all. It's a lever to make her agree, not a promise (user, October 31, 2026). Rolph says nothing; he can't marry Sara anyway, since she isn't noble.
+32. **Baron Hyrees.** The empty barony of Hyrees will do; Ursula marries the baron, and after a year he dies. (user) Trice catches her aunt's eye: the barony meant for Tor's joke (invented, accepted; hole 10). When Ursula hesitates, **the queen** holds out the prospect that once she's "widowed," Rolph might marry her after all. It's a lever to make her agree, not a promise (user, October 31, 2026). Rolph says nothing; he can't marry Sara anyway, since she isn't noble.
 33. **Trice pounces.** The Thorgoods, the Wards and Ursula leave. Trice is on Tor at once: is he all right? Everyone but the king is worried. (user)
 34. **The king's question.** The king saw that the shield stopped Ward's confusion as well as the force: how did Tor make such a thing? (user) Under the question is what the king doesn't say: combat-rage fields have always been too dangerous to train, and here, for the first time, is a reliable counter (user, October 31, 2026).
 35. **Wensa.** Tor: he's afraid Wensa means to kill him, probably not really, but still; so he keeps improving the shield. He hasn't solved poison yet, so please don't tell her. (user)
@@ -157,6 +157,17 @@ Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes f
 - **The argument:** the king lays out the brooch and the law, then Thorgood speaks. Ward names a jeweler on the Hill and hints at the Thorgoods' coastal company; Maria's hand steers him. Ursula stays silent because a girl doesn't answer a count.
 - **The fight:** the table *flies* along Rolph's line. Ward's confusion makes the room back to the walls, blinking. Tor is "perfectly safe" between the two, apologizing to Ward. The idea: water in a line from the sea, then a purifier. The cracks branch "like the veins in a leaf," like a river.
 - **Afterwards:** the guard can't grip his shoulder. Tor objects that "she has to go away… and *he* goes home." The king: "It isn't fair… I'll remember that you said it." The barony of Hyrees lies in the east, empty four years. The queen holds out a later marriage to Rolph as a lever, and Rolph thinks of Sara and puts it away. The king never says aloud that rages could now be trained. Rolph raged once before, at eleven, and promised his mother never again (invented). "That's why it isn't a war."
+
+**Redrafted to match the canon holes** (October 31, 2026): Trice now reads Maria's snub as the opening move of Ward's defense, one Ward couldn't have thought of (hole 3), and files Maria "near the top." After the Wards leave, a guard brings the dragonfly from the wreck and it goes into the king's coat (hole 2 and answer 5). The rest of the draft already matched.
+
+**Questions raised by making the holes canon** (October 31, 2026):
+
+1. **Is Maria the planner?** The draft steers the reader toward her (Trice's column, the steering hand). Is she knowingly working for Austra, or is she herself being used? It decides how the brooch thread resolves.
+2. **The Wylde fear:** now that the court reads Tor as a possible Wylde, does that follow him: nobles courting him, or wary of him, or Maria trying to make peace? Or is it a one-dinner chill?
+3. **The jeweler on the Hill:** Ward's story names one. Does the crown send to him (Trice suggests it at the table), and does he exist?
+4. **County Thorgood and the coast:** Ward hints that the Thorgoods, "so near the coast," keep Austran company. Is County Thorgood coastal, and near Ford, or was that just Ward's slander?
+5. **"I'll remember that you said it":** is this a seed for the king acting on the unfairness to Ursula later, or for Tor's barony?
+6. **Training rages:** the king's unspoken thought (beat 34) is now an open thread. Does it reach the page in book 1, perhaps Kolb hearing of it at school, or wait for a later book?
 
 **Answered** (user, October 31, 2026):
 

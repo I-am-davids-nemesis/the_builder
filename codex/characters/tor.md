@@ -74,6 +74,7 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 - Once babbled nonsense to test whether people were listening. (canon)
 - Oldest sister: **Terlee**. (canon)
 - **All of Tor's siblings' names start with T.** (user, October 23, 2026) His sisters are mostly meek, except **Teira**, who hits (user, October 23, 2026).
+- **Stands between Rolph and Count Ward** when both rage at the king's table, in the king's falcon, and calls out for a husband for Ursula. Then, in front of counts, he objects that the sham marriage isn't fair to her. The king: "I'll remember that you said it." (invented, accepted by the user, October 31, 2026) The court fears him as a Wylde, a commoner risen to favor who was spurned by Maria; he doesn't know the tale.
 - **Doesn't drink alcohol** (user, October 31, 2026): it clouds the mind he builds with. Everyone serves him juice or water.
 - **The fourth shield blocks mental effects** (a rage field's pressure) as well as force (user, chapter 7). He keeps improving the shield because he half believes Wensa will kill him; he hasn't solved poison yet.
 - **Adapts his diction to the company** (user, October 25, 2026): puts on a noble accent at the palace gate as a joke, and Rolph tells him to keep it there and develop another for the city. He keeps it through dinner, and nobody notices, because he's blended in.

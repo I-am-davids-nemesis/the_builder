@@ -32,6 +32,15 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
 - **Count Wylde and Doretta** (user, October 31, 2026): a tale central to Noram's nobility, shaping how nobles treat each other. Doretta spurned the young Wylde before he had any status; he spent his life rising until he was a count, then made war on her home county and killed everyone who had protected her. Named on the page, never explained there.
 - **Table customs** (user, chapter 7 outline): the king drinks first, the most trusted next, and the suspect last; drinking before the king reads as volunteering to taste ("You honor us"). **No business during a meal**; meals are for small talk, and business comes after, over wine.
 - **"Howard Turnbull"** (user): noble shorthand for the absent, idiot or nonexistent relative every family has. A sham marriage to one lets a woman leave society for a year or two and return as a widow. Ursula is to marry **Baron Hyrees**, an empty barony (user).
+- **The Ward dinner, settled** (invented; accepted by the user, October 31, 2026; see `outline/07-chapter-7/01-dinner-with-ward.md`, "Motivation and holes"):
+  - **The charge:** Thorgood says Ward made his daughter carry an Austran thing into the king's house.
+  - **Ward's defense:** a trinket bought in good faith from a jeweler on the Hill; perhaps the Thorgoods are the ones with Austran friends; and what sort of girl takes jewels from a married man. That last insult triggers Rolph's rage.
+  - **What the king can do:** with no proof Ward knew, he can't accuse a count of treason without risking war. His aims are to clear Ursula in public, keep Ward at the table and keep the brooch.
+  - **Maria's snub** of Ursula is the first move in Ward's defense, casting Ursula as the girl who angled for gifts.
+  - **Wylde and Doretta:** the table fears Tor as a Wylde, risen to favor and owed a revenge on the woman who spurned him. Maria fears it too, and that is the trouble Tor feels under her smile. Tor doesn't know the tale and thinks she has forgotten him.
+  - **Why it isn't war:** a rage excuses most things, nobody was hurt because Tor stood in the way, and the crown was seen defending Ursula at once.
+  - **Tor's objection:** to the sham marriage, Tor says it isn't fair that Ursula vanishes for a year while the man who gave her the brooch goes home. The king agrees it isn't fair, and that it's the best the law allows.
+  - **Baron Hyrees** is one of the empty baronies the queen joked about giving Tor.
 - **High technology is banned on the continent** (user, October 31, 2026): anyone who possesses it is breaking the law. The crown keeps Ward's brooch; Tor never gets to study it.
 - **Nobles grow into their size slowly**, more slowly than common people (user, October 31, 2026). A noble girl can be no taller than a small commoner at school and much taller a few years later (Maria).
 - **Combat-rage fields have always been too dangerous to train** (user, October 31, 2026). Tor's shield, which blocks both their force and their mental effects, is the first reliable counter, and that could change things.
