@@ -39,12 +39,107 @@
 - The king agrees to meet in three days at luncheon -- he holds up two fingers (in a gesture completely foreign to Tor, but obviously meant for one of the royal guards to add it to his calendar).
 - After that tor and Rolph walk back to their rooms.  Rolph is clearly upset.  he doesn't want Tor to think that he loses his temper so easily. tor consoles him that they have lived together for 2 years, and of course he knows his friend is normally very calm and collected. Rolph is a bit surprised that his father didn't declare war.  But, combat rage excuses most social errors, but it is considered shameful to let it happen.  But Ursula's honor was defended, immediately, and then what Tor did...
 - Tor goes back to his room, takes off the nice clothes and instantly goes to sleep
-- **POV / mode:**
-- **Location:**
-- **Present:**
+- **POV / mode:** Rotating third (proposed), in four movements:
+  1. **Tor**, from Maria's entrance through the bows. The summary is written from inside him, and seeing Maria again is the "particularly traumatic" moment that earns his viewpoint (`AGENTS.md` §3).
+  2. **Trice** for the meal: the drinks, the small talk, Quavel's performance, the portions, and the argument as it starts. She reads the table; the reader needs her eyes on Maria.
+  3. **Tor** again from the moment Rolph rages: stepping between two giants is traumatic, and the idea (force in a line, water, the branching cracks) can only be shown from inside.
+  4. **Rolph** for the aftermath and the walk back (his headache, his shame, his surprise there's no war), then Tor alone, briefly, falling asleep.
+
+  The king and queen never hold the viewpoint here; Quavel can if a beat needs a servant's eye. (invented; pending the user's review)
+- **Location:** The **formal dining room** (chapter 6, scene 4): the size of the Lairdgren chapel, the painted-sky ceiling, Tor's cooling plate under the center of the table, the fig-walk windows. Afterward, the palace corridors back to the small house.
+- **Present:** Tor, Rolph, Trice; the king (Richard) and the queen (Connie); Ursula and her parents, Count Horace and Countess Marigold Thorgood; Count Ward and **Maria**, his wife; Quavel and the staff (now wearing Tor's amulets); the **royal guard**, out of sight until the fight.
 - **Reader learns:**
+  - The tale of **Count Wylde and Doretta**, named but not told: a story every noble knows, of a spurned young man who rose to count and made war on the county of the woman who scorned him. Rolph's mutter brings it into the room; the table's reaction tells the reader it matters.
+  - **Tor doesn't drink alcohol**: it clouds the mind he builds with. He's served juice and water.
+  - The **drinking order**: the king drinks first; the most trusted drink next; the suspect drinks last. Tor drinks first by mistake again; the king bows and calls it an honor; Ursula drinks at once to show the same trust; Ward drinks last and looks at his cup a long time.
+  - Nobles **don't talk business during a meal**.
+  - **Rolph's hereditary field**: in a combat rage he pushes **force in a straight line**, and anything in the line is carried along until it hits something. **Ward has a field of his own** (see the questions).
+  - **The fourth shield blocks mental effects** as well as force.
+  - **"Howard Turnbull"**: noble shorthand for the absent, idiot or nonexistent relative everyone has; offered as a **sham marriage**.
+  - The settlement: Ursula will marry **Baron Hyrees**, an empty barony with nobody in it. After a year the "baron" will die, and she can come back into society.
+  - Tor's next idea: **moving water** with a line of force and filtering it, carried out in branches like a river delta, for **Ford County**. He asks the king for a meeting in three days.
 - **Hidden (and how):**
+  - **Whether Maria recognizes Tor**: Tor thinks she doesn't; the reader, through Trice, sees the troubled look and her eyes stopping on him in chapter 6. She does. Hidden by Tor's misreading.
+  - **Who planned the brooch**: the table argues about Ward; the reader is steered, through Trice's low opinion of Ward and Maria leading him away, toward Maria. Never stated.
+  - **Why two nobles raged at once** (see the holes below): possibly Trice's own hidden field, which drives nobles into rage and which she doesn't know she has (`patricia.md`). Never stated; the reader who remembers the courtyard may wonder.
+  - **What the king thinks of Tor** after watching him stand between two raging giants: only his question about the shield, and the two fingers raised for the calendar.
+
+## Motivation and holes
+
+The summary's events work; several of the reasons behind them still come from the pregnancy version, or are missing. In order of how much they matter (invented analysis; pending the user's review):
+
+1. **The dinner never talks about the brooch.** The summary's argument ("suborning his daughter," "low character to accept jewelry," "gold digger") is the pregnancy argument. In the spy version the fight has to be about the dragonfly. Proposed:
+   - **Thorgood's charge:** Ward used his daughter as a carrier, putting an Austran thing on a child's collar and sending her into the king's house with it: treason, and a father's outrage.
+   - **Ward's counter:** it was a pretty trinket bought in good faith from a jeweler ("half the Hill buys from him"). If anyone's dealing with Austra, perhaps it's the girl's own family. And what kind of girl accepts jewels from a married man? The last line is the "low character" insult, and it's what breaks Rolph.
+   - **Maria** steers him between the two lines with murmurs, and the reader sees her doing it.
+2. **What the king can and can't do.** There's no proof Ward knew. Accusing a count of treason without proof is how a county goes to war (Rolph, chapter 6). So the king's aim tonight is limited: clear Ursula in public, keep Ward at the table, and keep the brooch. Say it once, early (the king setting the dragonfly on the table, perhaps), so the reader knows what "winning" this dinner looks like. **The brooch stays with the crown**, and Tor's wish to study it (chapter 6) can pay off later.
+3. **Why Maria snubs Ursula.** The summary's reason ("having relations with her husband") is the pregnancy version. Proposed: Maria snubs Ursula *publicly* to cast her as the girl who angled for a married count's gifts. It's the first move in Ward's defense, made before anyone has said a word, and Maria made it. That also explains the "troubled" feeling Tor gets off her: she's working, not at ease.
+4. **Maria and Tor.** Maria rejected Tor; now he wears the king's falcon. Rolph's mutter about Wylde and Doretta tells every noble at the table what *they* fear: that Tor is a Wylde, risen to favor, owed a revenge. That's why the table reacts, and why Maria is troubled: she knows the tale too. Tor doesn't know it, and thinks only that she's forgotten him. The perception gap at its sharpest: the whole room afraid of Tor's revenge, and Tor trying not to cry into his juice.
+5. **Why Rolph rages.** He likes Sara, not Ursula (`rolph.md`), but he has known Ursula since she was four, the crown has just thrown her over, and Ward calls her a gold digger at his father's table. It's loyalty and guilt, not love. Make the trigger explicit: Ward's insult, aimed at Ursula, while Ursula sits silent because she isn't allowed to answer a count.
+6. **Why two nobles rage at once, at one dinner.** Rages are rising across Noram, and nobody knows why (`reader-knowledge.md`, chapter 3). Trice's hidden field drives nobles into rage (`patricia.md`, canon). Trice is at the table, upset, leaning in to "add helpful suggestions." The reader who remembers the courtyard can connect it; nobody at the table does. This costs nothing and turns a convenient double rage into a planted clue. (Confirm with the user; it touches a root conflict.)
+7. **Why Tor steps in.** He sees what nobody else will say: if the prince strikes a count at the king's table, it's war, and he's the only person in the room who can't be hurt. That's his reaction rule (a friend threatened → the meekness vanishes; `tor.md`). Give him one beat of seeing it before he moves.
+8. **Why the king doesn't declare war.** A combat rage excuses most things socially (though it's shameful to let it happen). No blood was shed, because Tor stood in the way. And the crown has just been seen defending Ursula's honor at once. Rolph says as much on the walk back; let the king's silence about war at the end carry it.
+9. **Tor's objection to the sham marriage.** In the original, Tor is upset that the child would have no father. In ours there is no child, so give him a new objection with the same weight: **Ursula is being made to vanish for a year for something she didn't do, married to nobody, while the man who gave her the brooch walks home to his own bed.** It isn't fair, and Tor says so plainly, in front of counts, in the king's favor. The others grudgingly accept it as the best that can be done, and the king says, quietly, that it's the best the law allows. That leaves the injustice open as a thread.
+10. **Baron Hyrees and the empty baronies.** In chapter 6 the queen joked about "a barony or two lying about" for Tor. Here one of those empty baronies becomes Ursula's nonexistent husband. Make the echo audible: Trice catching her aunt's eye, perhaps. A baron is within three steps of a countess-heir.
+11. **"Rolph could potentially marry her then."** That cuts against two settled facts: the king refused to reinstate the betrothal, and Rolph has liked **Sara** for years (`rolph.md`). Suggest it's said by someone else (Countess Thorgood, hopefully) and that Rolph doesn't answer; or drop it. See the questions.
 
 ## Beats
 
-1.
+Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes from the holes above are marked (invented).
+
+1. **Maria.** Rolph turns, sees Maria on Ward's arm, and panics, more frightened than Tor has ever seen him: he didn't know she'd married Ward; he'd never have brought Tor. People notice. (user)
+2. **The queen's body.** Without a beat, Connie steps past Rolph and turns, so that she blocks Tor from the room with her own body, and looks at him with a question. (user)
+3. **"It's nothing."** Tor can't speak for anger and shame. He shakes his head, tries to drop into a trance deep enough to shut out the room, and can't; he calms a little. "I'm fine. It's nothing important." He knows he's red. He hadn't known, back then, that she had noble blood. (user; facts from the quoted passage, wording to be ours)
+4. **Wylde and Doretta.** Connie looks at Rolph; Rolph mutters that it's like Count Wylde and Doretta, only maybe for real, and worse, since Doretta was gentler and had better reason. The whole group reacts. The tale isn't explained. (user)
+5. **The bows.** The Wards approach. Connie smiles and puts her arm round Tor's shoulders. Everyone bows. Maria refuses to look at Ursula at all, a public snub, which leaves her looking at the queen and Rolph. (user) Her snub is the first move in Ward's defense, casting Ursula as the girl who angled for gifts (invented; hole 3).
+6. **She smiles at him.** When her eyes reach Tor she smiles, but what comes off her is troubled. Tor decides she doesn't recognize him. (user) The reader knows better (hole 4).
+7. **The brooch on the table.** Before they sit, the king sets the dragonfly in front of his own place, without comment, where everyone can see it. Ward looks at it once. (invented; hole 2)
+8. **Seated.** At last. (user)
+9. **The drink.** Distraught, Tor takes a sip of juice before the king. The king rises, bows to him: "You honor us." Ursula drinks at once, a long drink, and gets a smaller bow. Then the king, the queen, Rolph, Trice; then, after kicks from Trice and Ursula and a prod from the servant behind him, Tor; the Thorgoods; and last Ward, who looks at his cup a long moment before he drinks. (user) Tor's juice: he never drinks alcohol (user).
+10. **Out of sorts.** Tor still doesn't know how to act; the old weeks after the dance come back. (user)
+11. **Small talk only.** No business at a meal. (user)
+12. **The cool.** Countess Thorgood asks how the room is so cool. Maria: it must be the new plates; they've an order in at the Debri house, but there's a waiting list, even for counts. (user)
+13. **Velvet.** The queen, softly: the shields and flying rigs come first, for the common defense; this room's cooling is Wizard Torrance's own loan, and so are the near-priceless devices keeping the servants cool between courses. "How are they working, Quavel?" (user; facts from the quoted passage, wording to be ours) Under it, the warning to Ward: this man is ours.
+14. **Quavel performs.** He understands what's wanted and gives it perfectly: even beside the ovens, cool. (user)
+15. **"I want one."** Trice mouths it at Tor across the table; hers went to Heather Debri. (user)
+16. **Smaller portions.** Tor's plates are smaller than anyone's. He takes it as a courtesy, since he couldn't finish his dessert last night. (user) (The kitchen noticed: Quavel's doing, invented.)
+17. **After the meal.** Wine for everyone; water for Tor. (user)
+18. **The argument.** Business begins, and becomes a shouting match between Thorgood and Ward. (user) Thorgood: Ward used his daughter to carry an Austran thing into the king's house. Ward: a trinket bought in good faith; perhaps the girl's family has Austran friends; and what sort of girl takes jewels from a married man? (invented; hole 1) Maria murmurs to Ward between his lines.
+19. **Trice tries.** She offers helpful suggestions, leaning in, upset. (user) Her leaning in is where her field could be at work (invented; hole 6, to confirm).
+20. **Rolph breaks.** At Ward's "low character," Rolph stands, goes into a combat rage, flips the table with his field, and walks at Ward, who goes into a defensive rage of his own. (user)
+21. **Tor sees the war.** The prince striking a count at the king's table: there's no undoing that. He's the only person in the room who can't be hurt. (invented; hole 7) He turns on his shield and steps between them. (user)
+22. **Between the giants.** Ward tries to hit him out of the way and can't. Rolph never tries to hit him, only to step round, and Tor keeps moving to stay between them. Everyone else scrambles to the walls; the royal guard comes out round the king. (user)
+23. **A line of force.** Tor feels it: Rolph's rage pushes force in a straight line, and anything in it is carried until it hits something. Chairs fly. His shield stops it, and stops the mental pressure coming off one of the giants too. A line that carries what's in it… the drought. You could move *water* that way, and then you'd only have to filter it. It comes together in his head while he keeps stepping between them, perfectly safe; Rolph isn't even trying, and at last Ward turns everything he has on the shield. (user)
+24. **"Does anybody know a noble?"** Tor realizes none of this is helping Ursula, and calls to the people along the walls: does anyone know a noble she could marry? After a while Countess Thorgood calls back, a little sarcastically: "Howard Turnbull?" (user)
+25. **The rage breaks.** As if on cue, both men come out of it. Rolph looks at Tor and understands what's happened. Ward looks confused; Maria comes and leads him away, murmuring. She leads him in more than one thing. (user)
+26. **Cracks.** Tor looks down: the floor is cracked all round him in a branching pattern, from the force his shield sent into the ground. It looks like a river branching and branching again to reach every field. (user)
+27. **"Where were we?"** A guard tries to shake his shoulder and can't, because of the shield; is he all right? Tor surfaces: oh yes, just thinking. Where were they? Howard Turnbull? Who is he; is he good enough for Ursula? (user)
+28. **The room.** Everyone feels ready to run to Tor; most are badly shaken. (user)
+29. **Howard Turnbull explained.** The countess: he's everybody's idiot or absent relative, not a real man. A sham marriage: Ursula steps out of society for a year or two and comes back when her poor husband has "died." (user)
+30. **Tor objects.** (Replaces the original's objection about the child; invented, hole 9.) It isn't fair: she's to vanish for a year, married to nobody, for something she didn't do, while the man who gave her the brooch goes home. The room is silent. The king: it's the best the law allows tonight. The others accept it grudgingly.
+31. **Rolph's head.** Post-rage, Rolph has a pounding headache, half dehydration, half hunger, half hangover; the rage burns the body's own stores. (user)
+32. **Baron Hyrees.** The empty barony of Hyrees will do; Ursula marries the baron, and after a year he dies. (user) Trice catches her aunt's eye: the barony meant for Tor's joke (invented; hole 10). (On "Rolph could marry her then," see the questions.)
+33. **Trice pounces.** The Thorgoods, the Wards and Ursula leave. Trice is on Tor at once: is he all right? Everyone but the king is worried. (user)
+34. **The king's question.** The king saw that the shield stopped the mental pressure as well as the force: how did Tor make such a thing? (user)
+35. **Wensa.** Tor: he's afraid Wensa means to kill him, probably not really, but still; so he keeps improving the shield. He hasn't solved poison yet, so please don't tell her. (user)
+36. **The cracks.** Trice points at the floor: look how much force he took. (user)
+37. **Ford.** Tor turns it aside (he really is fine) and says he's been thinking about the drought. He may have something. Could he meet the king in a few days? (user)
+38. **Two fingers.** The king agrees: luncheon, three days from now, and holds up two fingers, a gesture Tor doesn't understand, meant for a guard to add it to his calendar. (user)
+39. **The walk back.** Rolph, upset, doesn't want Tor to think he loses his temper easily. Tor: two years in one room; he knows Rolph is the calmest man alive. Rolph is surprised his father didn't declare war. A rage excuses most social errors, though it's shameful to let it happen. But Ursula's honor was defended at once, and then what Tor did… (user)
+40. **Sleep.** Tor takes off the fine clothes and is asleep at once. (user)
+
+**Staging notes** (invented):
+
+- **The perception gap is the whole first movement:** the room fears Tor as a Wylde; Tor fears Maria; Maria fears Tor; nobody says any of it.
+- **The engine turns again:** Ford's drought (chapter 6, scene 4) plus Rolph's line of force plus the cracks gives Tor the water-mover. The floating cart from the luncheon can join it later (food west, water west).
+- **The king's falcon is on Tor's breast all through the fight.** He is visibly the king's man standing between the prince and a count. That's why it isn't war, and the king knows it.
+- **Rolph's rage on the page:** follow the codex description of rages from outside (`canon-notes.md`, Tovey's): the empty face, a face with nobody behind it. Rolph's field is force, not numbness; Ward's is the numbing or mental one.
+
+**Questions for the user:**
+
+1. **Ward's field:** what does his hereditary field do in a rage? The summary mentions a "numbing mental effect" from one of the giants; Tovey's field is numbness (`tovey.md`). Should Ward's be something different (dread, confusion), so the two don't blur?
+2. **Trice's field:** may the double rage hint at Trice (hole 6), or should it stay clean of her?
+3. **"Rolph could potentially marry her then":** keep, give to someone else, or drop, given Rolph's feelings for Sara and the king's refusal?
+4. **Maria's height:** the summary says she was no taller than Tor at school, yet she has noble blood, and nobles are big. Is she half-noble, or noble by marriage only, or is her smallness itself a clue?
+5. **The quoted passages** (the opening of the summary, and the queen's speech) read like text from the original; the draft will take their facts, not their wording (`AGENTS.md` §2).
+6. **What happens to the brooch** (hole 2)? Does the crown keep it, and does Tor get to study it?

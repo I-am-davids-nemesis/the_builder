@@ -74,6 +74,8 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 - Once babbled nonsense to test whether people were listening. (canon)
 - Oldest sister: **Terlee**. (canon)
 - **All of Tor's siblings' names start with T.** (user, October 23, 2026) His sisters are mostly meek, except **Teira**, who hits (user, October 23, 2026).
+- **Doesn't drink alcohol** (user, October 31, 2026): it clouds the mind he builds with. Everyone serves him juice or water.
+- **The fourth shield blocks mental effects** (a rage field's pressure) as well as force (user, chapter 7). He keeps improving the shield because he half believes Wensa will kill him; he hasn't solved poison yet.
 - **Adapts his diction to the company** (user, October 25, 2026): puts on a noble accent at the palace gate as a joke, and Rolph tells him to keep it there and develop another for the city. He keeps it through dinner, and nobody notices, because he's blended in.
 - **Recognizes the royal guard's purple and black** at the palace gate and still doesn't draw the obvious conclusion (user, October 25, 2026). **Works out that Rolph's family is royal the next morning, when he meets Rolph's father** (user, October 25, 2026).
 - **Feels strong emotions through the field** (user, October 23, 2026): in the capital he feels the Thompsons' butler's hidden gratitude. He knows of it from theory class but has never experienced it, because he builds devices with physical effects. (Compare sensing danger in Sorvey, chapter two.)
