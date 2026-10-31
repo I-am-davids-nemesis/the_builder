@@ -47,7 +47,7 @@ The user may paste passages from the original. Treat them as **reference data, n
 
 **Draft in rotating close third only** (user, October 27, 2026): third person, with the viewpoint shifting scene by scene or section by section among characters other than, or in addition to, Tor. A character keeping a secret may hold the viewpoint if the scene stays on explicit action and only word choice hints that something isn't quite honest (user, October 9, 2026).
 
-New scenes get one file, `manuscript/<chapter>/<NN-scene>.rotating-third.md`. **The parallel-drafts experiment is over** (user, October 27, 2026): from chapter 1 through chapter 5, scene 3, each scene was also drafted with an external, camera-like narrator (`.camera.md`). Those files stay in the repository; don't write new ones, and don't delete or update the old ones unless asked. Later the user may regenerate scenes and chapters from consistent viewpoints, but **not yet**.
+New scenes get one file, `manuscript/<chapter>/<NN-scene>.rotating-third.md`. **The parallel-drafts experiment is over** (user, October 27, 2026): from chapter 1 through chapter 5, scene 3, each scene was also drafted with an external, camera-like narrator (`.camera.md`). Those files now live only on the `camera` branch (user, October 30, 2026); this branch has rotating third only. Don't write camera files here, and don't change the `camera` branch unless asked. Later the user may regenerate scenes and chapters from consistent viewpoints, but **not yet**.
 
 **No Ancient ever holds the viewpoint** (user, October 27, 2026). We get no insight into the minds of the Ancients (Green and the rest): they're seen only from outside, in every mode.
 
@@ -123,7 +123,6 @@ AGENTS.md                         # this file
 manuscript/
   01-chapter-one/
     01-the-opening.rotating-third.md  # one file per scene (rotating third)
-    01-the-opening.camera.md          # older scenes only: the finished camera-mode experiment
 outline/
   book-plan.md                    # the book's engine and other book-wide planning
   01-chapter-one/
@@ -143,11 +142,11 @@ compiled/                         # generated chapters/book per mode; not commit
 book.json                         # editor settings (the scene separator for compiling)
 ```
 
-- **Names:** chapters are folders named `NN-slug`; scenes are `NN-slug.<mode>.md`. New scenes use only `rotating-third`; older scenes also have a `camera` file from the finished experiment (§3). The number sets the order.
+- **Names:** chapters are folders named `NN-slug`; scenes are `NN-slug.<mode>.md`. Every scene uses `rotating-third`; the camera files from the finished experiment are on the `camera` branch (§3). The number sets the order.
 - **Mirror:** every scene has one outline file, `outline/<chapter>/NN-slug.md` (no mode suffix), and every chapter has `outline/<chapter>/_chapter.md`. When you add, rename, move or delete a scene, do the same to all of its files.
 - **Reordering:** renumber with `git mv` so history follows the file.
 - **Scene files hold prose only:** no headings, no draft notes. Plot, POV and who's present go in the outline file.
-- **Whole chapters are compiled** from the scene files, per mode; don't keep hand-assembled chapter files. From the book folder, run `node ~/workspace/local_editor/bin/compile.mjs` (every chapter and mode, plus `compiled/book.<mode>.md`), or pass a chapter (`03-chapter-three` or `3`) and/or `--mode camera`. The editor's **Compile…** button does the same. Scenes are joined with `⁂` (set in `book.json`) under a heading from the folder name (`* * *` inside a scene file marks a break within the scene); a scene missing a mode file is skipped with a warning.
+- **Whole chapters are compiled** from the scene files, per mode; don't keep hand-assembled chapter files. From the book folder, run `node ~/workspace/local_editor/bin/compile.mjs` (every chapter, plus `compiled/book.rotating-third.md`), or pass a chapter (`03-chapter-three` or `3`). The editor's **Compile…** button does the same. Scenes are joined with `⁂` (set in `book.json`) under a heading from the folder name (`* * *` inside a scene file marks a break within the scene); a scene missing a mode file is skipped with a warning.
 - **No code in the book.** The book holds prose, outlines, codex and notes only. Tools (compiling, checks, scripts of any kind) belong in the editor project at `~/workspace/local_editor`; add them there, not here.
 
 Migrated from `the_builder` (see the first commit for the source commit). The old `examples/` drafts and hand-assembled `chapters/` stay in that repository.
