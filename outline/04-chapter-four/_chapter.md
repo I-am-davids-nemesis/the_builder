@@ -203,7 +203,7 @@ Split invented, then revised with the user (October 18, 2026).
 | What the reader learns | Wensa is watching openly now; Dorgal has muscle, and one of them is strange; Tor can turn his enemies on each other; Wensa's cover is now known to Dorgal's group; Tor makes shields for his friends; the food dryer is done. |
 | What stays hidden, and how | What the black-eyed man is, and his influence on Dorgal (description only; a glance, a crueler line); what passes between Wensa and Dorgal's men (never shown; Tor leaves). |
 
-## Open questions for the user
+## Answered questions
 
 1. ~~The rest of the chapter.~~ Elements 3–7: the test, an interlude, Kolb's flying challenge, the four-day build and Trice, and the first flight (user, October 17–18, 2026).
 2. ~~The shield's material.~~ An etched copper plate with holes punched for a cord, worn around the neck (user, October 17, 2026).

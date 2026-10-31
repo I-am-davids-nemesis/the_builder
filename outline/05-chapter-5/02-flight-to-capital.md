@@ -59,8 +59,9 @@ Trice reminds them that they are all going out to their own places now, and will
 - **The milestone** reads *THE CITY — 22*.
 - **Luncheon in the capital** is at the third bell after noon.
 
-**Questions for the user:**
+**Answered:** Wensa stays at the school over the summer; the palace has plenty of guards (user, October 25, 2026).
 
-- **How did the city guard get Tor's flying controls?** Kolb has only three, and no flying template has gone to the Debri house in the drafts so far. Possibly the Debri house, the crown or the school had them copied; the scene leaves it unexplained.
-- **Wensa:** as Rolph's lead bodyguard she would hardly let him fly off without her. She's left out of this scene for now.
-- **Speed:** Tor reached Hollin (five miles) in about two minutes. At that speed ten hours would be far more than a six-day coach journey, so the long day has to come from the stops, the trunks and the slowest flier. The draft doesn't give a speed.
+**Questions:**
+
+1. **The guards' flying controls:** Kolb has only three, and no flying template has gone to the Debri house; how did the city guard get Tor's controls (the Debri house, the crown, the school)?
+2. **Speed:** Tor reached Hollin (five miles) in about two minutes, so ten hours of flying would cover far more than a six-day coach journey; should the long day come from the stops, the trunks and the slowest flier, or should the flight be given a slower speed?

@@ -92,8 +92,7 @@ Beats follow the user's summary (user, October 30, 2026) unless labeled.
 4. **The queen is Trice's aunt by blood**, which makes Tovey a relative of Rolph's too.
 5. **Maria** is about Rolph's age; Ward married a younger woman. Ward isn't very bright, and Maria is the brains of the pair.
 
-**Still open:**
+**Questions:**
 
-- **How Maria and Ward met**, and whether Ward knows about the dance.
-- **How exactly the queen is related:** most likely she is sister to the Duke of Morgan (Trice's father) and to Tovey's mother, which would make Rolph, Trice and Tovey all first cousins. Confirm.
-- **The quoted passage** in beat 10 reads like text from the original; the draft will use its facts, not its wording (`AGENTS.md` §2).
+1. **Maria and Ward:** how did they meet, and does Ward know about the dance?
+2. **The queen's family:** is she sister to both the Duke of Morgan (Trice's father) and Tovey's mother, which would make Rolph, Trice and Tovey all first cousins?

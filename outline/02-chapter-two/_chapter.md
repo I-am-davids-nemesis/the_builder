@@ -38,7 +38,7 @@ The user wants the book **as light and funny as possible** (October 9, 2026). Th
 | What the reader learns | Kolb's casual lethality and his real intent (to make Tor build); shields and cutters exist; Tor can throw out a raw field under stress; Trice and Sara are trained fighters from a special school; Sara's family is the Debri house; the Sorvey family is in trade and dangerous; the drying field has a real market (2, 12, 20, 11 gold); sigils are guides, not the magic; metal and acid etching; Rolph's mother's birthday falls the same week as the queen's; something makes Tor go numb near Tovey. |
 | What stays hidden, and how | The special school is a spy school (nobody explains; the black uniform and dirty fighting are all); Rolph's family is royal (a joke answered truthfully); Douglas is Dorgal's father (common knowledge nobody says aloud); Tor's field is noble-like and controlled (Sara mistakes it for a device; Kolb only laughs); Tovey's numbing rage field and Trice's hidden field that triggered it (chapter cut; nobody understands it on the page); Sorvey's real interest (Tor's refusal ends the scene); the instructor's motive (ambiguous); who gets the 10% (ambiguous dialogue). |
 
-## Open questions for the user
+## Answered questions
 
 1. ~~The merchant's name.~~ **Douglas Sorvey**, Dorgal's father. Tor doesn't realize it; nobody mentions it because it's common knowledge (answered October 9, 2026).
 2. ~~Tovey's title.~~ Tovey **is** Count Thompson: young, recently inherited when his father died; his mother runs things at the county seat (answered October 9, 2026).

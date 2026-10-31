@@ -72,7 +72,7 @@ The complication should land through other people, not through Tor's narrated wo
 | What the reader learns | Tor can build; he is poor, small, on a royal scholarship, and self-effacing; the school runs on bells and rank; magic is copying (common) vs. novel builds (rare); building costs time and is risky; a build's value depends on its material and how long it lasts; Tor is afraid of nobles who don't think badly of him; new magic is prestige among nobles; copying vs. building, side by side (the lock vs. the field). |
 | What stays hidden, and how | Rolph's true family (hinted, never admitted: the lockbox of gold, "among nobility," crop losses at home; Tor doesn't find any of it strange, so nobody says it); Tor's mental controls (no hint yet, or one odd moment only Doris would notice later); the old plot (absence: no powerful people on stage yet). |
 
-## Open questions for the user
+## Answered questions
 
 1. ~~Does the drying field get tested in chapter one?~~ Yes, a third of the way in, with Davie (answered October 9, 2026).
 2. ~~What does the test lead to?~~ Everyone wants one, and Tor must turn the prototype in (answered October 9, 2026).
@@ -84,4 +84,4 @@ The complication should land through other people, not through Tor's narrated wo
 8. ~~How does the building instructor react to the field?~~ He dunks Tor in a washing tub to test it on him (answered October 9, 2026). He doesn't treat the missed classes as an expulsion risk; nobody does (answered October 9, 2026). He never comments on the work's quality; the reader hears his stated reason (safety around people) but not that he already expected it to be safe (answered October 9, 2026). The reader **never** learns that he expected it to be safe (answered October 9, 2026).
 9. ~~Does Tor attend combat that afternoon?~~ Combat opens chapter 2; chapter 1 ends with Tor heading there, afraid (answered October 9, 2026).
 10. ~~Is the day of recovery sanctioned?~~ It was a normal rest day, so Tor missed no further classes (decided by the user, October 9, 2026).
-11. **Which narrative mode** do we try for the first draft? Chapter one's tasks favor some modes over others: shifting third person can introduce characters through their own eyes; an omniscient narrator handles setting and routine efficiently; a camera-like narrator shows the trance most strikingly, from outside.
+11. ~~Which narrative mode?~~ Both rotating third and camera were drafted in parallel; rotating close third was chosen (answered October 27, 2026; `AGENTS.md` §3).

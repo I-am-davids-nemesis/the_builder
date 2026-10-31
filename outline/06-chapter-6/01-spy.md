@@ -51,10 +51,12 @@
 
 **Drafted** (October 28, 2026; invented, pending the user's review): Ursula's viewpoint, then Tor's from "Father!". The brooch is a **dragonfly** as long as a thumb, of a pale metal that's neither silver nor gold, with four wings of tiny blue and white stones. Count Ward gave it to her at her name day in the spring, as "a friend of my father's" (he's middle-aged, not old, user), with a note asking her to wear it the first time she saw Rolph this summer; she keeps that part back. Connie comes in behind the king. Tor learns kings can wince; "Icky Ricky" came from falling in the carp pond. The king asks whether she wore the brooch at dinner last month, when the Gallaian envoy was there. Tor feels her shame as "a field after a flood." His offer: money in a box, he can bake, she'd never be cold, "I'm usually working." The king's noble condition makes Tor's face "slide." The scene ends on Connie's "Dear, this is Torrance Baker."
 
-**Questions for the user:**
+**Answered** (user, October 28–31, 2026): Count Ward is a separate house from Count B, and middle-aged, not old; the brooch is high technology, and high technology is banned on the continent (`canon-notes.md`).
 
-1. **Is Connie in the room** for this scene? The quote has the queen present at the end. Does she come in with the king, or a moment after?
-2. **Austran technology:** confirm that the brooch is technology, not magic, and that Austra uses technology. Does Tor know the word "technology," or does he only know it isn't magic?
-3. **Count Ward:** a separate house from Count B (user). What is he to Ursula: a relation, a neighbor, a family friend? And what is County Ward to the crown (a border county, a rival)?
-4. **Alphonse or Alphonso, Connie or Constance:** the drafts use **Alphonse**; is the queen's formal name **Constance**?
-5. **Ursula:** six foot six (from the quote)? And 19, if she was 4 when Rolph was 7?
+**Questions:**
+
+1. **The queen's entrance:** the draft has Connie come in behind the king; is that right, or should she arrive a moment later?
+2. **Tor's vocabulary:** does Tor know the word "technology," or does he only know the brooch isn't magic (as drafted)?
+3. **Ward and Ursula:** the draft makes Ward "a friend of my father's"; is that right, and what is County Ward to the crown (a border county, a rival)?
+4. **Names:** the drafts use **Alphonse** and **Constance**; are those the spellings you want (not Alphonso)?
+5. **Ursula's height and age:** is she six foot six, as in the original's passage, and nineteen, since she was four when Rolph was seven?
