@@ -38,7 +38,7 @@
 - Tor redirects (since he really did not have any issues), and says he was working on the drought problem. he thinks he might have a solution, and asks to meet with King Richard in a few days after he has a chance to think a bit more about the solution.
 - The king agrees to meet in three days at luncheon -- he holds up two fingers (in a gesture completely foreign to Tor, but obviously meant for one of the royal guards to add it to his calendar).
 - After that tor and Rolph walk back to their rooms.  Rolph is clearly upset.  he doesn't want Tor to think that he loses his temper so easily. tor consoles him that they have lived together for 2 years, and of course he knows his friend is normally very calm and collected. Rolph is a bit surprised that his father didn't declare war.  But, combat rage excuses most social errors, but it is considered shameful to let it happen.  But Ursula's honor was defended, immediately, and then what Tor did...
-- 
+- Tor goes back to his room, takes off the nice clothes and instantly goes to sleep
 - **POV / mode:**
 - **Location:**
 - **Present:**
