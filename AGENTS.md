@@ -158,6 +158,7 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 - **Codex before manuscript.** If a draft needs a fact or trait not in the codex, add it to the codex (labeled) in the same change.
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
+- **Questions are always welcome** (user, October 31, 2026). With any request, the agent may ask questions: to fill holes in the plot or motivation, to expand an idea, or to confirm something it has invented. Ask alongside the work rather than instead of it: do what can be done, label inventions (§2), and list the questions at the end of the reply and, when they're about a scene, in its outline file.
 - **Ask rather than decide** on the open questions in `codex/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
