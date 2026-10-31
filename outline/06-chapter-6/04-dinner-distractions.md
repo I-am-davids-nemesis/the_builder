@@ -69,6 +69,15 @@ Beats follow the user's summary (user, October 30, 2026) unless labeled.
 - **Maria through Trice's eyes:** Trice may know the story of the dance (school gossip), or may not. Either way she sees Tor's face change, and in the viewpoint that's the cliffhanger: not what Tor feels, but what she sees him feel.
 - **The crest and the guards:** the royal guard wears purple and black; Tor in black with silver on purple quietly matches them. George's people would notice.
 
+**Drafted** (October 30, 2026; invented, pending the user's review):
+- **Viewpoints:** Tor alone (the ten new amulets, on doubled gray string, from the last twelve squares in his trunk); Quavel (the dressing); Rolph (the corridor and the dining room); Trice (from the arch to the end).
+- **The dressing:** Burks brings the black with the crest in a flat leather box; Quavel has seen the crest on four coats in twenty years and never seen it pinned. Tor's fourth shield has four tally marks scratched in its corner. Rolph wears his own crest, as he has since he was nine.
+- **The formal dining room:** the size of the Lairdgren chapel, a table for forty laid for ten, and a painted-sky ceiling with the six-fingered god. Tor's plate goes under the center of the table.
+- **The staff:** Quavel hands out the amulets. A kitchen girl gets Tor's own, a footman the queen's, and the old wine steward goes without ("I'll make more. Tomorrow.").
+- **Trice:** she calls the crest "her uncle's falcon." The letter that summoned her read *come to dinner, Thorgoods and Ward, wear something*. The baron exchange is in our words. She pinches Tor's hand to bring him back from Ford ("You can have Ford tomorrow").
+- **The Thorgoods:** Ursula, in gray, takes Tor's hands and explains "Master Wizard." The countess is soft and round with Ursula's height. The count is a grizzled mountain with a beard like a hedge, and Tor's head comes to his lowest waistcoat button.
+- **The Wards:** Ward is handsome, bluff and nearly the king's height, in dark red. Maria is slim, in deep green, close to Rolph's age, and her eyes take the measure of the room and stop on Tor. Trice remembers her from Lairdgren, in Rolph and Tor's year, gone before the end of the first. The scene ends on Tor's whispered "*Maria*."
+
 **Answered** (user, October 30, 2026):
 
 1. **Master Wizard** is the title reserved for builders who create new devices, not those who only copy existing plans.

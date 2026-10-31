@@ -6,4 +6,5 @@ Minor antagonist; the root of Tor's romantic self-doubt.
 - The rejection can reach the page through gossip, through Rolph, or through Maria herself, since Tor's thoughts aren't narrated.
 - She left the school after the dance (user). In chapter 6 she reappears as **Count Ward's wife**, much shorter than him, on his arm at the royal dinner: the chapter's cliffhanger (user, October 30, 2026).
 - **About Rolph's age** (user, October 30, 2026); Ward, who is middle-aged, married a younger woman. **She's the brains of the pair**; Ward isn't very bright (user, October 30, 2026). How they met, and whether Ward knows about the dance, is open.
+- **From the chapter 6 draft** (invented; pending the user's review): slim, much shorter than Ward, in deep green, very carefully dressed in a way that doesn't look careful; her eyes take the measure of every person in the room and stop on Tor. She was at Lairdgren in Rolph and Tor's year and left before the end of the first.
 - Tensions and voice still to be developed.
