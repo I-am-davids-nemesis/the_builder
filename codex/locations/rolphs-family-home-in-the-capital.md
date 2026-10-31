@@ -17,7 +17,7 @@ A large house of several floors with a long gray-slated roof and a row of tall c
 
 ### Image prompt
 
-A spacious guest sitting room in a grand old house in a hot southern capital, in late afternoon summer light coming long and gold through tall windows that reach the floor. In the middle stands a long, dark, polished wooden table with a deep moss-green cloth laid down its length, and a square copper plate lying flat at its center like a dish. Around it are a thick rug, framed pictures on pale walls, plain upholstered chairs, a bowl of white flowers on a slender stand, and a tall mirror between two windows. Through an open doorway is a bedroom with a large bed hung in pale green curtains. Outside the windows, over treetops, are gray-slated roofs, tall chimneys, distant towers and a great dome. The room is still and cool against the heat outside, quiet and well kept. Naturalistic light, rich and specific detail.
+A spacious guest sitting room in a grand old house in a hot southern capital, in late afternoon summer light coming long and gold through tall windows that reach the floor. In the middle stands a long, dark, polished wooden table with a deep moss-green cloth laid down its length, and a square copper plate lying flat at its center like a dish. Around it are a thick rug, framed pictures on pale walls, plain upholstered chairs, a bowl of white flowers on a slender stand, and a tall mirror between two windows. Through an open doorway is a bedroom with a large bed hung in pale green curtains. Outside the windows, over treetops, are gray-slated roofs, tall chimneys, distant towers and a great dome. The room is still and cool against the heat outside, quiet and well kept.
 
 ### From the manuscript
 

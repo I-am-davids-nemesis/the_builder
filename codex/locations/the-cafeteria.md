@@ -16,7 +16,7 @@ A long, high-windowed hall filled with rows of long wooden tables and benches. T
 
 ### Image prompt
 
-A large, plain school dining hall in an old stone building, rows of long scrubbed wooden tables with benches crowded with young students in simple brown tunics, bowls of stew, plates of bread and apples, earthenware cups of milk. Tall windows down one side, rain streaming down the glass in sheets; at the far end a kitchen door and a serving hatch with steam drifting out. Warm, busy light, a haze of steam, a loud and cheerful crowded feeling, with one quiet table near the kitchen door. Detailed, naturalistic illustration.
+A large, plain school dining hall in an old stone building, rows of long scrubbed wooden tables with benches crowded with young students in simple brown tunics, bowls of stew, plates of bread and apples, earthenware cups of milk. Tall windows down one side, rain streaming down the glass in sheets; at the far end a kitchen door and a serving hatch with steam drifting out. Warm, busy light, a haze of steam, a loud and cheerful crowded feeling, with one quiet table near the kitchen door.
 
 ### From the manuscript
 

@@ -16,7 +16,7 @@ A small country town round a square. In the square stand a stone well with one s
 
 ### Image prompt
 
-A small country town seen at dawn from a little above, set in a gray-green valley of walled fields, a wood and a stream. Low mist lies in the folds of the land, and the air is still. At its center is a square with an old stone well, one side of its lip worn smooth and pale by hands, a hand pump and a chandler's shop. A little chapel with a stubby tower has a lead roof catching the early light silver. A lane leads out of the square to a mill whose wheel turns slowly. Thin smoke rises straight up from four or five chimneys, and a dog sits in the empty square. Far up a long slope a bell tower stands on a ridge like a raised finger. Quiet, ordinary and peaceful; naturalistic light, rich and specific detail.
+A small country town seen at dawn from a little above, set in a gray-green valley of walled fields, a wood and a stream. Low mist lies in the folds of the land, and the air is still. At its center is a square with an old stone well, one side of its lip worn smooth and pale by hands, a hand pump and a chandler's shop. A little chapel with a stubby tower has a lead roof catching the early light silver. A lane leads out of the square to a mill whose wheel turns slowly. Thin smoke rises straight up from four or five chimneys, and a dog sits in the empty square. Far up a long slope a bell tower stands on a ridge like a raised finger. Quiet, ordinary and peaceful.
 
 ### From the manuscript
 

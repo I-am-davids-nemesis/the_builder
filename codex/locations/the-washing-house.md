@@ -15,7 +15,7 @@ A long, low room of wet gray stone with a flagstone floor and a drain down its m
 
 ### Image prompt
 
-The interior of a long, low washhouse built of damp gray stone, seen at eye level from the doorway. Wet flagstones slope toward a shallow drain running down the middle of the floor. Along one wall stands a row of old white tubs, glossy-glazed inside and resting on cast-iron feet shaped like animal paws, with a worn wooden bench beside them holding folded shirts. An iron hand pump stands at the near end, and in the far corner a dull copper boiler steams over a low banked fire. Soft gray daylight falls through a small window and catches the drifting steam; puddles shine on the stones. The mood is quiet, damp and workaday. Cinematic 35mm film photograph, shallow depth of field, muted earthy palette of weathered stone, brown wool and dull copper, natural light only; no taps, faucets or modern plumbing.
+The interior of a long, low washhouse built of damp gray stone, seen at eye level from the doorway. Wet flagstones slope toward a shallow drain running down the middle of the floor. Along one wall stands a row of old white tubs, glossy-glazed inside and resting on cast-iron feet shaped like animal paws, with a worn wooden bench beside them holding folded shirts. An iron hand pump stands at the near end, and in the far corner a dull copper boiler steams over a low banked fire. Soft gray daylight falls through a small window and catches the drifting steam; puddles shine on the stones. The mood is quiet, damp and workaday.
 
 ### From the manuscript
 

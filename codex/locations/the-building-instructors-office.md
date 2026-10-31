@@ -15,7 +15,7 @@ A small, plain office with a single window letting in clean, even daylight. A wo
 
 ### Image prompt
 
-A small, plain schoolmaster's workroom in an old stone-and-timber school building, upper floor: a worn wooden desk with a straight-backed chair behind it facing the door and a single plain chair in front, papers, a slip of paper and a small square board of pale pine painted with fine dark sigil lines lying on the desktop. One tall window lets in flat, clean, even morning light that rakes across the desk. A cold, ash-gray hearth or stove in the corner, a faint sense of linseed oil and old work. The door stands slightly ajar onto a bare-boarded corridor with a wooden bench against the wall. Quiet, austere, slightly stern mood. Painterly, realistic.
+A small, plain schoolmaster's workroom in an old stone-and-timber school building, upper floor: a worn wooden desk with a straight-backed chair behind it facing the door and a single plain chair in front, papers, a slip of paper and a small square board of pale pine painted with fine dark sigil lines lying on the desktop. One tall window lets in flat, clean, even morning light that rakes across the desk. A cold, ash-gray hearth or stove in the corner, a faint sense of linseed oil and old work. The door stands slightly ajar onto a bare-boarded corridor with a wooden bench against the wall. Quiet, austere, slightly stern mood.
 
 ### From the manuscript
 

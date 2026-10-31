@@ -2,7 +2,7 @@
 
 How every picture of this book should look. The editor adds this to each image prompt it prepares; an empty section is left out. What a character or place looks like belongs in its own codex entry, not here.
 
-<!-- Drafted October 30, 2026 to match the pictures already in the lookbook (Tor in the workshop, Tor in the capital, Debri House); pending the user's review. -->
+<!-- Drafted October 30, 2026 to match the pictures already in the lookbook (Tor in the workshop, Tor in the capital, Debri House); reviewed and approved by the user the same day. -->
 
 ## Medium
 
