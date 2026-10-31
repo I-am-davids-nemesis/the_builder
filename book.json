@@ -1,5 +1,8 @@
 {
   "compile": {
     "sceneSeparator": "⁂"
+  },
+  "gather": {
+    "mode": "rotating-third"
   }
 }
