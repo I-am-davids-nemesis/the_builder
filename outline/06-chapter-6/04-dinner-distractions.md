@@ -31,7 +31,7 @@
   - Rolph warns Tor off challenging Ward to a duel; a commoner who did so would be put to death even if he won, and Ward would dodge it anyway, since Tor's shield makes him practically invincible.
   - Connie greets Tor as she greets her son. Tor gives his own amulet to a servant; Rolph and the queen follow.
   - Connie floats making Tor a **baron** ("a few empty baronies lying around"), which would put Ursula within three steps. Trice, not smiling: "I really do."
-  - Ursula's parents. Ursula introduces Tor as **"Master Wizard Torrance Baker."**
+  - Ursula's parents. Ursula introduces Tor as **"Master Wizard Torrance Baker,"** the title for builders who create new devices rather than copy (user). Count Thorgood takes him for a noble child and can't square that with the title.
   - **A drought in Ford County**, west of the capital on the Pacifico ocean: dry, warm, with water that can't irrigate. Food will have to go west, against the usual flow, as it does every decade or so.
   - Count Ward is huge, nearly the king's size; his wife is **Maria**.
 - **Hidden (and how):**
@@ -39,12 +39,13 @@
   - Who Burks is: seen through Quavel, who knows him only as Count Lairdgren.
   - Whether the baron idea is a joke or a plan: Connie's tone is "low and playful," and Rolph says it may be all they have.
   - Trice's feelings: shown in her eyes flying open, her deep breath and "I really do," never stated.
-  - What Tor senses in Thorgood, "as if he is only twelve": left as a puzzle (see the questions).
+  - That Maria, not Ward, is the brains of the pair: only implied by Trice's low opinion of Ward and where her eyes go.
 
 ## Beats
 
 Beats follow the user's summary (user, October 30, 2026) unless labeled.
 
+0. **Ten more.** Back at the small house after the luncheon, Tor makes a new batch of ten amulets (a short trance, the easy kind) to give out at dinner. (user, October 30, 2026; staging invented)
 1. **Burks again.** Back at the small house, Burks comes to dress Tor for dinner. Tor worries he looks terrible; Burks says he doesn't; Tor thinks Burks would say that anyway. "Oh no, sir. I would certainly tell you, so that we could fix it." (user)
 2. **The king's colors.** Burks dresses him in black, with the king's crest on his breast: a silver falcon, wings spread, a shield in its talons, on purple. Wearing it means he holds the king's favor, so no promises and no rudeness tonight, because both would be the king's. (user)
 3. **What Tor brings.** The spare amulets, a room-cooling plate, and his newest shield, the fourth version, since he keeps finding flaws in the others. (user)
@@ -56,10 +57,10 @@ Beats follow the user's summary (user, October 30, 2026) unless labeled.
 9. **Trice.** She arrives in light violet, her dark brown hair up with a few ringlets falling round her face, smiling: is the cat out of the bag? Connie: "Hard to hide a whole palace." Connie fills her in. Trice is less concerned than Tor expected, which puzzles him, until the queen mentions Tor's offer to marry Ursula, and Trice's eyes fly open. (user)
 10. **A baron.** Connie: it was remarkable; Tor didn't know who Ursula was beyond her being engaged to Alphonse, and acted without a thought for himself. It can't be allowed yet, but the offer has weight, and nobody will say the crown did less than its best by her. They might find him a title; there are a few empty baronies. Trice, back to the room, sticks her tongue out at her aunt for teasing. Rolph: it may be all they have to keep the peace tonight, and Tor would make an excellent baron. Trice takes a slow, very deep breath and, not smiling, says she really thinks so. (user; facts from the quoted passage, wording to be ours)
 11. **The Thorgoods.** Ursula comes in with her parents and introduces Tor as "Master Wizard Torrance Baker." They're delighted to meet the young man who offered for their daughter and defended her. Rolph makes the introductions: Count Horace Thorgood and Countess Marigold; Tor and Patricia will help tonight if they can. (user)
-12. **Twelve.** Tor can't place the count's age by feel; he feels about twelve. (user; see the questions)
+12. **"How old are you?"** Count Thorgood takes Tor for a **noble child**: anyone of rank is big, so someone this small must be young, about twelve. But a twelve-year-old can't be a Master Wizard, and the count can't make the two fit. He's visibly puzzled and politely trying not to show it. (user, October 30, 2026) In Trice's viewpoint: she sees the count look at Tor, then at his crest, then at Tor again, doing a sum that won't come out.
 13. **The king.** Everyone but the queen bows. The king hopes this can be settled quickly, because there's a problem in Ford County: a drought. It lies west of the capital, dry and warm, beside the Pacifico ocean: water everywhere and none to irrigate with, and the best cropland hundreds of miles inland. It happens every decade or so, and food will have to go west, the wrong way. Tor starts thinking about it at once. (user)
 14. **Trice brings him back.** Before he goes too deep, Trice shakes him out of it. (user)
-15. **Ward.** Count Ward and his wife walk in. Trice thinks it bold, almost a declaration that they're untouchable, though she doesn't think much of Ward's intelligence. (user)
+15. **Ward.** Count Ward and his wife walk in. Trice thinks it bold, almost a declaration that they're untouchable, though she doesn't think much of Ward's intelligence. (user) The implication: if anyone in that marriage chose to walk in boldly, it was the wife, who is the brains of the pair (user, October 30, 2026). Trice's eyes go to her before they settle on Ward.
 16. **Maria.** Tor sees the count: huge, nearly the king's size, if less proper. While he's taking in the figure Ward cuts, he sees the much shorter woman on his arm. It's **Maria**. Chapter ends. (user; `codex/characters/supporting/maria.md`)
 
 **Staging notes** (invented):
@@ -68,11 +69,16 @@ Beats follow the user's summary (user, October 30, 2026) unless labeled.
 - **Maria through Trice's eyes:** Trice may know the story of the dance (school gossip), or may not. Either way she sees Tor's face change, and in the viewpoint that's the cliffhanger: not what Tor feels, but what she sees him feel.
 - **The crest and the guards:** the royal guard wears purple and black; Tor in black with silver on purple quietly matches them. George's people would notice.
 
-**Questions for the user:**
+**Answered** (user, October 30, 2026):
 
-1. **"Master Wizard":** is that a title, a courtesy for builders, or Ursula's own flourish? It's new to the codex.
-2. **"As if he is only twelve":** the summary says this is Count Thorgood, and that it "doesn't match his wizard status." Is Count Thorgood a builder or wizard too, or does "his" mean Tor's? And what does Tor sense: a childlike mind, real youth, or something done to him?
-3. **The amulet count:** Tor made twenty (chapter 5, scene 4). Most are already given away: the royal family, Burks, Quavel, Ursula, two at the Debri house, and one promised to the gardener. Did he make another ten after the luncheon (another short trance, perhaps from the Debri copper), or should he bring fewer than ten?
-4. **"Aunt Constance":** is the queen Trice's aunt by blood (sister to the Duke of Morgan, or to Tovey's mother?), or is it a courtesy title from childhood? If by blood, Tovey may be Rolph's cousin too.
-5. **Maria:** how did a girl who left Lairdgren come to be Count Ward's wife, and does Ward know about the dance? Is she older than she looks next to him (Ward is middle-aged)?
-6. **The quoted passage** in beat 10 reads like text from the original; the draft will use its facts, not its wording (`AGENTS.md` §2).
+1. **Master Wizard** is the title reserved for builders who create new devices, not those who only copy existing plans.
+2. **Thorgood** takes Tor for a noble child (small, so young), and can't square that with a wizard.
+3. **Amulets:** Tor makes a new batch of ten after the luncheon (beat 0).
+4. **The queen is Trice's aunt by blood**, which makes Tovey a relative of Rolph's too.
+5. **Maria** is about Rolph's age; Ward married a younger woman. Ward isn't very bright, and Maria is the brains of the pair.
+
+**Still open:**
+
+- **How Maria and Ward met**, and whether Ward knows about the dance.
+- **How exactly the queen is related:** most likely she is sister to the Duke of Morgan (Trice's father) and to Tovey's mother, which would make Rolph, Trice and Tovey all first cousins. Confirm.
+- **The quoted passage** in beat 10 reads like text from the original; the draft will use its facts, not its wording (`AGENTS.md` §2).
