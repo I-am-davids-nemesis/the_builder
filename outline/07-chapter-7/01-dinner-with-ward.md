@@ -150,6 +150,14 @@ Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes f
 - **The king's falcon is on Tor's breast all through the fight.** He is visibly the king's man standing between the prince and a count. That's why it isn't war, and the king knows it.
 - **Rolph's rage on the page:** follow the codex description of rages from outside (`canon-notes.md`, Tovey's): the empty face, a face with nobody behind it. Rolph's field is force; Ward's is confusion; Tovey's (not here) is numbness.
 
+**Drafted** (October 31, 2026; invented, pending the user's review):
+- **Viewpoints:** Tor (Maria's arrival and the bows); Trice (the meal and the argument); Tor (the rage, the shield, the water idea, Howard Turnbull, "that's not fair"); Rolph (the headache, Hyrees, the queen's lever, the king's question, the walk back); Tor alone, asleep.
+- **Maria:** she has grown since school and now stands almost to Ward's shoulder. The trouble under her smile is felt "like a hand that wouldn't keep still in a lap."
+- **The drinks:** Tor drinks pear juice. Ursula drinks long and deliberately, and the king bows to her too. The old wine steward, the one servant without an amulet, prompts Tor ("Your glass, sir").
+- **The argument:** the king lays out the brooch and the law, then Thorgood speaks. Ward names a jeweler on the Hill and hints at the Thorgoods' coastal company; Maria's hand steers him. Ursula stays silent because a girl doesn't answer a count.
+- **The fight:** the table *flies* along Rolph's line. Ward's confusion makes the room back to the walls, blinking. Tor is "perfectly safe" between the two, apologizing to Ward. The idea: water in a line from the sea, then a purifier. The cracks branch "like the veins in a leaf," like a river.
+- **Afterwards:** the guard can't grip his shoulder. Tor objects that "she has to go away… and *he* goes home." The king: "It isn't fair… I'll remember that you said it." The barony of Hyrees lies in the east, empty four years. The queen holds out a later marriage to Rolph as a lever, and Rolph thinks of Sara and puts it away. The king never says aloud that rages could now be trained. Rolph raged once before, at eleven, and promised his mother never again (invented). "That's why it isn't a war."
+
 **Answered** (user, October 31, 2026):
 
 1. **Ward's field is confusion.** In his rage the people round him go muddled and slow, which is why the room doesn't flee: they back to the walls and stand there, fuzzy. Tor gets his shield on fast enough that he only feels it in his fingers and toes. (Beats 20–23.)
