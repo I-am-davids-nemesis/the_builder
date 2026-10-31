@@ -86,7 +86,7 @@ She knew she wouldn't get much more out of him than *please* and *thank you* for
 
 At the head of the table, a woman stood up.
 
-She was small, and straight, and somewhere past forty, in a dark green day dress with a high collar and no jewelry at all except a ring with a seal on it. Her hair had been fair once and was going quietly gray at the front, and she wore it up close and plain, like a woman who had no time to wear it any other way. She had Sara's nose and Sara's chin and Sara's way of looking at a thing before she decided what it was worth. She had looked at it, Sara knew, all the way across the hall, the moment they came in.
+She was tall, as tall as most men at the table and taller than some, and straight, and somewhere past forty, in a dark green day dress with a high collar and no jewelry at all except a ring with a seal on it. Her hair had been fair once and was going quietly gray at the front, and she wore it up close and plain, like a woman who had no time to wear it any other way. She had Sara's nose and Sara's chin and Sara's way of looking at a thing before she decided what it was worth. She had looked at it, Sara knew, all the way across the hall, the moment they came in.
 
 Sara had imagined this moment a hundred times. She had never once imagined it with her heart going like this.
 
@@ -186,7 +186,7 @@ Tor blinked.
 
 He hadn't spoken until then. He was tall for a Debri, with Sara's fairness gone to sand-brown and a wide, square, practical face, and he had a pen behind his ear that he'd clearly forgotten was there. Kris. Her oldest brother, who would one day sit where their mother was sitting, and who had been doing sums since he was six and had never once in his life been able to stop himself doing them out loud.
 
-"Your share on the shields alone," said Kris, to Tor, quite pleasantly, "at ten in the hundred, comes to a little over four thousand gold, Master Baker. As of last week. The food dryers are another eleven hundred. And we have, at this table, at this moment, in coin, not quite enough to pay the wharf men on fifth day." He spread his hands. "So. That's where we are."
+"Your share on the shields alone," said Kris, to Tor, quite pleasantly, "comes to a little over four thousand gold, Master Baker. As of last week. The food dryers are another eleven hundred. And we have, at this table, at this moment, in coin, not quite enough to pay the wharf men on fifth day." He spread his hands. "So. That's where we are."
 
 Tor looked at him. He looked as if Kris had said it in a language he only partly knew.
 
