@@ -159,6 +159,14 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 - **One source of truth per fact.** Character facts live in their character file; other files link rather than repeat.
 - **Flag guesses.** Much of the cast beyond Tor is still (assumed). Don't silently promote assumptions to canon; ask the user when it matters.
 - **Questions are always welcome** (user, October 31, 2026). With any request, the agent may ask questions: to fill holes in the plot or motivation, to expand an idea, or to confirm something it has invented. Ask alongside the work rather than instead of it: do what can be done, label inventions (§2), and list the questions at the end of the reply and, when they're about a scene, in its outline file.
+  - **Question format** (user, October 31, 2026), so the editor's questions UI can find every list. Start each list with a line that is exactly `**Questions:**`, then a numbered list with one question per item. Each item opens with a short bold label and ends with a question mark. Use the same format in replies and in outline files. Nothing else goes inside the list.
+
+    ```
+    **Questions:**
+
+    1. **Maria's role:** is she knowingly working for Austra, or being used herself?
+    2. **The jeweler:** does the crown send for him, and does he exist?
+    ```
 - **Ask rather than decide** on the open questions in `codex/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 

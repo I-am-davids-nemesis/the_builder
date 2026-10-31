@@ -160,14 +160,16 @@ Beats follow the user's summary (user, October 31, 2026) unless labeled; fixes f
 
 **Redrafted to match the canon holes** (October 31, 2026): Trice now reads Maria's snub as the opening move of Ward's defense, one Ward couldn't have thought of (hole 3), and files Maria "near the top." After the Wards leave, a guard brings the dragonfly from the wreck and it goes into the king's coat (hole 2 and answer 5). The rest of the draft already matched.
 
-**Questions raised by making the holes canon** (October 31, 2026):
+These come from making the holes canon (October 31, 2026).
 
-1. **Is Maria the planner?** The draft steers the reader toward her (Trice's column, the steering hand). Is she knowingly working for Austra, or is she herself being used? It decides how the brooch thread resolves.
-2. **The Wylde fear:** now that the court reads Tor as a possible Wylde, does that follow him: nobles courting him, or wary of him, or Maria trying to make peace? Or is it a one-dinner chill?
-3. **The jeweler on the Hill:** Ward's story names one. Does the crown send to him (Trice suggests it at the table), and does he exist?
-4. **County Thorgood and the coast:** Ward hints that the Thorgoods, "so near the coast," keep Austran company. Is County Thorgood coastal, and near Ford, or was that just Ward's slander?
+**Questions:**
+
+1. **Maria's role:** the draft steers the reader toward her (Trice's column, the steering hand); is she knowingly working for Austra, or is she herself being used?
+2. **The Wylde fear:** now that the court reads Tor as a possible Wylde, does that follow him (nobles courting him, or wary of him, or Maria trying to make peace), or is it a one-dinner chill?
+3. **The jeweler on the Hill:** Ward's story names one; does the crown send to him, as Trice suggests at the table, and does he exist?
+4. **County Thorgood and the coast:** Ward hints that the Thorgoods, "so near the coast," keep Austran company; is County Thorgood coastal and near Ford, or was that just Ward's slander?
 5. **"I'll remember that you said it":** is this a seed for the king acting on the unfairness to Ursula later, or for Tor's barony?
-6. **Training rages:** the king's unspoken thought (beat 34) is now an open thread. Does it reach the page in book 1, perhaps Kolb hearing of it at school, or wait for a later book?
+6. **Training rages:** the king's unspoken thought (beat 34) is now an open thread; does it reach the page in book 1, perhaps with Kolb hearing of it at school, or wait for a later book?
 
 **Answered** (user, October 31, 2026):
 
