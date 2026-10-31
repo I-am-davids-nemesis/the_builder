@@ -348,7 +348,7 @@ Tor's eyes came up, a little way.
 
 "I offered," said Tor.
 
-"I know you did." Rolph found he was smiling, a little, despite himself. "It was the best thing anyone's done all year. But you can't. And it's not you, it's the rule. She has to marry within three steps of her station. That's the law, for heirs. And she's heir to County Thorgood. That makes her as good as a countess, which means a baron at the very least. Or better." He shook his head. "And there isn't a baron in Noram who'll put his name next to hers this week. Not with the crown's decree on it. Not until somebody makes it safe."
+"I know you did." Rolph found he was smiling, a little, despite himself. "It was the best thing anyone's done all year. But you can't. And it's not you, it's the rule. She has to marry within three steps of her station. That's the law, for all of us; every noble in Noram. And she's heir to County Thorgood. That makes her as good as a countess, which means a baron at the very least. Or better." He shook his head. "And there isn't a baron in Noram who'll put his name next to hers this week. Not with the crown's decree on it. Not until somebody makes it safe."
 
 Tor was quiet for a while.
 
