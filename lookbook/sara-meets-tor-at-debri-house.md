@@ -1,6 +1,8 @@
 ---
 of:
   - codex/locations/debri-house.md
+  - codex/characters/sara.md
+use: reference
 ---
 
 ![Sara Meets Tor at Debri House](sara-meets-tor-at-debri-house.jpg)

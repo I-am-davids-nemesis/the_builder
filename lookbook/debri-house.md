@@ -1,6 +1,7 @@
 ---
 of:
   - codex/locations/debri-house.md
+  - codex/characters/sara.md
 ---
 
-![The Debri house](debri-house.jpg)
+![Debri House](debri-house.jpg)
