@@ -80,7 +80,7 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 - **Adapts his diction to the company** (user, October 25, 2026): puts on a noble accent at the palace gate as a joke, and Rolph tells him to keep it there and develop another for the city. He keeps it through dinner, and nobody notices, because he's blended in.
 - **Recognizes the royal guard's purple and black** at the palace gate and still doesn't draw the obvious conclusion (user, October 25, 2026). **Works out that Rolph's family is royal the next morning, when he meets Rolph's father** (user, October 25, 2026).
 - **Feels strong emotions through the field** (user, October 23, 2026): in the capital he feels the Thompsons' butler's hidden gratitude. He knows of it from theory class but has never experienced it, because he builds devices with physical effects. (Compare sensing danger in Sorvey, chapter two.)
-- In his first year he asked **Maria** to a **school dance** (user, October 18, 2026); she screamed that he was poor, ugly and above his station. He hid in his room for weeks. (canon)
+- In his first year he asked **Maria** to a **school dance** (user, October 18, 2026); she screamed that he was poor, ugly and above his station, in the cafeteria in front of most of the student body (user, October 31, 2026). He hid in his room for weeks. (canon)
 - Believes **all nobles look down on anyone who isn't noble**, and is afraid of high nobles like Tovey, expecting them to lash out at any slight. (canon, user)
 - Has hidden **mental controls**, revealed in later books; he isn't who or what he thinks he is. (canon)
 

@@ -226,7 +226,7 @@ The king opened his mouth.
 
 By the window, the queen began, very gently, to laugh.
 
-It wasn't an unkind laugh. Tor knew unkind laughs; he'd grown up on the receiving end of a few, and had one screamed at him across a dance floor in his first year. This wasn't that. It was warm, and low, and a little helpless, the laugh of a woman who has been watching something wonderful happen in front of her and can't keep it in any longer.
+It wasn't an unkind laugh. Tor knew unkind laughs; he'd grown up on the receiving end of a few, and had one screamed at him across the school cafeteria in his first year. This wasn't that. It was warm, and low, and a little helpless, the laugh of a woman who has been watching something wonderful happen in front of her and can't keep it in any longer.
 
 Everyone turned to look at her.
 

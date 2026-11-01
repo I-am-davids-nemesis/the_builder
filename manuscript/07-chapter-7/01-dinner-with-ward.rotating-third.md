@@ -12,7 +12,7 @@ She didn't seem to hurry. She simply stepped past her son, a long smooth step in
 
 Tor opened his mouth, and nothing came out of it.
 
-There wasn't room. Everything had come up into his throat at once, hot and thick and stupid, and filled it: a dormitory corridor in his first year, and the noise at the end of it, and a girl's voice going up and up until it cracked, *poor*, and *ugly*, and *how dare you*, and *above yourself*, and all the doors along the corridor opening one after another, and faces in them. And the weeks afterward. The ceiling of the room. The ceiling for days. Rolph bringing up bread and leaving it on the desk, and taking it away again, and bringing more.
+There wasn't room. Everything had come up into his throat at once, hot and thick and stupid, and filled it: the cafeteria at lunch in his first year, every bench full, and a girl's voice going up and up until it cracked, *poor*, and *ugly*, and *how dare you*, and *above yourself*, and the long tables going quiet one after another all the way down the hall, and every face on every bench turned round to look. And the weeks afterward. The ceiling of the room. The ceiling for days. Rolph bringing up bread and leaving it on the desk, and taking it away again, and bringing more.
 
 He shook his head. It was all he could manage.
 
