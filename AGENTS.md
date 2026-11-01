@@ -177,6 +177,13 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
        - Default: The crown sends; the shop exists, but the jeweler left the city in the spring.
        - Option: There's no such jeweler; Ward invented him.
     ```
+- **Recording decisions** (user, November 1, 2026). The editor's Claude panel starts a fresh conversation for each new scene or chapter, so nothing said only in a conversation survives it. Record every decision as it's made (the user's, or one of yours the user accepted), in the same change as the work:
+  - the scene's plot, POV, who's present, what the reader learns and what stays hidden → the scene's outline file;
+  - anything about the chapter as a whole → `outline/<chapter>/_chapter.md`;
+  - facts and traits → the codex entry, labeled (§2); threads resolved, advanced or opened → `codex/tension-ledger.md`; what the reader or a character now knows → `codex/reader-knowledge.md`;
+  - questions still open → the scene's outline file, in the question format above.
+
+  When the panel asks you to record decisions before moving on ("Before we move on: …"), do only that: check the conversation against the files, write down what's missing, don't draft or revise prose, and reply with one line per file changed.
 - **Ask rather than decide** on the open questions in `codex/README.md` (roles of Rolph/Patricia/Sara/Dorgal/Tovey, canon-faithful vs. reimagined, building and magic theory instructors' names, the House A–House B feud, series scope).
 - **Chapter planning fields:** for each chapter, record the plot beat, location, narrative mode/POV, who is present, what the reader learns, and what stays hidden (and how: absence, scene cut, misdirection).
 
