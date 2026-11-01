@@ -134,6 +134,8 @@ The cool came off it, slowly, the way it came off a cellar step. He stood over i
 
 Then he opened his eyes and turned round, and there was a girl in the room.
 
+She was standing just inside the door, as if she'd been there a while. She was tall, a good half head taller than he was; she had Rolph's height, he thought later, and nothing else of Rolph's at all. Her skin was a warm dark brown, and her hair was red, really red, the red of a copper pan, a great soft mass of tight curls pinned up at the back of her head, with loose ringlets escaping at her temples and round her ears, where two small pearls hung. Her face was narrow and fine-boned, with a straight nose and a small mouth and dark eyes that were looking at him, quite steadily, the way you'd look at something interesting on a shelf in a shop. Her dress was a light, thin thing the green of sage, bare at the arms, gathered up at the shoulders into little clusters of embroidered flowers. He had no idea what those were called. He wasn't, at that moment, able to think about it.
+
 * * *
 
 Karina had chosen the moment with some care.
@@ -164,7 +166,7 @@ He had already found his shirt. He'd found it so fast that she hadn't seen him m
 
 She came another step in, and then she stopped, because the air had changed.
 
-It had been like walking into an oven, all the way along the corridor. It had been like that all week, all month, all the long white summer; she'd had her maid sponge her neck with rosewater twice since lunch and it had done nothing at all. And here, three steps inside the guest suite, it was like walking into the cellar where the cook kept the butter. It was cool. It was *cool*. It came across her bare arms and the back of her neck and down inside her collar like the first breath of an autumn evening, and she stood quite still in it and very nearly closed her eyes.
+It had been like walking into an oven, all the way along the corridor. It had been like that all week, all month, all the long white summer; she'd had her maid sponge her neck with rosewater twice since lunch and it had done nothing at all. And here, three steps inside the guest suite, it was like walking into the cellar where the cook kept the butter. It was cool. It was *cool*. It came across her bare arms and the back of her neck and down inside her collar like the first breath of an autumn evening; the curls at her temples, which had stuck to her skin all afternoon, came loose and lifted; and she stood quite still in it and very nearly closed her eyes.
 
 Then she saw the plate on the table, square on the green cloth, and understood.
 

@@ -50,13 +50,13 @@ A tall, poised young woman of eighteen with a mass of tight red curls pinned up 
 
 ### Open questions
 
-- **Her looks come from the codex, not the page.** The manuscript never mentions her red hair, dark coloring or thin features (user, November 1, 2026). Should "Meet the Parents" get a line, from her viewpoint or Tor's, that shows them?
+- ~~Her looks come from the codex, not the page.~~ Resolved (November 1, 2026): "Meet the Parents" now describes her through Tor's eyes when he turns round: half a head taller than him, warm dark brown skin, copper-red tight curls pinned up with ringlets at the temples, two small pearls, a narrow, fine-boned face with dark eyes, and a light sage-green dress bare at the arms, gathered at the shoulders into embroidered flowers. In her own viewpoint, the curls at her temples lift in the cool.
 - **Hair style:** never described in the text. The image settles it as a mass of tight red curls pinned up loosely, with ringlets at the temples. The text doesn't contradict it, but no manuscript line says so.
 - **Conflict with the image: hair texture.** The Description's "red hair" is silent on texture, but the Fixed traits list has none. The image shows tight curls; nothing in the text says straight or wavy.
-- **Conflict with the image: eyes and dress.** The image shows dark eyes; the manuscript never gives eye color. The image's sage-green embroidered gown is a formal gown, not the "light summer dress" the text mostly describes; the blue dress at dinner is also not in the picture. Both are compatible, but the picture shows only one dress.
+- **The dress and the image:** "Meet the Parents" now gives her a light sage-green summer dress with embroidered flowers at the shoulders, taken from the image's color and shoulder detail. The image's gown is fuller and more formal, embroidered all over; the blue dinner dress isn't pictured.
 - **Conflict with the image: skin.** The image shows warm dark brown skin, consistent with the proposed fixed trait "dark skin," which comes from the codex, not the manuscript.
 - **Exact height:** only "tall, like her family" and taller than Tor; nothing places her against Rolph or Varley.
-- **Eye color:** never given.
+- **Eye color:** dark, now on the page in "Meet the Parents" (November 1, 2026), matching the image.
 - **Chapter 7:** "Vacation From the Vacation" (amulet, acid, kiss) gave the first reader nothing descriptive; the draft may not yet carry her scene.
 - Proposed fixed trait: tall; clearly taller than Tor.
 - Proposed fixed trait: red hair (her father's).
