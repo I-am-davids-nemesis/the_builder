@@ -114,7 +114,7 @@ She didn't look back. She didn't need to. She could feel exactly how his face lo
 
 * * *
 
-The boy stood in the kitchen doorway for five minutes before anyone noticed him, and Ada Pell, who ran the palace kitchens and had done for eleven years, was sorry about that afterward, because she'd have liked to have seen his face when he arrived.
+The boy stood in the kitchen doorway for five minutes before anyone noticed him, and Ada, who ran the palace kitchens and had done for eleven years, was sorry about that afterward, because she'd have liked to have seen his face when he arrived.
 
 She was busy. It was the hottest kitchen in the city on the hottest morning of the year, with the bread out and the stock on and lunch for the whole household in hand, and her people were running, and the great range was going like the mouth of a forge. Four of them had the copper things at their throats, the ones the Wizard had given out at dinner, and those four were going about the place like people walking in a cool cellar, quite unhurried and quite dry; and the rest were wet as fish and cross with it, and none of them had time to look at the door.
 
@@ -174,7 +174,7 @@ Then she opened her eyes and held it out to him.
 
 And he went down her steps and away round the herb beds, before she could say another word.
 
-Ada Pell stood in her doorway with five copper squares in her hand and one at her throat, cool as a cellar, and watched him go; and it was a full minute before it came to her, from Danny's face, from the way the whole kitchen had stopped to look at the door, exactly who it was she had told to eat outside.
+Ada stood in her doorway with five copper squares in her hand and one at her throat, cool as a cellar, and watched him go; and it was a full minute before it came to her, from Danny's face, from the way the whole kitchen had stopped to look at the door, exactly who it was she had told to eat outside.
 
 * * *
 
@@ -258,7 +258,7 @@ Tor was already on his feet.
 
 It wasn't a pond.
 
-Rolph had grown up with it, and had stopped seeing it about the age of eight, and so he saw it again now through Tor's face, which was the best way to see anything: the water garden lying below the long terrace on the garden side of the small house, all at once, in the full blaze of the late morning. There were twelve of them, the waters. Long narrow rills cut in white stone, running between low hedges. Round basins with lilies in them. A square tank of dark still water where the carp lived, big as dogs, gold and white and black. Little stepped cascades that hadn't run since his grandmother's day, when the old fountains had cracked and nobody had known how to mend them. And in the middle of all of it, the great pond: oval, wide as a parade ground, green at the edges with weed and clear in the middle, with the sky lying on it.
+Rolph had grown up with it, and had stopped seeing it about the age of eight, and so he saw it again now through Tor's face, which was the best way to see anything: the water garden lying below the long terrace on the garden side of the small house, all at once, in the full blaze of the late morning. There were twelve of them, the waters. Long narrow rills cut in white stone, running between low hedges. Round basins with lilies in them. A square tank of dark still water where the carp lived, big as dogs, gold and white and black. Little stepped cascades that hadn't run since his grandmother's day. A builder had made them, long ago, so the story went, and they had run by themselves for a hundred years; and then, one by one, they had stopped, and there had been nobody left in the kingdom who knew how they had worked, or how to make them start again. And in the middle of all of it, the great pond: oval, wide as a parade ground, green at the edges with weed and clear in the middle, with the sky lying on it.
 
 Tor stood at the top of the terrace steps and looked at it with his mouth open.
 
@@ -350,7 +350,7 @@ He started to laugh. He laughed until his ribs hurt and his head, which had almo
 
 And Rolph sat up.
 
-"We've a house," he said. "On the coast. South of Ford. We used to go every summer, when I was small. It's right on the beach. There's a terrace, and you walk down off the end of it, and there it is." He was getting to his feet without having decided to. "And it's only a few hours. If we fly. We could go *tonight*. Now, practically. Today's gone, but if we went this evening we'd have two nights there, a whole day in between, and back in time for Father's luncheon. Easily." He was looking down at Tor, and his face had come alight in a way it hadn't in two days. "And we'll send to the Debri house. For Sara. And Trice. They'll come. Trice will come if she has to fly there on her own. Sara will come if I ask nicely." He paused, very slightly. "I'll ask nicely."
+"We've a house," he said. "On the coast. South of Ford. We used to go every summer, when I was small. It's right on the beach. There's a terrace, and you walk down off the end of it, and there it is." He was getting to his feet without having decided to. "And it's only a few hours. If we fly. We could go tomorrow. First thing, at dawn. Today's gone, but if we're off at first light we'd have the whole day there, and the night, and the morning on the beach, and still be back in time for Father's luncheon. Easily." He was looking down at Tor, and his face had come alight in a way it hadn't in two days. "And we'll send to the Debri house. For Sara. And Trice. They'll come. Trice will come if she has to fly there on her own. Sara will come if I ask nicely." He paused, very slightly. "I'll ask nicely."
 
 Tor looked up at him from the step, with water drying in his hair and the fountain going over behind him in long bright loops, and his face, slowly, broke into a smile.
 

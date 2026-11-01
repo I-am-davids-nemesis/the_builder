@@ -41,6 +41,7 @@ Verified facts about *The Builder* and its world, kept separate from invention. 
   - **Why it isn't war:** a rage excuses most things, nobody was hurt because Tor stood in the way, and the crown was seen defending Ursula at once.
   - **Tor's objection:** to the sham marriage, Tor says it isn't fair that Ursula vanishes for a year while the man who gave her the brooch goes home. The king agrees it isn't fair, and that it's the best the law allows.
   - **Baron Hyrees** is one of the empty baronies the queen joked about giving Tor.
+- **The palace water garden** (user, November 1, 2026): its cascades were made by a builder long ago and ran by themselves for about a century, then stopped one by one; nobody left knew how they worked. Tor's fountain brings them back in chapter 7. The palace's head cook is **Ada** (user).
 - **High technology is banned on the continent** (user, October 31, 2026): anyone who possesses it is breaking the law. The crown keeps Ward's brooch; Tor never gets to study it.
 - **Nobles grow into their size slowly**, more slowly than common people (user, October 31, 2026). A noble girl can be no taller than a small commoner at school and much taller a few years later (Maria).
 - **Combat-rage fields have always been too dangerous to train** (user, October 31, 2026). Tor's shield, which blocks both their force and their mental effects, is the first reliable counter, and that could change things.

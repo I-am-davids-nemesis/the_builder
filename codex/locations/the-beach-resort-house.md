@@ -2,7 +2,7 @@
 
 - **What it pressures:** Leisure as cover: Trice and Sara are on a special-school field exercise and Rolph on family business, so Tor keeps being left out without knowing why; left alone, he builds (see `outline/series-direction.md`)
 - **Who it tests most:** Tor, Rolph, Sara, Trice
-- **Whose and where** (user, November 1, 2026): **the royal family's summer house**, on the coast **south of Ford County**, on the Pacifico. Rolph went there often as a child. It's a few hours' flight from the capital; in chapter 7 the four fly there for two nights so Tor can see the sea. Rolph (chapter 7 draft, invented): "It's right on the beach. There's a terrace, and you walk down off the end of it, and there it is."
+- **Whose and where** (user, November 1, 2026): **the royal family's summer house**, on the coast **south of Ford County**, on the Pacifico. Rolph went there often as a child. It's a few hours' flight from the capital; in chapter 7 the four fly there at dawn for one night so Tor can see the sea (user, November 1, 2026). Rolph (chapter 7 draft, invented): "It's right on the beach. There's a terrace, and you walk down off the end of it, and there it is."
 
 ## Description
 
