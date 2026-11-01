@@ -14,6 +14,7 @@ The Ancient who has run Noram for three thousand years, met by Tor as a man who 
 - Tor's middle name is **Green** (`tor.md`, canon). Any connection is not stated in the codex; don't hint beyond the familiar face and voice until the user decides.
 
 - **From the chapter five drafts** (invented; pending the user's review): to the household he is a small, neat, quiet man in a plain dark coat, who has come and gone for all of Quavel's twenty years and looks no older; nobody quite knows what he is, and "when he was in the house, the house knew it." Uses a servant's voice as Burks. Studies the amulet's etched line before touching it, then wears it and tests it in the kitchen; comes back dry and calls it "Most effective, sir." Says "Thank you, Tor" once, and takes the amulet as a gift. Ties Tor's stock and stands behind him in the glass.
+- **Supplies Tor's materials, unseen** (user, November 1, 2026): while Tor is at the Ward dinner, a pile of copper squares appears on his desk; Burks saw to it. Tor doesn't notice that anyone has started supplying him.
 - **Never holds the viewpoint.** No narration from any Ancient's point of view; he's seen only from outside (user, October 27, 2026; `AGENTS.md` §3).
 
 ## Profile

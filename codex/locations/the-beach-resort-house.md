@@ -2,6 +2,7 @@
 
 - **What it pressures:** Leisure as cover: Trice and Sara are on a special-school field exercise and Rolph on family business, so Tor keeps being left out without knowing why; left alone, he builds (see `outline/series-direction.md`)
 - **Who it tests most:** Tor, Rolph, Sara, Trice
+- **Whose and where** (user, November 1, 2026): **the royal family's summer house**, on the coast **south of Ford County**, on the Pacifico. Rolph went there often as a child. It's a few hours' flight from the capital; in chapter 7 the four fly there for two nights so Tor can see the sea.
 
 ## Description
 
@@ -21,7 +22,6 @@ Not ready: the manuscript doesn't describe the house yet. Write this once a scen
 
 ### Open questions
 
-- Whose house is it? Rolph's family's, Tovey's (Thompson), Sara's (Debri), or a hired resort house? Which coast is it on, and how far is it from the capital?
 - Size and layout: a single house or part of a resort? How many rooms, and where does Tor work while he's left alone?
 - Materials, roof, and how it stands relative to the sand and the water (dunes, cliff, boardwalk, terrace)?
 - Light, weather, sounds and smells: nothing yet. The season is presumably the summer break that follows the capital chapters (assumed).
