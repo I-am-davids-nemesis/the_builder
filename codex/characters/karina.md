@@ -11,15 +11,17 @@ A main character from chapter 5 on, with more plot to come later in the series (
 
 Karina is tall, like all her family, and taller than Tor. She has her father's red hair, her mother's dark coloring and poise, and thin, fine features (user). The manuscript itself shows little of her face. It shows her clothes and her manner: a summer dress that leaves her arms and the back of her neck bare, with something gathered at the shoulders that Tor can't name; a blue dress at dinner. In the heat she has her maid sponge her neck with rosewater, which does no good.
 
+In the picture she has a mass of tight, curling red hair pinned up at the back with loose curls falling about her temples and ears. Her skin is a warm dark brown, with a faint flush on the cheekbones, and her features are fine and narrow: a straight nose, a small mouth, dark eyes under finely drawn brows. She wears small pearl drop earrings. Her gown is sage-green silk with an all-over floral embroidery in gold and dusky pink, cut square at the neck and gathered at the shoulders with embroidered flowers pinned to the sleeve caps; a band of the same embroidery runs at the waist. Her hands rest folded in her lap.
+
 She moves gracefully and never hurries. She sits, arranges her skirt and folds her hands in her lap while thinking very fast. Every gesture can be a performance: a hand to her mouth, eyes let go wide, a head tipped, warmth let into her eyes "and put where she wanted it," and a shy dip of the chin she has practiced in a glass since she was twelve. She enters without knocking, so she can always claim the wrong door, and comes back to put her head round it. When she's pleased her eyes go bright, and the corner of her mouth twitches. When her voice comes out flat she hears it and fixes it at once. Others read her the same way: her mother sees "a girl doing sums," Rolph a cat in a dairy, and Tor, through her field, something quick and bright and pleased with itself, like a cat that has found the cream.
 
 ### Look
 
-A tall young woman of eighteen, taller than a small young man beside her, with red hair, dark skin and thin, fine features, poised and upright. She usually wears a light summer dress that leaves her arms and the back of her neck bare, with gathers at the shoulders; for dinner, a dress of blue.
+A tall young woman of eighteen, taller than a small young man beside her, with a mass of tight red curls pinned up loosely, warm dark skin and thin, fine features. She usually wears a light summer dress that leaves her arms and the back of her neck bare, with gathers at the shoulders; for dinner, a dress of blue. A small pearl drop in each ear.
 
 ### Image prompt
 
-A tall, poised young woman of eighteen with red hair worn up, dark skin and thin, fine features, in a light summer dress gathered at the shoulders that leaves her arms and the back of her neck bare. She sits upright and unhurried in a chair in a large, elegant guest room, her skirt arranged and her hands folded in her lap, her head tipped slightly with a shy, practiced dip of the chin, her bright eyes amused and calculating. A copper plate lies on a long table with a deep green cloth beside her; tall windows let in warm afternoon light. The mood is cool, charming and quietly scheming.
+A tall, poised young woman of eighteen with a mass of tight red curls pinned up loosely at the back, falling in soft ringlets at her temples and ears, warm dark skin with a faint flush on the cheekbones, and fine, narrow features: a straight nose, small mouth, dark eyes under finely drawn brows. She wears small pearl drop earrings and a sage-green silk gown embroidered all over with gold and dusky-pink flowers, cut square at the neck, with embroidered flower clusters pinned to gathered sleeve caps and an embroidered band at the waist. She sits upright in a carved dark wooden chair in a large, elegant room with a tapestry on the wall, a sideboard with a copper jug, and a table draped in deep green cloth with a copper dish on it. Tall windows let in soft, warm afternoon light. Her hands rest folded in her lap; she gives a faint, knowing smile, her head tipped slightly, and her bright eyes are amused and calculating.
 
 ### From the manuscript
 
@@ -38,6 +40,7 @@ A tall, poised young woman of eighteen with red hair worn up, dark skin and thin
 - "a shy little dip of the chin she'd practiced in a glass since she was twelve" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
 - "like a cat that has found the cream left out" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
 - "with the bit. At the shoulders" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
+- Image: lookbook/regency-lady-in-a-grand-interior.png
 - "very bright-eyed and very pleased with herself in her blue" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
 - "Karina's mouth twitched at one corner." (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
 - "the expression of a girl doing sums" (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
@@ -48,7 +51,10 @@ A tall, poised young woman of eighteen with red hair worn up, dark skin and thin
 ### Open questions
 
 - **Her looks come from the codex, not the page.** The manuscript never mentions her red hair, dark coloring or thin features (user, November 1, 2026). Should "Meet the Parents" get a line, from her viewpoint or Tor's, that shows them?
-- **Hair style:** never described. The image prompt assumes it's worn up for a princess at home.
+- **Hair style:** never described in the text. The image settles it as a mass of tight red curls pinned up loosely, with ringlets at the temples. The text doesn't contradict it, but no manuscript line says so.
+- **Conflict with the image: hair texture.** The Description's "red hair" is silent on texture, but the Fixed traits list has none. The image shows tight curls; nothing in the text says straight or wavy.
+- **Conflict with the image: eyes and dress.** The image shows dark eyes; the manuscript never gives eye color. The image's sage-green embroidered gown is a formal gown, not the "light summer dress" the text mostly describes; the blue dress at dinner is also not in the picture. Both are compatible, but the picture shows only one dress.
+- **Conflict with the image: skin.** The image shows warm dark brown skin, consistent with the proposed fixed trait "dark skin," which comes from the codex, not the manuscript.
 - **Exact height:** only "tall, like her family" and taller than Tor; nothing places her against Rolph or Varley.
 - **Eye color:** never given.
 - **Chapter 7:** "Vacation From the Vacation" (amulet, acid, kiss) gave the first reader nothing descriptive; the draft may not yet carry her scene.
