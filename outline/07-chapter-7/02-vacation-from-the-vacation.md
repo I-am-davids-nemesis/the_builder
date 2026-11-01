@@ -75,4 +75,12 @@ Beats follow the user's summary (user, November 1, 2026) unless labeled.
 - **Trice's "I want one":** she asked at dinner. Her amulet is one of the three in Tor's pocket for the beach.
 - **The kiss lands on the perception gap:** Karina's viewpoint shows it's partly strategy; Tor reads it as a joke nobody at home would believe. Both are wrong in different directions.
 
+**Drafted** (November 1, 2026; invented, pending the user's review):
+- **Karina:** she knocks for once, because she needs him to open the door. She notices the new copper pile and wonders; Tor decides it's "lucky." The chains come from the palace silversmith, the acid from the gardeners' shed (for the paths), the brushes from her watercolors. Her watch was her grandmother's, old and slightly slow. She has been able to blush at will since thirteen.
+- **The etching:** acid poured from the jar's lid onto a folded awning in the washerwomen's yard. "The line? No. It's only a mark."
+- **The kitchen:** the cook is **Ada Pell**, head of the palace kitchens for eleven years; **Danny** at the range already wears one of last night's amulets.
+- **The fountain:** in the bath, the first try hits the ceiling, the second does nothing, the third floods the bedroom; the fourth works as a pair, one square starting the water and one catching it, "like people in a row passing buckets." The water garden: rills, lily basins, a carp tank (carp "big as dogs") and old cascades dry since the queen's grandmother-in-law's day, round the great oval pond.
+- **The queen's ladies:** Lady Arden, the two Fenwicks, Dame Coyle and the Marchioness. For two bells nobody says an unkind word about anyone.
+- **The ending:** they plan to fly that evening for two nights. Tor: "A holiday from the holiday?" Rolph: "A vacation from our summer vacation."
+
 **Answered** (user, November 1, 2026): Karina's watch is an ordinary old mechanical watch. Burks left a pile of copper on Tor's desk during dinner, and Tor doesn't notice he's being supplied. Of the ten amulets: Karina one, Tor one, the kitchen five, and Trice, Sara and Rolph one each. They fly to the coast in a few hours, so two nights there if they hurry, and back for the king's luncheon. The beach house is the royal summer house on the coast, south of Ford County. The queen's ladies see the fountain while it's being built (beat 20a, from the queen's viewpoint).
