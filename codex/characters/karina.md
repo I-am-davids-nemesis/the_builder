@@ -10,6 +10,7 @@ A main character from chapter 5 on, with more plot to come later in the series (
 ## Facts
 
 - **Princess**, the elder of Rolph's two younger sisters: **18**; her sister **Varley** is 16 (user, October 25, 2026). Daughter of King Richard and Queen Constance (`rolph.md`).
+- **Looks** (user, November 1, 2026): **tall**, like all her family; her **father's red hair**; **dark like her mother**; **thin, fine features**; her mother's poise.
 - Calls Rolph **"Alphie."** (user)
 - **Walks into Tor's room on purpose** on his first evening at the palace, to meet the new guest, using "You're not Alphie" as her excuse. She finds him half-dressed by the cooling plate. (user, chapter 5)
 - **Wants his devices for favor in her circle of friends** (user, October 25, 2026): to own what nobody else in the city owns. Tor gives her four cooling plates, two for her and two for Varley.
@@ -32,7 +33,8 @@ All (invented; pending the user's review) unless labeled.
 - **Need:** To value something, or someone, for what it is rather than what it gets her. Tor, who gives her things for nothing, is the first test of that.
 - **Internal tension:** She plays the court's game better than anyone her age and enjoys it, *and* she's surprised to find she likes the boy she's playing it on. She tells herself the liking is part of the play.
 - **External tension:** A princess's every move is watched and priced. She is younger than Rolph and outshone by him, and her mother sees through her ("Karina is going to be impossible"). Her friends' favor is only as good as her last coup.
-- **Hidden aspect:** What she does with the favor she gains: whose circle it is, what it buys, and how far she would trade on Tor's name. (Open; more plot later in the series, user.)
+- **Hidden aspect:** What she does with the favor she gains: whose circle it is, what it buys, and how far she would trade on Tor's name. **Left open until her later plot** (user, November 1, 2026).
+- **With Tor in book 1** (user, November 1, 2026): a **flirtation she enjoys more than she admits**. No romance is possible in book 1 (and nobles marry within three steps).
 
 ## Reaction rules
 
