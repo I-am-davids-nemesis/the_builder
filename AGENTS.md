@@ -79,7 +79,7 @@ Every character with a speaking role needs, at minimum:
 - **Sample lines** — calibration for the voice.
 - **Series slice** — what book 1 resolves for them, and what it leaves open.
 
-Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey.
+Main cast: Tor, Rolph, Patricia, Sara, Dorgal, Tovey, Karina (from chapter 5; user, November 1, 2026).
 Supporting: Davie, Count B, Kolb, Wensa (accounting instructor; earlier called Miriam), the headmaster, the building instructor, Doris, the magic theory instructor, Bet Haskins (keeper of the isolation chambers), plus canon additions (Terlee, Maria, Petra, Connie, King Richard Cordes).
 
 Profiles live in `codex/characters/` (see `codex/README.md` for the template and labels).

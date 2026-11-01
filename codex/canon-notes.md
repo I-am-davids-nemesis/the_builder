@@ -219,6 +219,7 @@ In the drafts (invented; accepted by the user): Rolph's 11 a board is his "frien
 | Tor (Torrance/Torrence Green Baker) | See profile | `characters/tor.md` |
 | Rolph | Roommate; mother is Connie | `characters/rolph.md` |
 | Connie | Rolph's mother | `characters/rolph.md` (profile to do) |
+| Karina | Rolph's younger sister, a princess; main character from chapter 5 | `characters/karina.md` |
 | Terlee | Tor's oldest sister | `characters/supporting/terlee.md` |
 | Maria | Rejected Tor in his first year | `characters/supporting/maria.md` |
 | Petra | Combat classmate | `characters/supporting/petra.md` |
