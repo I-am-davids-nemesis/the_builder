@@ -18,15 +18,15 @@ From the chapter 7 draft (invented; pending the user's review). Not grand: Tor c
 
 ### Image prompt
 
-Not ready: the manuscript doesn't describe the house yet. Write this once a scene establishes its size, materials and light.
+A long, low house of salt-silvered gray shingle with faded blue shutters and a deep roof over a wooden terrace, on a low rise behind blowing dune grass, above a wide white beach. A line of old, square, pitted stumps runs out of the sand into the surf, with white water breaking on them. Far back, a small cottage by a gate in a low stone wall, smoke going straight up. Bright summer light, blue sea to the horizon. The mood is plain, quiet and welcoming.
 
 ### From the manuscript
 
-- None yet. (The only manuscript use of "beach" is a simile in the Thompson town house: “a sound like a wave going back down a beach” (manuscript/05-chapter-5/02-flight-to-capital.rotating-third.md). It isn't about this place.)
+- “a long low house of gray shingle, silvered by salt, with blue shutters gone pale” (manuscript/07-chapter-7/03-beach-house.rotating-third.md)
+- “The Teeth” (manuscript/07-chapter-7/03-beach-house.rotating-third.md)
+- “*It's a proper size*” (manuscript/07-chapter-7/03-beach-house.rotating-third.md)
 
 ### Open questions
 
-- Size and layout: a single house or part of a resort? How many rooms, and where does Tor work while he's left alone?
-- Materials, roof, and how it stands relative to the sand and the water (dunes, cliff, boardwalk, terrace)?
-- Light, weather, sounds and smells: nothing yet. The season is presumably the summer break that follows the capital chapters (assumed).
-- No visual facts are established yet, so there's no proposed fixed trait. Add them once a scene describes the house.
+- Whether it's a lone house or part of a wider resort: chapter 7 shows no other roof but Walt's cottage.
+- Proposed fixed traits: gray shingle, blue shutters, the front terrace, the Teeth, Walt's gate cottage.
