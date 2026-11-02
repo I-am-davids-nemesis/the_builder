@@ -1,6 +1,7 @@
 # Beach House
 
 - **Summary:**
+- 
 - **POV / mode:**
 - **Location:**
 - **Present:**
