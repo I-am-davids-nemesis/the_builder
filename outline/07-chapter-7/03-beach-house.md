@@ -26,3 +26,22 @@
 ## Beats
 
 1.
+
+**Problem** (user, November 1, 2026): the canon has the evening at the beach house hold the "nobles are kind for fear of spurning" talk. Trice warns Tor he's handsome enough that many will want him and he must be kind to them; Tor can't believe it; Rolph says he knows why: the girl who spurned him. That's the chapter's cliffhanger, and chapter 8 opens with Rolph's side of it. The summary above has the girls' spy homework that same night. Both need fitting in, or one goes.
+
+**Questions:**
+
+1. **Fitting it in:** the talk and the spy run in one night, a second night, or no spy run?
+   - Default: One night. The talk happens by the fire over Tor's biscuits and ends chapter 7 on Rolph's line. Chapter 8 opens with Rolph's story; Tor is wrung out, Rolph hands him the off-switch flaw to fix, Tor goes into his trance, and the girls slip out to do the spy work. The king's luncheon stays where it is.
+   - Option: Two nights. The talk on night one, the spy run on night two while Tor rebuilds the purifier on the beach; the king's luncheon moves back a day.
+   - Option: Cut the spy run and save it for later intrigue.
+2. **Rolph's line:** does he name Maria, or call her Tor's "Doretta"?
+   - Default: "He's had his Doretta." Trice and Sara go still, because it casts Tor as a Wylde, the very thing the court feared at Ward's dinner; Tor doesn't know the tale. Chapter 8 then names Maria.
+   - Option: He names Maria outright.
+3. **The adult on the grounds:** who keeps the night proper?
+   - Default: An old caretaker lives in a cottage by the gate and wasn't sent word (hence the near-empty pantry). He comes up at dusk with eggs and stays within earshot; the girls share a room; the boys have rooms of their own.
+   - Option: A pair of Rolph's guards follow the flight at a distance and camp on the grounds.
+   - Option: No adult; the spy run itself fills the night, and Tor's horror at the giggling is the only "scandal."
+4. **Karina's kiss as a setup:** does Tor offer it as proof that nobody wants him ("she was only joking")?
+   - Default: Yes; Sara and Trice exchange a look, and it starts Trice's lecture.
+   - Option: Nobody mentions it.
