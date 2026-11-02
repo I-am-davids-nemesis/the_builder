@@ -191,5 +191,5 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 
 ## 9. Content guardrails
 
-- The main cast are **teenagers**. Keep all content involving them **non-sexual**. The original series' later books have more sexual themes; we do not carry those over for minors.
+- The main cast are students in their **early twenties** (Tor is 20, Rolph 22; see their codex entries), though Tor looks about fifteen. Keep all content involving them **non-sexual** anyway (user, November 1, 2026). The original series' later books have more sexual themes; we do not carry those over.
 - The culture clash between Tor's prudish upbringing and his noble friends' worldliness can be shown through embarrassment, manners and dialogue, without sexual content.
