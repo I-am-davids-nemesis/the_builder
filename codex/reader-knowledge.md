@@ -51,3 +51,33 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | Sara | A Debri; asked Rolph about Tor before making her offer | Fears she'll back out when she knows who he is | Rolph and Sara: she knew and bought anyway |
 | Rolph's family | The "royal brat of a Prince" who renamed Trice; an ornate box; a gift better than "his dad's"; anger at a royal guard; knows royal guards' ways | That Rolph knows a lot about nobles | Rolph: the Prince is him, and he and Trice have known each other since childhood |
 | Tor's speed | Fifty fields in a night; whole companies can't do a hundred a day | Thinks fifty is ordinary and Tovey is being polite | Tovey, the room |
+
+## Chapter 5
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| Rolph's family | The royal guard at the gate, "young sir," the list, the "small house," the first-bite stillness; Connie and Rolph: "Let him like us first" | Recognizes the royal guard but decides the family lives near the palace; thinks they supply the king, "possibly cloth" | Everyone in the house; Tor learns in chapter 6 |
+| Burks | A man who brings clothes and tests the amulet; Quavel freezes at "Count Lairdgren"; he looks a bit like Tor | Thinks Burks is a servant | Quavel and the household know him as Count Lairdgren; nobody on the page knows he's Green |
+| Karina | Her viewpoint shows the timed entrance and the sums | Feels something sly and self-focused; gives her four plates | Karina; her mother sees through her |
+| The fiancée | Ursula, introduced at the end of chapter 5 | Had never heard of her | Rolph, the family |
+
+## Chapter 6
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| The brooch | A dragonfly, not magic; Ursula's viewpoint shows she's innocent and that Ward's note asked her to wear it | That it isn't magic and must be Austran | The king keeps it; who planned it stays hidden |
+| Rolph's family | The king walks in | Now knows Rolph is the prince, Connie the queen, Karina a princess | — |
+| Sara's family | Heather Debri runs the house; Kris is heir | Learns it at the luncheon | Sara knew Rolph's secret all along |
+| Rolph and Sara | Rolph's formality with Heather; he thinks of Sara | Knows Rolph likes Sara | Sara doesn't know; they can't marry (she isn't noble) |
+| Maria | Ward's wife, at the end of the chapter | Recognizes her | Trice remembers the dance |
+
+## Chapter 7
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| Wylde and Doretta | Named, not explained; the table fears Tor as a Wylde | Doesn't know the tale; thinks Maria has forgotten him | The whole table; Maria fears it |
+| Who planned the brooch | Maria steers Ward; Trice files her near the top | Nothing | Unconfirmed; the reader is steered toward Maria |
+| Why two nobles raged | Rolph, who never loses his temper, does | Nothing | Nobody: it's Trice's field, never revealed |
+| Training rages | The king's long look at the shield | That his shield stopped Ward's confusion | The king alone sees what it could mean |
+| Who supplies Tor | A pile of copper appears on his desk during the dinner; Karina wonders | Doesn't notice; decides it's "lucky" | Burks (Green) left it |
+| What the fountain is for | The water garden's fountain, the queen's ladies | It's a test for the Ford water line | Rolph half guesses; to the court it's a party piece |
