@@ -58,13 +58,4 @@
 
 **Drafted** (November 1, 2026; invented, pending the user's review): Sara holds the viewpoint; Rolph drinks Walt's milk, not wine; he was twenty in first year and came in an uncrested carriage; Tor was rereading a sigil book and fixed the window catch with a bootlace; the flowers (celandines, blackthorn, primroses, ivy) and the midnight in the wood; the asking at lunch; nineteen days in the room; the letter home already written; the man on the stair; first-years normally get an under-instructor, and Kolb came to the room door to ask if Tor could run; Maria left a week before exams; Rolph overheard his parents fear Tor going after Ward; Ward once put a man through a stable wall at a horse fair; Rolph gave a guard a gold piece to stop describing the dinner; Trice's nurse's version (a ribbon seller; Doretta says no kindly, but in the street); the merchants' version (Doretta's father goes bankrupt); "Don't be a Doretta" six times a month till twelve.
 
-**Questions:**
-
-1. **Theory class:** at the Ward dinner Tor remembers Maria by the window in theory; the outline's canon says "one of his classes." Fine as theory?
-   - Default: Yes, theory.
-2. **Kolb's training:** our earlier chapters have Tor in the mixed combat class; this draft makes Kolb take him personally from midway through first year. Does that sit with the chapter 1 and 2 drafts?
-   - Default: Yes; the regular class plus Kolb's attention on top of it.
-   - Option: Cut the "under-instructor" line and keep only "he picked you."
-3. **Doretta's kindness:** Rolph said at the dinner that "Doretta was kind," so Trice's version has her refuse gently but in public. Keep that, or make the canon version harsher?
-   - Default: Keep it; the public no is the whole sin, which matches Trice's chapter 7 lecture.
-   - Option: Make Doretta scornful, and change Rolph's dinner line.
+**Answered** (user, November 1, 2026): the girl was in Tor's theory class; Tor stays in the regular combat class with Kolb's own attention on top; Doretta refuses kindly but in public, and the public no is the whole offense.
