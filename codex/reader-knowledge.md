@@ -84,3 +84,16 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | The off-switch flaw | Sara stops the beach loop by hand; Tor sees the hundred-mile danger | Knows the flaw; plans a field that "only listens" | — |
 | The girls' summer homework | "Homework," "the summer kind"; Trice's sum about distances in the dark | Thinks it's "the dull sort" | Trice, Sara, Rolph |
 | What the fountain is for | The water garden's fountain, the queen's ladies | It's a test for the Ford water line | Rolph half guesses; to the court it's a party piece |
+
+## Chapter 8
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| Wylde and Doretta | Trice tells the tale in full (scene 1); Rolph gives the moral, "Don't be a Doretta" | Knows the tale, and that the court thinks he's a Wylde; refuses to believe it ("I wouldn't put a *goat* on an island") | — |
+| Maria's rumors | Rolph: after the cafeteria she spread stories about Tor for weeks; the masters feared for him and put a man on the stair | Learns there was more; Rolph won't repeat any of it | Rolph; the masters |
+| Who kept Tor at school | Rolph wrote to the queen that night; she wrote to the headmaster | Now knows the queen did it, on Rolph's word | — |
+| Why Kolb trains Tor | Kolb chose him himself after the cafeteria; nobody sent him | Learns it; had thought it a muddle in the roll | Kolb |
+| Maria's leaving | Her family sent for her a week before exams; Rolph doesn't know why | Same as Rolph | Maria; whoever sent for her |
+| The king and queen's fear | Rolph overheard them ask whether Tor would go after Ward alone | Laughs at it | The king and queen |
+| Maria's identity, for Sara | Trice tells Sara that Maria is Countess Ward | — | — |
+| Rolph and Sara | He sits by her, shoulder to shoulder; she knows what it's worth and doesn't move | Watches it fondly, as something not for him | — |

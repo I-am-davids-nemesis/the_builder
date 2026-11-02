@@ -34,7 +34,7 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Training combat rage (chapter seven) | — | Rage fields have always been too dangerous to train; Tor's shield is the first counter, and the king has seen it |
 | Burks (chapter five) | — | That the man who brought Tor's clothes is Green, the Ancient who runs Noram and invented its magic; why he came |
 | Water for Ford (chapter seven) | Chapter 7, scene 3: the beach loop works, and its flaw (anyone can switch it off) is found before it's built big | Making a line that "only listens"; building it across the county |
-| Tor's Doretta (chapter seven) | — (opened at the end of chapter 7; Rolph tells his side in chapter 8) | Why Tor believes no one could want him; the court fearing him as a Wylde; what Maria fears |
+| Tor's Doretta (chapter seven) | Chapter 8, scene 1: Rolph tells the cafeteria and its aftermath; Trice tells the Wylde tale; Tor knows it now and won't believe he's feared | Why Tor believes no one could want him; the court fearing him as a Wylde; what Maria fears |
 | Tor's trance-sight (chapter three) | — | Why a student can see through wards, and why he's less meek in trance |
 
 ## Books 2–5

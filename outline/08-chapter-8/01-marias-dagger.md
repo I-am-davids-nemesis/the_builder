@@ -23,12 +23,48 @@
 
   **Left out on purpose** (AGENTS.md §9): Rolph expecting girls to be brought in for him; his joke that the flowers would have got Tor further than a dance with Sara or Trice; Maria's sexual accusations; Trice's remark about Ward and Ursula sleeping together. Don't bring any of it back.
 
-- **POV / mode:**
-- **Location:**
-- **Present:**
-- **Reader learns:**
+- **POV / mode:** Rotating third, **Sara** throughout. She wasn't at the Ward dinner and doesn't know Maria, so she gets the story fresh.
+- **Location:** The long front room of the beach house, straight on from chapter 7: the rug by the hearth, a driftwood and log fire, open shutters onto the terrace and the sea.
+- **Present:** Tor, Rolph, Sara, Trice. Mentioned: Maria, Count Ward, Ursula, Kolb, the dean, the queen and king, Davie, Howard Turnbull, Wylde and Doretta.
+- **Reader learns:** what's in `codex/reader-knowledge.md`, chapter 8: Maria's rumors and the man on the stair; the queen kept Tor at school on Rolph's word; Kolb chose Tor; Maria's family sent for her; the king and queen fear Tor may go after Ward; the whole Wylde tale; Tor refuses to believe he's feared.
 - **Hidden (and how):**
+  - **What Maria's rumors said:** Rolph refuses to repeat them.
+  - **Why Maria's family sent for her:** Rolph never learned.
+  - **Who planned the brooch:** not raised; Trice only calls Maria nerveless and vile.
+  - **The spy homework:** still to come this night (the next scene).
 
 ## Beats
 
-1.
+1. **"Who?"** Sara, sharp. Doretta is a thing you are, not a name. Trice, low: "Was it Maria?" Tor looks like both doors are guarded.
+2. **Rolph stands** across the fire, not looking at Tor. "Rolph. Don't." "A story's got to be told properly or it goes off. Like milk." He drinks from Walt's milk crock all through.
+3. **The roommate.** Twenty, a closed carriage, expecting his own room; a second bed and a boy reading a sigil book for the third time. "Lots of people know where Two Rivers is." "Name one." "Mother." The window catch; the accent gone in hours.
+4. **The asking.** The girl by the window in theory. Rolph said ask her; he'd have sworn she wasn't peerage; the worst is a full card or a friend. Only a dance. "I could have put him in a glass case."
+5. **The flowers.** Two evenings of coaching; Tor in the wood at midnight. The queen would have kept them. Sara: "What was in it?" Tor: celandines, blackthorn, early primroses, ivy. "It wasn't very much."
+6. **Forty breaths.** Rolph drinks and stares at the sea. At lunch, in the cafeteria: the invitation was perfect. "Or she could just have said no. That would have been *fine*."
+7. **Tor jumps.** Trice's hand on his arm; he jumps, apologizes, gives the arm back. Sara keeps her eyes on Rolph so nobody looks at Tor. "What did she do?"
+8. **The screaming.** Poor, ugly, dirty, catching; six minutes; two fourth-year girls walk her out. "And he just stood there. With the flowers."
+9. **More.** "There was more?" Weeks of stories; nineteen days in the room; bread on the desk; the letter home already written. Rolph wrote to his mother that night; she wrote to the headmaster. A man on the stair. He won't repeat it.
+10. **Kolb.** First-years get an under-instructor; Tor got Kolb, every afternoon. Not a muddle in the roll: Kolb came to the room door and asked if Tor could run. Running, dodging, going left. "You aren't exactly a big job."
+11. **Howard Turnbull.** Her family sent for her before exams; Rolph assumed disgrace, "or married off to Howard Turnbull." Tor: "Oh! I know who he is now." Everyone laughs.
+12. **Countess Ward.** Trice: the candle-wax dinner explained. Sara: "Maria who?" "She's a countess." Trice admired the snub and is furious with herself; Ursula's worth ten of her. "What if you made war on her family?"
+13. **The picnic war.** Trice's stiff sideways hug. Tor: a hundred and twelve squares and Davie, home for supper; trip Ward, two men sit on him, the rest have an egg and spoon race. "It's not a war if it's one person and a picnic." Rolph: Mother and Father aren't laughing. "He tried. For about a quarter of a bell."
+14. **The dinner retold.** Rolph doesn't remember most of it ("You're not driving"), so he tells it from Trice, his mother and a frank guard. The mountain; the floor like a leaf; asking for a husband for Ursula in the king's falcon; Thorgood and Ward brought to heel; walked off with no grudge.
+15. **Tor snorts.** Ward didn't know he was there; Maria didn't know him, "it's not as if I'm *anybody*."
+16. **Rolph by Sara.** Shoulder to shoulder; she knows the sum and doesn't move. Tor smiles like a man outside a lit window. "You wrote to the *queen*. When I thought you were a merchant's son." "She was only my mother then, as far as you knew." "I know. That's what I mean."
+17. **"Who's Doretta?"** Trice: "I said not tonight. It's tonight." Nurse's voice.
+18. **The tale.** Ribbons; a no in the street, said kindly, in front of the neighbors; a soldier who meant to die; the prince's friend (Trice looks from Tor to Rolph and snorts); Count Wylde; twenty years; everyone, the mill, the dogs; a rock with one tree.
+19. **The moral.** The crock is empty; Rolph passes it anyway. "Don't be a Doretta." Sara: merchants have it too; Doretta's father goes bankrupt. "Some of us… still go and stand up in a cafeteria."
+20. **The goat.** Tor: "I wouldn't put a *goat* on an island." Trice: "We know. That's rather the trouble. Nobody else does." She takes the crumbled biscuit from his fist.
+
+**Drafted** (November 1, 2026; invented, pending the user's review): Sara holds the viewpoint; Rolph drinks Walt's milk, not wine; he was twenty in first year and came in an uncrested carriage; Tor was rereading a sigil book and fixed the window catch with a bootlace; the flowers (celandines, blackthorn, primroses, ivy) and the midnight in the wood; the asking at lunch; nineteen days in the room; the letter home already written; the man on the stair; first-years normally get an under-instructor, and Kolb came to the room door to ask if Tor could run; Maria left a week before exams; Rolph overheard his parents fear Tor going after Ward; Ward once put a man through a stable wall at a horse fair; Rolph gave a guard a gold piece to stop describing the dinner; Trice's nurse's version (a ribbon seller; Doretta says no kindly, but in the street); the merchants' version (Doretta's father goes bankrupt); "Don't be a Doretta" six times a month till twelve.
+
+**Questions:**
+
+1. **Theory class:** at the Ward dinner Tor remembers Maria by the window in theory; the outline's canon says "one of his classes." Fine as theory?
+   - Default: Yes, theory.
+2. **Kolb's training:** our earlier chapters have Tor in the mixed combat class; this draft makes Kolb take him personally from midway through first year. Does that sit with the chapter 1 and 2 drafts?
+   - Default: Yes; the regular class plus Kolb's attention on top of it.
+   - Option: Cut the "under-instructor" line and keep only "he picked you."
+3. **Doretta's kindness:** Rolph said at the dinner that "Doretta was kind," so Trice's version has her refuse gently but in public. Keep that, or make the canon version harsher?
+   - Default: Keep it; the public no is the whole sin, which matches Trice's chapter 7 lecture.
+   - Option: Make Doretta scornful, and change Rolph's dinner line.

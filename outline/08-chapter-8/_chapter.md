@@ -6,7 +6,7 @@
 
 ## Scenes
 
--
+- **01 Maria's Dagger** (Sara): Rolph tells the Maria story; Trice tells the Wylde tale. Drafted November 1, 2026.
 
 ## Carried over from chapter 7
 
