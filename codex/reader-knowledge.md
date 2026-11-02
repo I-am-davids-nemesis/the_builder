@@ -80,4 +80,7 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | Why two nobles raged | Rolph, who never loses his temper, does | Nothing | Nobody: it's Trice's field, never revealed |
 | Training rages | The king's long look at the shield | That his shield stopped Ward's confusion | The king alone sees what it could mean |
 | Who supplies Tor | A pile of copper appears on his desk during the dinner; Karina wonders | Doesn't notice; decides it's "lucky" | Burks (Green) left it |
+| Why Tor thinks nobody could want him | Trice's lecture; Rolph: "He's had his Doretta" (scene 3) | Doesn't know the tale or what Rolph means; asks "Who's Doretta?" | Rolph; Trice connects the dance, Maria and the court's fear; Sara |
+| The off-switch flaw | Sara stops the beach loop by hand; Tor sees the hundred-mile danger | Knows the flaw; plans a field that "only listens" | — |
+| The girls' summer homework | "Homework," "the summer kind"; Trice's sum about distances in the dark | Thinks it's "the dull sort" | Trice, Sara, Rolph |
 | What the fountain is for | The water garden's fountain, the queen's ladies | It's a test for the Ford water line | Rolph half guesses; to the court it's a party piece |

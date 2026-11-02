@@ -6,11 +6,15 @@
 
 ## Description
 
-The manuscript hasn't reached the beach resort house yet, so nothing about how it looks, sounds or smells is established. The drafts so far (through chapter 6) never place a scene there or describe it. The only thing on record is that it's a resort house on a beach, used for leisure among nobles (canon, `codex/builder-handoff.md`).
+From the chapter 7 draft (invented; pending the user's review). Not grand: Tor calls it "a proper size," and Sara's first price for it is too low. Large grounds with no neighbor but the caretaker; the nearest village is a long way off (user). Sleeps about a dozen (user).
 
 ### Look
 
-Not established in the manuscript. The only fact is that it's a house at a beach resort.
+- A long, low house of **gray shingle silvered by salt**, with faded blue shutters and a deep roof over a **wooden terrace** along the whole front; a chimney at each end. It stands on a low rise behind the dunes; a sandy **dune path** comes out at the end of the terrace onto the beach.
+- **The Teeth:** a line of old, square, pitted stumps running out of the sand into the surf, older than anything (a post-collapse survival); Rolph's landmark for finding the beach.
+- Inside: a **long front room** with a low beamed ceiling, a hearth you could stand in, sheeted sofas and a rag rug; a kitchen with a black iron range and an open hearth; a narrow whitewashed **pantry** with a high window. Seasoned logs stacked under the eaves at the back.
+- **Walt's cottage** far back by a gate in a low stone wall. **Walt** (invented), the caretaker: long, bent, brown, white moustache, straw hat; keeps hens; knew Rolph as a boy; sits on his porch with his pipe and sleeps light.
+- Sounds and smells: the sea's long roar, salt and weed; driftwood burns blue and green.
 
 ### Image prompt
 

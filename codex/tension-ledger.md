@@ -33,6 +33,8 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Count Ward's brooch (chapter six) | Chapter 7: Ursula is cleared in public and given a sham marriage (Baron Hyrees); no war at the dinner | What the brooch is and who reads it; whether Ward knew, or Maria planned it; whether it comes to war with County Ward; the unfairness of Ursula's year away |
 | Training combat rage (chapter seven) | — | Rage fields have always been too dangerous to train; Tor's shield is the first counter, and the king has seen it |
 | Burks (chapter five) | — | That the man who brought Tor's clothes is Green, the Ancient who runs Noram and invented its magic; why he came |
+| Water for Ford (chapter seven) | Chapter 7, scene 3: the beach loop works, and its flaw (anyone can switch it off) is found before it's built big | Making a line that "only listens"; building it across the county |
+| Tor's Doretta (chapter seven) | — (opened at the end of chapter 7; Rolph tells his side in chapter 8) | Why Tor believes no one could want him; the court fearing him as a Wylde; what Maria fears |
 | Tor's trance-sight (chapter three) | — | Why a student can see through wards, and why he's less meek in trance |
 
 ## Books 2–5

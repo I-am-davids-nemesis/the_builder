@@ -16,32 +16,45 @@
 - Eventually, they get enough food for the night, and Tor plans a different combination for breakfast.
 - Rolph looks around with a hopeful look on his face, and asks what's next on the agenda.  Trice throws a couch pillow at him and reminds him that there are other things that they can do while here -- homework from school, and other stuff (She doesn't go into details, because there are spy assignments that would be perfect now that they have the flying rigs, and the cover of being on a distant vacation -- they can get to places in just a couple of hours that no one would expect them to be at, and they could get away before being noticed.  It is one of the major summer homework activities that all the students at the 'special' school are expected to accomplish, and now is the perfect opportunity.  They don't want to let Tor in on the work because he is a builder student; Rolph is also not technically part of the special school, but does have a lot of the same training, being heir to the throne).
 - Trice and Sara, giggle and go off to their room; Rolph sighs, realizing that he has to make sure Tor gets lost in his building project again so that he can sneak out without Tor noticing.  Tor gets entirely the wrong idea about what's happening, afraid that it is some depraved noble activity; Rolph assures him that it is not, and starts asking him about the building project to get him thinking about work and falling into a trance
-- 
-- **POV / mode:**
-- **Location:**
-- **Present:**
+- **Moved to chapter 8** (user, November 1, 2026): the spy homework (the two bullets above) happens later the same night, after Rolph's story. This scene keeps only the hint: Rolph's "what's next?", Trice's cushion and "Homework."
+- **Added from canon** (user, November 1, 2026): the evening talk. Tor tells Karina's kiss as a joke; Trice explains that nobles never refuse anyone outright, for fear of making enemies (Count Wylde, named but not told); she tells Tor he has a very good face and many will want him, so he must let them down kindly; Tor can't believe anyone would; Rolph says he knows why: "He's had his Doretta." Chapter cliffhanger.
+- **POV / mode:** Rotating third. **Sara** at the west gate, the flight and the house; **Rolph** for Tor's first sight of the sea; **Trice** for the bucket; **Sara** for the purifier loop, switching it off and Tor's terror; **Trice** for the pantry, the fire, Walt, and the evening talk.
+- **Location:** The capital's west gate at dawn; the air over drought-brown Ford; the coast south of Ford (the Teeth); the royal summer house: its dune path, the beach and rocks, the pantry and kitchen, the long front room with the big hearth; Walt's cottage by the gate, seen from afar.
+- **Present:** Tor, Rolph, Sara, Trice; Walt the caretaker, at dusk. Mentioned: Karina, Ada (the basket), Maria (not named), Count Wylde and Doretta.
 - **Reader learns:**
+  - Trice is ashamed of the Morgan town house; Tor half notices and never understands why.
+  - The sea, through Tor: it doesn't stop, and it won't run out.
+  - The purifier loop works (a foot-thick ring of clean water over the beach), and **anyone can switch it off**; on a hundred-mile line, that's a catastrophe. Tor will fix it with something that "only listens."
+  - The nobles can't cook or make a fire; Tor can.
+  - Nobles never refuse outright, because a refusal is a debt someone collects. Trice says Tor is good-looking and will be wanted; Tor flatly believes no one could want him.
+  - Rolph knows why: "He's had his Doretta." Trice connects the dance, Maria at the Ward dinner, and the court seeing Tor as a Wylde.
 - **Hidden (and how):**
+  - **The Wylde tale itself:** Trice refuses to tell it ("Not tonight"); Rolph's story in chapter 8 tells Tor's side, not Wylde's.
+  - **The spy homework:** Trice's sum about distances in the dark, and "Homework" / "the summer kind"; Tor accepts "the dull sort."
+  - **Karina's motive:** Trice and Sara read the kiss as strategy, without saying so to Tor.
 
 ## Beats
 
-1.
+1. **The west gate** (Sara). Sara and Trice wait on a mounting block at dawn. Sara stayed the night at the Morgan house (three windows wide, a worn stair carpet; Trice: "Don't"). The plain crestless carriage brings Rolph (with Ada's basket) and Tor.
+2. **The amulets.** Tor hands out the three amulets on Karina's silver chains (Trice: "Karina"). "Where were you staying? I'd have liked to see it." "It's very small." "Oh, I like small." He half notices, mutters "*Small*," and lets it go.
+3. **The flight.** Brown country, Ford worst of all; Tor flies in front, lips moving. The sea from the air; Rolph hunts for the beach ("it's *moved*") and finds it by **the Teeth**, a line of old stumps running into the surf.
+4. **The house.** Sara prices it, and the first number is too low: gray shingle, faded blue shutters, a terrace along the front, no other roof but Walt's cottage by the gate. Tor: "It's a proper size." He asks to stay all summer. Rolph felt the same every year as a boy.
+5. **The sea** (Rolph). Down the dune path with eyes on his feet; then "Now." Tor just looks. "It doesn't *stop*." He stands in the spray, tastes it: "It won't run out." "I was worried about the *fish*." The girls shriek into the waves; Tor sits down in the trance.
+6. **The bucket** (Trice). Two and a half bells later the tide has reached him. She pours a bucket over his head; he chokes, then: "That's what it's like *in* the water." It's a help; it's in the well water at home too ("why Mother's kettle goes white"). She sits beside him, looks north along the coast, and does a sum.
+7. **The loop** (Sara). Two squares: one on a rock in the surf, one wedged in the sand forty yards up. A foot-thick loop of perfectly clear water stands over the beach. It pushes hands out. They drink; Sara can't make the price come out.
+8. **The splash war.** Rolph sweeps sheets of water over Sara four times. She walks to the rock, puts her hand on the square and thinks *stop*.
+9. **The fall.** The loop drops; trenches gully the beach. Rolph and Trice laugh. Tor goes white: "Anyone." He explains the hundred-mile line: a child, a goat, a man from Austra, water down on a village, no water downstream.
+10. **The fix.** Rolph laughs nervously, congratulates Sara ("You've saved a county. Possibly two"), then reminds Tor of his own words from second year, over a broken lamp: "Everything's got a flaw. You just have to find it. And then fix it, if you can." Tor: "It *only* listens to—"
+11. **The basket** (Trice). Ada packed a luncheon, gone by mid-afternoon. The pantry: flour, salt, soda, honey gone solid, beans, oil, a mousetrap. Tor laughs till he leans on the doorpost: "It's *biscuits*."
+12. **The fire.** Trice brings driftwood (burns blue and green with the salt), Rolph a live tree off the dunes. The logs were under the eaves all his life. Tor cooks; Sara cuts in the butter; Trice watches the oven.
+13. **Walt.** He comes up at dusk with eggs and milk, knew Rolph as a boy ("Nobody sent"), eats a biscuit ("You'll do"), and goes back to his porch and his pipe: he sleeps light. Trice files the porch, the gravel path, the distance.
+14. **"What's next?"** Biscuits and honey on the rug by the fire; Rolph eats nine. Cushion. "Homework." "The summer kind." Tor: "What sort?" "The dull sort."
+15. **The kiss told as a joke.** Tor tells them about Karina; Sara and Trice exchange a look ("Karina doesn't run").
+16. **Trice's lecture.** Nobody says no; it's manners, not lying (Sara: "It's why they never pay their bills on time"). A no is a debt, and people collect. "Count Wylde." "Who's Count Wylde?" "Not tonight."
+17. **"I don't mean your squares."** Trice tells him he has a very good face; half the girls at the Ward dinner were looking at him. Her ears burn.
+18. **Tor laughs, kindly.** The smallest person at school; strangers think he's fourteen; "Nobody's going to want me like that." Sara: "Tor. Look at me. She's right." He thinks they're the ones who don't understand.
+19. **"He's had his Doretta."** Rolph, on his back, with no nickname: "I know why he thinks that." Trice connects it all. Tor: "Sorry. Who's Doretta?" Rolph puts a log on: "Sit down, Tor. It's a story. And you're in it."
 
-**Problem** (user, November 1, 2026): the canon has the evening at the beach house hold the "nobles are kind for fear of spurning" talk. Trice warns Tor he's handsome enough that many will want him and he must be kind to them; Tor can't believe it; Rolph says he knows why: the girl who spurned him. That's the chapter's cliffhanger, and chapter 8 opens with Rolph's side of it. The summary above has the girls' spy homework that same night. Both need fitting in, or one goes.
+**Drafted** (November 1, 2026; invented, pending the user's review): the Morgan town house; the Teeth; Walt (long, bent, white moustache, straw hat, hens, sleeps light); the lamp in second year as the source of Tor's flaw saying; Trice's spy-school aside ("four different ways using only what could be found in a lady's dressing case"); Rolph eats nine biscuits.
 
-**Questions:**
-
-1. **Fitting it in:** the talk and the spy run in one night, a second night, or no spy run?
-   - Default: One night. The talk happens by the fire over Tor's biscuits and ends chapter 7 on Rolph's line. Chapter 8 opens with Rolph's story; Tor is wrung out, Rolph hands him the off-switch flaw to fix, Tor goes into his trance, and the girls slip out to do the spy work. The king's luncheon stays where it is.
-   - Option: Two nights. The talk on night one, the spy run on night two while Tor rebuilds the purifier on the beach; the king's luncheon moves back a day.
-   - Option: Cut the spy run and save it for later intrigue.
-2. **Rolph's line:** does he name Maria, or call her Tor's "Doretta"?
-   - Default: "He's had his Doretta." Trice and Sara go still, because it casts Tor as a Wylde, the very thing the court feared at Ward's dinner; Tor doesn't know the tale. Chapter 8 then names Maria.
-   - Option: He names Maria outright.
-3. **The adult on the grounds:** who keeps the night proper?
-   - Default: An old caretaker lives in a cottage by the gate and wasn't sent word (hence the near-empty pantry). He comes up at dusk with eggs and stays within earshot; the girls share a room; the boys have rooms of their own.
-   - Option: A pair of Rolph's guards follow the flight at a distance and camp on the grounds.
-   - Option: No adult; the spy run itself fills the night, and Tor's horror at the giggling is the only "scandal."
-4. **Karina's kiss as a setup:** does Tor offer it as proof that nobody wants him ("she was only joking")?
-   - Default: Yes; Sara and Trice exchange a look, and it starts Trice's lecture.
-   - Option: Nobody mentions it.
+**Answered** (user, November 1, 2026): one night. The talk ends chapter 7 on Rolph's "He's had his Doretta"; chapter 8 opens with Rolph's story and names Maria; then Rolph sets Tor on the off-switch flaw, Tor goes into a trance, and the girls slip out on the spy homework. The king's luncheon doesn't move. An old caretaker (Walt) lives in the gate cottage, wasn't sent word, brings eggs at dusk and stays within earshot; the girls share a room, the boys have their own. Tor offers Karina's kiss as a joke, and that starts Trice's lecture.
