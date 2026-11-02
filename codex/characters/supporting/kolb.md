@@ -19,6 +19,7 @@ Named **Kolb** (canon, user; earlier notes called him "Carl"). **Head instructor
 - **Chapter four, the test** (canon, user): claims the right to test; beats on the shield with a practice weapon for twenty minutes (cracking the ground under Tor), then swings his cutter. Laughs that the test was meant to be the shield **on a pell**, not on Tor. Satisfied. Never meant to test it on Tor; Tor misunderstood (user, October 17, 2026).
 - **Chapter four, the shields** (canon, user, October 18, 2026): manages the school's share of Tor's shields: the rest of the first ten, after Tor's friends have theirs, and the further copies Tor makes for the school.
 - **Chapter four, later** (canon, user, October 18, 2026): suggests Tor build a device to make a person **fly**. When Tor says it's impossible: the **Austrans** do it, their chief advantage over Noram; and didn't Tor just see Tovey flying? Feeding Tor problems on purpose (invented reading).
+- **Why he trains Tor** (canon, user, November 1, 2026): Kolb began training Tor to fight because of the Maria affair in Tor's first year (`codex/characters/supporting/maria.md`). He chose Tor personally; nobody put him up to it, and that's why he'll never let Tor off. Tor thinks it was a mistake or someone else's idea. Rolph reveals it at the beach house in chapter 8 (`outline/08-chapter-8/01-marias-dagger.md`).
 - His "revenge" turns out to be a build assignment. That leans the hidden aspect toward training, though Tor still hears it as a death threat. (invented reading)
 
 - **From the chapter two drafts** (invented; accepted by the user): wears the cutter's hilt on his belt every day. Smiles rarely; Sara has never heard him laugh aloud until the sparring. Punishes Rolph with two hundred cuts at the pell for speaking twice. Watches Tor leave on the run and says "Nice and loose" to nobody. Calls Trice and Sara "Black." Keeps Petra back late to work on her guard. "That's my homework you're complaining about."
@@ -33,7 +34,7 @@ Named **Kolb** (canon, user; earlier notes called him "Carl"). **Head instructor
 - **External tension:** Noble parents who demand their sons win; and a builder student whose trances take him out of combat for days. (first assumed; second canon-adjacent)
 - **Reaction:** A student misses his class → doesn't shout; makes a quiet, specific promise of what it will cost them, and keeps it. (canon, user)
 - **Reaction:** Tor gets hurt → no sympathy in class, quiet extra lessons after. (assumed)
-- **Hidden aspect:** Whether the "revenge" is punishment or training he thinks Tor needs. The user's quotation marks leave room for both; from outside, they look the same. (invented, undecided)
+- **Hidden aspect:** Whether the "revenge" is punishment or training he thinks Tor needs. The user's quotation marks leave room for both; from outside, they look the same. (invented, undecided) Chapter 8 leans it further toward protection: he took Tor on after Maria (canon).
 - **Voice:** Short imperatives, soldier's slang; quietest when most dangerous. (assumed)
   - "Again. Feet. You're small, so be fast. Again."
   - "You owe me an afternoon, Baker. I counted. Tomorrow we start paying it back."
