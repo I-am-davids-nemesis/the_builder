@@ -32,7 +32,7 @@ Rolph drank from the crock, and wiped his mouth with the back of his hand, and b
 
 "A second bed," said Trice, gravely.
 
-"A *second bed*. A roommate. Me." Rolph put a hand on his chest. "And on the second bed there's a boy about the size of my leg, in brown, sitting with his knees up, reading a book on sigil theory that he's *already* read, I found out later, twice, because he was nervous and it was the only one he'd brought. And the dean says, 'Mr. Rolph, this is Mr. Baker, from Two Rivers,' and goes away and leaves me there. And I'm standing in the door thinking, Two Rivers. Where in the name of all the gods is Two Rivers?"
+"A *second bed*. A roommate. Me." Rolph put a hand on his chest. "And on the second bed there's a boy about the size of my leg, in brown, sitting with his knees up, reading a book on sigil theory that he's *already* read, I found out later, twice, because he was nervous and it was the only one he'd brought. And the dean says, 'Mr. Merchant, this is Mr. Baker, from Two Rivers,' and goes away and leaves me there. And I'm standing in the door thinking, Two Rivers. Where in the name of all the gods is Two Rivers?"
 
 "Lots of people know where Two Rivers is," said Tor, to the fire.
 
