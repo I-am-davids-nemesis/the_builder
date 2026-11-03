@@ -6,7 +6,7 @@
 
 ## Scenes
 
-- **01 Maria's Dagger** (Sara): Rolph tells the Maria story; Trice tells the Wylde tale. Drafted November 1, 2026.
+- **01 Maria's Dagger** (Sara): Rolph tells the Maria story; Trice tells the Wylde tale. Drafted November 1, 2026. Ends by the fire, the same night: Tor says he "wouldn't put a *goat* on an island," Trice says nobody else knows that, and she takes the crumbled biscuit from his fist. Rolph is sitting shoulder to shoulder with Sara; Walt's milk crock is empty. Scene 2 (the homework) picks up from there.
 
 ## Carried over from chapter 7
 
