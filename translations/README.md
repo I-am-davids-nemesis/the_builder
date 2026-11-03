@@ -8,6 +8,7 @@ translations/
     book.json          # compile settings: separator, translated chapter headings
     glossary.md        # names, terms, forms of address and speech levels; the source of truth for every chapter
     status.md          # which source version each translated scene was made from
+    review/            # per chapter: passages flagged for a native reader, and their answers
     manuscript/
       01-chapter-one/
         01-the-opening.rotating-third.md   # same names as manuscript/, prose only
@@ -21,4 +22,6 @@ translations/
 - **The glossary comes first.** Before translating a chapter, read the glossary; when the chapter brings a new name, term or speaker, add it in the same change. Speech levels in particular must stay consistent from chapter to chapter (Korean picks a level for every line, and a level shift reads as a voice shift; see `AGENTS.md` §4).
 - **Record the source version.** In `status.md`, give each scene the short commit hash of the source file it was translated from (`git log -1 --format=%h -- <file>`). A scene is stale when the source has commits after that hash: `git log --oneline <hash>..HEAD -- <file>`.
 - **Translate meaning, not the original's wording**: puns, idioms and jokes get an equivalent in the target language, noted in the glossary when it's a recurring choice.
+- **Review.** For each chapter, list the passages most likely to need a native reader's eye in `review/<chapter>.md` (English, Korean, the concern). When the review comes back, apply it to the scenes, and move any lasting choice into the glossary.
+- **One language at a time** (user, November 2, 2026): get Korean right before adding others.
 - **Compile** with `node ~/workspace/local_editor/bin/compile.mjs translations/ko` from the book folder. Chapter headings come from `chapterTitles` in the language's `book.json`.

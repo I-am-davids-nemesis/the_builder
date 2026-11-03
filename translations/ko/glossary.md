@@ -17,7 +17,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | --- | --- | --- |
 | Tor → anyone older, higher, or staff | 하십시오체 / 해요체 | Over-polite everywhere; "Sorry" is 죄송합니다 (formal) or 죄송해요. |
 | Tor → Sara, Trice, other students | 해요체 | Tor → Trice adds 아가씨; noble boys get 도련님. |
-| Tor → Rolph | 해요체 | Rolph is two years older; the politeness is Tor's anxiety, not distance. (to confirm) |
+| Tor → Rolph | 해요체, calling him 형 | Rolph is two years older: Tor calls him 형 (big brother), never 롤프 to his face, and stays polite (user, November 2, 2026). |
 | Tor → himself | 반말 | His muttering: "천천히. 서두르지 마." |
 | Rolph → Tor, friends | 반말 | Loud, easy. Rolph going formal is a red flag; in Korean that means him suddenly using 하십시오체 or 하오체. |
 | Rolph → a crowd | 반말 with mock-polite 해요체 | "좀 비켜 주시겠어요, 착하지." |
@@ -46,6 +46,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Master Baker | 베이커 선생 | Trice (ironic) |
 | My dear Baker | 친애하는 베이커 | Dorgal |
 | Little Tor | 꼬마 토르 | Rolph |
+| Rolph (to his face) | 형 | Tor |
 | Baker (surname alone) | 베이커 | teachers, narration in others' viewpoints |
 | the scholarship boy, seen by a younger student | 선배 | a first-year's viewpoint (chapter 1, scene 4) |
 
@@ -64,7 +65,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Kolb | 콜브 | |
 | Doris | 도리스 | |
 | Lairdgren (School) | 레어드그렌 (학교) | |
-| Two Rivers | 투리버스 | Transliterated, like the other place names. (to confirm) |
+| Two Rivers | 두물머리 | Translated, not transliterated (user, November 2, 2026). Also the name of a real place near Seoul; the reviewer may prefer another rendering. |
 | the Ridge house | 리지 저택 | |
 
 ## Terms
