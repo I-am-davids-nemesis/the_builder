@@ -7,7 +7,7 @@
 ## Scenes
 
 - **01 Maria's Dagger** (Sara): Rolph tells the Maria story; Trice tells the Wylde tale. Drafted November 1, 2026. Ends by the fire, the same night: Tor says he "wouldn't put a *goat* on an island," Trice says nobody else knows that, and she takes the crumbled biscuit from his fist. Rolph is sitting shoulder to shoulder with Sara; Walt's milk crock is empty. Scene 2 (the homework) picks up from there.
-- **02 Homework** (Rolph, Tor alone, Sara): the girls giggle off; Rolph sets Tor on the "only listens" fix; the three slip out on the spy homework (scene cut). Tor sleeps at the kitchen table, wakes alone, misreads the sandy boots, makes breakfast, and starts the real Ford build on the beach before they fly back for the king's luncheon. Outlined November 2, 2026.
+- **02 Homework** (Rolph, Tor alone, Sara): the girls giggle off and Tor misreads it on his own; Rolph sets him on the "only listens" fix and walks him to bed; the three slip out on the spy homework (scene cut). At dawn Tor finds them asleep on the sofas, sets an intake two miles out and tests a model line that runs out safely when switched off, then cooks breakfast. Flying home, food bought at a village inn (Rolph pays; the drought's prices); over the King's river Tor sees he need only feed the rivers. Outlined November 2, 2026; they reach the king's luncheon the same day.
 
 ## Carried over from chapter 7
 

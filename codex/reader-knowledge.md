@@ -97,3 +97,7 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | The king and queen's fear | Rolph overheard them ask whether Tor would go after Ward alone | Laughs at it | The king and queen |
 | Maria's identity, for Sara | Trice tells Sara that Maria is Countess Ward | — | — |
 | Rolph and Sara | He sits by her, shoulder to shoulder; she knows what it's worth and doesn't move | Watches it fondly, as something not for him | — |
+| The girls' summer homework | The three slip out at night while Tor is in trance and asleep (scene 2); a scene cut hides where; they come back sandy and exhausted | Misread the giggling as something improper and "noble"; senses a secret and files it as noble behavior | Trice, Sara, Rolph |
+| The off-switch flaw | Switched off, the model line stops taking water and the rest runs back to the sea | Has the run-out; still needs a field that "only listens" | — |
+| The drought's price | A village innkeeper charges drought prices and blames the merchant houses; Rolph pays and hears it | Shocked by the price; worries all the way home | The innkeeper doesn't know she spoke to the prince |
+| Feeding the rivers | Over the King's river, Tor sees he need only feed Ford's rivers | His own idea; not yet told to the king | — |

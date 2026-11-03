@@ -228,7 +228,7 @@ There had been a cold roast chicken, two loaves, a great wedge of cheese, a pot 
 
 "There'll be something," said Trice. "In the house. There's always something."
 
-There was a pantry. It was a cool, narrow, whitewashed room off the kitchen, with a little high window full of sea, and slatted shelves; and on the shelves, when the three of them had gone through everything, there were a tin of flour, a crock of salt, a twist of paper with something white in it that might have been anything, a jar of honey gone solid, a sack of dried beans, a bottle of oil, and a mousetrap.
+There was a pantry. It was a cool, narrow, whitewashed room off the kitchen, with a little high window full of sea, and slatted shelves; and on the shelves, when the three of them had gone through everything, there were a tin of flour, a bag of yellow corn flour, a crock of salt, a twist of paper with something white in it that might have been anything, a jar of honey gone solid, two jars of jam, a row of dented tins with no labels, a sack of dried beans, a bottle of oil, and a mousetrap.
 
 They stood in the pantry door and looked at it. Trice had been taught to poison a man four different ways using only what could be found in a lady's dressing case, and she stood in front of a tin of flour and a crock of salt and could not see a meal in them anywhere.
 
