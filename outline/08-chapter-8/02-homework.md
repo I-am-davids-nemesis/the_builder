@@ -33,7 +33,7 @@
 6. **Out by the sea side.** The three leave by the terrace and the dune path, not past Walt's porch; Trice keeps the pipe's orange point in view (invented). Amulets, dark, gone. Scene cut.
 7. **Dawn** (Tor, alone). He wakes on top of the covers with a copper square stuck to his cheek and the lamp burnt dry. Bell count lost; the light says early.
 8. **The sofas.** In the front room, all three asleep in their clothes: Rolph with his boots on the arm, Trice curled tight, Sara upright as if waiting for a carriage; sand on the rug. He goes pink, decides very firmly it's none of his business, and tiptoes out to the beach.
-9. **Two miles out.** He watches the tide line, can't tell where it stops, and does the sum the safe way. Flies out alone over open water until the bottom drops away green-black, and sets the intake square (invented: how he anchors it is open).
+9. **Two miles out.** He watches the tide line, can't tell where it stops, and does the sum the safe way. Flies out alone over open water until the bottom drops away green-black, and sets the intake: he builds the square into a stone lifted from the Teeth and drops it on the bottom, where it holds by weight (user, November 2, 2026).
 10. **The model.** A new flow snakes up out of the sea, over the beach, and back in a couple of hundred yards down. He switches it off; the intake stops, and the water already in the air runs on and pours home. "That's one." He takes it down, still muttering about listening.
 11. **Breakfast.** The milk crock is empty. Corn flour cakes, jam, the tinned meat fried, eggs. The fire properly this time.
 12. **The sleepers** (Sara). Trice in, hair like a hedge, eats without speaking. Sara, washed and pinned, helps carry plates and is warm and careful with him all through breakfast, making up for the night before; he's courteous, won't meet anyone's eye, asks nothing. Rolph last, sand in his ear, too cheerful.
@@ -41,11 +41,4 @@
 14. **The inn.** They land in a copse and walk into a village. The fields are green, but too pale; the innkeeper's prices make Tor stop. She explains, wrapping bread and cheese: drought, the merchant houses, take what she can now. Sara hears "merchant houses" and says nothing. Rolph pays, and listens.
 15. **The King's river.** Eating in the air, Tor goes quiet. Following the river home, Sara watches him look down at it, then along it, then at the little ditches running off it into the fields; and then he says, to nobody, that he doesn't need the farms at all. Only the rivers.
 
-**Questions:**
-
-1. **What Sara regrets:** with the tease dropped, is it the giggling exit itself that lands badly on Tor?
-   - Default: Yes; she sees his face at the door (beat 2), and that's what she makes up for at breakfast.
-   - Option: Nothing lands badly; drop the making-up and keep Sara simply fresh and kind.
-2. **The intake two miles out:** how does a square stay put in open sea?
-   - Default: Tor builds it into a stone he lifts from the Teeth and drops on the bottom; it holds by weight.
-   - Option: It floats, held in place by its own field.
+**Answered** (user, November 2, 2026): Sara regrets the giggling exit itself; she sees Tor's face at the door (beat 2), and that's what she makes up for at breakfast. The intake is built into a stone from the Teeth and dropped on the sea bottom two miles out, holding by weight.
