@@ -16,6 +16,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Speaker → listener | Level | Notes |
 | --- | --- | --- |
 | Tor → anyone older, higher, or staff | 하십시오체 / 해요체 | Over-polite everywhere; "Sorry" is 죄송합니다 (formal) or 죄송해요. |
+| Tor → Sara, Trice, other students | 해요체 | Tor → Trice adds 아가씨; noble boys get 도련님. |
 | Tor → Rolph | 해요체 | Rolph is two years older; the politeness is Tor's anxiety, not distance. (to confirm) |
 | Tor → himself | 반말 | His muttering: "천천히. 서두르지 마." |
 | Rolph → Tor, friends | 반말 | Loud, easy. Rolph going formal is a red flag; in Korean that means him suddenly using 하십시오체 or 하오체. |
@@ -46,6 +47,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | My dear Baker | 친애하는 베이커 | Dorgal |
 | Little Tor | 꼬마 토르 | Rolph |
 | Baker (surname alone) | 베이커 | teachers, narration in others' viewpoints |
+| the scholarship boy, seen by a younger student | 선배 | a first-year's viewpoint (chapter 1, scene 4) |
 
 ## Names
 
@@ -97,4 +99,9 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | the cafeteria | 식당 | |
 | Trust me | 내 말 믿어 | Rolph's tic. |
 | Ha! | 하! | The theory master's tic. |
+| quaint | 예스럽다 | Dorgal's tic: "예스럽군. 아주 예스러워." |
+| Interesting (Dorgal, instead of admitting confusion) | 흥미롭군 | |
+| "Nobody would notice one baker" | 빵집 아들 하나쯤 아무도 눈치 못 채 | The pun on Baker, by meaning. |
+| drown ("you drowned him") | 익사시키다 | |
+| liniment | 고약 | |
 | Right! | 자! | Rolph taking over a room. |

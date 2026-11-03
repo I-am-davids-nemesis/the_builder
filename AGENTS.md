@@ -138,6 +138,7 @@ codex/
     supporting/                   # one file per supporting character
   locations/                      # one file per place
   _templates/                     # templates the editor uses for new entries
+translations/                     # one folder per language (ko/), laid out like the book; see translations/README.md
 compiled/                         # generated chapters/book per mode; not committed
 book.json                         # editor settings (the scene separator for compiling)
 ```
@@ -147,6 +148,7 @@ book.json                         # editor settings (the scene separator for com
 - **Reordering:** renumber with `git mv` so history follows the file.
 - **Scene files hold prose only:** no headings, no draft notes. Plot, POV and who's present go in the outline file.
 - **Whole chapters are compiled** from the scene files, per mode; don't keep hand-assembled chapter files. From the book folder, run `node ~/workspace/local_editor/bin/compile.mjs` (every chapter, plus `compiled/book.rotating-third.md`), or pass a chapter (`03-chapter-three` or `3`). The editor's **Compile…** button does the same. Scenes are joined with `⁂` (set in `book.json`) under a heading from the folder name (`* * *` inside a scene file marks a break within the scene); a scene missing a mode file is skipped with a warning.
+- **Translations** live in `translations/<language>/`, mirroring `manuscript/` file for file. Follow `translations/README.md`: read the language's `glossary.md` first, and record each scene's source commit in its `status.md`.
 - **No code in the book.** The book holds prose, outlines, codex and notes only. Tools (compiling, checks, scripts of any kind) belong in the editor project at `~/workspace/local_editor`; add them there, not here.
 
 Migrated from `the_builder` (see the first commit for the source commit). The old `examples/` drafts and hand-assembled `chapters/` stay in that repository.
