@@ -41,17 +41,58 @@
 
 **Questions:**
 
-1. **What the field listens to:** what's the fix for the off-switch flaw?
-   - Default: It answers only to Tor and to a key square he'll make for the king; anyone else's hand does nothing.
-   - Option: It listens to nobody; it can only be stopped at the sea end, by taking the square out of the water.
-   - Option: It listens to a word or pattern only Tor knows, which becomes a burden later.
-2. **The real build:** how much of the Ford line does Tor start at the beach?
-   - Default: Only the intake square on the rock, sealed so it can't be stopped; the line itself waits for the king's meeting.
-   - Option: The intake and the first stretch over the bluffs, so they see water going inland as they fly off.
-3. **The homework on the page:** does the reader see the night mission at all?
-   - Default: No; a scene cut, and only the boots, the sand and the yawning come back.
-   - Option: A short Trice section in the dark, on explicit action only, without saying what the target is.
-   - Option: Later in the book, a hint of what they did (something reported at the capital) lets the reader connect it.
-4. **Tor's misreading:** how far does it go?
-   - Default: He fears something vaguely improper and "noble," goes red, never names it, and is extra courteous to them at breakfast.
-   - Option: He decides it's gambling, which he thinks is just as shocking.
+1. **Who does the distracting:** summary 2 has Sara planting the idea of dating, summary 3 has Rolph sighing that getting Tor into a trance is his job, and summary 4 has Rolph denying anything improper. Who does what?
+   - Default: Sara's tease starts it; Tor goes red and flustered; Rolph sees it's made things worse, denies it, and has to rescue it with the "only listens" question.
+   - Option: Sara and Rolph agree on it together; the insinuation works and the trance is only to keep him busy all night.
+   - Option: Drop Sara's tease; Tor reaches the misreading from the giggling on his own.
+2. **Sara being cruel:** her voice rule is "teasing that never stings," and she's just sat through the Maria story. Is the cruelty deliberate?
+   - Default: She means it lightly and sees too late how it lands, so she spends breakfast making it up to him (she comes out fresh and kind).
+   - Option: It's deliberate, Rolph's idea, and she's ashamed of it; add it to her codex as a reaction-rule break.
+   - Option: Trice does it instead; edges are her voice, not Sara's.
+3. **Changing the mood:** after the Doretta tale, is "getting Tor back on track" a reason the girls give each other, or only the cover for the homework?
+   - Default: Both: the homework was always planned for tonight, and the mood is Trice's excuse for going now.
+   - Option: It's real; they'd have skipped the homework, but Tor needs his mind on something else.
+4. **Where Tor sleeps:** summary 6 has him on his bed; the beats have him at the kitchen table. Does he go to his room himself, in a trance?
+   - Default: Rolph walks him to his room still muttering; he works on the bed with the copper on his knees and falls asleep on top of the covers.
+   - Option: He sleeps at the table and Rolph carries him up when they get back.
+5. **Seeing them asleep:** how does Tor know they're "fast asleep and disheveled" without looking into the girls' room?
+   - Default: Rolph is asleep face down in the front room in his boots, too tired to reach his bed; the girls' door is shut and Tor tiptoes past it, very red.
+   - Option: All three are asleep on the sofas in the front room, sandy and still dressed.
+6. **The fix:** summary 9 has a new fix: switching it off stops only the intake, and water already in the air finishes its run. Does that replace the field that "only listens"?
+   - Default: Both: the run-out stops water falling on anyone; "only listens" stops a stranger switching it off. He builds the first at dawn and keeps thinking about the second.
+   - Option: The run-out is the whole fix; whoever turns it off only cuts the supply, and the king can post guards.
+7. **Two miles out:** what is the extra mile or two for?
+   - Default: The intake sits two miles out to sea so no tide ever leaves it dry and the water is clear of sand; Tor flies out alone at dawn to set it.
+   - Option: It's how far the line's end runs back out to sea, so the run-out water lands well clear of the beach.
+8. **The real build:** is the test loop at dawn the start of the Ford line, or a model?
+   - Default: A model, taken down afterward; the real line waits for the king.
+   - Option: The intake stays out there for good, ready to be joined to the line later.
+9. **The pantry:** chapter 7 found only flour, salt, soda, honey, beans, oil and a mousetrap. Where do corn flour, jam and canned meat come from?
+   - Default: A cellar under the kitchen nobody remembered, with Walt's jams and old tinned stores; Rolph never knew it was there either.
+   - Option: Walt brings them up with the eggs.
+   - Option: Change chapter 7's pantry list to include them.
+10. **The inn and the king's luncheon:** the luncheon is today, the day after the beach night. How do they stop for lunch on the way?
+    - Default: An early meal at mid-morning, a quick stop because Rolph is starving; they still reach the palace in time.
+    - Option: The king's luncheon moves to the next day.
+    - Option: Not a meal; they land for water and something to eat in the hand.
+11. **Landing in public:** four people come down out of the sky at a village. Is flying secret, and is Rolph recognized?
+    - Default: They land out of sight by the river and walk in, as four travelers in plain clothes; nobody knows the prince.
+    - Option: They land in the yard; the village stares, and word of it reaches the capital (Austrans fly).
+12. **Green or brown:** the innkeeper says "everything looks green now," but in chapter 7 the flight showed brown country, Ford worst of all. Which is it?
+    - Default: The inn is east of Ford, on the river, where it's still green; Ford, behind them, is already brown, and the river is low.
+    - Option: Green fields that are already dying, a green that's too pale; the innkeeper knows what it means.
+13. **Who pays and who reacts:** whose purse settles the inn bill, and does Sara say anything when the innkeeper blames the merchant houses?
+    - Default: Tor insists on paying from his building money; Sara goes quiet at "merchant houses," knowing Debri ships grain at drought prices.
+    - Option: Rolph pays, and the innkeeper's speech is aimed, without knowing it, at the prince.
+14. **The rivers:** does Ford have rivers to feed, and which is the King's river?
+    - Default: The King's river runs west from the capital to the sea along Ford's edge, and Ford's own rivers are low; feeding a few of them replaces the plan of branches to every farm (chapter 7).
+    - Option: Ford's rivers run dry every summer; Tor will fill their beds.
+15. **POV after breakfast:** who holds the viewpoint for the flight, the inn and the realization over the river?
+    - Default: Sara: she prices the inn bill, sees Tor go quiet with worry, and watches him work out the rivers in the air.
+    - Option: Rolph, who knows the river from childhood flights.
+16. **The homework on the page:** does the reader see the night mission at all?
+    - Default: No; a scene cut, and only the tiredness and the nerves at breakfast come back.
+    - Option: A short Trice section in the dark, on explicit action only, without saying what the target is.
+    - Option: Later in the book, a hint of what they did (something reported at the capital) lets the reader connect it.
+17. **Item 14 and the old beats:** summary 14 is empty, and the beats below still follow the first outline (breakfast before the build, Walt, the rock at the Teeth). Rebuild the beats from your summary once these are answered?
+    - Default: Yes; replace the beats, and drop the stray "before they fly back" line.
