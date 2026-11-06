@@ -46,7 +46,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Trice → Tovey | 반말, 오빠 / 토비 오빠 | Tovey is older (user, November 6, 2026). To others she still says 토비 or 오빠 for him. |
 | Trice → Wensa | 해요체, bare 웬사 | A duke's daughter to a staff member: polite form, no title. |
 | Wensa → Tor, students | 반말, clipped, 베이커 군 | "아니." "그러겠지." "베이커 군. 일어나." "Mr. Sorvey" → 소르비 군. (chapter 4) |
-| Wensa → Rolph | 반말, cold | "그 애가 한 일이라면 나도 알고 있어." Her cover depends on treating him as any student. (to confirm) |
+| Wensa → Rolph | 반말, cold | "그 애가 한 일이라면 나도 알고 있어." Her cover depends on treating him as any student. Accepted by the user, November 6, 2026. |
 | Wensa → Kolb, staff | 해요체 | "제작자라면 자기 장비를 믿어야지요." |
 | Rolph → Wensa | 해요체 | "좋은 아침이에요." Deliberately not the 하십시오체 students use to teachers, and not his father's voice either (chapter 4, scene 3). |
 | Rolph → the building master | 하십시오체 | Students → teachers. |
@@ -54,7 +54,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Dorgal → Marco, his friends | 반말 | "신사 여러분" for "Gentlemen," mock-grand. |
 | Marco → Dorgal | 반말 | |
 | Bet Haskins → Rolph, Trice | 반말 | 젊은이 for "young man"; "그럼 됐고" for "Well, then." |
-| Trice → Tor (chapter 4, scene 9) | 해요체, angry; 당신 | Scolding while feeding him: "아 해요" ("Open"), repeated. 당신 here is exasperation, not intimacy. "Master Baker" stays 베이커 선생. |
+| Trice → Tor (chapter 4, scene 9) | 해요체, angry; 당신 | Scolding while feeding him: "아 해요" ("Open"), repeated. 당신 here is exasperation, not intimacy (accepted by the user, November 6, 2026). "Master Baker" stays 베이커 선생. |
 | Tor → Trice | 해요체, 트리스 아가씨 | Even when she's feeding him. "You're a very good friend, Trice" → 트리스 아가씨는 정말 좋은 친구예요. |
 | Sara → her father (letters) | 하십시오체 | "아버지께," formal and exact: a merchant's daughter writing a report. |
 | Tovey → Sara | 하오체, 데브리 양 | "Miss Debri." |
@@ -200,7 +200,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | assault (a peer) | 폭행 | |
 | the special school / the academy | 특별 학교 / 아카데미 | Narration and Tor say 특별 학교; Rolph says 아카데미. |
 | porters' lodge | 수위실 | |
-| infirmary, the sister | 의무실, 간호 수녀 | (to confirm) |
+| infirmary, the sister | 의무실, 간호사 | Neutral, no religious color (user, November 6, 2026). |
 | accounts (the class) | 회계 | |
 | journeymen | 직인 | |
 | manufactory | 공장 | |
@@ -232,7 +232,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | the egg (hand control) | 달걀, 달걀 모양의 것 | The handheld control for the flying plate. |
 | the hollow (on/off) | 오목한 데 | |
 | flying (Austrans) | 날다; 오스트라 놈들 (Kolb) | |
-| the chapel | 예배당 | (to confirm: religious color, like 간호 수녀) |
+| the chapel | 회당 | Neutral, not 예배당 (user, November 6, 2026). Applies to the school's and Hollin's. Similes avoid religious words too ("bearing a relic" → 가보를 받쳐 든). |
 | a man's height; the height of a hay cart | 사람 키, 두 길; 건초 수레 높이 | |
 | Oh, *Tor* | 아, *토르* | Tor scolding himself (scenes 2 and 10). |
 | "Nice and loose" | 부드럽게 잘 가는군 | Kolb's tic, as in chapter 2. |

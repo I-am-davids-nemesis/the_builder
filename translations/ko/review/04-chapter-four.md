@@ -8,11 +8,11 @@ The chapter covers about a month of early spring: Tor builds and tests a magic s
 
 ## Across the whole chapter
 
-1. **Wensa's speech level.** She's a royal guard pretending to be a teacher, so she uses curt 반말 to students ("아니." "그러겠지." "베이커 군. 일어나.") and 해요체 to staff. To Rolph, whom she is secretly guarding, she also uses 반말 ("그 애가 한 일이라면 나도 알고 있어"). Does she sound cold and controlled, rather than rude?
-2. **Trice's 당신 in scene 9.** Scolding Tor while she spoons broth into him, she calls him 당신 ("당신은 엄청나게 골칫거리예요", "당신 외상이라고요"). Intended as exasperation. Does 당신 sound too intimate, or like a married couple quarrelling? Alternatives: drop the pronoun, or 토르 씨.
+1. **Wensa's speech level.** She's a royal guard pretending to be a teacher, so she uses curt 반말 to students ("아니." "그러겠지." "베이커 군. 일어나.") and 해요체 to staff. To Rolph, whom she is secretly guarding, she also uses 반말 ("그 애가 한 일이라면 나도 알고 있어"). Does she sound cold and controlled, rather than rude? *(Author: keep 반말.)*
+2. **Trice's 당신 in scene 9.** Scolding Tor while she spoons broth into him, she calls him 당신 ("당신은 엄청나게 골칫거리예요", "당신 외상이라고요"). Intended as exasperation. Does 당신 sound too intimate, or like a married couple quarrelling? Alternatives: drop the pronoun, or 토르 씨. *(Author: keep 당신 unless it reads wrong to you.)*
 3. **"Open"** (feeding) → 아 해요, repeated a dozen times. Natural, or too babyish for an angry young woman?
 4. **Units** (traditional, as before): four feet → 넉 자; six inches → 다섯 치; an inch → 한 치; a hand's breadth → 한 뼘; a mile → 4리; "a man's height, two" → 사람 키만큼, 두 길.
-5. **예배당, 간호 수녀.** The town has a chapel; the school has an infirmary sister. Is the religious color right for this world, or should these become neutral words?
+5. ~~**예배당, 간호 수녀.**~~ Answered by the author: neutral words, 회당 and 간호사, in every chapter. Is 회당 a natural word for a small town's chapel with a tower?
 
 ## Scene 1: The tests (Wensa)
 
@@ -72,7 +72,7 @@ The chapter covers about a month of early spring: Tor builds and tests a magic s
 38. **"Tor, marry me."** → 토르. 나랑 결혼하자. Sara is more than half serious; it's said in her steady business voice. Does 반말 with 하자 sound like a real proposal?
 39. **The argument** between Sara and Trice in trading terms: 우선 매수권, "값을 매긴다고 산 건 아니라고", "값을 묻는 게 거래를 트는 거라고". Do these sound like two clever girls, not lawyers?
 40. **"I've asked a girl to a dance before."** → 저도 전에 여자애한테 춤추자고 해 본 적 있어요. The line has to hurt quietly; it refers to an old humiliation.
-41. **"bearing a relic"** → 성물을 모시는 사람 같은 태도로.
+41. **"bearing a relic"** → 가보를 받쳐 든 사람 같은 태도로 (made neutral, like 회당).
 
 ## Scene 9: The broth (Trice)
 

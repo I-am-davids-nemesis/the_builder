@@ -51,4 +51,4 @@ The chapter runs from terror (a night chase) to comedy (the hearing, and Rolph's
 23. **"I can't make toast … I set fire to a fork."** → 난 토스트도 못 만들어 … 포크에 불을 냈지. Does toast fit the setting, or should it become something more Korean (e.g., 밥도 못 해)?
 24. **"That's like being told the moon has a family name."** → 달한테 성(姓)이 있다는 말을 듣는 거 같아요.
 25. **The joke about Wensa chasing Tor** ("I've never been chased about by a woman before. I'd have thought I'd enjoy it more.") → 여자한테 쫓겨 다녀 본 건 처음인데. 더 즐거울 줄 알았어요. Must stay innocent and silly, not suggestive. Does it?
-26. **"the infirmary sister"** → 간호 수녀. Is the religious color wrong for this world? 간호사 would avoid it.
+26. **"the infirmary sister"** → 간호사 (changed from 간호 수녀 by the author's choice, November 6, 2026). Is the religious color wrong for this world? 간호사 would avoid it.
