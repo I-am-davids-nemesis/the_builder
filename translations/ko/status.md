@@ -17,3 +17,13 @@
 | `03-chapter-three/04-the-hearing` | 0e463e6 | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
 | `03-chapter-three/05-the-headmasters-advice` | f63d8dc | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
 | `03-chapter-three/06-what-rolph-knows` | 0e463e6 | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
+| `04-chapter-four/01-the-tests` | 1321d0a | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/02-the-introduction` | 14db5eb | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/03-the-template` | 2b03982 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/04-the-test` | 06daf74 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/05-interlude` | 06daf74 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/06-kolbs-challenge` | 50cf384 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/07-the-ceiling` | 50cf384 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/08-the-cold-snap` | aca837e | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/09-the-broth` | 2b03982 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `04-chapter-four/10-the-first-flight` | 2db0664 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |

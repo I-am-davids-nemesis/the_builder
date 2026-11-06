@@ -45,6 +45,19 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Tovey → Trice, Tor, Wensa | 하오체 | Tor is 그대 when Tovey apologizes. |
 | Trice → Tovey | 반말, 오빠 / 토비 오빠 | Tovey is older (user, November 6, 2026). To others she still says 토비 or 오빠 for him. |
 | Trice → Wensa | 해요체, bare 웬사 | A duke's daughter to a staff member: polite form, no title. |
+| Wensa → Tor, students | 반말, clipped, 베이커 군 | "아니." "그러겠지." "베이커 군. 일어나." "Mr. Sorvey" → 소르비 군. (chapter 4) |
+| Wensa → Rolph | 반말, cold | "그 애가 한 일이라면 나도 알고 있어." Her cover depends on treating him as any student. (to confirm) |
+| Wensa → Kolb, staff | 해요체 | "제작자라면 자기 장비를 믿어야지요." |
+| Rolph → Wensa | 해요체 | "좋은 아침이에요." Deliberately not the 하십시오체 students use to teachers, and not his father's voice either (chapter 4, scene 3). |
+| Rolph → the building master | 하십시오체 | Students → teachers. |
+| Tor → Dorgal | 해요체 / 하십시오체, 소르비 도련님 | "Master Sorvey." The formal introduction (chapter 4, scene 2) goes up to 하십시오체: "…도걸 소르비 도련님이십니다." |
+| Dorgal → Marco, his friends | 반말 | "신사 여러분" for "Gentlemen," mock-grand. |
+| Marco → Dorgal | 반말 | |
+| Bet Haskins → Rolph, Trice | 반말 | 젊은이 for "young man"; "그럼 됐고" for "Well, then." |
+| Trice → Tor (chapter 4, scene 9) | 해요체, angry; 당신 | Scolding while feeding him: "아 해요" ("Open"), repeated. 당신 here is exasperation, not intimacy. "Master Baker" stays 베이커 선생. |
+| Tor → Trice | 해요체, 트리스 아가씨 | Even when she's feeding him. "You're a very good friend, Trice" → 트리스 아가씨는 정말 좋은 친구예요. |
+| Sara → her father (letters) | 하십시오체 | "아버지께," formal and exact: a merchant's daughter writing a report. |
+| Tovey → Sara | 하오체, 데브리 양 | "Miss Debri." |
 | Rolph going formal (chapter 3, scene 6) | 하십시오체 to Tor | "말했단 말입니까. … 확실합니까?" The signal. Rolph alone in the room, "very nearly formal" (scene 2), slips to 해요체: "아니요. 그렇게는 안 돼요." |
 
 ## Forms of address
@@ -72,6 +85,12 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Mistress Wensa | 웬사 선생 (narration, staff), 웬사 선생님 (Tor) | |
 | Scholar (Campbell to Tor) | 학사 | Same as Tovey's 베이커 학사. |
 | sir (to the headmaster) | 교장 선생님 | Tor |
+| Master Sorvey (Tor to Dorgal) | 소르비 도련님 | Tor |
+| Mr. Sorvey (Wensa to Dorgal) | 소르비 군 | Wensa |
+| Miss Debri | 데브리 양 | Tovey |
+| Miss Morgan (the porter's message) | 모건 아가씨 | |
+| Count Thompson | 톰프슨 백작님 | Tor |
+| Black! (Kolb to Trice and Sara) | 검은 옷 | Kolb, unchanged from chapter 2 |
 
 ## Names
 
@@ -106,6 +125,14 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | the Arlen works | 알렌 공방 | |
 | the Duke of Morgan | 모건 공작 | |
 | Ducharina (a duke's daughter) | 공녀 | Translated, not transliterated (user, November 6, 2026): "the Ducharina Patricia Alyson Morgan" → 퍼트리샤 앨리슨 모건 공녀. Tricia 트리샤. |
+| Marco | 마르코 | Dorgal's fourth-year follower. |
+| the black-eyed man | 세 번째 남자 | He has no name; narration calls him "the third man" (세 번째 남자). |
+| Haddon (the carter) | 해든 | |
+| Terlee | 털리 | Tor's sister (a label on his money bags). |
+| Noram | 노람 | The kingdom. |
+| Sam Carter | 샘 카터 | Hollin boy. |
+| the Plough (Hollin tavern) | 쟁기 주점 | Translated, like 무덤 주점. |
+| Mistress Haskins (Rolph's form) | 해스킨스 아주머니 | |
 
 ## Terms
 
@@ -179,3 +206,34 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | manufactory | 공장 | |
 | "What are friends for?" | 친구 좋다는 게 뭐겠어요? | Tor's deadpan; nobody but Trice hears the joke. |
 | a very sensible tap | 아주 분별 있는 톡톡 | Trice; Tor's "Several taps" → 여러 번 톡톡. |
+| sweetheart; walking out with | 애인; 사귀다 | Dorgal's mockery. Kept non-sexual. |
+| the bridegroom | 신랑 | Dorgal: "신랑한테 축하 인사 정도는 해 줘야겠지." |
+| marrying up | 시집 잘 가는 셈 | |
+| ledger | 장부 | Wensa's prop; also Trice's mental accounts (그녀는 그것도 장부에 올렸다). |
+| template | 원판 | The master copy a builder copies from. |
+| copies | 복사본 | |
+| the undercroft | 지하실 | Where the isolation chambers are. |
+| the shutter (in a chamber door) | 덧문 | |
+| the rods (royal guard) | 막대, 근위대 막대 | Not 지팡이. |
+| guard (Wensa's calling) | 호위 | "which was what a guard was for" → 호위란 그러라고 있는 것. |
+| resist (etching) | 방식제 | |
+| the food dryer | 음식 말리는 것 | Rolph's "fruit dryer" → 과일 말리는 거. No fixed name, by design (outline). |
+| the heater/cooler plate | 구리판, 판 | No name yet (outline: Tor calls it plain things). "It moves the warm" → 따뜻한 걸 옮겨요. |
+| cellar | 지하 창고 | Tor's explanation of ground heat. |
+| enough (the stop) | 이만하면 됐다 | "I didn't think about *enough*" → *이만하면 됐다*는 생각을 안 했어요. |
+| pay it back (the ground lends) | 빌려주다, 갚다 | |
+| first refusal; opening the account | 우선 매수권; 거래를 트다 | Sara and Trice's proposal argument. |
+| Marry me | 나랑 결혼하자 | Sara, in her father's voice; still 반말. |
+| I saw him first | 내가 먼저 봤어 | Trice. |
+| "I've asked a girl to a dance before." | 저도 전에 여자애한테 춤추자고 해 본 적 있어요 | The Maria wound, unspoken. |
+| rota | 당번표 | Trice's. |
+| Open (feeding) | 아 해요 | Trice's refrain. |
+| gone under (the trance) | 들어갔다 | Rolph and Bet: "들어갔어." |
+| the egg (hand control) | 달걀, 달걀 모양의 것 | The handheld control for the flying plate. |
+| the hollow (on/off) | 오목한 데 | |
+| flying (Austrans) | 날다; 오스트라 놈들 (Kolb) | |
+| the chapel | 예배당 | (to confirm: religious color, like 간호 수녀) |
+| a man's height; the height of a hay cart | 사람 키, 두 길; 건초 수레 높이 | |
+| Oh, *Tor* | 아, *토르* | Tor scolding himself (scenes 2 and 10). |
+| "Nice and loose" | 부드럽게 잘 가는군 | Kolb's tic, as in chapter 2. |
+| hand's breadth; hand and a half | 한 뼘; 한 뼘 반 | |
