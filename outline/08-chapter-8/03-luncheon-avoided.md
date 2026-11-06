@@ -15,7 +15,7 @@
   12. **The steady hand.** Tor asks for the guard with the steadiest hand who'll take orders from him. They bring an older, grizzled soldier. Tor tells him: he'll go down and tie a rope on the boy; when he signals, pull him out, and keep pulling even if he's screaming. The soldier: "Got it." (The soldier works the loaded luggage as the lift; assumed.)
   13. **Down.** He's dangled over the hole and lowered in with a coil of rope. About ten feet down he finds the boy, puts his spare shield on him, and ties the rope round him. He calls to be pulled up.
   14. **The girl.** Then he sees a second child, a girl of three or four, a few feet farther down and in. He calls to wait; they don't, because he told them not to. He rips off his own shield, throws it at her, and tries with everything he has to switch it on from a distance, hoping she's close enough. By now it's completely dark: the soil is coming in on them.
-  15. **Rolph's field.** In desperation he tries what he's seen Rolph do: a raw shield field, an organized sense of movement and connection, between himself and the girl. Filth is rammed into his mouth; his ankle tears and stretches under the rope, and something snaps. He nearly blacks out and can't let himself: he can't let go of the field, or she dies.
+  15. **Rolph's field.** In desperation he tries what he's seen Rolph do (in our codex, Rolph's hereditary field is a line of force, so that's what Tor makes; invented, November 6, 2026): a raw field, an organized sense of movement and connection, between himself and the girl. Filth is rammed into his mouth; his ankle tears and stretches under the rope, and something snaps. He nearly blacks out and can't let himself: he can't let go of the field, or she dies.
   16. **Into the light.** Light all round him; he's up, with the boy, and the soldier starts lowering them to the ground. Tor screams to go higher, he has her, hoping to use the connection to pull her free; it comes out a weak gasp. They're set down, and people surround them and drag him and the boy away from the edge as the pit caves in.
   17. **He won't allow it.** He will not let a child die because he's weak or doesn't matter. He holds out his right hand and remembers the field he made at the beach for moving water from one place to another (chapter 7), and builds one like it for something much heavier: dirt. It has to be far, impossibly stronger, since dirt doesn't flow, and it has to happen at once, because a buried shield gives no air. He believes it isn't possible for someone like him. There's no choice.
   18. **"Move."** He tries to firm his voice and manages a whisper, flat, all emotion gone. Rage comes over him: anger at dirt, at the unfairness of it, stupid or not. He says it again, gasping, trying to shout and failing: "Move. I command you… Move!"
@@ -52,6 +52,8 @@
 16. **The fountain.** The ground goes up like a fountain. Dust, old filth and a tiny girl tumbling through it with a copper plate in her fist, landing and sticking flat as if nailed, howling.
 17. **Crying.** Tor holds the boy in his lap and stares at the girl. His eyes fill; then he simply tips over. Somewhere up the hill, the bell rings for the king's luncheon.
 
+**Drafted** (November 6, 2026; the defaults below were used; invented, pending the user's review): the tanners' yards below the wall downstream, hides on racks; Rolph fears a riot against the Hill; Kolb's voice comes out of Rolph unbidden, twice ("Do what he says"); the rake-thin guardsman; Tor's "I'm quite small. I think I'll go round"; all ten plates stacked under Rolph's iron-cornered trunk; Tor's gray Two Rivers linen drawers, and his face white, not red; the old tanner's knot and warning; the grizzled guard who turned down stripes, "Got it"; Trice walks the crowd back like a governess, Sara holds the mother's hand; the boy wedged ten feet down, the flour-sack knot; Tor's shield takes a strip of his ear; Tor stood in Rolph's line at the Ward dinner and knows it from inside; the pit collapses into a bowl twenty feet across; Rolph's scream recalls a goose in the palace kitchen yard at eight; the fountain throws up crocks, a boot, a green glass bottle with old letters, a rusted hoop, a long-dead cat; the girl is pinned flat until the field lets go, then a woman nobody had noticed snatches her and runs (her family isn't named); Tor's tears, then he tips over and Rolph catches his head; the palace bell rings three; Trice: "We're going to be late." Rolph: "Yes."
+
 **Questions:**
 
 1. **The POV split:** Rolph, then Tor in the pit, then Rolph again for the fountain?
@@ -59,7 +61,7 @@
    - Option: Sara watches from above instead of Rolph, so Rolph's scream is seen from outside.
    - Option: Tor holds it from the moment he goes over the edge to the end, including passing out.
 2. **The girl:** who is she, and why did nobody know she was down there?
-   - Default: A neighbor's child who followed Simon to the midden; her family hadn't missed her yet. Her parents come running after the fountain (next scene).
+   - Default: A neighbor's child who followed Simon to the midden; her family hadn't missed her yet. In the draft a woman snatches her and runs off into the crowd; who she is comes later.
    - Option: Simon's younger sister; the parents thought she was at home.
    - Option: Nobody claims her, which becomes its own thread.
 3. **The spare shield:** why does Tor have a second one on him?
@@ -75,3 +77,7 @@
 6. **Tor's injury:** what does the snap break?
    - Default: The left ankle, broken where the rope held it.
    - Option: The lower leg, a worse break that keeps him off it for weeks.
+7. **Rolph recognizes his own field:** in the draft he feels the earth field gather "from the inside," like his rage at Ward's table, and sees the girl pinned the way his line pins things. Does he say so to anyone?
+   - Default: Not yet; he keeps it, and it feeds his envy (rolph.md, internal tension).
+   - Option: He tells his mother at once.
+   - Option: Cut the recognition; Rolph only sees something he can't explain.
