@@ -56,12 +56,4 @@
 
 **Answered** (user, November 6, 2026): the POV split stands (Rolph, Tor in the pit, Rolph). The spare shield is Rolph's; Tor asks for it before going down. The shield did switch on after all, and Tor never knows whether it or his field saved the girl. Trice holds the crowd back; Sara stays with Simon's mother. Who the girl is and what Tor's injury is are left for chapter 9 (the draft only shows the left foot at a wrong angle and the woman who carries the girl off).
 
-**Questions:**
-
-1. **Rolph recognizes his own field:** in the draft he feels the earth field gather "from the inside," like his rage at Ward's table. Does he say so to anyone?
-   - Default: Not yet; he keeps it, and it feeds his envy (rolph.md, internal tension).
-   - Option: He tells his mother at once.
-   - Option: Cut the recognition; Rolph only sees something he can't explain.
-2. **The line-of-force change:** keep Tor copying Rolph's line of force in the pit rather than a shield?
-   - Default: Keep it; it matches Rolph's codex entry.
-   - Option: Go back to a shield field, as in the original.
+**Answered** (user, November 6, 2026, second round): Rolph does **not** recognize his own field; he feels something gather through the ground and can't explain it. Tor's field in the pit stays a copy of Rolph's line of force (unseen by anyone but Tor).

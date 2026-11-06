@@ -212,7 +212,7 @@ Tor's face was turned to the bowl, and his teeth were showing.
 
 The hairs went up on Rolph's arms.
 
-He felt it. He felt it come up through his knees, through the ground, the way you feel a cart go over a bridge when you're standing on it, a long low gathering, *getting ready*; and he knew it. He knew it from the inside. He'd felt that same thing get ready in his own chest at Ward's table, a breath before he'd put a table through a wall.
+He felt something. He felt it come up through his knees, through the ground, the way you feel a cart go over a bridge when you're standing on it, a long low gathering, *getting ready*. He didn't know what it was. He'd never felt anything like it in his life, and he didn't stop to wonder.
 
 Nobody else had moved. They were all round the bowl, all two hundred of them, cheering, slapping, crowding to see the boy, standing on its very edge.
 
