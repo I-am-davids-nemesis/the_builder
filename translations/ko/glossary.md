@@ -59,6 +59,28 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Sara → her father (letters) | 하십시오체 | "아버지께," formal and exact: a merchant's daughter writing a report. |
 | Tovey → Sara | 하오체, 데브리 양 | "Miss Debri." |
 | Rolph going formal (chapter 3, scene 6) | 하십시오체 to Tor | "말했단 말입니까. … 확실합니까?" The signal. Rolph alone in the room, "very nearly formal" (scene 2), slips to 해요체: "아니요. 그렇게는 안 돼요." |
+| Rolph at home → George, Quavel, staff (chapter 5) | 하게체 | His code switch at the palace gate: "조지. 잘 있었나." A young lord to older servants; not Tovey's 하오체, not a red flag. (to confirm) |
+| Tor's borrowed noble voice (chapter 5) | Tovey's 하오체 to Rolph, George, a young lady; refined 하십시오체 to Connie | "알겠소. 그대가 그렇게 생각한다면." / "안녕하십니까, 부인." When he forgets it he slides back to his own 해요체, and back up ("죄송합니다. 말이 길어졌군요."). Narration calls it 언덕의 목소리 (the Hill's voice). (to confirm) |
+| Connie → Tor | 해요체, 토런스 | Warm, commanding: "와서 내 옆에 앉아요." "앉아요." |
+| Connie → her children | 반말 | "가서 자거라." |
+| Rolph, Karina, Varley → Connie | 해요체, 어머니 | |
+| Karina → Tor | 해요체 | Calls him 당신 once, flirting ("그리고 당연히 당신도요"). (to confirm) |
+| Varley → Tor | 해요체 | |
+| Tor → Karina, Varley | 해요체, 아가씨 | |
+| Tor → Connie | 하십시오체 (noble voice), 부인 | |
+| George, Quavel, Burks, house staff → Tor | 하십시오체, 도련님 | Tor objects to being 도련님. 도련님, not 손님 (user, November 6, 2026). |
+| George, Quavel → Rolph | 하십시오체, 도련님 / 알폰스 도련님 | |
+| Count Lairdgren ("Burks") → Quavel | 하게체 | "와서 문을 잡아 주게." |
+| "Burks" → Tor | 하십시오체, 도련님 | A servant's voice. Says "토르" once, plainly, at the end. |
+| Quavel → Count Lairdgren | 하십시오체, 백작님 | |
+| Tor → Burks, Quavel | 해요체; 벅스 씨, 어르신 then 퀘이블 씨 | |
+| Captain Curtis → Tovey, the party | 하십시오체; 백작님, 아가씨들, 여러분 | |
+| Curtis → Daws | 반말 | "고맙다, 도스." |
+| Dallow → Tovey | 하십시오체, 나리 | "그런 듯합니다, 나리. 참으로 반가운 일입니다." |
+| Tovey → Dallow, his coachman | 하오체 | As with everyone. |
+| Trice → Rolph, Sara | 반말 | |
+| The innkeeper → Tovey, Rolph | 하십시오체; 백작님, 나리들 | |
+| Ursula Thorgood → Tor | 해요체 | Low and clear: "안녕하세요." |
 
 ## Forms of address
 
@@ -91,6 +113,16 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Miss Morgan (the porter's message) | 모건 아가씨 | |
 | Count Thompson | 톰프슨 백작님 | Tor |
 | Black! (Kolb to Trice and Sara) | 검은 옷 | Kolb, unchanged from chapter 2 |
+| young sir (George to Rolph); Master Alphonse | 도련님; 알폰스 도련님 | palace staff |
+| sir (staff to Tor) | 도련님 | |
+| Scholar (George to Tor) | 학사님 | |
+| ma'am (Tor to Connie) | 부인 | |
+| miss (Tor to Karina); my lady (Tor to Ursula) | 아가씨 | |
+| my lord (Curtis, innkeeper to Tovey) | 백작님 | |
+| my lord (Dallow to Tovey) | 나리 | |
+| my lord (Quavel to Count Lairdgren) | 백작님 | |
+| Torrance (Connie) | 토런스 | |
+| Alphie, Alphonse | 알피, 알폰스 | Karina says 알피; Connie and the staff 알폰스. |
 
 ## Names
 
@@ -133,6 +165,23 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Sam Carter | 샘 카터 | Hollin boy. |
 | the Plough (Hollin tavern) | 쟁기 주점 | Translated, like 무덤 주점. |
 | Mistress Haskins (Rolph's form) | 해스킨스 아주머니 | |
+| Alphonse (Rolph's given name) | 알폰스 | Alphie 알피. |
+| Connie (Rolph's mother) | 코니 | |
+| Karina, Varley (Rolph's sisters) | 카리나, 발리 | |
+| Quavel (head server) | 퀘이블 | 시중장. |
+| George (gate guard) | 조지 | |
+| Count Lairdgren | 레어드그렌 백작 | Same name as the school. |
+| Burks | 벅스 | |
+| Dallow (the Thompsons' butler) | 달로 | |
+| Captain Curtis; Daws | 커티스 대장; 도스 | City guard, river gate. |
+| Lady Arden | 아든 부인 | |
+| Ursula Benevolence Matilde Thorgood | 우르술라 베네볼런스 마틸드 소굿 | Transliterated, not translated (user, November 6, 2026). |
+| Admiral (the dog) | 제독 | Translated. |
+| Tor's family: Terlee, Tam, Tilda, Tessa, Teira, the twins | 털리 누나, 탬, 틸다 누나, 테사, 테이라, 쌍둥이 | All begin with ㅌ, so "a T-name for every one" → 다들 이름이 ㅌ으로 시작합니다. Terlee and Tilda are older than Tor (누나); Tessa and Teira are younger (user, November 6, 2026). |
+| Ashford | 애시퍼드 | The plague town. |
+| Ashby Market | 애시비 장터 | |
+| Barford | 바퍼드 | |
+| the Hill (in the capital) | 언덕 | Also "the Hill's voice" → 언덕의 목소리. |
 
 ## Terms
 
@@ -237,3 +286,23 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Oh, *Tor* | 아, *토르* | Tor scolding himself (scenes 2 and 10). |
 | "Nice and loose" | 부드럽게 잘 가는군 | Kolb's tic, as in chapter 2. |
 | hand's breadth; hand and a half | 한 뼘; 한 뼘 반 | |
+| the capital; the city | 수도; 도시, 도성 | The milestone "THE CITY — 22" → *수도 — 88리*. |
+| the small house | 작은 집 | Spaced, not 작은집 (an uncle's household). Tor's joke: at home it's the privy (뒷간). |
+| purifier | 정화기 | |
+| cistern; sewer; flux | 저수조; 하수도; 이질 | |
+| luggage plates; the buttons | 짐 나르는 판; 단추 | |
+| the teardrop shield | 물방울 모양 (방패) | "like a drip off the pump spout, lying down" → 펌프 주둥이에서 떨어지는 물방울 … 누워 있는 거요. |
+| force lance | 역장창 | (to confirm) |
+| city guard | 시 경비대 | Red and white. |
+| the royal guard | 근위대 | Purple and black. |
+| cooling plate | 냉방판 | Karina's word; Tor still says 판. |
+| the personal cooling amulet | 부적 | Narration; Tor has no name for it. |
+| ice house | 빙고 | |
+| posting house | 역참 | |
+| council of counts | 백작 회의 | |
+| head server | 시중장 | |
+| stock (neckcloth) | 목장식 | (to confirm) |
+| fiancée | 약혼녀 | |
+| declared friend | 공언한 친구 | Tovey's formal declaration. |
+| Brothers beat friends | 형제가 친구를 이기는 법이야 | Rolph. |
+| Greetings (Tor to the guards) | 인사드립니다 | |

@@ -27,3 +27,7 @@
 | `04-chapter-four/08-the-cold-snap` | aca837e | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
 | `04-chapter-four/09-the-broth` | 2b03982 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
 | `04-chapter-four/10-the-first-flight` | 2db0664 | 2026-11-06 | sent for review (`review/04-chapter-four.md`) |
+| `05-chapter-5/01-school-as-normal` | 2b03982 | 2026-11-06 | sent for review (`review/05-chapter-5.md`) |
+| `05-chapter-5/02-flight-to-capital` | 6901fd7 | 2026-11-06 | sent for review (`review/05-chapter-5.md`) |
+| `05-chapter-5/03-meet-the-parents` | 932aa25 | 2026-11-06 | sent for review (`review/05-chapter-5.md`) |
+| `05-chapter-5/04-testing-the-field` | 3605bcf | 2026-11-06 | sent for review (`review/05-chapter-5.md`) |
