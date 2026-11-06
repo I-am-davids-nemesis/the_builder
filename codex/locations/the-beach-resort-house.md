@@ -15,6 +15,7 @@ From the chapter 7 draft (invented; pending the user's review). Not grand: Tor c
 - Inside: a **long front room** with a low beamed ceiling, a hearth you could stand in, sheeted sofas and a rag rug; a kitchen with a black iron range and an open hearth; a narrow whitewashed **pantry** with a high window. Seasoned logs stacked under the eaves at the back.
 - **Walt's cottage** far back by a gate in a low stone wall. **Walt** (invented), the caretaker: long, bent, brown, white moustache, straw hat; keeps hens; knew Rolph as a boy; sits on his porch with his pipe and sleeps light.
 - Sounds and smells: the sea's long roar, salt and weed; driftwood burns blue and green.
+- From the chapter 8 draft (invented; pending the user's review): the pantry also holds yellow corn flour, two jars of jam and unlabeled dented tins of meat (user, November 2, 2026); Tor's room is the smallest, whitewashed, a narrow bed with a blue cover and one window into the dunes, the only room where the sea can't be heard; the bathroom has a pump, a tin bath, a jug and basin and a brown-edged mirror. At low tide the Teeth stand on dry sand; they're "made" stone with rusty bones through them, and one has lost its top.
 
 ### Image prompt
 
