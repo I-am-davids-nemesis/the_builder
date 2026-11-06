@@ -84,7 +84,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Ursula → Rolph | 해요체, 알피 | A dutiful betrothal, not childhood ease. (to confirm) |
 | Rolph → Ursula | 반말, 우르스 | "Urs." |
 | Ursula → the king | 하십시오체, 폐하 | |
-| The king (Richard) → Tor, Ursula, Thorgood, guests | 하게체 | Deep, slow, mild ("앉게", "고맙네", "자네를 믿네"). Ursula is 아가 ("my dear"); Tor is 젊은이, then 베이커 선생. Distinct from the headmaster's 하게체 by the absence of 베이커 군, and from Dorgal's by its gentleness. (to confirm) |
+| The king (Richard) → Tor, Ursula, Thorgood, guests | 하게체 | Deep, slow, mild ("앉게", "고맙네", "자네를 믿네"). Ursula is 아가 ("my dear"); Tor is 젊은이, then 베이커 선생. Distinct from the headmaster's 하게체 by the absence of 베이커 군, and from Dorgal's by its gentleness. Deliberately more informal than a king would normally be at a first meeting (user, November 6, 2026). |
 | The king → Rolph | 해라체, 알폰스 | "이 *방*에서부로다, 알폰스." |
 | The king ↔ Connie | 해요체; 여보, 리처드, 콘스턴스 | Never 하오체 (Tovey's). |
 | Tor → the king | 하십시오체 / 해요체; 어르신, 폐하, then 리치 | "Sir. Your. Majesty. Sir." → "어르신. 폐. 하. 어르신." |
@@ -98,7 +98,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Tor → Kris | 해요체, 크리스 씨 | |
 | Count Lairdgren ("Burks") → Tor (chapter 6) | 하십시오체, 도련님 | As before. |
 | Quavel → Tor | 하십시오체, 도련님 | |
-| Trice → Connie | 해요체, 콘스턴스 고모 | The queen is her father's sister (assumed, `codex/characters/patricia.md`), so 고모; the king is 고모부. |
+| Trice → Connie | 해요체, 콘스턴스 이모 | The queen is her mother's sister (user, November 6, 2026), so 이모; the king is 이모부. |
 | Connie → Trice | 반말, 얘야, 트리샤 | |
 | Trice → Rolph (chapter 6) | 반말, 알피 | |
 | Countess Marigold → Tor | 해요체 | "아이고, 우리 착한 아이." |
@@ -154,7 +154,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Lady Ursula | 우르술라 아가씨 | |
 | Mistress Debri | 데브리 부인 | Rolph, formal. |
 | Master Baker (the Debri house) | 베이커 선생 | Same as Trice's, without the irony. |
-| Aunt Constance; her uncle (Trice) | 콘스턴스 고모; 고모부 | |
+| Aunt Constance; her uncle (Trice) | 콘스턴스 이모; 이모부 | Her mother's sister (user, November 6, 2026). |
 | Tricia (Connie to Trice) | 트리샤 | |
 | Master Wizard | 대마법사 | Ursula's title for Tor; the interrupted "*Master*—" / "*Wizard*" becomes "*대*—" / "*마법사*요." |
 
@@ -216,8 +216,8 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Ashby Market | 애시비 장터 | |
 | Barford | 바퍼드 | |
 | the Hill (in the capital) | 언덕 | Also "the Hill's voice" → 언덕의 목소리. |
-| King Richard Cordes | 리처드 코디스 왕 | (to confirm) |
-| Rick, Rich; Icky Ricky | 릭, 리치; 끈적이 리키 | The taunt keeps the carp-pond slime, not the rhyme. (to confirm) |
+| King Richard Cordes | 리처드 코르데스 왕 | Four syllables (user, November 6, 2026). |
+| Rick, Rich; Icky Ricky | 릭, 리치; 끈적이 리키 | The taunt keeps the carp-pond slime, not the rhyme (user, November 6, 2026). |
 | Queen Constance | 콘스턴스 왕비 | Connie 코니. |
 | Prince Alphonse | 알폰스 왕자 | |
 | Count Ward, County Ward | 워드 백작, 워드 백작령 | |
@@ -329,7 +329,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | the egg (hand control) | 달걀, 달걀 모양의 것 | The handheld control for the flying plate. |
 | the hollow (on/off) | 오목한 데 | |
 | flying (Austrans) | 날다; 오스트라 놈들 (Kolb) | |
-| the chapel | 회당 | Neutral, not 예배당 (user, November 6, 2026). Applies to the school's and Hollin's. Similes avoid religious words too ("bearing a relic" → 가보를 받쳐 든). |
+| the chapel; temple | 회당 | Neutral, not 예배당 (user, November 6, 2026). Applies to the school's and Hollin's, and to temples in the capital (the river temple, chapter 6; user, November 6, 2026). Similes avoid religious words too ("bearing a relic" → 가보를 받쳐 든). |
 | a man's height; the height of a hay cart | 사람 키, 두 길; 건초 수레 높이 | |
 | Oh, *Tor* | 아, *토르* | Tor scolding himself (scenes 2 and 10). |
 | "Nice and loose" | 부드럽게 잘 가는군 | Kolb's tic, as in chapter 2. |

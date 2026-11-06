@@ -8,17 +8,17 @@ The chapter covers Tor's second day in the capital. Tor spots that Ursula's broo
 
 ## Across the whole chapter
 
-1. **The king's speech level.** King Richard speaks a mild, slow **하게체** to Tor, Ursula and guests ("앉게. 앉는 편이 낫겠어 보이는군." / "아가. 자네를 믿네."), **해라체** to his son ("이 *방*에서부로다, 알폰스.") and **해요체** to the queen ("콘스턴스. 문서로 남기도록 해 줘요."). The headmaster and Dorgal also use 하게체. Is this right for a king, and does he sound gentle rather than stern?
+1. ~~**The king's speech level.**~~ Answered by the author: keep 하게체; at this first, private meeting he is much more informal than a king normally would be. King Richard speaks a mild, slow **하게체** to Tor, Ursula and guests ("앉게. 앉는 편이 낫겠어 보이는군." / "아가. 자네를 믿네."), **해라체** to his son ("이 *방*에서부로다, 알폰스.") and **해요체** to the queen ("콘스턴스. 문서로 남기도록 해 줘요."). The headmaster and Dorgal also use 하게체. Is this right for a king, and does he sound gentle rather than stern?
 2. **Addressing royalty.** Tor calls the king 어르신 for "sir" and 폐하; the queen 부인 and 왕비 마마; the Debri house calls Rolph 전하. Is 왕비 마마 natural next to 폐하, or should the queen be 왕비 전하 / 폐하?
-3. **Trice's aunt.** The queen is assumed to be Trice's father's sister, so "Aunt Constance" → 콘스턴스 고모 and "her uncle" → 고모부. *(Author: if the queen is her mother's sister, this becomes 이모 / 이모부.)*
+3. ~~**Trice's aunt.**~~ Answered by the author: the queen is Trice's mother's sister, so "Aunt Constance" → 콘스턴스 이모 and "her uncle" → 이모부.
 4. **The falcon crest** → 매 문장 (crest) and 휘장 (badge), kept apart from 문양 (sigil). Is 문장 confusing so close to 문양?
 
 ## Scene 1: Spy (Ursula, then Tor)
 
 5. **Tor's Hill voice slipping.** "Rolph, we've shared a room for *two years*. You told me about the dog." → "형, 우린 *두 해*나 한 방을 썼소. 개 얘기도 해 줬잖아요." The 하오체 starts and his own 해요체 "creeps in." Is the slide audible?
-6. **"Rick" / "Rich" / "Icky Ricky."** → 릭 / 리치 / *끈적이 리키* (he'd fallen in the carp pond). The English rhyme is lost; is there a better childish taunt with 리키?
+6. ~~**"Rick" / "Rich" / "Icky Ricky."**~~ Answered by the author: keep *끈적이 리키*. → 릭 / 리치 / *끈적이 리키* (he'd fallen in the carp pond). The English rhyme is lost; is there a better childish taunt with 리키?
 7. **"Sir. Your. Majesty. Sir."** → "어르신. 폐. 하. 어르신." Tor stumbling over the title.
-8. **"the vaults beneath the river temple"** → 강변 신전 아래 지하 묘실. "Temple" is in the English; should it be neutral, as with 회당?
+8. ~~**"the vaults beneath the river temple"**~~ Answered by the author: neutral, like the school chapel → 강변 회당 아래 지하 묘실. The Debri list's "two temples" is likewise 회당 두 곳.
 9. **"the noble condition … Faces slide."** → 귀족 증세 … 얼굴이 미끄러져. Clear?
 10. **The proposal.** "I'll marry you" → "제가 결혼할게요." "I'm usually working." → "보통 일하고 있거든요." Should sound earnest and a little absurd, not romantic.
 11. **"there's nothing wrong with bakers"** → 빵집 하는 게 뭐 어때서요.
@@ -54,3 +54,4 @@ The chapter covers Tor's second day in the capital. Tor spots that Ursula's broo
 32. **"If he'd planned it … she'd eat her slippers."** → 실내화를 씹어 먹어도 좋았다.
 33. **Units.** "hundreds of miles east" → 동쪽으로 천 리도 넘게; "for a mile" → 4리 안에서; "a hand above the road" → 한 뼘.
 34. **The last line.** "someone across it had just called him a name." → 방 저편의 누군가가 방금 그를 놀리는 이름으로 부른 것이었다. Then "*마리아*." The cliffhanger rests on Tor's face, seen by Trice.
+35. ~~**"Cordes"**~~ Answered by the author: 코르데스 (four syllables).

@@ -60,7 +60,7 @@ A tall, poised young woman in a close-fitting plain black uniform, her dark hair
 - Patricia is a common name in Noram. (canon)
 - Goes by **Trice**. (canon, user, chapter one) Later-series readers call "Trice" a divisive character.
 - Usually found **with Sara**; the two are a pair. (canon, chapter one)
-- Her hair is **dark brown**; for the royal dinner in chapter 6 she wears **light violet**, her hair up with a few ringlets falling round her face (user, October 30, 2026). She calls the queen "Aunt Constance": **the queen is her aunt by blood** (user, October 30, 2026), so Trice and Rolph are cousins, and Tovey is related to Rolph too. Most likely the queen is sister to the Duke of Morgan and to Tovey's mother, making all three first cousins (assumed; to confirm).
+- Her hair is **dark brown**; for the royal dinner in chapter 6 she wears **light violet**, her hair up with a few ringlets falling round her face (user, October 30, 2026). She calls the queen "Aunt Constance": **the queen is her aunt by blood** (user, October 30, 2026), so Trice and Rolph are cousins, and Tovey is related to Rolph too. The queen is the sister of Trice's mother, the Duchess of Morgan (user, November 6, 2026). Whether Tovey's mother is a third sister, making all three first cousins, is still (assumed; to confirm).
 - Wears her hair pinned up close and plain; enters every room without hurrying and without stopping, and crowds make room for her without deciding to. (invented; accepted by the user)
 - At the laundry in chapter one, she **gets Sara to estimate** what Tor's drying field is worth. (canon, user)
 
