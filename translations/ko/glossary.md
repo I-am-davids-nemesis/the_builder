@@ -36,6 +36,16 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Tor → Dorgal, Petra, a first-year | 해요체 | Tor is polite even to first-years; they call him 선배. |
 | Teachers (building master, theory master, Kolb) → students | 반말 | Kolb's is low and pleasant, never raised. |
 | Students → teachers | 하십시오체 | |
+| Campbell (dean) → students | 반말, curt | "따라오너라, 학사." Instructions only. |
+| The headmaster → Tor | 하게체, 베이커 군 | Old-fashioned, mild ("앉게", "자네도 그렇게 만들지 않나?"). Distinct from Dorgal's 하게체 by 베이커 군 instead of 자네/친애하는. Accepted by the user, November 6, 2026. |
+| The headmaster → Wensa, staff | 해요체, 웬사 선생 | Never 하오체 (Tovey's). |
+| Wensa → the headmaster | 하십시오체 | Procedural: the charge, the law, the remedy. |
+| Tor → Wensa | 하십시오체, 선생님 | |
+| Kolb → staff | 해요체, 선생 | Breezy; 반말 asides about Tor. |
+| Tovey → Trice, Tor, Wensa | 하오체 | Tor is 그대 when Tovey apologizes. |
+| Trice → Tovey | 반말, 오빠 / 토비 오빠 | Tovey is older (user, November 6, 2026). To others she still says 토비 or 오빠 for him. |
+| Trice → Wensa | 해요체, bare 웬사 | A duke's daughter to a staff member: polite form, no title. |
+| Rolph going formal (chapter 3, scene 6) | 하십시오체 to Tor | "말했단 말입니까. … 확실합니까?" The signal. Rolph alone in the room, "very nearly formal" (scene 2), slips to 해요체: "아니요. 그렇게는 안 돼요." |
 
 ## Forms of address
 
@@ -58,6 +68,10 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Rolph (to his face) | 형 | Tor |
 | Baker (surname alone) | 베이커 | teachers, narration in others' viewpoints |
 | the scholarship boy, seen by a younger student | 선배 | a first-year's viewpoint (chapter 1, scene 4) |
+| Mr. Baker | 베이커 군 | the headmaster |
+| Mistress Wensa | 웬사 선생 (narration, staff), 웬사 선생님 (Tor) | |
+| Scholar (Campbell to Tor) | 학사 | Same as Tovey's 베이커 학사. |
+| sir (to the headmaster) | 교장 선생님 | Tor |
 
 ## Names
 
@@ -85,6 +99,13 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | the Barrow (tavern) | 무덤 주점, 무덤 | Translated by meaning (a barrow is a burial mound); first mention 무덤 주점 (user, November 6, 2026). |
 | House Calder | 콜더 가문 | |
 | the queen | 왕비 | A consort (King Richard Cordes reigns), so 왕비, not 여왕. |
+| Campbell (dean of students) | 캠벨 (학생감) | |
+| Wensa | 웬사 | |
+| the headmaster | 교장 | |
+| Austra, Austran | 오스트라, 오스트라의 (첩자) | |
+| the Arlen works | 알렌 공방 | |
+| the Duke of Morgan | 모건 공작 | |
+| Ducharina (a duke's daughter) | 공녀 | Translated, not transliterated (user, November 6, 2026): "the Ducharina Patricia Alyson Morgan" → 퍼트리샤 앨리슨 모건 공녀. Tricia 트리샤. |
 
 ## Terms
 
@@ -142,3 +163,19 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | miles, feet, inches | 리, 자, 치 | Traditional units, converted (1 mile ≈ 4리, 1 foot ≈ 1자, 1 inch ≈ 0.8치) and rounded; the arithmetic joke becomes "20리인데요!" / "그럼 왕복 40리군" (user, November 6, 2026). Kolb's thirty-mile run is 120리. |
 | They're paid by the head | 머릿수대로 돈을 받거든요 | The pun survives. |
 | Clank | 쩔그렁 | The sack of copper. |
+| dean of students | 학생감 | |
+| ward, warded | 결계, 결계를 친 | The warded room: 결계 방. |
+| access token | 증표 | Campbell's frost-patterned disc. |
+| royal guard; a commission in it | 근위대; 근위대 임관 | |
+| holding cells | 구금실 | |
+| battle rage, rage | 전투 분노, 분노 | |
+| treason | 반역 | |
+| assault (a peer) | 폭행 | |
+| the special school / the academy | 특별 학교 / 아카데미 | Narration and Tor say 특별 학교; Rolph says 아카데미. |
+| porters' lodge | 수위실 | |
+| infirmary, the sister | 의무실, 간호 수녀 | (to confirm) |
+| accounts (the class) | 회계 | |
+| journeymen | 직인 | |
+| manufactory | 공장 | |
+| "What are friends for?" | 친구 좋다는 게 뭐겠어요? | Tor's deadpan; nobody but Trice hears the joke. |
+| a very sensible tap | 아주 분별 있는 톡톡 | Trice; Tor's "Several taps" → 여러 번 톡톡. |

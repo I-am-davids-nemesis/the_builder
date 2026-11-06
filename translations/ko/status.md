@@ -11,3 +11,9 @@
 | `02-chapter-two/03-the-afternoon-and-the-visit` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
 | `02-chapter-two/04-rolphs-order-and-the-night-build` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
 | `02-chapter-two/05-the-courtyard` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
+| `03-chapter-three/01-the-chase` | 0e463e6 | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
+| `03-chapter-three/02-the-dean` | f63d8dc | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
+| `03-chapter-three/03-the-warded-room` | f63d8dc | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
+| `03-chapter-three/04-the-hearing` | 0e463e6 | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
+| `03-chapter-three/05-the-headmasters-advice` | f63d8dc | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |
+| `03-chapter-three/06-what-rolph-knows` | 0e463e6 | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |

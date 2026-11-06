@@ -22,7 +22,7 @@ Tovey is the noble Tor is most afraid of, and the one with the least reason to b
 - **Chapter three** (canon, user, October 17, 2026):
   - **Flies in his rage.** Chasing Tor, he falls behind on foot, then **levitates and flies** after him. At **dawn** he seems to come to himself, and the flight goes with the rage: he comes down and has to **walk** back to the school. (user correction, October 17, 2026)
   - **Related to Rolph** too: the queen is Trice's aunt by blood (user, October 30, 2026; see `patricia.md`).
-  - **Trice's first cousin** (they're close enough that marriage between them isn't a consideration). Many nobles are related through marriages made for alliances.
+  - **Trice's first cousin** (they're close enough that marriage between them isn't a consideration).  **Tovey is the older of the two** (user, November 6, 2026; exact ages not set). Many nobles are related through marriages made for alliances.
   - **Not angry afterward, embarrassed**, by the loss of control a battle rage implies, and bad at showing embarrassment. **Hates combat rage** (Rolph).
   - Arrives at the warded room **with Kolb**. **Apologizes to Trice first**, then to Tor.
   - Tells Wensa he doesn't remember Tor assaulting him, only coming to Trice's aid, which he'd have begged Tor to do if he could have. **Politely asks Wensa for restraint** in the stand-off.
