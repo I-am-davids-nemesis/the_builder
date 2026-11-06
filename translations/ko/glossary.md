@@ -29,6 +29,11 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Sara → Tor | 반말, warm | Uses his name often: "토르." |
 | Davie → Tor | 반말, stiff | A noble talking down without meaning to. |
 | Bet Haskins → Tor | 반말, terse | Old keeper to a student. |
+| Douglas Sorvey → anyone | Smooth 하십시오체 | Merchant's courtesy, even to a first-year ("좋은 아침입니다"); now and then a soft ~지요. Never 하오체, which is Tovey's (user, November 6, 2026). |
+| Tor → Douglas Sorvey | 하십시오체 / 해요체, calling him 어르신 | |
+| The carter, the storekeeper → Tor | 반말 | Older townsfolk to a boy; the carter calls him 얘야 ("love"). |
+| Tor → the carter | 해요체, 아주머니 | |
+| Tor → Dorgal, Petra, a first-year | 해요체 | Tor is polite even to first-years; they call him 선배. |
 | Teachers (building master, theory master, Kolb) → students | 반말 | Kolb's is low and pleasant, never raised. |
 | Students → teachers | 하십시오체 | |
 
@@ -40,6 +45,10 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | ma'am (to Trice) | 아가씨 | Tor |
 | ma'am (to Doris, a teacher) | 선생님 | Tor |
 | sir (to a noble student) | 도련님 | Tor (to Davie) |
+| sir (to Douglas Sorvey, an older man) | 어르신 | Tor |
+| Miss Sara, Miss Trice | 세라 아가씨, 트리스 아가씨 | Tor |
+| love (the carter to Tor) | 얘야 | |
+| Black! (Kolb calling the girls in black) | 검은 옷 | Kolb |
 | sir, my lord (to Tovey) | 나리, 백작님 | Tor |
 | sir (to a teacher) | 선생님 | everyone |
 | Scholar Baker | 베이커 학사 | Tovey |
@@ -67,6 +76,15 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Lairdgren (School) | 레어드그렌 (학교) | |
 | Two Rivers | 두물머리 | Translated, not transliterated (user, November 2, 2026). Also the name of a real place near Seoul; the reviewer may prefer another rendering. |
 | the Ridge house | 리지 저택 | |
+| Douglas Sorvey | 더글러스 소르비 | Dorgal's father; same 소르비. |
+| Sara Debri, the Debri house | 세라 데브리, 데브리 집안 | |
+| Petra | 페트라 | |
+| Abel (the Sorvey coachman) | 에이블 | |
+| Hob (kitchen boy) | 홉 | |
+| Hollin (the town below the school) | 홀린 | |
+| the Barrow (tavern) | 무덤 주점, 무덤 | Translated by meaning (a barrow is a burial mound); first mention 무덤 주점 (user, November 6, 2026). |
+| House Calder | 콜더 가문 | |
+| the queen | 왕비 | A consort (King Richard Cordes reigns), so 왕비, not 여왕. |
 
 ## Terms
 
@@ -106,3 +124,21 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | drown ("you drowned him") | 익사시키다 | |
 | liniment | 고약 | |
 | Right! | 자! | Rolph taking over a room. |
+| pell | 타격목 | |
+| practice waster | 연습용 목검 | |
+| cutter (the magic blade) | 절단검 | (to confirm) |
+| shield, shield field | 방패, 방패장 | Keeps 장 for "field". |
+| Unarmed (sparring rule) | 맨손 | |
+| sigil | 문양 | Same as pattern. |
+| the drying field, the laundry field, the food field | 말리는 장, 빨래 장, 음식 장 | Never 건조장. |
+| copper squares | 구리판 | |
+| to etch, acid | 새기다, 산 | |
+| the student store, the storekeeper | (학생) 매점, 매점 주인 | |
+| the workroom | 작업실 | The building room (class) is 제작실. |
+| the express (to the capital) | 급행 | |
+| the rod (Trice's defensive device) | 봉 | |
+| ten in the hundred | 백에 열 | Keeps the ambiguity of whose ten it is (`outline/02-chapter-two/_chapter.md`). |
+| Who benefits? | 누구한테 이득일까 | Trice's question. |
+| miles, feet, inches | 리, 자, 치 | Traditional units, converted (1 mile ≈ 4리, 1 foot ≈ 1자, 1 inch ≈ 0.8치) and rounded; the arithmetic joke becomes "20리인데요!" / "그럼 왕복 40리군" (user, November 6, 2026). Kolb's thirty-mile run is 120리. |
+| They're paid by the head | 머릿수대로 돈을 받거든요 | The pun survives. |
+| Clank | 쩔그렁 | The sack of copper. |
