@@ -60,7 +60,7 @@ Rolph couldn't feel anything but the sun on the back of his neck. He opened his 
 
 He said it to the captain. He said it the way he said it to the headmaster when he needed a pen, politely, in his best schoolroom voice, the Two Rivers smoothed nearly out of it; and the captain, who was shouting at a man with a plank, didn't hear. Tor touched his sleeve.
 
-"Excuse me, sir. I'm sorry. I'm quite small. I think I'll go round." He was already turning. "Could I have a rope, please? A long one, and a short one. Thank you. Rolph, could you do the plates? All of them. On your trunk, please, it's got the iron on the corners, it's the strongest. All ten." He had his belt off. He had his tunic off, over his head, in one pull, and handed it to Rolph without looking, and started on his shirt. "And your button. Quickly, please. I'm sorry. It's going."
+"Excuse me, sir. I'm sorry. I'm quite small. I think I'll go round." He was already turning. "Could I have a rope, please? A long one, and a short one. Thank you. Rolph, could you do the plates? All of them. On your trunk, please, it's got the iron on the corners, it's the strongest. All ten." He had his belt off. He had his tunic off, over his head, in one pull, and handed it to Rolph without looking, and started on his shirt. "And your button. And your shield, please. I'll give it back. Quickly, please. I'm sorry. It's going."
 
 The captain had turned round. He looked at Tor. He looked at Tor's shirt coming off, and at Tor's chest, which was white and narrow and had very nearly nothing on it, and at Rolph, who was holding Tor's tunic.
 
@@ -74,7 +74,7 @@ Rolph turned and went back through the crowd at a run for the luggage.
 
 They'd left the trunks at knee height by the drying frame, waiting, the way the plates did. He went down the line yanking straps, Sara's case and Trice's two and Tor's battered box with the books in it, and the plates slid out from under each in turn and hung there in the air looking patient. He got them stacked under his own trunk, all ten, one on another like a pile of plates in a kitchen, and the trunk rose an inch on them as if it had taken a deep breath. He felt in his pocket for the button. When he came back through the crowd with the trunk bobbing after him like a big dog, somebody had found a coil of rope, and Tor was standing by the hole in his drawers.
 
-That was all he had on: a pair of old Two Rivers linen drawers gone gray with washing, and his own shield on its cord round his neck, and a second one, the spare he'd carried in his pack since the day of the test, wound round his wrist. Nothing else. He was standing in the middle of the tanners' yard of the capital, in front of two hundred people, and the whole city guard, and Sara, and Trice.
+That was all he had on: a pair of old Two Rivers linen drawers gone gray with washing, and his own shield on its cord round his neck, and a second one wound round his wrist. Rolph's. Rolph put a hand to his own collar and found it bare, and couldn't remember handing it over. Nothing else. He was standing in the middle of the tanners' yard of the capital, in front of two hundred people, and the whole city guard, and Sara, and Trice.
 
 Rolph had seen Tor go scarlet because Trice took her boots off on a sofa. He'd seen him go scarlet at a bare ankle at the palace, and at a statue in the queen's garden that wasn't even a particularly undressed statue. He looked at Tor's face now. It was white. Not a mark of color in it anywhere. He was holding his arms out, a little away from his sides, so that one of the tanners could pass the long rope round his left ankle, and looking at the hole.
 
@@ -136,7 +136,7 @@ There was a noise below him. It wasn't words. It was the noise a child makes whe
 
 "There you are," said Tor. "There you are. Good lad. Here. Put your head up for me."
 
-He got the spare shield off his wrist and the cord over the boy's head, and put his thumb on it, and pressed. He felt it come on: the small soft push of it, opening, and the dirt sliding away off the boy's face and chest in a ring, hissing. The boy gasped, a long one, all the way down, the first real breath he'd had in a while.
+He got Rolph's shield off his wrist and the cord over the boy's head, and put his thumb on it, and pressed. He felt it come on: the small soft push of it, opening, and the dirt sliding away off the boy's face and chest in a ring, hissing. The boy gasped, a long one, all the way down, the first real breath he'd had in a while.
 
 "That's it. That's yours now. Keep it on." Tor got the short rope off his shoulder. His hands were shaking and he made them stop. He passed it round under the boy's arms and behind his back and tied it, the knot his father used on the flour sacks, the one that didn't slip, and tugged it, and tied the other end round his own wrist, twice. "Hold on to the rope. Both hands. Hold on to me if you want. You can't hurt me. All right? All right." He twisted his head back toward the light, what light there was, a gray coin a long way up past his own feet.
 
@@ -228,13 +228,13 @@ And last of all, out of the top of it, came the girl.
 
 She came up out of the earth like a cork out of a bottle. She was tiny, and brown all over like Tor, and she came turning end over end through the air, slowly, the way the bottle had, with her arms and legs out and her mouth wide open, howling; and in one small fat fist, clutched so tight it shone, she had a square of copper on a cord.
 
-She came down ten feet from Tor. She hit the ground flat on her back, hard, and didn't bounce. She stuck. She lay where she'd landed as if somebody had nailed her there by every edge, arms out, legs out, pressed down flat into the dirt by nothing anyone could see; and she screamed. She screamed and screamed, a high, outraged, ear-splitting squeal, the loudest noise in the whole yard, which was saying something.
+She came down ten feet from Tor. She hit the ground flat on her back, hard, and didn't bounce. She stuck. She lay where she'd landed as if somebody had nailed her there by every edge, arms out, legs out, pressed down flat into the dirt; and round her, very faint, the air shimmered, the way it had round the boy; and she screamed. She screamed and screamed, a high, outraged, ear-splitting squeal, the loudest noise in the whole yard, which was saying something.
 
 Rolph stared at her.
 
-He knew that too. A line, straight, carrying everything in it until it hit something. Then holding it there.
+The shield. It had to be the shield; there it was in her fist, and there was the shimmer. Only Rolph had worn one of Tor's shields since the spring, and been knocked flat in it by Kolb more times than he could count, and he had never once seen one hold a body down to the ground like a hand. He looked at the girl, and at the shimmer, and at the copper, and didn't know.
 
-Then, all at once, whatever it was let go. The girl came up off the ground in a scramble, still screaming, and a woman nobody had noticed came running out of the crowd with her apron up over her mouth and snatched her and ran off with her, both of them screaming, and the crowd closed round them and they were gone.
+Then the shimmer went out. The girl came up off the ground in a scramble, still screaming, and a woman nobody had noticed came running out of the crowd with her apron up over her mouth and snatched her and ran off with her, both of them screaming, and the crowd closed round them and they were gone.
 
 The rain of earth stopped. The last of it pattered down. The dust began, slowly, to drift away over the river.
 
