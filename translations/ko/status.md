@@ -31,3 +31,7 @@
 | `05-chapter-5/02-flight-to-capital` | 6901fd7 | 2026-11-06 | sent for review (`review/05-chapter-5.md`) |
 | `05-chapter-5/03-meet-the-parents` | 932aa25 | 2026-11-06 | sent for review (`review/05-chapter-5.md`) |
 | `05-chapter-5/04-testing-the-field` | 3605bcf | 2026-11-06 | sent for review (`review/05-chapter-5.md`) |
+| `06-chapter-6/01-spy` | c96757b | 2026-11-06 | sent for review (`review/06-chapter-6.md`) |
+| `06-chapter-6/02-tor-everything` | bbf1d5e | 2026-11-06 | sent for review (`review/06-chapter-6.md`) |
+| `06-chapter-6/03-luncheon` | 048a550 | 2026-11-06 | sent for review (`review/06-chapter-6.md`) |
+| `06-chapter-6/04-dinner-distractions` | 2659b0a | 2026-11-06 | sent for review (`review/06-chapter-6.md`) |

@@ -80,7 +80,30 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Tovey → Dallow, his coachman | 하오체 | As with everyone. |
 | Trice → Rolph, Sara | 반말 | |
 | The innkeeper → Tovey, Rolph | 하십시오체; 백작님, 나리들 | |
-| Ursula Thorgood → Tor | 해요체 | Low and clear: "안녕하세요." |
+| Ursula Thorgood → Tor | 해요체 | Low and clear: "안녕하세요." Calls him 당신 when she works out he didn't know ("당신은 셈을 안 했어요"). (chapter 6) |
+| Ursula → Rolph | 해요체, 알피 | A dutiful betrothal, not childhood ease. (to confirm) |
+| Rolph → Ursula | 반말, 우르스 | "Urs." |
+| Ursula → the king | 하십시오체, 폐하 | |
+| The king (Richard) → Tor, Ursula, Thorgood, guests | 하게체 | Deep, slow, mild ("앉게", "고맙네", "자네를 믿네"). Ursula is 아가 ("my dear"); Tor is 젊은이, then 베이커 선생. Distinct from the headmaster's 하게체 by the absence of 베이커 군, and from Dorgal's by its gentleness. (to confirm) |
+| The king → Rolph | 해라체, 알폰스 | "이 *방*에서부로다, 알폰스." |
+| The king ↔ Connie | 해요체; 여보, 리처드, 콘스턴스 | Never 하오체 (Tovey's). |
+| Tor → the king | 하십시오체 / 해요체; 어르신, 폐하, then 리치 | "Sir. Your. Majesty. Sir." → "어르신. 폐. 하. 어르신." |
+| Tor → Connie (as queen) | 해요체 / 하십시오체; 부인, 왕비 마마, 왕비님 | |
+| Tor in the Hill voice to Rolph (chapter 6, scene 1) | 하오체 sliding to 해요체 | "형, 우린 *두 해*나 한 방을 썼소. 개 얘기도 해 줬잖아요." The slide is the joke. |
+| Heather Debri → Tor | 해요체, 베이커 선생 | Dry, low. Goes up to 하십시오체 when she defends herself to Rolph. |
+| Heather → Rolph | 하십시오체, 전하 | |
+| Kris Debri → Tor | 해요체, 베이커 선생 | Pleasant; sums aloud. "Mother" → 어머니. |
+| Sara → Heather | 해요체, 어머니 | Her "father's voice" stays 해요체, just flat and slow. |
+| Rolph → Heather, formal | 하십시오체, 데브리 부인 / 헤더 | The red flag: "*정말* 그러십니까, 헤더?" Back in his own voice he uses 해요체 ("전부 다요"). |
+| Tor → Kris | 해요체, 크리스 씨 | |
+| Count Lairdgren ("Burks") → Tor (chapter 6) | 하십시오체, 도련님 | As before. |
+| Quavel → Tor | 하십시오체, 도련님 | |
+| Trice → Connie | 해요체, 콘스턴스 고모 | The queen is her father's sister (assumed, `codex/characters/patricia.md`), so 고모; the king is 고모부. |
+| Connie → Trice | 반말, 얘야, 트리샤 | |
+| Trice → Rolph (chapter 6) | 반말, 알피 | |
+| Countess Marigold → Tor | 해요체 | "아이고, 우리 착한 아이." |
+| Count Horace Thorgood → Tor | Careful 해요체, 베이커 선생 | He takes Tor for a child of twelve and can't make it fit; his courtesy is slow. |
+| Tor → Count Thorgood | 해요체, 백작님 | |
 
 ## Forms of address
 
@@ -123,6 +146,17 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | my lord (Quavel to Count Lairdgren) | 백작님 | |
 | Torrance (Connie) | 토런스 | |
 | Alphie, Alphonse | 알피, 알폰스 | Karina says 알피; Connie and the staff 알폰스. |
+| Your Majesty (the king) | 폐하 | |
+| Your Majesty, ma'am (the queen) | 왕비 마마, 부인 | Tor. (to confirm) |
+| Your Highness (Rolph) | 전하, 알폰스 왕자 전하 | The Debri house. |
+| sir (Tor to the king) | 어르신 | As with Douglas Sorvey. |
+| my dear (the king to Ursula) | 아가 | |
+| Lady Ursula | 우르술라 아가씨 | |
+| Mistress Debri | 데브리 부인 | Rolph, formal. |
+| Master Baker (the Debri house) | 베이커 선생 | Same as Trice's, without the irony. |
+| Aunt Constance; her uncle (Trice) | 콘스턴스 고모; 고모부 | |
+| Tricia (Connie to Trice) | 트리샤 | |
+| Master Wizard | 대마법사 | Ursula's title for Tor; the interrupted "*Master*—" / "*Wizard*" becomes "*대*—" / "*마법사*요." |
 
 ## Names
 
@@ -182,6 +216,20 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Ashby Market | 애시비 장터 | |
 | Barford | 바퍼드 | |
 | the Hill (in the capital) | 언덕 | Also "the Hill's voice" → 언덕의 목소리. |
+| King Richard Cordes | 리처드 코디스 왕 | (to confirm) |
+| Rick, Rich; Icky Ricky | 릭, 리치; 끈적이 리키 | The taunt keeps the carp-pond slime, not the rhyme. (to confirm) |
+| Queen Constance | 콘스턴스 왕비 | Connie 코니. |
+| Prince Alphonse | 알폰스 왕자 | |
+| Count Ward, County Ward | 워드 백작, 워드 백작령 | |
+| the Thorgood house, County Thorgood | 소굿 저택, 소굿 백작령 | |
+| Count Horace Thorgood, Countess Marigold | 호러스 소굿 백작, 메리골드 백작 부인 | |
+| Maria (Ward's wife) | 마리아 | |
+| Gallaia, the Gallaian envoy | 갈라이아, 갈라이아 사절 | (to confirm) |
+| Heather Debri | 헤더 데브리 | Head of the house: 가주. |
+| Kris Debri | 크리스 | Sara's oldest brother: 큰오빠. |
+| Aunt Merrin; old Peder | 메린 고모; 피더 영감 | |
+| Ford County | 포드 백작령 | |
+| the Pacifico | 파시피코 | Left as a name; the ocean's old name shows through. |
 
 ## Terms
 
@@ -306,3 +354,28 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | declared friend | 공언한 친구 | Tovey's formal declaration. |
 | Brothers beat friends | 형제가 친구를 이기는 법이야 | Rolph. |
 | Greetings (Tor to the guards) | 인사드립니다 | |
+| brooch; dragonfly | 브로치; 잠자리 | |
+| name day | 명명일 | |
+| court curtsey | 궁정식 무릎 인사 | |
+| the noble condition | 귀족 증세 | The old lines can't see small people properly. (to confirm) |
+| betrothal; dissolved by royal decree | 약혼; 왕명으로 파하다 | "As of this room" → 이 방에서부로. |
+| Tor-shields, Tor-plates, Tor-rigs | 토르 방패, 토르 판, 토르 허리띠 | "a Tor-something" → 토르 뭐뭐. |
+| amulet (the personal cooler) | 부적 | Narration; Tor still says 이거. |
+| *right* (what the amulet is told) | *알맞은*, *알맞게* | As in chapter 5. |
+| mark of valor | 무공 훈장 | |
+| head of the house | 가주 | Heather Debri. |
+| factors | 대리인 | |
+| the glass halls | 유리 회관 | |
+| hook (a catch in a deal) | 낚싯바늘 | Kris's "Mother" means *조심하세요. 낚싯바늘이 어디 있죠?* |
+| a good match | 좋은 혼처 | |
+| within three steps of her station | 신분에서 세 계단 안쪽 | The marriage law; "three steps" → 세 계단. |
+| baron, barony | 남작, 남작 작위 | |
+| the cart (floating) | 수레 | "A hand above the road" → 길에서 한 뼘 위. |
+| the falcon, the crest | 매, 문장(紋章) | Not 문양 (sigil). The badge itself: 휘장. |
+| the king's favor | 왕의 총애 | |
+| the first bite; the host eats first | 첫 숟가락; 주인이 먼저 먹는다 | "like a taster" → 음식 맛을 먼저 보는 시종처럼. |
+| duel | 결투 | |
+| the formal dining room; the small dining room | 정찬실; 작은 식당 | |
+| Master Wizard | 대마법사 | |
+| the drought | 가뭄 | |
+| the column, the account (Trice's mind) | 칸, 장부 | "She filed it" → 장부에 올렸다. |
