@@ -13,7 +13,11 @@
 - The main in the cream/yellow robes bows to him, and the queen then notices him and introduces him to Tor: Smythe of Westland. He apparently is the head of the military for the kingdom, like the joint-chief-of-staff.  Second only to the king.  Smythe states that he had a few things he wanted to discuss with Tor, and asked if he could speak with him privately later, when he wasn't busy saving a county from drought.  Tor, of course, agrees.  He does hope he isn't being drafted because his battle cry "run away" would probably not go over well in the military.
 - Karina then barges up and says how brave Tor was going into the "hole" (since she is too polite to name the place he went down).  She then asks if Tor really went into a combat rage, like everyone is saying.  Everyone else winces as this is socially very poor manners to talk about such a thing; and her sister basically hits her for being so rude, saying "you can't ask people that..."
 - Tor is very confused. he thinks the story is already growing beyond what happened -- he claims that he just did a bit of magic at the end.
-- Rolph contradicts him -- 
+- Rolph contradicts him -- he could see that he had a shield going, even without his amulet, and he could feel the battle rage, which is why he called for everyone to run, and he saw the direct effect of throwing all the dirt into the sky, pulling out the girl.
+- Tor admits to being a bit upset at the dirt, so maybe, but combat rage is a noble trait, not a trait that a commoner like himself would have.
+- The king laughs, and tells him not to worry about it -- if he needs anything let him or his staff know.  He then leaves with his military advisor.
+- The queen and the kids stay around.  The girls start teasing and flirting with Tor, while Rolph/Alphonse gets super embarrassed. Connie laughs and tells him that is what he gets for bringing someone home with him.  After a bit more flirting and teasing they all leave him alone.
+- 
 - **POV / mode:**
 - **Location:**
 - **Present:**
