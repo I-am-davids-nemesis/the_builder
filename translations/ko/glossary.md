@@ -119,14 +119,14 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Walt → Rolph, the party | 반말, blunt | He is the chaperone, and knew Rolph as a boy (user, November 6, 2026): "너일 줄 알았다. 기별도 없이 오는 건." / "쓸 만하구먼." / "잘들 자라, 젊은 양반들. 아가씨들도." Rolph is 이 녀석. |
 | Trice → Tor (chapter 7, the evening talk) | 해요체; 당신 | Earnest and embarrassed, not angry: "당신 얼굴이 잘생겼어요, 토르." Accepted by the user, November 6, 2026. |
 | Rolph → Tor (chapter 8, the Maria story) | 반말; 꼬마 토르, then 토르 | When it turns serious he drops the nickname, as at the end of chapter 7. |
-| Trice telling the Wylde tale | 해요체 | Her line to Tor stays 해요체 even in the nurse's voice ("옛날에, 가게 주인이 하나 있었어요"). (to confirm) |
+| Trice telling the Wylde tale | Storytelling 반말 (~했단다, ~했지); asides to Tor in 해요체 | The nurse's voice is a deliberate shift: "옛날에, 가게 주인이 하나 살았단다." When she steps out of the tale ("누가 이야기하느냐에 따라 달라요", "쉿. 네.", "최근까지는요") she is back in her 해요체 to Tor. Decided by the user, November 6, 2026. |
 | The innkeeper (village on the King's river) → the four | 반말 | "은화 여섯 닢이다." A hard village woman to young strangers. |
 | Rolph → the innkeeper | 해요체 | "아니요. 말할게요." |
 | The guard captain → Rolph | 하십시오체 by reflex | "아이입니다. 사내아이. 일곱 살." To his own men: 반말. |
 | The thin guardsman → the captain | 하십시오체, 대장님 | |
 | Tor → the captain, the guards | 해요체 / 하십시오체; 대장님 | "실례합니다, 대장님. 죄송해요." |
 | The old tanner, the scarred soldier → Tor | 반말 | "꽉 조였다, 얘야." / "알았다." |
-| Tor → a small child | 반말 | "안녕. 사이먼? 괜찮아. 내 이름은 토르야." His one exception to politeness. (to confirm) |
+| Tor → a small child | 반말 | "안녕. 사이먼? 괜찮아. 내 이름은 토르야." His one exception to politeness. Accepted by the user, November 6, 2026. |
 | Tor → the earth (chapter 8, scene 3) | Flat 반말 | "*움직여.* … *명령한다.*" Not his own voice. |
 | Simon's mother → Simon | 반말 | "사이먼, 아가, 엄마 여기 있어—" |
 

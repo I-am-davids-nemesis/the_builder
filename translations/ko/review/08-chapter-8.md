@@ -23,8 +23,8 @@ The chapter runs from the same night at the beach house to the next afternoon ou
 10. **"Unfit for the term."** → 이번 학기 수학 불가. Official enough?
 11. **"And you aren't exactly a big job."** → 그리고 네가 딱히 큰일감도 아니고. Rolph's joke on Tor's size.
 12. **Tor's war.** "Davie'd come, but he'd want to know what time we'd be back for supper … They could have races. An egg and spoon … It's not a war if it's one person and a picnic." → "오기는 올 텐데, 저녁 먹으러 몇 시에 돌아오느냐고 물어보실 거예요 … 숟가락에 달걀 얹고 달리기요 … 한 사람이랑 소풍이면 그건 전쟁이 아니에요." Funny?
-13. **"Vile, vile woman … She's got *nerve*. That's different."** → "더러운, 더러운 여자 … 그 여자한테 있는 건 *뻔뻔함*이야. 그건 달라." Is 더러운 too coarse for Trice? (비열한 was considered.)
-14. **The Wylde tale in a nurse's voice.** Trice tells it to Tor in 해요체 ("옛날에, 가게 주인이 하나 있었어요"). A Korean nurse's tale would usually be 해라체 or 반말 (~했대, ~했단다), but Trice's line to Tor is fixed at 해요체. Keep, or shift the tale itself into storytelling 반말 as a signal?
+13. ~~**Trice's word for Maria.**~~ Answered by the author: keep 더러운. **"Vile, vile woman … She's got *nerve*. That's different."** → "더러운, 더러운 여자 … 그 여자한테 있는 건 *뻔뻔함*이야. 그건 달라." Is 더러운 too coarse for Trice? (비열한 was considered.)
+14. ~~**The Wylde tale in a nurse's voice.**~~ Answered by the author: the tale itself is in storytelling 반말 ("옛날에, 가게 주인이 하나 살았단다 … 그리고 기다렸단다"); Trice's asides to Tor stay 해요체 ("누가 이야기하느냐에 따라 달라요", "최근까지는요"). Does the switch in and out read naturally?
 15. **"Don't be a Doretta."** → *도레타가 되지 마라.* The nursery warning. Does it sound like a saying?
 16. **"I wouldn't put a *goat* on an island."** → "*염소*도 섬에 두고 오지 않을 거예요." And Trice: "That's rather the trouble … Nobody else does." → "그게 좀 문제예요 … 다른 사람들은 모르거든요."
 
@@ -46,7 +46,7 @@ The chapter runs from the same night at the beach house to the next afternoon ou
 27. **"*Situation report!*"** → "*상황 보고!*" Kolb's voice coming out of Rolph. Military enough?
 28. **The captain's report.** "Child. Boy. Seven. Tanners' boy." → "아이입니다. 사내아이. 일곱 살. 무두장이 아들." He answers Rolph in 하십시오체 by reflex; to his own men 반말.
 29. **"midden"** → 쓰레기 구덩이; "palings" → 울타리 말뚝; "timbers" → 들보.
-30. **Tor to the trapped boy in 반말.** "Hello. Simon? It's all right. My name's Tor. Your mum's up top." → "안녕. 사이먼? 괜찮아. 내 이름은 토르야. 엄마가 위에 계셔." Tor is polite to everyone, but a 해요체 to a seven-year-old in a pit would sound strange in Korean. New pairing: Tor → small children, 반말. Agree?
+30. ~~**Tor to the trapped boy in 반말.**~~ Answered by the author: keep 반말. "Hello. Simon? It's all right. My name's Tor. Your mum's up top." → "안녕. 사이먼? 괜찮아. 내 이름은 토르야. 엄마가 위에 계셔." Tor is polite to everyone, but a 해요체 to a seven-year-old in a pit would sound strange in Korean. New pairing: Tor → small children, 반말. Agree?
 31. **The old tanner.** "That's tight, lad … Any longer and it'll do you damage you'll not walk off." → "꽉 조였다, 얘야 … 걸어서 털고 일어나지 못할 탈이 난다." 얘야 was the carter's word for Tor; reused here.
 32. **The scarred soldier.** "Got it." → "알았다." Terse 반말 to a boy in his drawers.
 33. **Tor's command to the earth.** "*Move* … Move. *I command you.*" → "*움직여.* … 움직여. *명령한다.*" Tor never uses 반말 except to himself; here it is flat, not his own voice. Does *명령한다* sound chilling rather than pompous?
