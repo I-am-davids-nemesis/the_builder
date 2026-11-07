@@ -103,6 +103,7 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 - **Internal tension:** Conviction that he is poor, ugly, small and below his station vs. private pride in his intellect and mounting evidence that he is extraordinary. He reconciles them by assuming there's been a mistake. (canon-adjacent)
 - **External tension:** Nobles and older powers maneuvering around him; school rules he keeps breaking by accident; a family history that doesn't add up. (canon)
 - **Hidden aspect:** The mental controls. His humility, and perhaps his self-image, may have been put there by someone else. (canon, revealed later)
+- **Hidden origin:** Tor is a clone of Count Lairdgren (Green), and looks very much like him (user, November 6, 2026). Book 1 gives tiny hints only; see `supporting/green.md`.
 
 - **Runs well.** A ten-mile run doesn't trouble him; Kolb's advice that running is his best defense suits him. Lost in thought on a run, he goes half an hour past the turn and comes back faster. (canon, user, chapter two)
 - **Fights better than he thinks.** Dodges Trice's kicks, gets inside a wheel kick and takes her down, and is winning the grappling until the knife. (canon, user, chapter two)

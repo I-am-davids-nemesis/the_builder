@@ -103,3 +103,11 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | Feeding the rivers | Over the King's river, Tor sees he need only feed Ford's rivers | His own idea; not yet told to the king | — |
 | The midden rescue | Tor goes down the tanners' midden outside the walls, saves Simon (seven), then pulls a second, younger girl out with a column of earth (scene 3); his left ankle snaps; he passes out; the king's luncheon is missed | Knows both children cried, so lived; passes out before anything else | Two hundred onlookers and the city guard saw it |
 | Tor's line of force | In the pit Tor makes a field like Rolph's hereditary one (force in a line, carrying what's in it), by will, and later moves earth with no device | Thought it impossible "for someone like him"; did it anyway; doesn't know what it means, nor whether his field or the shield saved the girl | Only Tor knows he copied Rolph's field; Rolph felt the earth field gather and can't explain it. Nobody knows which saved the girl |
+
+## Chapter 9
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| Tor's likeness to Count Lairdgren | A royal guard starts "Coun—" and turns it into "Master Tor" (scene 1). Nothing explained | Doesn't notice | The guard knows the count's face; nobody on the page knows Tor is his clone |
+| Tor's leg | Splinted, throbbing; nobody says how bad (scene 1) | Doesn't dwell on it; nobody tells him | Whoever set it; revealed later |
+| The falcons | Three bronze falcons arrive unasked after Tor talks the Ford plan aloud at his open door (scene 1) | Takes them as the king's leave to start, if the king allows it | The guards reported up; the king sent them without a word |
