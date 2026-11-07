@@ -35,4 +35,18 @@
 9. **The falcons.** Two hours on: three bronze falcons, each floating a couple of inches up on three of Tor's own lifting plates, steered through the door with a hand's breadth to spare.
 10. **Finely.** "Will these be appropriate?" Tor is already on his good knee beside one, hand on the bronze. The best thing he's ever put a field on, if the king allows it, and nobody will steal it; though you'd have to be daft to steal anything with a river attached. The guard decides he likes him.
 
+**Drafted** (November 7, 2026; invented, pending the user's review): the painted-sky ceiling with a mismatched patch over a crack; the iron-strip splint "neat as a loaf done up for market"; the cooling plate is one of Tor's spares from his trunk (he knows it by the line where he sneezed); "Think, Tor. Focus now"; the screeching chair. The door guard is **Hale** (older, has served in a war, salutes "perhaps twice a year"; the reflex half-salute and "Coun—" are the only hints), his partner **Gerry Pask** (sister sells eels on the river stairs). The story of the rescue has grown in the guardroom (dirt as high as the dome); Hale expected "a man like a door." Tor asks whether he's allowed out; blushes asking for the privy; Hale gives him his arm to the privy two doors down (still in sight of the door); a maid brings a jug. Tor asks to see the king "about Ford"; asks Hale to leave the door open ("It's a very big room"). The page fetches Tor's battered work box ("It smells a bit"); Hale says something low to the page at the corner (the report up, never spelled out). Tor's thinking aloud: "like starving in a bakery," "My uncle sold a gate once. It wasn't his gate," stone won't hold a field, it must be metal; "That's asking, really, isn't it? From a king." The falcons: the king's crest (wings half spread, a shield in the talons), green-black bronze with the beak rubbed gold, shoulder-high to Hale; the footman Baines swears ("Language, Baines"). Finely: long, gray, unhurried, looks at things "as if they had done nothing yet to disappoint him, but would." Tor kneels on his good knee with the splint out "like a rudder"; the bronze is "all one pour"; "a cart and six men and a very good excuse"; ends on Hale looking at the painted crack.
+
 **Answered** (user, November 6, 2026): the leg's severity stays unknown (Tor doesn't focus on it, nobody volunteers it; revealed later with its healing). The guard almost says "Count" because Tor looks very much like Count Lairdgren, whose clone he is; he says "Master Tor" instead; Tor doesn't notice; the reader is told nothing (tiny hints only in book 1). The slipping guard holds the viewpoint from the door on. How long Tor was out doesn't matter. The guards reported up and the king sent the falcons without a word. Finely is a guard sergeant who recurs as Tor's minder in the palace.
+
+**Questions:**
+
+1. **The door guards:** keep Hale and Gerry Pask as named, recurring palace guards?
+   - Default: Keep both; Hale recurs on Tor's door while he's laid up, under Finely.
+   - Option: Keep them nameless walk-ons after this scene.
+2. **Hale's war:** Hale remembers a frightened boy "at a gate, in a war a long while ago." Is there a war in living memory?
+   - Default: Yes, a border war with Austra about twenty-five years ago, never named on the page.
+   - Option: Cut the line; no war in living memory.
+3. **Where the falcons come from:** do we ever learn where in the palace they stood?
+   - Default: Not in this scene; the king or Rolph can mention it in scene 2 (they stood on the old gate before the wall was raised).
+   - Option: Never said.
