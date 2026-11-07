@@ -118,6 +118,17 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Constance → her ladies | 해요체 | "우리 손님이요." |
 | Walt → Rolph, the party | 반말, blunt | He is the chaperone, and knew Rolph as a boy (user, November 6, 2026): "너일 줄 알았다. 기별도 없이 오는 건." / "쓸 만하구먼." / "잘들 자라, 젊은 양반들. 아가씨들도." Rolph is 이 녀석. |
 | Trice → Tor (chapter 7, the evening talk) | 해요체; 당신 | Earnest and embarrassed, not angry: "당신 얼굴이 잘생겼어요, 토르." Accepted by the user, November 6, 2026. |
+| Rolph → Tor (chapter 8, the Maria story) | 반말; 꼬마 토르, then 토르 | When it turns serious he drops the nickname, as at the end of chapter 7. |
+| Trice telling the Wylde tale | 해요체 | Her line to Tor stays 해요체 even in the nurse's voice ("옛날에, 가게 주인이 하나 있었어요"). (to confirm) |
+| The innkeeper (village on the King's river) → the four | 반말 | "은화 여섯 닢이다." A hard village woman to young strangers. |
+| Rolph → the innkeeper | 해요체 | "아니요. 말할게요." |
+| The guard captain → Rolph | 하십시오체 by reflex | "아이입니다. 사내아이. 일곱 살." To his own men: 반말. |
+| The thin guardsman → the captain | 하십시오체, 대장님 | |
+| Tor → the captain, the guards | 해요체 / 하십시오체; 대장님 | "실례합니다, 대장님. 죄송해요." |
+| The old tanner, the scarred soldier → Tor | 반말 | "꽉 조였다, 얘야." / "알았다." |
+| Tor → a small child | 반말 | "안녕. 사이먼? 괜찮아. 내 이름은 토르야." His one exception to politeness. (to confirm) |
+| Tor → the earth (chapter 8, scene 3) | Flat 반말 | "*움직여.* … *명령한다.*" Not his own voice. |
+| Simon's mother → Simon | 반말 | "사이먼, 아가, 엄마 여기 있어—" |
 
 ## Forms of address
 
@@ -253,6 +264,10 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | the Teeth (old stumps in the surf) | 이빨 | |
 | the Morgan house (in the capital) | 모건 저택 | |
 | the west gate | 서문 | |
+| Simon (the tanners' boy) | 사이먼 | |
+| the Fennimores (a merchant house) | 페니모어 집안 | |
+| the King's river | 왕의 강 | |
+| Maria Ward | 마리아 워드 | Maria (chapter 7) is now named in full. |
 
 ## Terms
 
@@ -422,3 +437,26 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | a no is a debt | 싫다는 말이 빚 | |
 | He's had his Doretta | 얘한테도 도레타가 있었어 | The chapter's last turn. |
 | Homework; the summer kind; the dull sort | 숙제; 여름에 하는 거; 지루한 거 | The spy homework, unnamed. |
+| Don't be a Doretta | *도레타가 되지 마라* | The nursery warning. |
+| a Doretta (what you become) | 도레타는 사람이 *되어 버리는* 무언가 | |
+| shopkeeper (in the tale); ribbons | 가게 주인; 리본 | |
+| celandines, blackthorn, primroses, ivy | 애기똥풀, 가시자두, 앵초, 담쟁이 | Tor's flowers. (to confirm) |
+| Unfit for the term | 이번 학기 수학 불가 | |
+| I wouldn't put a goat on an island | *염소*도 섬에 두고 오지 않을 거예요 | |
+| lists (Rolph's cover for the homework) | 목록 | |
+| In a minute (Tor, under) | 조금 있다가요 | Rolph's report: "조금 있다가래." |
+| scribing nail | 새김 못 | |
+| the intake stone; made stone | (덩어리), 만든 돌 | The fallen top of a Tooth. |
+| that's one | 하나 됐다; *이게* 하나야 | |
+| None of my business | 내가 상관할 일 아니야 | Tor to himself. |
+| corn cakes | 옥수수 전병 | |
+| silver (coins) | 은화 | "Six silver" → 은화 여섯 닢. |
+| ditches (irrigation) | 도랑 | |
+| tanners, tanners' yard | 무두장이, 무두장이 마당 | |
+| midden | 쓰레기 구덩이 | |
+| red caps (the city guard) | 붉은 모자 | |
+| Situation report! | *상황 보고!* | Kolb's voice. |
+| drawers | 속바지 | |
+| the earth's field | 땅의 장 | |
+| I command you | *명령한다* | |
+| We're going to be late | 우리 늦겠다 | Trice, the chapter's last line but one. |

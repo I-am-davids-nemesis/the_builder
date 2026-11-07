@@ -38,3 +38,6 @@
 | `07-chapter-7/01-dinner-with-ward` | c96757b | 2026-11-06 | sent for review (`review/07-chapter-7.md`) |
 | `07-chapter-7/02-vacation-from-the-vacation` | 0b07faa | 2026-11-06 | sent for review (`review/07-chapter-7.md`) |
 | `07-chapter-7/03-beach-house` | 500d3ed | 2026-11-06 | sent for review (`review/07-chapter-7.md`) |
+| `08-chapter-8/01-marias-dagger` | 27dad58 | 2026-11-06 | sent for review (`review/08-chapter-8.md`) |
+| `08-chapter-8/02-homework` | 05dc3e4 | 2026-11-06 | sent for review (`review/08-chapter-8.md`) |
+| `08-chapter-8/03-luncheon-avoided` | 327cad6 | 2026-11-06 | sent for review (`review/08-chapter-8.md`) |
