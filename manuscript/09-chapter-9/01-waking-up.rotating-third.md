@@ -62,7 +62,7 @@ Beside him, Gerry looked at him sideways and then very carefully didn't.
 
 The hero of the tanners' yard was holding on to the doorframe with both hands. He came up to about Hale's breastbone. He was in a nightshirt that came down past his knees, and his left leg was out in front of him in its splint, held clear of the floor like a heron's, and his face was the color of old candle wax and shiny with sweat, and his black hair stood straight up on one side where the pillow had had it. He looked at Hale, and at Gerry, and at their purple and black, and at the swords at their belts. He looked at the corridor behind them, which was long and empty and ended in a window.
 
-Something went across his face then that Hale had seen before, on a boy at a gate, in a war a long while ago. It went quickly. What came after it was courtesy.
+Something went across his face then that Hale had seen before, on recruits marched up before the sergeant on their first morning. It went quickly. What came after it was courtesy.
 
 "I'm sorry," said Master Tor. "Excuse me. Am I allowed out?"
 

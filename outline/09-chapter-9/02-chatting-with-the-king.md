@@ -6,6 +6,7 @@
 - the king replies: Both kids are doing well. The boy was actually trying to rescue the girl who had fell in -- one of his sisters friends.  The king tells Tor that people are very impressed.
 - Tor misreads the kings statement to imply that people are impressed with the boy trying to save the girl, not Tor saving both of them -- of course an adult would try to save a child, but children are not known for their bravery, normally.
 - Rolph laughs at the interplay and asks what the birds are for -- they are not distributed about in a way that is very attractive for room decoration.
+- **Where the falcons came from** (user, November 7, 2026): the king or Rolph mentions it here: they stood on the old gate before the wall was raised. (Scene 1 never says; the king sent them without a word.)
 - Tor laughs, and says the he needs something to hold the new river. The one for County Ford.  One needs to go at the coast, one needs to go at the head of the river, to raise the water level, and one needs to go in-between to keep the field going.
 - The queen is quite put out by the idea -- Tor should not be working, he should be resting.  Tor doesn't want to go against the queen, but he is very concerned about the county and the problems the drought will cause.
 - he also thinks that he has to rest anyway, and being deep in the meditation state required to get the field on the birds will be better than drugs for distracting himself from the pain.
