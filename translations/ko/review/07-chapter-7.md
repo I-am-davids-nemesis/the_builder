@@ -10,7 +10,7 @@ The chapter covers the Ward dinner and the two days after it. Tor recognizes Mar
 
 1. **Wylde and Doretta** → 와일드와 도레타. A tale every noble child knows, never told here. Do the names sound like names from a story?
 2. **Ward's rage field** ("the muddle") → 어리둥절함, and "like trying to think through wet wool" → 젖은 양털 속에서 생각하려는 것 같지. Is 어리둥절함 too mild for a field that makes a room go slack?
-3. **Trice's 당신.** In the evening talk (scene 3) Trice calls Tor 당신 several times ("당신 얼굴이 잘생겼어요, 토르"). She is earnest and embarrassed, not angry. Does 당신 read that way, or should she use his name or drop the pronoun?
+3. ~~**Trice's 당신.**~~ Answered by the author: keep 당신. In the evening talk (scene 3) Trice calls Tor 당신 several times ("당신 얼굴이 잘생겼어요, 토르"). She is earnest and embarrassed, not angry. Does 당신 read that way, or should she use his name or drop the pronoun?
 4. **Units.** "six feet behind" → 여섯 자 뒤; "a foot deep" → 한 자; "hundreds of miles" → 천 리도 넘는; "a hundred miles of farms, two hundred" → 사백 리, 팔백 리; "forty yards" → 마흔 걸음 (he counts his paces).
 
 ## Scene 1: Dinner with Ward (Tor, Trice, Tor, Rolph)
@@ -51,8 +51,8 @@ The chapter covers the Ward dinner and the two days after it. Tor recognizes Mar
 32. **Trice's word.** "said a word that the special school had not … taught her" → 특별 학교에서 가르쳐 주지 않았을 … 말 한마디. Left unspecified.
 33. **"Anyone."** → "아무나." Tor seeing the flaw. And "It *only* listens" → 그게 *오직* 듣기만 하는 거야.
 34. **"Best bit of playing about since we were born."** → 우리 태어나서 제일 잘 논 거야.
-35. **Walt.** "Thought that'd be you. Nobody sent." → "도련님이실 줄 알았습니다. 기별이 없길래요." "You'll do." → "쓸 만하시군요." "Goodnight, young sirs. Young ladies." → "안녕히 주무십시오, 도련님들. 아가씨들." A gruff old caretaker: should he be blunter (하오체 or 반말 to Rolph, whom he knew as a child)?
-36. **The biscuits.** American-style biscuits (flour, soda, salt, butter) → 비스킷. Will Korean readers picture a cookie instead of a scone-like bread? Would 스콘 or 소다빵 be clearer?
+35. ~~**Walt.**~~ Answered by the author: he is the chaperone, blunt and casual (반말). "Thought that'd be you. Nobody sent." → "너일 줄 알았다. 기별도 없이 오는 건." "You'll do." → "쓸 만하구먼." "Goodnight, young sirs. Young ladies." → "잘들 자라, 젊은 양반들. 아가씨들도." Natural for an old rural caretaker?
+36. ~~**The biscuits.**~~ Answered by the author: 소다빵 (soda bread), not 비스킷, which reads as a cookie.
 37. **"Right. What's next?"** → "자! 다음은 뭐야?" ("Right!" is 자! in the glossary.)
 38. **Trice on refusals.** "my card's full" → 춤 카드가 다 찼어요; "My father says it would be premature" → 아버지가 아직 이르다고 하시죠; "a no is a debt" → 싫다는 말이 빚.
 39. **Sara on unpaid bills.** "They can't bring themselves to tell you they're not going to." → 안 갚을 거라고 차마 말을 못 하거든.

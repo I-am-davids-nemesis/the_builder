@@ -116,8 +116,8 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Tor → Ada | 해요체, 아주머니 | |
 | Lady Arden → Constance | 해요체, 콘스턴스 | |
 | Constance → her ladies | 해요체 | "우리 손님이요." |
-| Walt → Rolph, the party | Terse 하십시오체; 도련님(들), 아가씨들 | "도련님이실 줄 알았습니다. 기별이 없길래요." / "쓸 만하시군요." (to confirm) |
-| Trice → Tor (chapter 7, the evening talk) | 해요체; 당신 | Earnest, not angry: "당신 얼굴이 잘생겼어요, 토르." (to confirm) |
+| Walt → Rolph, the party | 반말, blunt | He is the chaperone, and knew Rolph as a boy (user, November 6, 2026): "너일 줄 알았다. 기별도 없이 오는 건." / "쓸 만하구먼." / "잘들 자라, 젊은 양반들. 아가씨들도." Rolph is 이 녀석. |
+| Trice → Tor (chapter 7, the evening talk) | 해요체; 당신 | Earnest and embarrassed, not angry: "당신 얼굴이 잘생겼어요, 토르." Accepted by the user, November 6, 2026. |
 
 ## Forms of address
 
@@ -413,7 +413,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | water garden; carp tank; lily basin; rill; cascades | 물 정원; 잉어 수조; 수련 수반; 물길; 계단식 폭포 | |
 | a holiday from the holiday; a vacation from our summer vacation | 방학 중에 또 방학; 여름 방학에서 떠나는 방학 | Tor's line, then Rolph's restatement. |
 | mounting block | 노둣돌 | |
-| pantry; soda; biscuits | 식료품실; 소다; 비스킷 | |
+| pantry; soda; biscuits | 식료품실; 소다; 소다빵 | Not 비스킷, which reads as a cookie (user, November 6, 2026). |
 | driftwood; kindling; seasoned logs | 유목; 불쏘시개; 잘 마른 장작 | |
 | Anyone | 아무나 | Tor, seeing the off-switch flaw. |
 | It only listens | 오직 듣기만 | "It *only* listens" → 그게 *오직* 듣기만 하는 거야. |
