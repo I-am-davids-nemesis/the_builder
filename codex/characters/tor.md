@@ -73,6 +73,7 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 - Rarely smiles, keeps to himself, mutters to himself. (canon)
 - Once babbled nonsense to test whether people were listening. (canon)
 - Oldest sister: **Terlee**. (canon) **Tilda** is also older than Tor; **Tessa** and **Teira** are younger (user, November 6, 2026).
+- **No family beyond his parents and siblings**, as far as he knows: no uncles, aunts or grandparents (user, November 7, 2026). Stories from home are about neighbors (e.g. "old Mister Pruett," who once sold a gate that wasn't his; invented, chapter 9).
 - **All of Tor's siblings' names start with T.** (user, October 23, 2026) His sisters are mostly meek, except **Teira**, who hits (user, October 23, 2026).
 - **Stands between Rolph and Count Ward** when both rage at the king's table, in the king's falcon, and calls out for a husband for Ursula. Then, in front of counts, he objects that the sham marriage isn't fair to her. The king: "I'll remember that you said it." (invented, accepted by the user, October 31, 2026) The court fears him as a Wylde, a commoner risen to favor who was spurned by Maria; he doesn't know the tale.
 - **Doesn't drink alcohol** (user, October 31, 2026): it clouds the mind he builds with. Everyone serves him juice or water.
