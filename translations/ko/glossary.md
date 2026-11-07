@@ -104,6 +104,20 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Countess Marigold → Tor | 해요체 | "아이고, 우리 착한 아이." |
 | Count Horace Thorgood → Tor | Careful 해요체, 베이커 선생 | He takes Tor for a child of twelve and can't make it fit; his courtesy is slow. |
 | Tor → Count Thorgood | 해요체, 백작님 | |
+| Countess Thorgood → the king | 하십시오체, 폐하 | "폐하, 꼭 여쭙고 싶습니다." (chapter 7) |
+| Countess Thorgood → Ursula | 반말; 우르스, 얘야 | |
+| Maria → the table | 해요체, light | "저희도 데브리 집안에 주문을 넣어 두었어요." Never 하오체. |
+| Quavel → the queen | 하십시오체; 왕비 마마, 마마 | "ma'am" → 마마. |
+| The queen → Ursula | 반말, 얘야 | "일 년이야, 얘야." As with Trice. (to confirm) |
+| Ursula → her mother, the queen | 하십시오체 | "네. 알겠습니다." |
+| Royal guardsman, the wine steward → Tor | 하십시오체, 도련님 | "괜찮으십니까, 도련님?" / "잔을 드십시오, 도련님." |
+| Karina → Tor (chapter 7) | 해요체; 당신 once ("당신이 만든 그 작은 것들") | Tor → Karina: "공주님. 전하. … 카리나 아가씨?" then 아가씨. |
+| Ada (head cook) → Tor | 반말 ("뭐 해 줄까?", "더워서 미안하다"), then 하십시오체, 도련님 | The shift is the moment she guesses who he is: "이건 못 받습니다. 도련님." |
+| Tor → Ada | 해요체, 아주머니 | |
+| Lady Arden → Constance | 해요체, 콘스턴스 | |
+| Constance → her ladies | 해요체 | "우리 손님이요." |
+| Walt → Rolph, the party | Terse 하십시오체; 도련님(들), 아가씨들 | "도련님이실 줄 알았습니다. 기별이 없길래요." / "쓸 만하시군요." (to confirm) |
+| Trice → Tor (chapter 7, the evening talk) | 해요체; 당신 | Earnest, not angry: "당신 얼굴이 잘생겼어요, 토르." (to confirm) |
 
 ## Forms of address
 
@@ -230,6 +244,15 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Aunt Merrin; old Peder | 메린 고모; 피더 영감 | |
 | Ford County | 포드 백작령 | |
 | the Pacifico | 파시피코 | Left as a name; the ocean's old name shows through. |
+| Count Wylde; Doretta | 와일드 백작; 도레타 | The tale. "It's Wylde and Doretta" → 와일드와 도레타야. |
+| Howard Turnbull | 하워드 턴불 | The family's unmentioned relative; "Howards" → 하워드들. |
+| Hyrees (the barony), Baron Hyrees | 하이리스 (남작령), 하이리스 남작 | "Lady Ursula Hyrees" → 하이리스 부인 우르술라. |
+| Ada (palace head cook); Danny | 에이다; 대니 | |
+| Lady Arden; the Fenwicks; Dame Coyle; the Marchioness | 아든 부인; 펜윅 집안; 코일 부인; 후작 부인 | Constance's ladies. |
+| Walt (caretaker of the beach house) | 월트 | Tor: 월트 씨. |
+| the Teeth (old stumps in the surf) | 이빨 | |
+| the Morgan house (in the capital) | 모건 저택 | |
+| the west gate | 서문 | |
 
 ## Terms
 
@@ -379,3 +402,23 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | Master Wizard | 대마법사 | |
 | the drought | 가뭄 | |
 | the column, the account (Trice's mind) | 칸, 장부 | "She filed it" → 장부에 올렸다. |
+| You honor us | 자네가 우리를 높여 주는군 | The king, after Tor drinks first. |
+| wine steward | 술 시종 | |
+| the muddle (Ward's rage field) | 어리둥절함 | "like thinking through wet wool" → 젖은 양털 속에서 생각하려는 것 같지. |
+| the line (of force) | 선, 힘의 선 | Rolph's rage; then Tor's water line. "Anything in the line" → *선 위에 있는 건 무엇이든*. |
+| Excuse me! | 실례합니다! | Tor, to the walls. |
+| It's a kindness. It's what's done. | 그게 친절이에요. 다들 그렇게 해요. | Countess Thorgood. |
+| fair / not fair | 공평, 불공평 | "But that's not *fair*" → 하지만 그건 *불공평*하잖아요. |
+| I want one | 나도 하나 줘요 | Trice, mouthed. |
+| water garden; carp tank; lily basin; rill; cascades | 물 정원; 잉어 수조; 수련 수반; 물길; 계단식 폭포 | |
+| a holiday from the holiday; a vacation from our summer vacation | 방학 중에 또 방학; 여름 방학에서 떠나는 방학 | Tor's line, then Rolph's restatement. |
+| mounting block | 노둣돌 | |
+| pantry; soda; biscuits | 식료품실; 소다; 비스킷 | |
+| driftwood; kindling; seasoned logs | 유목; 불쏘시개; 잘 마른 장작 | |
+| Anyone | 아무나 | Tor, seeing the off-switch flaw. |
+| It only listens | 오직 듣기만 | "It *only* listens" → 그게 *오직* 듣기만 하는 거야. |
+| Everything's got a flaw | 뭐든 흠이 있어요 | Tor's old saying, quoted back by Rolph. |
+| my card's full | 춤 카드가 다 찼어요 | Trice on polite refusal. |
+| a no is a debt | 싫다는 말이 빚 | |
+| He's had his Doretta | 얘한테도 도레타가 있었어 | The chapter's last turn. |
+| Homework; the summer kind; the dull sort | 숙제; 여름에 하는 거; 지루한 거 | The spy homework, unnamed. |

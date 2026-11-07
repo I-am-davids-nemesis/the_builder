@@ -35,3 +35,6 @@
 | `06-chapter-6/02-tor-everything` | bbf1d5e | 2026-11-06 | sent for review (`review/06-chapter-6.md`) |
 | `06-chapter-6/03-luncheon` | 048a550 | 2026-11-06 | sent for review (`review/06-chapter-6.md`) |
 | `06-chapter-6/04-dinner-distractions` | 2659b0a | 2026-11-06 | sent for review (`review/06-chapter-6.md`) |
+| `07-chapter-7/01-dinner-with-ward` | c96757b | 2026-11-06 | sent for review (`review/07-chapter-7.md`) |
+| `07-chapter-7/02-vacation-from-the-vacation` | 0b07faa | 2026-11-06 | sent for review (`review/07-chapter-7.md`) |
+| `07-chapter-7/03-beach-house` | 500d3ed | 2026-11-06 | sent for review (`review/07-chapter-7.md`) |
