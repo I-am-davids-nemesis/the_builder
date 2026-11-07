@@ -30,7 +30,10 @@
 - **Hidden (and how):**
   - **What the dirt field means** (a noble's hereditary field, or more): nobody explains it; Tor passes out before anyone can react, and the scene ends.
   - **What Tor believes about himself:** that it's impossible "for someone like him," and that he doesn't matter. Shown through what he does, never stated; the gap between that and what the crowd just saw is the point.
-  - **Who the girl is, and why nobody missed her:** not raised in this scene.
+  - **Who the girl is, and why nobody missed her:** not raised in this scene; an unnamed woman carries her off. Revealed in chapter 9 (user, November 6, 2026).
+  - **That Tor copied Rolph's field:** only Tor knows (his section, in the dark). Rolph feels the earth field gather and can't explain it (user, November 6, 2026).
+  - **Whether the shield or Tor's field saved the girl:** never settled for anyone, Tor included (user, November 6, 2026).
+  - **What Tor's injury is:** the draft shows only the left foot at a wrong angle; chapter 9 decides (user, November 6, 2026).
 
 ## Beats
 
