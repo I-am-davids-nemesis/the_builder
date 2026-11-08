@@ -280,7 +280,7 @@ She'd seen it before. She'd seen it in the small house the first week, and again
 
 "Two weeks for the pears," said Mercy, startled. "Less for the peaches. Why?"
 
-"Because I could probably get you dryers," said Tor. "Not the Debris; me. I can make them. I made the first ones. And rigs, or—or something like rigs, that carry instead of fly, for the fruit, so you could get it off the trees and to where it's going before it goes to cider. I've been meaning to build those anyway." He took a breath. "Only, I'd want half."
+"Because I could probably get you dryers," said Tor. "And rigs, or—or something like rigs, that carry instead of fly, for the fruit, so you could get it off the trees and to where it's going before it goes to cider. I've been meaning to build those anyway." He took a breath. "Only, I'd want half."
 
 Mercy's eyebrows went up.
 
@@ -300,7 +300,7 @@ She didn't do it loudly. She didn't need to. She'd spent a good many years learn
 
 Mercy looked at her.
 
-It took a moment. Constance watched it travel: the commoner's name, the borrowed clothes, the spare rigs in a trunk, the dryers he'd made the first ones of, the river in the sky; and Trice's letters, all spring, about a boy at school called Tor, whom she'd pictured, Constance would have bet her pearls on it, as six feet tall and twenty-five.
+It took a moment. Constance watched it travel: the commoner's name, the borrowed clothes, the spare rigs in a trunk, the dryers, the river in the sky; and Trice's letters, all spring, about a boy at school called Tor, whom she'd pictured, Constance would have bet her pearls on it, as six feet tall and twenty-five.
 
 "Oh," said Mercy faintly. "*That* Tor?"
 
