@@ -9,7 +9,7 @@
 - **01 Waking Up** (drafted): Tor wakes splinted in a palace sickroom; viewpoint Tor alone, then Hale, the door guard ("Coun— Master Tor"); Tor plans the Ford line aloud; the king sends three bronze falcons unasked, brought in by Sergeant Finely.
 - **02 Chatting With the King** (drafted): the king, Rolph, Smythe of Westland, the queen, Karina and Varley visit; the children are well; the falcons' gate origin; the queen allows the Ford line on a promise; Smythe wants a private word later; Karina asks about the combat rage; teasing at the end. Viewpoint: Rolph (user, November 7, 2026).
 - **03 Building a River** (drafted): six days' trance building the falcons, seen by the palace staff, with Tor at the very end; the falcons go out on day seven; the river runs by day ten, reported back to the palace. Split from 04 (user, November 7, 2026).
-- **04 Dinner With the Queen** (planned): Burks helps Tor bathe (viewpoint Tor: first sight of the rope burn); dinner with Connie (viewpoint Connie), who wants it called the River Tor; Tor offers the Falcon River; the crush shows only from outside; the ice-box request and her two raised fingers.
+- **04 Dinner With the Queen** (planned): Burks helps Tor bathe (viewpoint Tor: first sight of the rope burn); dinner with Connie (viewpoint Connie), who wants it called the River Tor; Tor offers the Falcon River; the crush shows only from outside; the ice-box request and her two raised fingers; Connie's sister Mercy (Trice's mother) arrives about her orchards; Tor, introduced only as Torrance Baker, offers dryers and rigs for half of what would have spoiled, for Ford ("Oh, *that* Tor?"); dinner at nine.
 
 ## Carried over from chapter 8
 
