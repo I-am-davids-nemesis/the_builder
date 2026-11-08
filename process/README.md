@@ -8,5 +8,6 @@ How this book is being made: the idea it started from, the mechanism it runs on,
 - `ideas.md`: ideas that don't belong in this book, kept for later or for another book.
 - `answers.md`: Claude's questions and the answers given, added by the editor.
 - `sessions/`: Claude conversations, saved by the editor when they're cleared.
+- `milestones.md`: dated snapshots (chapters, scenes, words), added by the editor when a chapter is first fully drafted, or on request.
 
 See "The story of the story" in `AGENTS.md` for how agents use this folder.

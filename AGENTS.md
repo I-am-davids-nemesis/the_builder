@@ -199,11 +199,11 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 
 ## 10. The story of the story
 
-`process/` records how the book is being made: `seed.md` (the first idea), `engine.md` (the book's mechanism), `journal.md` (how it's changing), `ideas.md` (ideas for later or another book), plus `answers.md` and `sessions/`, which the editor writes. The editor hides the folder from the sidebar and search, but it isn't off limits to you.
+`process/` records how the book is being made: `seed.md` (the first idea), `engine.md` (the book's mechanism), `journal.md` (how it's changing), `ideas.md` (ideas for later or another book), plus `answers.md`, `milestones.md` and `sessions/`, which the editor writes. The editor hides the folder from the sidebar and search, but it isn't off limits to you.
 
 - **Read it whenever it helps** keep the book consistent, interesting and moving: check a scene against `engine.md`, find out why something was decided, pick up a dropped thread. The journal, answers and sessions are history, and later decisions replace earlier ones. Where they disagree with the outline, the codex or `engine.md`, the current files win; if the conflict looks real, ask the writer.
 - **Add a journal entry yourself, without asking,** whenever the direction changes, an idea is dropped, a decision costs something, or something surprising turns up. Head it `## YYYY-MM-DD · Claude · <scene or chapter>` and say what happened and why in a few sentences. Put the newest entry last. Never edit an earlier entry (yours or the writer's); write a new one that points back.
 - **Engine:** when the premise, central question, engine, promise or form changes, update that section of `engine.md` and add an entry under Changes.
 - **Ideas** that belong to another book, or to later, go in `ideas.md` with the date and where they came from.
 - **Never rewrite `seed.md`.** Only the writer adds to it.
-- **Don't edit `answers.md` or `sessions/`.** The editor writes them.
+- **Don't edit `answers.md`, `milestones.md` or `sessions/`.** The editor writes them.
