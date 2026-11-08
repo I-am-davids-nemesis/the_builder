@@ -204,7 +204,7 @@ Hale heard the most of it at second hand, the way you heard anything in the pala
 
 That was the first day's news, and Master Tor, told it by Gerry, went quite white and said, "No, that's right, that's all right, it's waiting for the others," and asked for his slate, and didn't eat his dinner.
 
-On the evening of the tenth day, Sergeant Finely came up the corridor.
+Late in the morning of the tenth day, Sergeant Finely came up the corridor.
 
 Hale heard him before he saw him, the way he always did: a long, level, unhurried step on the flags. Finely had been gone the three days with the party, and he looked it. There was dust in the creases of his face and dust in the knot of his rank, and his boots had been somewhere that wasn't a palace. He stopped at the door, and nodded to Hale, and went in.
 
@@ -214,7 +214,7 @@ Master Tor was in the bed. The prince was in the rose chair with his feet up on 
 
 "Is it—" said Master Tor, and stopped, and had to start again. "Did it—"
 
-"All three are set, sir," said Finely. "The first above the gorge, the second at Halloway crossing, the third on the sea wall at the fort. The colonel there sends his compliments, and says it's the first time in twenty years anything's been put on his wall that he didn't have to paint." He paused. "We tapped the last one this morning at sunup. In the middle of the shield."
+"All three are set, sir," said Finely. "The first above the gorge, the second at Halloway crossing, the third on the sea wall at the fort. The colonel there sends his compliments, and says it's the first time in twenty years anything's been put on his wall that he didn't have to paint." He paused. "We tapped the last one yesterday at sunup. In the middle of the shield."
 
 "Gently?"
 
@@ -230,7 +230,7 @@ The prince had put his book down.
 
 "And the river," said Master Tor. He had both hands round the edge of the coverlet. "Is the river all right? Is it too much? Is there flooding?"
 
-"No, sir. It was low. It was very low. It's come up to a bit over what the ferryman at Halloway calls proper, and stopped there, and he's been out on his landing all day looking at it."
+"No, sir. It was low. It was very low. It's come up to a bit over what the ferryman at Halloway calls proper, and stopped there, and he was out on his landing all day looking at it."
 
 "No flooding."
 

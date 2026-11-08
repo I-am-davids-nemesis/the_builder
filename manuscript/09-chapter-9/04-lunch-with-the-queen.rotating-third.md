@@ -1,6 +1,6 @@
 The bathing room was down the corridor and round a corner, and it was full of steam before Tor got there.
 
-He went on Hale's arm, hopping, in the shirt that had been white, holding his breath a little so as not to smell himself, which didn't work. The room was tiled from floor to ceiling in small green squares like the skin of a cucumber. There was a bath sunk into the floor, wide enough to row a boat in, already full and smoking gently, with three steps going down into it, and a bench along one wall with towels folded on it in a stack as high as his chin. A little high window let in the last of the daylight sideways through the steam, so that the whole room glowed like the inside of a lantern.
+He went on Hale's arm, hopping, in the shirt that had been white, holding his breath a little so as not to smell himself, which didn't work. The room was tiled from floor to ceiling in small green squares like the skin of a cucumber. There was a bath sunk into the floor, wide enough to row a boat in, already full and smoking gently, with three steps going down into it, and a bench along one wall with towels folded on it in a stack as high as his chin. A little high window let the noon sun straight down through the steam, so that the whole room glowed like the inside of a lantern.
 
 There was a man standing by the bench.
 
@@ -54,7 +54,7 @@ He didn't know how long he sat there. Burks didn't seem to mind. When Tor opened
 
 Tor scrubbed. He scrubbed until he was pink and then until he was red. Ten days came off him in a gray film that spread out across the water and sank. The ink came off his fingers, mostly, and the copper smell out of his hair, and he went under once, all the way, holding his nose and the leg out, and came up streaming and feeling, for the first time since the midden, entirely like himself.
 
-Afterwards there were towels, a great many, and clothes laid out on the bench that weren't his: trousers of loose dark silk, wide in the leg, with a drawstring, and a tunic to match, long and soft and cool. They slid over the leg without catching. Tor held up the trousers and looked at them with deep suspicion and then put them on, and they felt like nothing at all, like wearing evening air.
+Afterwards there were towels, a great many, and clothes laid out on the bench that weren't his: trousers of loose dark silk, wide in the leg, with a drawstring, and a tunic to match, long and soft and cool. They slid over the leg without catching. Tor held up the trousers and looked at them with deep suspicion and then put them on, and they felt like nothing at all, like wearing a breeze.
 
 Then Burks knelt again, with the padding and the iron strips and a fresh roll of bandage, and put the leg back together.
 
@@ -72,15 +72,15 @@ Burks considered this, kneeling, with his head on one side.
 
 * * *
 
-The queen had chosen the little dining room because it had the smallest table in the palace, and because it faced east, so that by evening it was the only room on the floor that didn't feel like the inside of a loaf.
+The queen had chosen the little dining room because it had the smallest table in the palace, and because it faced east, so that once the sun was past noon it was the only room on the floor that didn't feel like the inside of a loaf.
 
-It was still warm. Constance didn't mind warm. She'd had the lamps lit early and the shutters left open on the court, where somebody was watering the orange trees in their tubs, and the smell of wet earth came up through the windows with the last of the light. She'd had them set two places, not at either end, which would have meant shouting, but side by side at one corner, so that she could reach him if she had to.
+It was still warm. Constance didn't mind warm. She'd had the shutters left open on the court, which had gone into shade, where somebody was watering the orange trees in their tubs, and the smell of wet earth came up through the windows. She'd had them set two places, not at either end, which would have meant shouting, but side by side at one corner, so that she could reach him if she had to.
 
-She'd had a good deal of practice reaching boys at dinner.
+She'd had a good deal of practice reaching boys at table.
 
 He came in on the guardsman's arm, and the first thing she saw was that he'd been crying, or near it, and the second thing was that he'd scrubbed his face so hard afterward that nobody would ever be able to prove it. He was in silk, black-blue, much too big. His hair was wet and combed flat and already starting to stand up again at the crown. He looked about twelve. He looked, she thought, considerably better.
 
-"Connie," he said. "Good evening. You look very nice." And then, appalled, "I mean, you always— good evening."
+"Connie," he said. "Good afternoon. You look very nice." And then, appalled, "I mean, you always— good afternoon."
 
 "Sit down, dear, before you fall down."
 
@@ -90,7 +90,7 @@ He sat. The guardsman got the leg up onto a stool and went away, and the footmen
 
 Tor looked up from the soup with his spoon in his hand.
 
-"It's been coming in all afternoon," said Constance. "Riders, mostly. The Ford men on the council keep getting up and going to the window, as if they could see it from here. Old Lord Harrow wept. He'll deny it." She broke a roll. "It's a new river. It can't go about without a name. People are already calling it something, of course, in the taverns. The River Tor."
+"It's been coming in all morning," said Constance. "Riders, mostly. The Ford men on the council keep getting up and going to the window, as if they could see it from here. Old Lord Harrow wept. He'll deny it." She broke a roll. "It's a new river. It can't go about without a name. People are already calling it something, of course, in the taverns. The River Tor."
 
 The spoon went down.
 
@@ -116,7 +116,7 @@ Constance looked at him.
 
 She did it for long enough that he must have felt it, because he looked back; and she watched him look, and saw something happen in his face that she hadn't seen before. It was quite small. He went red. Not pink, which he went when anyone so much as passed him the salt; red, all at once and all the way down into the collar of the borrowed silk, and he stopped, with his mouth a little open, in the middle of whatever he'd been going to say next, and looked at her, and then very quickly at his soup.
 
-Poor lamb, Constance thought. He'd been up and about for not much more than a day, after six days gone, and she was sitting there arguing with him about the naming of rivers. He was exhausted. It was in every line of him.
+Poor lamb, Constance thought. He'd been back among the living for three days, after six days gone, and she was sitting there arguing with him about the naming of rivers. He was exhausted. It was in every line of him.
 
 "Anyway," said Tor, to the soup, rather fast. "Anyway. I ought to go and look at it. The river. The bit at the gorge especially, where it comes down. I ought to see how it's sitting. If I took a cart, I could keep the leg up in it. Or I could fly, I could fly lying down, I've never tried that, but there's no reason—and then there's the carts. For the Debris. The floating ones, I said I would, I ought to have started weeks ago, and they'll be wondering—"
 
@@ -172,7 +172,7 @@ He did it the hard way, as he did everything, hand on the table, hand on the cha
 
 He didn't sit down.
 
-"We've only just got in," said Mercy, letting go of her. "Eric's gone straight to Rich, of course, they'll be in the map room till midnight. I wanted a bath and I wanted my bed and I said no, first, I want to see this *river*. Is it true? It's in the sky? Somebody at the last inn said you could drink it." She laid her gloves on the table. "I said, then I must have some. I've been told it's purer than anything. Perhaps it cures things. One never knows with magic water. At my age I'll take what I can get." She looked round. "Have you seen my eldest? I've been through four rooms."
+"We've only just got in," said Mercy, letting go of her. "Eric's gone straight to Rich, of course, they'll be in the map room till midnight. I wanted a bath and I wanted a lie-down and I said no, first, I want to see this *river*. Is it true? It's in the sky? Somebody at the last inn said you could drink it." She laid her gloves on the table. "I said, then I must have some. I've been told it's purer than anything. Perhaps it cures things. One never knows with magic water. At my age I'll take what I can get." She looked round. "Have you seen my eldest? I've been through four rooms."
 
 "In the market, I'd think," said Constance. "There's a ship in from Afrak. Bolts of the striped stuff, and that blue they do. The girls have been talking of nothing else since breakfast." She picked up her glass. "Patricia, Karina, Varley, and Sara Debri. And Alphonse is carrying the parcels."
 
@@ -316,7 +316,7 @@ Mercy recovered faster than most. She had always been the quicker of the two of 
 
 Tor looked as if he'd been handed a pony.
 
-"Oh," he said. "Oh, *thank* you. That's wonderful. That's—" He'd half pushed his chair back already. Constance saw his hands go to his pockets, as if there might be copper in them, and come out empty. "I could start tonight, the dryer's only—"
+"Oh," he said. "Oh, *thank* you. That's wonderful. That's—" He'd half pushed his chair back already. Constance saw his hands go to his pockets, as if there might be copper in them, and come out empty. "I could start this afternoon, the dryer's only—"
 
 He stopped. His lips moved. "No," he told himself, under his breath, quite firmly. "Think, Tor. The template's at the Debris. All three went. It'd be twice as quick from the template as from my head, and Sara could send it up tomorrow." His eyes went, very briefly, to the ice box at the corner of the table, and back. "And anyway," he said, aloud, to no one, "I've got the box to look at."
 
@@ -334,9 +334,9 @@ He got himself up, table and chair and good foot, and the guardsman was in the d
 
 He turned, holding on.
 
-"Dinner," said Constance, "is at the ninth bell. Tonight. The family's dining in the long room, and Mercy and Eric, and a few others." She picked up her glass. "You're expected."
+"Dinner," said Constance, "is at the ninth bell of the night. The family's dining in the long room, and Mercy and Eric, and a few others." She picked up her glass. "You're expected."
 
-"Oh," said Tor. "Oh, but I've had—" He looked at his empty bowl. "Yes, Connie. Thank you. I'll be there."
+"Oh," said Tor. He looked down at the borrowed silk, which was all he had that hadn't been in a midden. "Yes, Connie. Thank you. I'll be there."
 
 The door closed behind him, and the guardsman's slow step and the boy's hop went away down the corridor together, a long way, and turned the corner.
 
@@ -346,4 +346,4 @@ Mercy was looking at her across the table.
 
 Constance drank her water. It was very cold, and very pure, and she had to admit there was something in it.
 
-"Eat something, dear," she said. "You've had a long day, and it's going to be a long night."
+"Eat something, dear," she said. "You've been on the road since dawn, and it's going to be a long night."
