@@ -12,13 +12,15 @@ He was sitting up against a slope of pillows that would have done for three, wit
 
 He looked up. His whole face opened.
 
-"Oh!" said Tor. "Oh, *hello*! Sir. Your Majesty. Ma'am. Hello. Come in. Do come in." He tried to put the slate down and found nowhere to put it, and put it on his own chest, and held it there. "Mind the bird."
+"Oh!" said Tor. "Oh, *hello*! Rich. Connie." He said both names carefully, the way he said a new sigil the first few times, to be sure of it. "Hello, everyone. Come in. Do come in." He tried to put the slate down and found nowhere to put it, and put it on his own chest, and held it there. "Mind the bird."
 
 His father, who had been about to walk into a falcon, stopped.
 
+Rolph looked at Smythe. *Rich*, in front of Smythe. But Tor hadn't seen him; Tor was looking at the family, the way he always looked at the family, as if they were the only people in a room; and Smythe, standing a little apart in his cream and yellow, had heard it, and his face did nothing at all.
+
 There were three of them. Rolph had heard they'd been brought, and hadn't believed it, and here they were. One stood at the foot of the bed with its back to the room, its half-spread wings blocking most of the view of the door, like a large and disappointed governess. One had been set down square in front of the tall chest with the brass handles, so that nobody would be opening that chest again without help. The third was by the window, with a stripe of hot light from the shutters falling across its shield, and somebody (Rolph had a fair idea who) had hung a wet cloth over one of its wingtips to dry.
 
-"Sorry," said Tor. "I had them moved. I wanted to feel each of them by itself, and they kept interfering. Not interfering. *Talking*. Sort of." He waved a hand, and a copper square slid off the coverlet onto the floor. "You'll want to step round that one. Sir."
+"Sorry," said Tor. "I had them moved. I wanted to feel each of them by itself, and they kept interfering. Not interfering. *Talking*. Sort of." He waved a hand, and a copper square slid off the coverlet onto the floor. "You'll want to step round that one, Rich."
 
 The king stepped round it.
 
@@ -62,27 +64,27 @@ Tor looked at her.
 
 "You mean to do this," said the queen, "from that bed. With that leg." She had let go of the king's arm. "Torrance. You were carried in here two nights ago on a door. Dr. Marsh has said that you are to rest, and I heard him say it, and I'm fairly sure he meant it, because he said it to me twice."
 
-"Yes, ma'am," said Tor.
+"Yes, ma'— Yes, Connie," said Tor.
 
 "Rest."
 
-"Yes, ma'am."
+"Yes, Connie."
 
 "Rest is not," said his mother, "the same as river."
 
 Tor looked down at his hands. Rolph knew that look. It was the one Tor wore when someone above him in a room said a thing he didn't agree with: he was being very still and very polite, so as not to disagree too loudly by accident.
 
-"Only it's Ford, ma'am," he said, to his hands. "They had the last of the corn in before the heat. And then nothing. There's three villages on the lower river drinking out of one well now, and the well's going brown; I heard it at the inn on the way up. It won't wait for my leg." He hesitated, and then looked up at her. "And I have to lie here anyway. I can't do anything else. And—it's only—when I'm working properly, all the way down, I don't really feel things. Anything. I don't feel *hungry*." He put his hand, without seeming to know he'd done it, on the bandage above his knee. "It'd be better than the drops, I think. The doctor's drops. They make the ceiling go round."
+"Only it's Ford, Connie," he said, to his hands. "They had the last of the corn in before the heat. And then nothing. There's three villages on the lower river drinking out of one well now, and the well's going brown; I heard it at the inn on the way up. It won't wait for my leg." He hesitated, and then looked up at her. "And I have to lie here anyway. I can't do anything else. And—it's only—when I'm working properly, all the way down, I don't really feel things. Anything. I don't feel *hungry*." He put his hand, without seeming to know he'd done it, on the bandage above his knee. "It'd be better than the drops, I think. The doctor's drops. They make the ceiling go round."
 
 There was a silence in which Rolph watched his mother hear what had just been said: that the drops didn't work, and that he'd been lying there with the ceiling going round, and that he hadn't told anyone.
 
 "You'll eat," she said at last. "When food is brought, you'll eat it."
 
-"Yes, ma'am."
+"Yes, Connie."
 
 "You will not stay down there for days."
 
-"No, ma'am," said Tor, who had stayed down there for four days in the spring and had to be fed bread by hand. Rolph had done the feeding. He kept his face very straight.
+"No, Connie," said Tor, who had stayed down there for four days in the spring and had to be fed bread by hand. Rolph had done the feeding. He kept his face very straight.
 
 "And you will not," said his mother, "*strain* yourself. Promise me."
 
@@ -105,6 +107,12 @@ His voice was quite ordinary. That was the thing people always forgot about Smyt
 "Oh," said Tor. "Yes. Of course. Whenever you like, sir."
 
 Smythe bowed again, briefly, and stepped back, and was at once part of the wall.
+
+Rolph watched it arrive. He watched Tor look at the wall where Smythe had been, and then at the king, and then at the queen, and go slowly, from the collar of the borrowed nightshirt upward, the color of a radish: *Rich*, he was thinking; *Connie*; in front of the *army*.
+
+"Your Majesty," said Tor, to the king, rather loudly. And to the queen, at once, so as not to leave her out: "Your Majesty."
+
+"Torrance," said the king gravely.
 
 Tor looked after him. Then he looked down at the coverlet and said, under his breath, so quietly that only Rolph, at the bedside, could have heard: "He can't *draft* people who can't walk. Can he?" A pause. "Run away. That's my battle cry. *Run away.* That'll go down well."
 
@@ -164,7 +172,11 @@ His father laughed.
 
 It was the real one. It came up from somewhere deep in that great chest and filled the room, and Varley jumped, and the falcons, Rolph would have sworn, rang very faintly with it.
 
-"Don't worry about it," said the king. "Don't worry about any of it. You're in my house and you'll get well in it." He looked round at the birds, and at the copper on the coverlet, and back at Tor. "Anything you need, for the river or for yourself, ask. Ask me, or ask Finely, or ask the man on the door, and it'll come. I'll make sure they know." He put out one enormous hand, and after a moment Tor understood he was meant to shake it, and did, his own hand vanishing to the wrist. "Smythe."
+"Don't worry about it," said the king. "Don't worry about any of it. You're in my house and you'll get well in it." He looked round at the birds, and at the copper on the coverlet, and back at Tor. "Anything you need, for the river or for yourself, ask. Ask me, or ask Finely, or ask the man on the door, and it'll come. I'll make sure they know." He put out one enormous hand, and after a moment Tor understood he was meant to shake it, and did, his own hand vanishing to the wrist.
+
+"Thank you, Your Majesty," said Tor, with a glance past him at the wall.
+
+"Smythe," said the king.
 
 "Sir," said Smythe.
 
@@ -230,7 +242,11 @@ It was a small, warm, entirely unsympathetic laugh, and she didn't trouble to hi
 
 "Eat," she said.
 
-"Yes, ma'am."
+"Yes, Your Majesty."
+
+"He's gone, dear," said the queen.
+
+Tor looked at the door, where Smythe was not. "Yes, Connie," he said.
 
 Karina put her head back round the door when the rest of them were already in the corridor. "I'll come and read later," she said, and was gone before anyone could answer.
 

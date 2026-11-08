@@ -168,6 +168,7 @@ Since we don't narrate Tor's thoughts (`AGENTS.md` §3), the gap is shown by con
 ## Voice
 
 - **Diction:** plain, rural, respectful; "sir" and "ma'am" by reflex, even to peers who outrank him.
+- **The king and queen** (user, November 7, 2026): in private, with only family present, he has to remember to call them **Rich** and **Connie**, as they asked (chapter 6). The moment he notices anyone else in the room, he adds "Your Majesty." In chapter 9, scene 2, he doesn't notice Smythe at first, so he's informal until Smythe is introduced, then hastily formal.
 - **Rhythm:** short hedged sentences that stretch into long, precise run-ons the moment he talks about building.
 - **Tics:** "I'm sorry," "I didn't mean to," "It's not really anything"; baking metaphors from home; mutters to himself ("Think, Tor. Focus now.") (canon); dry, self-mocking humor.
 - **Never:** boasts aloud (the pride stays private), swears casually, or uses a title as a weapon.
