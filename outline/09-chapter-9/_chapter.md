@@ -7,7 +7,7 @@
 ## Scenes
 
 - **01 Waking Up** (drafted): Tor wakes splinted in a palace sickroom; viewpoint Tor alone, then Hale, the door guard ("Coun— Master Tor"); Tor plans the Ford line aloud; the king sends three bronze falcons unasked, brought in by Sergeant Finely.
-- **02 Chatting With the King** (planned): the king, Rolph, Smythe of Westland, the queen, Karina and Varley visit; the children are well; the falcons' gate origin; the queen allows the Ford line on a promise; Smythe wants a private word later; Karina asks about the combat rage; teasing at the end. Viewpoint: Rolph (user, November 7, 2026).
+- **02 Chatting With the King** (drafted): the king, Rolph, Smythe of Westland, the queen, Karina and Varley visit; the children are well; the falcons' gate origin; the queen allows the Ford line on a promise; Smythe wants a private word later; Karina asks about the combat rage; teasing at the end. Viewpoint: Rolph (user, November 7, 2026).
 -
 
 ## Carried over from chapter 8

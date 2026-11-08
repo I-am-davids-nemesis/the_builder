@@ -111,3 +111,8 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | Tor's likeness to Count Lairdgren | A royal guard starts "Coun—" and turns it into "Master Tor" (scene 1). Nothing explained | Doesn't notice | The guard knows the count's face; nobody on the page knows Tor is his clone |
 | Tor's leg | Splinted, throbbing; nobody says how bad (scene 1) | Doesn't dwell on it; nobody tells him | Whoever set it; revealed later |
 | The falcons | Three bronze falcons arrive unasked after Tor talks the Ford plan aloud at his open door (scene 1) | Takes them as the king's leave to start, if the king allows it | The guards reported up; the king sent them without a word |
+| Where the falcons came from | The king: they stood on the old gate before the wall was raised, then sat in a cellar (scene 2); his only acknowledgement that he sent them | Knows their origin; doesn't take it as the king saying he sent them | The king |
+| The girl in the midden | One of Simon's sister's friends; she fell in first, and Simon went after her without calling anyone (scene 2); still unnamed | Same | — |
+| Tor's rage | Rumor says he raged; Rolph: a shield with no device, the rage felt through the ground, the pit thrown up (scene 2) | Grants he was "a bit upset with the dirt"; insists rages are noble, so his can't have been one ("we get *cross*") | Rolph felt it and can't square it; Smythe and the king watch; nobody says what it means |
+| What Smythe wants | He asks for a private word "later" (scene 2) | Fears being drafted; Rolph says Smythe only says what he means | Smythe |
+| Tor's pain | The doctor's drops don't work; he means to use the trance instead (scene 2) | Same | The queen now knows |
