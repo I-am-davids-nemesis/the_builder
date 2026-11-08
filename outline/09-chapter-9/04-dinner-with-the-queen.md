@@ -41,26 +41,28 @@ Split from scene 03 (user, November 7, 2026).
   - **The bath:** Tor. It's his first sight of the rope burn and the bruising, so it counts as traumatic (§3). Burks is Green, an Ancient, and is seen only from outside.
   - **The dinner:** Connie, through Mercy's arrival and the bargain. The crush shows **from outside**: Tor blushes and hurries to change the subject, and Connie reads it as more overwork. She sees through the ice-box excuse. Her viewpoint also carries why she introduces him plainly, which she enjoys (see Hidden).
 - **Location:** a palace bathing room (invented: a tiled room near the sickroom, a sunk bath, steam); one of the smaller dining rooms (a table set for family, an insulated box for cold water on it; the ice is from the palace cellars Varley mentioned in scene 2, invented).
-- **Present:** Tor and Burks; then Tor and Connie, servants at the edges; then Mercy (Merciful Thorgood Morgan, Connie's sister, Trice's mother, Duke Eric's wife). Offstage and mentioned: Patricia, Rolph, Karina, Varley and Sara at the market; Duke Eric; the king; Tovey.
+- **Present:** Tor and Burks; then Tor and Connie, servants at the edges; then Mercy (Merciful Thorgood Morgan, Connie's sister, Trice's mother, Duke Eric's wife). Offstage and mentioned: Patricia, Rolph, Karina, Varley and Sara at the market; Duke Eric, who came with Mercy and is with the king (user, November 7, 2026); Tovey.
 - **Reader learns:**
   - What the ankle looks like: the bruising and the rope burn, though not how badly it's broken (that waits for its healing, user, November 6, 2026).
   - The river needs a name; Connie wants the River Tor, and Tor offers the Falcon River. Which name sticks stays open.
   - The paired oven and ice-box idea returns, and Tor will have a cold box in his room.
-  - Mercy is Connie's sister and Trice's mother, a sitting baroness in her own right, married to Duke Eric (Morgan). Her orchards are at risk, and the Debri house is too busy for food dryers. Rolph and Sara are getting close, as Connie has noticed.
+  - Mercy is Connie's sister and Trice's mother, a sitting baroness in her own right and duchess by marriage to Duke Eric (Morgan). Her orchards are at risk, and the Debri house is too busy for food dryers. Rolph and Sara are getting close, as Connie has noticed.
   - Mercy didn't know Trice can fly. The councilors won't let the king fly; Connie is afraid of heights (user, November 7, 2026).
   - The bargain: dryers and rigs for Mercy's fruit; half of what would have spoiled, and perhaps a tenth of the wheat, goes to Ford.
   - Tor is to come to dinner at nine.
 - **Hidden (and how):**
   - **Who Burks is:** stays hidden (`codex/characters/supporting/green.md`). He's seen only from Tor's viewpoint, which takes him for a kind servant; his deftness with the splint is the only hint (invented).
   - **The crush:** never stated. It's only what Connie sees, and she misreads it as overwork.
-  - **Why Connie introduces him plainly:** she's clearly hiding that he's the wizard behind the river and everything else that has the kingdom stirred up (user); Tor won't claim any of it himself. Her reason shows only through her viewpoint's enjoyment, and Mercy finds out only at "Yes, that Tor."
+  - **Why Connie introduces him plainly:** she's clearly hiding that he's the wizard behind the river and everything else that has the kingdom stirred up (user); Tor won't claim any of it himself. She wants to see what Tor offers without his name in the room, and she enjoys it (user, November 7, 2026). Mercy finds out only at "Yes, that Tor." She'd heard of "Tor" from Trice but pictured someone grown, so "Torrance" doesn't connect (user, November 7, 2026).
+  - **What happens at dinner at nine:** Connie is setting him up (user, November 7, 2026); what it is stays out of the scene.
+  - **How the half reaches Ford:** left to the next chapter (user, November 7, 2026).
   - **What keeps the Debri house busy:** only "something more lucrative" (assumed: the shields, flying rigs and cooling plates).
   - **What the cold box is for:** Tor's "just to check something" deflects; Connie doesn't believe him, and the reader sees only the chuckle.
 
 ## Beats
 
 1. **Out of the splint** (Tor). Burks comes in as if he'd been sent for. He undoes the bandages and takes the iron strips away; Tor sees the ankle for the first time: bruising, and the rope burn looped round it like a second strap. He looks once, and keeps looking.
-2. **The bath.** Burks gets him into the water and clean, kindly and without fuss, and dresses him in very loose silk trousers and a tunic. The splint goes back on (invented: Burks binds it as neatly as Dr. Marsh did).
+2. **The bath.** Burks gets him into the water and clean, kindly and without fuss, and dresses him in very loose silk trousers and a tunic. Burks binds the splint back on as neatly as Dr. Marsh did, a quiet hint that he knows more than a servant would (user, November 7, 2026).
 3. **Family style** (Connie). The smaller dining room; Tor at the table with the leg on a stool. Connie sits beside him, not across, close enough to talk.
 4. **The River Tor.** She names it. He protests, struggles, offers the Falcon River (the king's bird; the King's River taken; better than some student). She refuses: he heard of the problem and fixed it. He: she was there when the king said they'd need a river.
 5. **The crush, from outside.** Tor goes red and stops halfway through a sentence; Connie, watching, takes it for tiredness.
@@ -74,39 +76,16 @@ Split from scene 03 (user, November 7, 2026).
 13. **Spare rigs.** Tor offers his spares for Eric, or Trice could lend hers. Mercy is shocked at the loan, and at Trice flying. Tor: they're presents; Rich isn't allowed, Connie won't; Trice is very good; Rolph, Alphonse, could teach, or Tovey, Count Thompson, if he's not busy running a county, "not lazy like me." Connie hides her face.
 14. **The bargain.** Dryers and rigs, for half of what would have spoiled, for Ford. Mercy flirts: could he really? Connie, regal: if Tor says so, about magic, he can. "Oh, *that* Tor?" "Yes, that Tor."
 15. **The wheat.** Mercy can't speak for Eric, but perhaps a tenth of the wheat as well; it keeps better.
-16. **Excused.** Tor wants to start now, then thinks better: the template from the Debri house first, and the cold box. He's excused. "Dinner at nine," says the queen.
+16. **Excused.** Tor wants to start now, then thinks better: the template from the Debri house first, and the cold box. He's excused. "Dinner at nine," says the queen: tonight, later, once Mercy has seen the others. He's expected, and Connie's viewpoint lets the reader see she's setting something up without saying what (user, November 7, 2026).
 
-**Questions:**
-
-1. **Mercy's names:** Connie introduces her as "Merciful Thorgood Morgan," but the Thorgoods in the codex are Ursula's family (Count Horace and Countess Marigold). Are Connie and Mercy born Thorgoods?
-   - Default: Yes. Count Horace is their brother, so Ursula is Rolph's and Trice's cousin.
-   - Option: Thorgood is Mercy's own barony's name, not her birth family.
-   - Option: A different branch; the Thorgoods of chapter 6 are distant kin.
-2. **Mercy's titles:** the codex calls Trice's mother the Duchess of Morgan; here she's a sitting baroness. Is she both?
-   - Default: Both. She holds the orchard barony in her own right and is duchess by marriage; Connie uses the barony title because it's hers.
-   - Option: She's only a baroness, and the codex's "Duchess of Morgan" is wrong.
-3. **Who is "they" in "just in"?** Who came with Mercy?
-   - Default: Mercy and her household; Duke Eric stayed home with the wheat harvest.
-   - Option: Eric came too and is with the king.
-4. **Why Connie hides who Tor is:** what's her reason?
-   - Default: She wants to see what Tor offers without his name in the room, and she enjoys it.
-   - Option: She arranged for Mercy to find him, and is steering the bargain.
-   - Option: Habit; the palace has been keeping Tor's name quiet since the midden.
-5. **Does Mercy recognize Tor's face from Trice's letters?** Has Trice written about him?
-   - Default: She's heard of "Tor" from Trice but pictured someone grown; "Torrance" doesn't connect.
-   - Option: Trice has never mentioned him at home.
-6. **Afrak:** is this a new place name for the book, and what is it?
-   - Default: A far land across the sea, known for fabrics; one mention only, labeled in `codex/canon-notes.md` when drafted.
-   - Option: none
-7. **"Dinner at nine":** which dinner?
-   - Default: Tomorrow's family dinner at the ninth bell of the evening; tonight's tray was a stopgap, and he's to eat with the family from now on.
-   - Option: Tonight, later, after Mercy has seen the others.
-8. **The splint after the bath:** who puts it back on?
-   - Default: Burks, as neatly as Dr. Marsh, a quiet hint that he knows more than a servant would.
-   - Option: Dr. Marsh is sent for and rebinds it, grumbling.
-9. **Connie's fear of heights:** is this true, or Tor's joke?
-   - Default: True; Connie doesn't deny it, and it's added to her facts.
-   - Option: Tor's guess, and she lets it stand.
-10. **The half for Ford:** who carries the fruit and wheat to Ford, and who pays the pickers?
-    - Default: Left to the next chapter; this scene ends on the promise.
-    - Option: Mercy's people deliver by flying rig; the crown pays the pickers.
+**Answered** (user, November 7, 2026):
+- **Mercy's names:** her Thorgoods are a different branch; the Thorgoods of chapter 6 (Count Horace, Countess Marigold, Ursula) are distant kin.
+- **Her titles:** both. She holds the orchard barony in her own right and is duchess by marriage; Connie uses the barony title because it's hers.
+- **"Just in":** Duke Eric came too, and is with the king.
+- **Why Connie hides who Tor is:** she wants to see what Tor offers without his name in the room, and she enjoys it.
+- **Trice's letters:** Mercy has heard of "Tor" from Trice but pictured someone grown; "Torrance" doesn't connect.
+- **Afrak:** a far land across the sea, known for fabrics; one mention only, recorded in `codex/canon-notes.md` when drafted.
+- **"Dinner at nine":** tonight, later, after Mercy has seen the others. The queen is setting him up: he's expected, and something is going to happen there.
+- **The splint:** Burks binds it back on, as neatly as Dr. Marsh, a quiet hint that he knows more than a servant would.
+- **Connie's fear of heights:** true; she doesn't deny it (`codex/characters/rolph.md`).
+- **The half for Ford:** left to the next chapter; this scene ends on the promise.
