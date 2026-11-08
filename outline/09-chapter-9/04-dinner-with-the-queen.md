@@ -92,21 +92,9 @@ Split from scene 03 (user, November 7, 2026).
 - **Connie's fear of heights:** true; she doesn't deny it (`codex/characters/rolph.md`).
 - **The half for Ford:** left to the next chapter; this scene ends on the promise.
 
-**Questions:**
-
-1. **Hale and Burks:** keep Hale letting go fast and standing straight when he sees Burks?
-   - Default: Keep it; it's the same size of hint as the "Coun—" slip, and Tor doesn't notice.
-   - Option: Cut it, so the splint is the only hint.
-2. **Tor in tears:** Connie sees he's been crying, or near it, after the bath; is that right for him?
-   - Default: Keep it; the bath section shows the shock, and Connie only infers it from his scrubbed face.
-   - Option: Cut it; he only looks scrubbed.
-3. **Connie's three children:** the draft says she has three. Are there only Rolph, Karina and Varley?
-   - Default: Yes, three.
-   - Option: There are more, not yet met.
-4. **Lord Harrow and the inn at Coldwell:** keep these new names?
-   - Default: Keep both, as one-off mentions.
-   - Option: Cut the names and leave "a Ford man on the council" and "the last inn."
-5. **"A few others" at nine:** who is at the dinner, and what has Connie set up?
-   - Default: none
-   - Option: Smythe, for his private word.
-   - Option: Heather Debri, for the dryers and the carts.
+**Answered on the draft** (user, November 7, 2026):
+- **Hale and Burks:** keep Hale letting go fast and standing straight at the sight of Burks; it's the same size of hint as the "Coun—" slip, and Tor doesn't notice.
+- **Tor in tears:** keep it; the bath section shows the shock, and Connie only infers it from his scrubbed face.
+- **Connie's children:** three: Rolph, Karina and Varley (`codex/characters/rolph.md`).
+- **Lord Harrow and the inn at Coldwell:** keep both, as one-off mentions (`codex/canon-notes.md`).
+- **"A few others" at nine:** who they are and what Connie has set up comes out later; the scene keeps it hidden.
