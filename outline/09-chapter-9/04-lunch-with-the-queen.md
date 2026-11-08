@@ -1,4 +1,4 @@
-# Dinner With the Queen
+# Lunch With the Queen
 
 Split from scene 03 (user, November 7, 2026).
 

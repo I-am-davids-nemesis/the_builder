@@ -1,6 +1,6 @@
 # Building a River
 
-- **Summary:** Tor spends six days in a working trance putting the field on the three bronze falcons; on the seventh he sends them out; by the tenth the sky river is running into the Ford. Facts from the user's notes; canon unless marked. The bath and the dinner with Connie moved to scene 04 (`04-dinner-with-the-queen.md`; user, November 7, 2026).
+- **Summary:** Tor spends six days in a working trance putting the field on the three bronze falcons; on the seventh he sends them out; by the tenth the sky river is running into the Ford. Facts from the user's notes; canon unless marked. The bath and the dinner with Connie moved to scene 04 (`04-lunch-with-the-queen.md`; user, November 7, 2026).
   1. **Six days.** Building the field takes six days. It's perhaps the strongest field Tor has ever made.
   2. **Looked after.** Through those days the palace staff come in to feed him and lead him to the privy.
   3. **Going under.** Each day he withdraws further into the fields he's pushing into the birds. By the end of the second day he has forgotten the pain. On the third he doesn't see anyone around him. The last two days are only locking the fields in place, with nothing in his mind but the fields.
