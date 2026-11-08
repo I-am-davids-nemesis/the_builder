@@ -6,6 +6,7 @@
 
 ## Scenes
 
+- **01 Waking Up** (drafted): Tor wakes splinted in a palace sickroom; viewpoint Tor alone, then Hale, the door guard ("Coun— Master Tor"); Tor plans the Ford line aloud; the king sends three bronze falcons unasked, brought in by Sergeant Finely.
 -
 
 ## Carried over from chapter 8
