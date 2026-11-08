@@ -62,6 +62,7 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 ## Fixed traits
 
 - Black hair, untidy, often sticking up on one side. (canon, from the user)
+- **Purple is his favorite color** (user, November 7, 2026), so he never thinks of it as the royal color: in chapter 9, scene 5, he wraps the Morgans' present in purple silk without a second thought, and nobody remarks on it.
 
 ## Facts
 

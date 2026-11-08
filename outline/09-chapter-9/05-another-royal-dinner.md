@@ -19,7 +19,7 @@
   15. **No small family dinner.** Close to the dining room, Tor realizes it's a large event with maybe a hundred guests. A man with a deep, loud baritone announces people as they enter; they walk a few feet into the room, pause to be seen, and go on.
   16. **The couple ahead.** The couple in front of Tor turn out to be another duke and duchess, from a different part of the kingdom. People glance over, but they apparently don't rate much attention.
   17. **The herald is stumped.** When it's Tor's turn, the announcer doesn't recognize him and is stumped until a guard steps over and whispers to him.
-  18. **"Tor."** He announces him simply as "Tor". Tor walks (limps?) in the requisite few steps and pauses, awkward, walking stick in one hand and the present under the other arm. He suddenly realizes that *everyone* is looking at him; the room falls silent for a moment before conversation starts up again.
+  18. **"Tor."** He announces him simply as "Tor". Tor walks (limps? settled: a careful walk, and the limp starts in the line) in the requisite few steps and pauses, awkward, walking stick in one hand and the present under the other arm. He suddenly realizes that *everyone* is looking at him; the room falls silent for a moment before conversation starts up again.
   19. **The line.** People are walking up to a line to pay their respects to the king and queen, seated at a welcoming table. Waiting, Tor watches closely how people greet the royals.
   20. **Checking the amulets.** He surreptitiously checks that he has his full complement of amulets (shield and temperature equalization), since the last time he dined with royalty (the Ward dinner, chapter 7) things did not turn out well. His leg is really starting to hurt, and holding the box is becoming a real pain.
   21. **The greeting.** At the front of the line he greets the king and queen most properly, then asks the king to hand his present on to the Duke and Duchess Morgan, since his leg is bothering him so much.
@@ -30,12 +30,12 @@
   26. **Stepping back.** Tor says hi to Tovey, but has to step back so as not to stand too close to his date, and bumps into someone.
   27. **Trice.** He turns round, sees Trice and greets her at once. She doesn't seem to see him; she simply apologizes and walks away, but Tor can see she's extremely sad and hurt. Cliffhanger: the scene ends as Trice walks away.
 
-- **POV / mode:** rotating third, in three sections split by `* * *` (invented; see Questions).
+- **POV / mode:** rotating third, in three sections split by `* * *` (invented; accepted by the user, November 7, 2026).
   - **The cold box:** Tor, while he's alone (§3): the ice box, the build, the "failure" and the amulet, the pitcher icing, "I wish Burks was here." Burks steps out of the wall at the end of the section; he's Green and seen only from outside.
   - **Dressing:** Hale, the door guard (invented), from Burks's return with the news from the kitchen to the hand down the hall. Hale knows Burks as Count Lairdgren (`codex/characters/supporting/finely.md`, `green.md`), so the comedy is a count on his knees slitting trousers for a boy who calls him Burks; Hale says nothing. The flying-cart work shows from outside: papers everywhere, Tor muttering, the bell missed.
   - **The dinner:** Collette (invented), from just inside the door, where she and Tovey have already been announced. A baronet's daughter at her first great dinner, she knows exactly who rates attention, so she can see the room go silent for "Tor" without knowing why; she watches him queue, greet the royals and limp toward Alphonse, and she sees Trice's face when Tor can't follow her.
 - **Location:** Tor's room in the palace (the sickroom of scene 1 or a guest room near it; with a hidden service panel in the wall, invented); the palace halls, quiet near his room and crowded nearer the dining room; the great dining room (invented: the long room Connie named in scene 04, set for about a hundred, with a herald at the door and the king and queen at a welcoming table). The kitchen stays offstage, reported by Burks.
-- **Present:** Tor; Burks (Green, as "Burks"); Hale on the door. At dinner: the herald (unnamed, invented); a royal guard who whispers to him and another who takes the present (purple and black, `outline/05-chapter-5/03-meet-the-parents.md`); the couple ahead (another duke and duchess, unnamed); about a hundred guests; King Richard and Queen Connie; Rolph/Alphonse among very large people; Tovey; Collette (Baronetta Collette Coltress, his date); Trice. Probably in the room but unseen: Mercy and Duke Eric (the present's recipients), Karina, Varley, Sara (assumed; see Questions).
+- **Present:** Tor; Burks (Green, as "Burks"); Hale on the door. At dinner: the herald (unnamed, invented); a royal guard who whispers to him and another who takes the present (purple and black, `outline/05-chapter-5/03-meet-the-parents.md`); the couple ahead (another duke and duchess, unnamed); about a hundred guests; King Richard and Queen Connie; Rolph/Alphonse among very large people; Tovey; Collette (Baronetta Collette Coltress, his date); Trice. In the room but unseen in this scene: Mercy and Duke Eric (the present's recipients), Karina, Varley, and Sara, who is in Rolph's crowd (user, November 7, 2026). Tovey came for the dinner as Count Thompson; Collette is a polite duty date from a minor family, and gets a lot more screen time later (user, November 7, 2026).
 - **Reader learns:**
   - The cold plates work: heat dumped into the ground, ten made, a pitcher of super-cooled water that ices when touched. The amulet hides temperature from the person wearing it (the bath flaw from `outline/05-chapter-5/04-testing-the-field.md`, back again).
   - A cold plate is now inside one of the palace kitchen's big ice boxes.
@@ -47,11 +47,12 @@
   - Trice is deeply hurt by something, and walks past Tor without seeing him.
 - **Hidden (and how):**
   - **Who Burks is:** stays hidden (`codex/characters/supporting/green.md`). Tor takes the panel for a servants' passage; Hale's viewpoint carries the hint, as in scenes 1 and 4, without naming him.
-  - **Why Burks took so long:** a scene cut; the kitchen's reaction is left to one dry line from Burks (invented).
+  - **Why Burks took so long:** a scene cut; the kitchen's reaction is left to one dry line from Burks (invented; accepted by the user, November 7, 2026).
   - **What Connie has set up:** the scale of the dinner is the first sign of it; what she means to happen there stays out of this scene (scene 04, "A few others").
-  - **What the guard whispered:** Collette can't hear it; the herald's face changes and he says only "Tor."
-  - **Why the room goes silent:** shown only in Collette's viewpoint, which doesn't know he's *that* Tor; the reader does.
-  - **Why Trice is hurt:** the cliffhanger. Nobody on the page knows; Collette sees it and Tor sees it, and the scene ends before anyone can ask.
+  - **What the guard whispered:** Tor isn't on the herald's list under any name; the guard whispers "just Tor," on the queen's order (user, November 7, 2026). Collette can't hear it; the herald's face changes and he says only "Tor." The queen's part stays unstated.
+  - **Why the room goes silent:** the name. The whole court knows "Tor" from the river, the rigs and the tanners' yard, and nobody expected him to look fifteen (user, November 7, 2026). Collette's viewpoint shows the silence before she puts it together.
+  - **Why Trice is hurt:** the cliffhanger, **left open past this chapter** (user, November 7, 2026). Nobody on the page knows; Collette sees it and Tor sees it, and the scene ends before anyone can ask.
+  - **The purple silk:** just the silk Burks brought. Purple is Tor's favorite color, so he doesn't think of it as royal, and nobody remarks on it (user, November 7, 2026).
 
 ## Beats
 
@@ -65,19 +66,19 @@
 `* * *`
 
 7. **The long wait** (Hale). Through the open door, the boy is on the floor among sketches, muttering about carts that fly "less like a rig"; the bell goes and he doesn't hear it.
-8. **Installed.** Burks comes back; Hale stands straight. The kitchen has screwed the plate inside one of its big ice boxes; that's why it took a while.
+8. **Installed.** Burks comes back; Hale stands straight. The kitchen has screwed the plate inside one of its big ice boxes; that's why it took a while. One dry line, as in chapter 5: the cooks have already filled it (user, November 7, 2026).
 9. **Nothing to wear.** Tor realizes the hour and that he owns nothing fit for dinner. Burks: not to worry. He goes, and comes back with clothes.
 10. **The trousers.** They won't go over the splint. Burks cuts the leg from hem to nearly hip, and laces it with thin silk ribbons; it looks like a fashion, not a repair. Hale watches a count do it and keeps his face still (invented).
-11. **The present.** Tor remembers the Morgans. A box? Burks is back in a couple of minutes with a finely carved one; Tor admires the work aloud. Shields and rigs in, purple silk and ribbon round it.
+11. **The present.** Tor remembers the Morgans. A box? Burks is back in a couple of minutes with a finely carved one; Tor admires the work aloud. A pair of shields and a pair of rigs go in, one of each for Eric and for Mercy (user, November 7, 2026), with purple silk and ribbon round it; Tor picks the purple because he likes it. His own shield, lost with the girl in chapter 8, is replaced from the same spares (user, November 7, 2026).
 12. **The stick and the door.** Burks finds a walking stick and gives vague directions; Hale takes Tor's arm down the quiet hall, then lets him go in a busy one: follow the crowd.
 
 `* * *`
 
 13. **The room** (Collette). About a hundred guests; the baritone herald; each couple walks a few feet in, pauses to be seen, goes on. Collette and Tovey are through; she's counting ranks and loving it.
 14. **The couple ahead.** A duke and duchess from another part of the kingdom are announced and draw a few glances. Collette notes they don't rate much.
-15. **The herald is stumped.** A small young man with a stick and a parcel. The herald hesitates; a guard steps over and whispers.
-16. **"Tor."** One word. The boy limps the few steps, pauses with the stick in one hand and the box under the other arm, and the room goes silent, then talks again, louder.
-17. **The line.** He joins the line to the welcoming table, watching how everyone greets the royals; Collette sees him touch the cords at his neck, one and then the other, and shift his weight off the leg.
+15. **The herald is stumped.** A small young man with a stick and a parcel, on no list under any name. The herald hesitates; a guard steps over and whispers: just Tor, on the queen's order.
+16. **"Tor."** One word. The boy manages a careful walk for the few steps, no limp, and pauses with the stick in one hand and the box under the other arm (user, November 7, 2026). The room goes silent at the name, then talks again, louder.
+17. **The line.** He joins the line to the welcoming table, watching how everyone greets the royals. Here the limp starts. Collette sees him touch the cords at his neck, one and then the other, and shift his weight off the leg.
 18. **The greeting.** He greets the king and queen most properly, then asks the king to pass the present to the Duke and Duchess Morgan, because of his leg. The king, surprised, agrees and hands it to a guard, who looks at Tor as if the box might bite.
 19. **Alphonse.** The king points out his son: go and talk, meet people. Tor sets off.
 20. **The wall.** Alphonse is ringed by very large people; Tor can't get in.
@@ -85,45 +86,16 @@
 22. **Stepping back.** Tovey turns; Tor says hi, and steps back so as not to stand too close to Tovey's date, and bumps into someone.
 23. **Trice.** He turns, and greets her at once. She doesn't seem to see him. She apologizes, the way you'd apologize to a stranger, and walks away. Collette sees her face; so does Tor. End on Trice walking away.
 
-**Questions:**
-
-1. **Viewpoint:** who holds the viewpoint, given Tor only gets it alone or in trauma?
-   - Default: three sections: Tor alone for the cold box; Hale for the dressing; Collette at the dinner.
-   - Option: Tor alone, then Hale through to the end, standing at the dining-room door.
-   - Option: Connie for the dinner, watching from the welcoming table the setup she arranged.
-   - Option: Tovey for the dinner, who can see Trice and Tor both.
-2. **Why Trice is hurt:** what has happened to her, and is it about Tor?
-   - Default: something her parents told her this afternoon, a match or a summons, tied to what Connie has set up; not about Tor; revealed in chapter 10.
-   - Option: she's heard something about Tor that hurts (Connie's plan, or a rumor of a match for him).
-   - Option: leave it open past this chapter.
-3. **The herald and the guard:** why doesn't the herald know him, and what does the guard whisper?
-   - Default: Tor isn't on the herald's list under any name; the guard whispers "just Tor," on the queen's order.
-   - Option: the herald sees Count Lairdgren's face and almost announces the count, as Hale almost did in scene 1.
-   - Option: the guard whispers "the Tor," and the herald decides the one word is safest.
-4. **Why the room goes silent:** is it the name, or something more?
-   - Default: the name; the whole court knows "Tor" from the river, the rigs and the tanners' yard, and nobody expected him to look fifteen.
-   - Option: the name and the face; the older courtiers half recognize Count Lairdgren in him.
-5. **Tor's shield:** his own went off with the girl in chapter 8; where does the shield he checks for come from?
-   - Default: one of the spares he brought as presents (scene 04).
-   - Option: it came back with the girl's family, through the guard.
-6. **The present:** one shield and one rig, or a pair of each?
-   - Default: a pair of each, one for Eric and one for Mercy, matching "shields and flying rigs."
-   - Option: one of each, for Eric to try, as offered at lunch.
-7. **Limp or walk:** how does Tor manage the room on the splint?
-   - Default: he limps, using the stick, and the pause to be seen is visibly painful.
-   - Option: he manages a careful walk for the entrance and only starts limping in the line.
-8. **The purple silk:** does it matter that Tor wraps the present in the royal colour?
-   - Default: no; it's just the silk Burks brought, and nobody remarks on it.
-   - Option: it's part of why the guard is suspicious: an unknown boy handing the king a parcel in royal purple.
-9. **Who else is at dinner:** are Mercy and Eric, Karina, Varley and Sara in the room?
-   - Default: all present but unseen in this scene; Sara is with Rolph's crowd.
-   - Option: Mercy is visible at the welcoming table, and sees Tor arrive.
-10. **Tovey and Collette:** why is Tovey in the capital, and who is Collette to him?
-   - Default: he came for the dinner, as Count Thompson; Collette is a polite duty date from a minor family, invented here.
-   - Option: Collette is someone he actually likes, a thread for later.
-11. **"Baronetta":** is it the title for a baronet's daughter, alongside "Ducharina"?
-   - Default: yes, a baronet's daughter (invented, on the model of "Ducharina"); recorded in `codex/canon-notes.md` when drafted.
-   - Option: a baron's daughter.
-12. **The kitchen test:** does Burks report anything of how the kitchen took it?
-   - Default: one dry line, as in chapter 5; the cooks have already filled it.
-   - Option: nothing; only that it's installed.
+**Answered** (user, November 7, 2026):
+- **Viewpoint:** three sections: Tor alone for the cold box; Hale for the dressing; Collette at the dinner.
+- **Why Trice is hurt:** left open past this chapter (`codex/tension-ledger.md`).
+- **The herald and the guard:** Tor isn't on the herald's list under any name; the guard whispers "just Tor," on the queen's order.
+- **Why the room goes silent:** the name; the whole court knows "Tor" from the river, the rigs and the tanners' yard, and nobody expected him to look fifteen.
+- **Tor's shield:** one of the spares he brought as presents (scene 04).
+- **The present:** a pair of shields and a pair of rigs, one of each for Eric and for Mercy.
+- **Limp or walk:** a careful walk for the entrance; the limp starts in the line.
+- **The purple silk:** just the silk Burks brought, and nobody remarks on it. Purple is Tor's favorite color, so he doesn't think of it as royal (`codex/characters/tor.md`).
+- **Who else is at dinner:** Mercy and Eric, Karina, Varley and Sara are all there but unseen in this scene; Sara is with Rolph's crowd.
+- **Tovey and Collette:** Tovey came for the dinner as Count Thompson; Collette is a polite duty date from a minor family, and gets a lot more screen time later (`codex/characters/supporting/minor-characters.md`).
+- **"Baronetta":** a baronet's daughter, on the model of "Ducharina" (`codex/canon-notes.md`).
+- **The kitchen test:** one dry line from Burks, as in chapter 5: the cooks have already filled it.

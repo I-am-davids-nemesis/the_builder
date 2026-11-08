@@ -37,6 +37,7 @@ When a draft resolves or opens a thread, update this file in the same change.
 | Tor's Doretta (chapter seven) | Chapter 8, scene 1: Rolph tells the cafeteria and its aftermath; Trice tells the Wylde tale; Tor knows it now and won't believe he's feared | Why Tor believes no one could want him; the court fearing him as a Wylde; what Maria fears |
 | Mercy's orchards (chapter nine) | — | Chapter 9, scene 4: Tor promises food dryers and flying rigs for half of what would have spoiled, perhaps a tenth of Duke Eric's wheat too, all for Ford; how it's carried and paid for is open (user, November 7, 2026) |
 | The queen's dinner at nine (chapter nine) | — | Connie tells Tor he's expected; she has set something up (user, November 7, 2026). Who the "few others" are, and what she's set up, comes out later (user, November 7, 2026) |
+| Trice's hurt (chapter nine) | — | Chapter 9, scene 5: at the dinner Trice walks past Tor without seeing him, extremely sad and hurt. Why is left open past this chapter (user, November 7, 2026) |
 | Smythe's private word (chapter nine) | — | What the head of the military wants to ask Tor; Tor fears being drafted |
 | Tor's trance-sight (chapter three) | — | Why a student can see through wards, and why he's less meek in trance |
 
