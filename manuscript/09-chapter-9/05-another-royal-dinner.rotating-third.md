@@ -212,7 +212,7 @@ The eighth bell had gone. The count stood back and looked the boy up and down on
 
 "It's no trouble, sir," said the count, and to Hale, as he went out: "Sergeant."
 
-"My lord," Hale said, before he could stop it; but the boy was busy getting his stick and his box arranged, and didn't hear.
+Hale stood up straighter, which was all he could do, and said nothing at all; and the boy, busy getting his stick and his box arranged, didn't look up.
 
 Hale took him down.
 
