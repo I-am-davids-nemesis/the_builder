@@ -80,6 +80,9 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | Why two nobles raged | Rolph, who never loses his temper, does | Nothing | Nobody: it's Trice's field, never revealed |
 | Training rages | The king's long look at the shield | That his shield stopped Ward's confusion | The king alone sees what it could mean |
 | Who supplies Tor | A pile of copper appears on his desk during the dinner; Karina wonders | Doesn't notice; decides it's "lucky" | Burks (Green) left it |
+| Burks at the palace (chapter 9, scene 4) | Hale lets go of Tor fast and stands straight at the sight of him; Burks rebinds the splint better than the doctor; "Not as such, sir" | Thinks Burks is a kind servant, maybe an old soldier | Hale knows him as Count Lairdgren |
+| Mercy and "Torrance Baker" (chapter 9, scene 4) | Connie introduces Tor plainly on purpose, to see what he offers | Doesn't notice he's been introduced plainly; "Is there another one?" | Mercy learns at "Yes, that Tor" |
+| The queen's dinner at nine (chapter 9, scene 4) | Connie has set something up, with "a few others" at the table | Thinks it's a family dinner | Connie (and whoever she invited) |
 | Why Tor thinks nobody could want him | Trice's lecture; Rolph: "He's had his Doretta" (scene 3) | Doesn't know the tale or what Rolph means; asks "Who's Doretta?" | Rolph; Trice connects the dance, Maria and the court's fear; Sara |
 | The off-switch flaw | Sara stops the beach loop by hand; Tor sees the hundred-mile danger | Knows the flaw; plans a field that "only listens" | — |
 | The girls' summer homework | "Homework," "the summer kind"; Trice's sum about distances in the dark | Thinks it's "the dull sort" | Trice, Sara, Rolph |

@@ -78,6 +78,8 @@ Split from scene 03 (user, November 7, 2026).
 15. **The wheat.** Mercy can't speak for Eric, but perhaps a tenth of the wheat as well; it keeps better.
 16. **Excused.** Tor wants to start now, then thinks better: the template from the Debri house first, and the cold box. He's excused. "Dinner at nine," says the queen: tonight, later, once Mercy has seen the others. He's expected, and Connie's viewpoint lets the reader see she's setting something up without saying what (user, November 7, 2026).
 
+**Drafted** (November 7, 2026; invented, pending the user's review): the bathing room is tiled in small green squares "like the skin of a cucumber," with a sunk bath and three steps; Hale lets go of Tor's arm fast at the sight of Burks and stands very straight (he knows the count). Burks finds the tucked end of the bandage "nobody would ever find." The ankle: bruising purple to green to yellow "like an apple dropped from a height"; the rope burn two fingers wide, crossing itself where the knot was; Tor remembers being pulled up "as if he'd been a bucket" and never feeling the rope. Burks's hand laid flat on Tor's good foot; "That's quite something, isn't it." "I'd have been more careful going down if I'd known I'd have to look at it afterward." The splint rebound "in about the time it took to tie a pair of boots," turns "like shingles on a roof"; "Were you a soldier?" "Not as such, sir." Connie (narrated as Constance) chose the little east dining room, the coolest on the floor; two places at one corner; "a good deal of practice reaching boys at dinner"; sees he's been crying, or near it. "You look very nice." The River Tor is what the taverns already call it; Lord Harrow, a Ford man on the council, wept. Tor holds up a spoon with a falcon on the handle; "Nobody wants a river named after a student." Connie went in on the fourth day and was looked straight through. "They are a merchant house. They have been waiting for things since before your grandfather was born." The ice box: dark wood, padded lining, packed each morning from the cellars; Tor: "all that heat going up the chimneys, and all that cold coming up the stairs in buckets"; "*Both* sides, though... back to back." Mercy "arrived" in rooms; dove-gray traveling dress, lavender water since fifteen; air kisses "the way they'd done it at twelve to annoy their mother"; the inn at Coldwell; Eric and Rich in the map room till midnight; a ship in from Afrak (striped stuff, "that blue they do"). Mercy pulled Connie off the hayloft ladder at eight; "I'm not *afraid*. I'm sensible"; Connie won't go up the bell tower. Trice "went straight up the first time" and goes round the tower if Rolph dares her. The council told Rich they'd have to have a war if he fell off. Pears two weeks, peaches less; "It goes to cider in the cart." Mercy's flirting "she'd done at seventeen... and to a bishop"; "Little you?" Connie's glass. "Is there another one?" Mercy "had always been the quicker of the two; it was only that Constance had married the king." The template: "All three went"; Sara could send it up tomorrow. Dinner at the ninth bell in the long room, family, Mercy and Eric, "and a few others"; "What are you up to?" "It's going to be a long night."
+
 **Answered** (user, November 7, 2026):
 - **Mercy's names:** her Thorgoods are a different branch; the Thorgoods of chapter 6 (Count Horace, Countess Marigold, Ursula) are distant kin.
 - **Her titles:** both. She holds the orchard barony in her own right and is duchess by marriage; Connie uses the barony title because it's hers.
@@ -89,3 +91,22 @@ Split from scene 03 (user, November 7, 2026).
 - **The splint:** Burks binds it back on, as neatly as Dr. Marsh, a quiet hint that he knows more than a servant would.
 - **Connie's fear of heights:** true; she doesn't deny it (`codex/characters/rolph.md`).
 - **The half for Ford:** left to the next chapter; this scene ends on the promise.
+
+**Questions:**
+
+1. **Hale and Burks:** keep Hale letting go fast and standing straight when he sees Burks?
+   - Default: Keep it; it's the same size of hint as the "Coun—" slip, and Tor doesn't notice.
+   - Option: Cut it, so the splint is the only hint.
+2. **Tor in tears:** Connie sees he's been crying, or near it, after the bath; is that right for him?
+   - Default: Keep it; the bath section shows the shock, and Connie only infers it from his scrubbed face.
+   - Option: Cut it; he only looks scrubbed.
+3. **Connie's three children:** the draft says she has three. Are there only Rolph, Karina and Varley?
+   - Default: Yes, three.
+   - Option: There are more, not yet met.
+4. **Lord Harrow and the inn at Coldwell:** keep these new names?
+   - Default: Keep both, as one-off mentions.
+   - Option: Cut the names and leave "a Ford man on the council" and "the last inn."
+5. **"A few others" at nine:** who is at the dinner, and what has Connie set up?
+   - Default: none
+   - Option: Smythe, for his private word.
+   - Option: Heather Debri, for the dryers and the carts.
