@@ -10,7 +10,7 @@ He was exactly as he'd been in the small house, that morning a lifetime ago: sma
 
 "Sir," said Burks.
 
-Hale let go of Tor's arm. He let go of it rather fast, and stood up very straight, and said, "I'll be outside, sir," to somebody, and went, and shut the door behind him with enormous care.
+Hale let go of Tor's arm. He let go of it rather fast, and stood up very straight, and said, "I'll be outside, sir," and went, and shut the door behind him with enormous care.
 
 "I didn't know you were here," said Tor. "At the palace, I mean. I thought you were at the house. Did they send you? I'm sorry. You needn't. I can manage." He looked at the bath, and at the three steps, and at his leg. "Mostly."
 
