@@ -16,7 +16,9 @@
 - though somewhat surprised, the king agrees and immediately hands of the present to a guard who looks at Tor suspiciously for handing the king a package directly.
 - The king then points his son, Alphonse, out to Tor so that he can have someone to go talk to and hopefully meet more people -- that's what these dinners are all about.
 - Tor slowly makes his way over to Alphonse, but as he gets closer he finds that his friend is surrounded by very large people and he can't really get close, with his injury.
-- luckily is sees Tovey close by and goes stands near him
+- luckily is sees Tovey close by and goes stands near him hoping to be noticed.  Tovey's date, sees him first, and introduces herself as “Baronetta Collette Coltress.”  She apparently wouldn't normally be invited to such a thing, and is pretty excited that she is standing so close to the heir to the kingdom.  Tor agrees that Alphonse is pretty great, and asks Collette to get Tovey's attention so that they can barge in on Alphonse and chat. Tor says hi to Tovey, but has to step back so as not to be too close to his date, and bumps into someone
+- He turns around, and sees Trice, who he immediately greets. Trice however, doesn't seem to see him, simply apologizing and walking away -- but Tor can see that Trice is extremely sad and hurt -- cliffhanger ending as Trice walks away
+
 - **POV / mode:**
 - **Location:**
 - **Present:**
