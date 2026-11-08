@@ -30,7 +30,7 @@ His Highness came at the evening bell. Hale gave him the full salute, and got a 
 
 The girl had been taking the trays up since the second night, because she was the one who'd brought the jug, and nobody else wanted to.
 
-It wasn't that he was frightening. She'd been frightened for the whole of the first day, waiting for him to be, and then he'd smiled at her over the cup and said thank you as if she'd brought him a horse, and she'd run, and been ashamed of running for two days after. It was the room. She didn't like going into the room. She'd been in and out of grand rooms since she was eleven, with sheets and with trays and with the little brush for the corners, and she'd never once been in one that felt as if it were holding its breath.
+It wasn't that he was frightening. She'd been frightened for the whole of the first day, waiting for him to be cruel.  And then he'd smiled at her over the cup and said thank you as if she'd brought him a horse, and she'd run, and been ashamed of running for two days after. It was the room. She didn't like going into the room. She'd been in and out of grand rooms since she was eleven, with sheets and with trays and with the little brush for the corners, and she'd never once been in one that felt as if it were holding its breath.
 
 She took the soup in at the noon bell on the second day. He was where he'd been, in the chair, inside the birds, and she had to go sideways between two wingtips to reach him, holding the tray up, and stand there at his elbow until he noticed her.
 
