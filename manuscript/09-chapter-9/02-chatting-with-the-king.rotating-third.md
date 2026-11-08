@@ -70,9 +70,9 @@ Tor looked at her.
 
 "Yes, Connie."
 
-"Rest is not," said his mother, "the same as river."
+"Rest is not," said his mother, "the same as building a river."
 
-Tor looked down at his hands. Rolph knew that look. It was the one Tor wore when someone above him in a room said a thing he didn't agree with: he was being very still and very polite, so as not to disagree too loudly by accident.
+Tor looked down at his hands. Rolph knew that look. It was the one Tor wore when someone above him said a thing he didn't agree with: he was being very still and very polite, so as not to disagree too loudly by accident.
 
 "Only it's Ford, Connie," he said, to his hands. "They had the last of the corn in before the heat. And then nothing. There's three villages on the lower river drinking out of one well now, and the well's going brown; I heard it at the inn on the way up. It won't wait for my leg." He hesitated, and then looked up at her. "And I have to lie here anyway. I can't do anything else. And—it's only—when I'm working properly, all the way down, I don't really feel things. Anything. I don't feel *hungry*." He put his hand, without seeming to know he'd done it, on the bandage above his knee. "It'd be better than the drops, I think. The doctor's drops. They make the ceiling go round."
 
