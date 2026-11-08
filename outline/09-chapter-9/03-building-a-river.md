@@ -39,3 +39,15 @@
 **Drafted** (November 7, 2026; invented, pending the user's review): the falcons are floated into a ring round Tor's chair ("a hen house built by someone who had been told about hens"), leaving a pale scratch on the floor. Hale looks in each hour; Tor's answers come later each time. The maid is the one who brought the jug in scene 1; she stops him wincing before Hale does, and finds the room "holding its breath." Day three: Hale spoons him like a fledgling; Rolph sits on the floor among the birds till dark; "He does this... Not this long." A forge smell, though the bronze is cool; on day four the air is thick like before a storm. Tor's section: the three fields as the long pull (lift, leave the salt), the bridge "not a rope," and the gentle one that sets the water down "like a full bowl"; they find each other like three people folding a sheet. Day seven: asleep on a wing; "*Food*"; two loaves, a fowl, plums; "Six days, sir"; asleep with a plum stone in his hand; "Rolph! When did you get here?" "Every day. For a week." The guard captain suggests the sea fort; the oldest rigger once moved an organ; the captain writes *barn* and *middle of shield*; "Gently. It's very old." "Please don't flood." On day eight the first falcon is tapped and nothing happens until the others are set. Day ten: Finely, dusty; the fort's colonel; "a waterfall that hasn't got a cliff"; the Halloway ferryman; Tor asks about flooding three times; Finely: "Will you be wanting a bath?" Details in `codex/canon-notes.md` (Ford County).
 
 **Answered** (user, November 7, 2026): Rolph drops by every day; from the third day Tor doesn't see him. The maid stays unnamed. The coast falcon goes beside an ocean fort, right at the water, guarded by its existing regiment (`codex/canon-notes.md`). Finely, back from riding out with the party, reports on day ten.
+
+**Questions:**
+
+1. **The placing takes three days:** your notes say "more than a day"; is days eight to ten right?
+   - Default: Yes; the hill site is the slow one, and the river is running by the tenth.
+   - Option: Cut it to a day and a half, with the river running on day nine.
+2. **Names:** keep "Halloway crossing" for the middle falcon, and leave the sea fort unnamed?
+   - Default: Keep both.
+   - Option: Name the fort now.
+3. **Who can tap it off:** should the scene point at the old flaw, that anyone who reaches a falcon can stop it?
+   - Default: No; the fort's regiment answers it for now, and the ledger keeps it open.
+   - Option: Have Tor mutter about it after the guards leave.
