@@ -40,14 +40,4 @@
 
 **Answered** (user, November 7, 2026): Rolph drops by every day; from the third day Tor doesn't see him. The maid stays unnamed. The coast falcon goes beside an ocean fort, right at the water, guarded by its existing regiment (`codex/canon-notes.md`). Finely, back from riding out with the party, reports on day ten.
 
-**Questions:**
-
-1. **The placing takes three days:** your notes say "more than a day"; is days eight to ten right?
-   - Default: Yes; the hill site is the slow one, and the river is running by the tenth.
-   - Option: Cut it to a day and a half, with the river running on day nine.
-2. **Names:** keep "Halloway crossing" for the middle falcon, and leave the sea fort unnamed?
-   - Default: Keep both.
-   - Option: Name the fort now.
-3. **Who can tap it off:** should the scene point at the old flaw, that anyone who reaches a falcon can stop it?
-   - Default: No; the fort's regiment answers it for now, and the ledger keeps it open.
-   - Option: Have Tor mutter about it after the guards leave.
+**Answered** (user, November 7, 2026): placing the falcons takes three days (eight to ten), and the river is running by the tenth. "Halloway crossing" stays as the middle falcon's site, and the sea fort stays unnamed. The scene doesn't point at the old flaw (anyone who reaches a falcon can tap it off); the fort's regiment covers it for now, and `codex/tension-ledger.md` keeps it open.
