@@ -10,46 +10,14 @@
 - It took more than a day, even using the luggage floats to move the birds around, but after they were in place, by the tenths day, there was a large stream of perfectly pure water flowing into the river, making its way downstream to all of the farms.
 - while it added quite a bit of water, it didn't cause any flooding, and Tor was quite thankful about that -- it was one of his chief worries that he would add too much water and cause more problems than he solved.  But the drought had already reduced the river enough that his addition just brought it up to a bit over normal.
 - If the weather turned, and a it started raining, they could get the guards at the beach to turn it off -- but Tor hoped they wouldn't have to do that much
-- After that was all done Tor desperately needed a bath -- but he couldn't do it himself; luckily Burks was there to help him remove the split and bandages so that he could see the bruising and horrible rope burn looped around his ankle.  Burks was very kind and helped him get all cleaned up, and dressed in some very loose silk trousers, and tunic.
-- He went to have dinner in one of the smaller dining rooms, and Connie came to eat with him, 'family style', sitting close enough to have a conversation.
-- Connie mentions the new river, and since it is new, it needs a name, calling it the River Tor.
-- Tor definitely doesn't want the river named after him, and has a bit of a struggle to come up with a new name. He suggests the Falcon River -- the King's River is already taken for the one by the capital, but since the falcon is the kings symbol, and the river is being held up by a falcon, he figures that would be good.  Probably would go over well with the citizens who hear of the sky river the king had made to solve the drought; calling it the Falcon River would be much better than naming it after some student.
-- connie rejects that line of thought -- it was Tor who heard of the problem and then immediately went about fixing it.
-- Tor demurs -- connie was even in the room when the king said that they would need a river of water to fix it.
-- Tor feels a bit awkward, and suddenly wonders if he is developing a crush on the queen -- super awkward, even if she does just look like Rolphs older sister.
-- He immediately switches over to thinking about going to inspect the river, and how he would get there on a broken leg, and how he should probably start working on the transports he promised House Debri.
-- Connie gets angry and refuses to let his injury to be an excuse to work himself to death.
-- Tor tries to divert attention from the idea by asking for some water; Connie grabs a cool pitcher of water from an insulated box on the table, causing Tor to chuckle remembering his idea for paired cooling/heating boxes, the oven/ice-box combination.
-- He asks for a box like that in his room -- not for work exactly, just to check on something.
-- The queen is a bit intrigued since she doesn't quite believe him, but does the royal thing where she just raises two fingers without saying anything. Tor has seen this before and gets the idea that now its just going to happen.
-- 
-- 
-- **POV / mode:**
-- **Location:**
-- **Present:**
-- **Reader learns:**
-- **Hidden (and how):**
+- The bath with Burks and the dinner with Connie moved to scene 04, `04-dinner-with-the-queen.md` (user, November 7, 2026).
+
+- **POV / mode:** rotating third. The six days are seen by the palace staff who feed him and lead him out (Hale, the door guard, and a maid; the maid is invented), watching him drift further off each day. Tor holds the viewpoint only for the last stretch, when it's just him and the fields (user, November 7, 2026). The recovery and sending-off on day seven go back to the staff.
+- **Location:** the palace sickroom (scene 1's), turned workroom.
+- **Present:** Tor; Hale and a maid (invented); royal guards and riggers on day seven; a guard back from the coast on day ten.
+- **Reader learns:** the falcon field is perhaps the strongest Tor has made; where each falcon goes and why; the river runs by the tenth day without flooding; it can be switched off at the coast if the rain comes.
+- **Hidden (and how):** the river's arrival is **reported**, not shown (user, November 7, 2026): a guard or rigger brings word back to the palace, so the scene stays there.
 
 ## Beats
 
 1.
-
-**Questions:**
-
-1. **Split the scene:** should the dinner with Connie become its own scene?
-   - Default: Yes. 03 Building a River runs from the trance to the river flowing; a new 04 covers the bath with Burks and the dinner with Connie.
-   - Option: Keep it as one scene, with a `* * *` break before the bath.
-   - Option: Keep it as one scene and pass over the bath in a line or two.
-2. **Viewpoint for the trance:** whose eyes are on the six days?
-   - Default: The palace staff who feed him and lead him out (a maid or Hale), watching him drift further off each day; Tor takes it only for the last stretch when it's just him and the fields.
-   - Option: Tor alone the whole way, the trance shown through his body and the room (§3).
-   - Option: Rolph, coming by each day.
-3. **Viewpoint for the dinner:** who watches Tor with the queen?
-   - Default: Connie. The crush shows as blushing and a hurried change of subject, which she reads as just more overwork; she sees through the ice-box excuse.
-   - Option: Tor, so the crush can be his own thought, at the cost of his scarce viewpoint.
-4. **The bath:** Burks is Green, so he can't hold the viewpoint; whose is it?
-   - Default: Tor's. This is the first time he sees the rope burn and the bruising, so it counts as traumatic, and Burks is seen only from outside.
-   - Option: Cut straight from the river to the dinner; the loose silk shows that someone helped him.
-5. **The river's banks:** does the reader see the river arrive?
-   - Default: No; it's reported (a guard or rigger back from the coast), keeping the scene in the palace.
-   - Option: A short section from a farmer or rigger downstream as the water comes in.
