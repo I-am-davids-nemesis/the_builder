@@ -262,3 +262,7 @@ The girl from the midden was settled as one of Simon's sister's friends, left un
 ## 2026-11-08 · Claude (reconstructed from git) · 09-chapter-9/
 
 In the scene 5 draft, Cobb, a young guard who talks, relieves Pask at the second bell. Burks is shown stepping out of a hidden panel in the palace walls and leaving down a corridor Hale never saw him use, so the reader learns the palace has secret passages. The Duke and Duchess of Whitcombe and the old Count of Salt were added as one-off mentions at the dinner, not recurring characters. (`475b415`, `c057446`)
+
+## 2026-11-08 · Writer · 09-chapter-9/05-another-royal-dinner
+
+I just added the process notes, now that I am three quarters of the way through the book.  There should be lots of interesting things to mine from the process of building the book.  I would like to have captured all the conversations I have had with people about the book as I went.
