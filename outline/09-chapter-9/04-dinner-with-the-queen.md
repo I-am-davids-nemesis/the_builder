@@ -29,6 +29,15 @@ Split from scene 03 (user, November 7, 2026).
 - Tor butts in at this moment and offers a couple of spare flying rigs and shields that he has, so Eric can try it, or that he could just ask his daughter for one.
 - Mercy is shocked, that he would part with one if the fabulously expensive Tor-flying rigs, even as a loan (clearly not connecting Torrance with Tor with the young looking boy at the table); she is also quite surprised that Patricia can already fly.
 - Tor waves away her concern (while Connie covers her mirth),saying he brought extra as presents.  He jokes around that the councilors won't let Rich fly, and Connie is afraid of heights so won't even try it. Trice, on the other hand, is already a very accomplished flyer.
+- he suggests that Rolph, oops, Alphonse, could show her how to fly, as he is very good, or Tovey, I mean, Count Thompson, is already one of the best flyers.
+- but, he might be busy running his County instead of being lazy like Tor
+- Tor makes a bold suggestion: he could possibly get her the food dryers, and maybe some flying rigs to get the food delivered before it spoils, but he wants half of what would have spoiled.  he insists it isn't for himself -- its just county Ford is already starting to suffer from the drought, and if they could get some food it, it would go a long way to preventing suffering for the people of the county.
+- Mercy, maybe not believing that this child could do all of that, does a good flirting impression, asking if he really could get all that done?
+- Connie, switching to regal queen mode, says that if Tor says he can do something, at least in regards to magic, then he most certainly can.
+- mercy then looks at Connie, astonished, and asks, "oh that Tor?" "yes, that Tor"
+- mercy, saying that she can't necessarily agree on behalf of her husband, claims that if they could get all of that, then maybe he could also get a fraction (an eighth? a tenth?) of the wheat crop as well -- it keeps better.
+- Tor almost wants to do it immediately, but decides it would go a lot faster if he got the template from Debri house first, and besides he wants to work on his cold box idea.
+- he is excused, and the queen tells him he has to come to dinner at 9
 - 
 
 - **POV / mode:** rotating third, in two sections split by `* * *` (user, November 7, 2026).
