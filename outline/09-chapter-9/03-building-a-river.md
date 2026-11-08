@@ -33,3 +33,23 @@
 ## Beats
 
 1.
+
+**Questions:**
+
+1. **Split the scene:** should the dinner with Connie become its own scene?
+   - Default: Yes. 03 Building a River runs from the trance to the river flowing; a new 04 covers the bath with Burks and the dinner with Connie.
+   - Option: Keep it as one scene, with a `* * *` break before the bath.
+   - Option: Keep it as one scene and pass over the bath in a line or two.
+2. **Viewpoint for the trance:** whose eyes are on the six days?
+   - Default: The palace staff who feed him and lead him out (a maid or Hale), watching him drift further off each day; Tor takes it only for the last stretch when it's just him and the fields.
+   - Option: Tor alone the whole way, the trance shown through his body and the room (§3).
+   - Option: Rolph, coming by each day.
+3. **Viewpoint for the dinner:** who watches Tor with the queen?
+   - Default: Connie. The crush shows as blushing and a hurried change of subject, which she reads as just more overwork; she sees through the ice-box excuse.
+   - Option: Tor, so the crush can be his own thought, at the cost of his scarce viewpoint.
+4. **The bath:** Burks is Green, so he can't hold the viewpoint; whose is it?
+   - Default: Tor's. This is the first time he sees the rope burn and the bruising, so it counts as traumatic, and Burks is seen only from outside.
+   - Option: Cut straight from the river to the dinner; the loose silk shows that someone helped him.
+5. **The river's banks:** does the reader see the river arrive?
+   - Default: No; it's reported (a guard or rigger back from the coast), keeping the scene in the palace.
+   - Option: A short section from a farmer or rigger downstream as the water comes in.
