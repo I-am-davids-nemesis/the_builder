@@ -1,5 +1,6 @@
 # Another Royal Dinner
 
+- **When:** the tenth day, from just after lunch with Connie (a little past the noon bell, scene 04) to dinner at the ninth bell of the night (user, November 7, 2026). Tor has all afternoon and evening for the cold box, the kitchen test and dressing.
 - **Summary:**
 - Tor goes back to his room, to discover a nice large ice box in it, with a pitcher of cool water in the middle.  He sits down and focuses on making a good field for it to stay cold; he is a bit disappointed that he doesn't have a box beside it to pour all the heat into for an oven, so he just dumps all the heat into the ground.  He makes a template and a batch of 10 in a couple of hours.  He puts a cold plate in the box, and turns it on.
 - He doesn't feel anything, so he wonders if he failed; it happens (not to him of course, but he has definitely heard other students complain about it).  Then he realizes that he put his temperature equalization amulet back on and isn't feeling any temperature.  he grabs the pitcher of water, and since it was super-cooled, it immediately ices up the second it is disturbed.
