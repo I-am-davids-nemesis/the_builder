@@ -12,4 +12,5 @@ Walk-on characters from the drafts, too small for their own file. All (invented;
 | **Hob** | The kitchens | His mother takes in laundry in Hollin; gets one of Tor's crooked drying fields. |
 | **Abel** | The Sorvey carriage | Douglas Sorvey's coachman; broad, brown coat, newly bearded. Dorgal knows him by name. |
 | **Haddon** | The Debri house's carter, from Hollin | Carries Tor's three templates to the Debri house under Sara's seal; broad, in a leather apron. (invented; pending the user's review) |
+| **Collette Coltress** | The royal dinner, chapter 9, scene 5 | "Baronetta Collette Coltress," Tovey's date. Wouldn't normally be invited to such a thing; thrilled to stand so close to the heir. Introduces herself to Tor before Tovey notices him. (user, November 7, 2026) |
 | **Sam Carter** | Hollin, a boy at the well | Sees "a rook the size of a man" circling the chapel tower before the fifth bell and is sent indoors for lying; by evening the rumor is an Austran, and three people in the Plough heard it singing. (invented; pending the user's review) |
