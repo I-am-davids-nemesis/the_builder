@@ -237,6 +237,7 @@ In the drafts (invented; accepted by the user): Rolph's 11 a board is his "frien
 | Wensa | Rolph's accounting instructor; a royal guard, his lead bodyguard; **Tor believes** she tries to kill him in book 1, whether or not she does | `characters/supporting/wensa.md` |
 | Campbell | Dean of students | `characters/supporting/campbell.md` |
 | King Richard Cordes | See World above | — |
+| Smythe of Westland | Head of the kingdom's military, second only to the king; honest, wholly loyal, lives plainly | `characters/supporting/smythe.md` |
 
 ## Canon vs. assumed
 
