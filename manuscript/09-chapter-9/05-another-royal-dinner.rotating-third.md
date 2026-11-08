@@ -6,7 +6,7 @@ It stood against the wall between the two long windows, where the chest had been
 
 He'd asked at lunch. It was barely past the first bell. Somebody had carried this up two flights of stairs in the time it took him to hop back along one corridor with Hale.
 
-He let the lid down gently and stood holding on to it, looking at it. Then he looked round the room for a chair, and found the one with the roses on it, and dragged it across the floor one-handed with a long, terrible scrape that made him wince for whoever was underneath, and sat down facing the box with his leg out on the footstool and his elbows on his knees.
+He let the lid down gently and stood holding on to it, looking at it. Then he looked round the room for a chair, and found the one with the roses on it, and dragged it across the floor one-handed with a long, terrible scrape that made him wince for whoever was maintaining the floor, and sat down facing the box with his leg out on the footstool and his elbows on his knees.
 
 "Right," he said.
 
@@ -388,8 +388,4 @@ Her face was very still and very white. Her mouth was held, held hard, the way y
 
 And she stepped round him, and went on toward the terrace doors.
 
-The boy stood where she'd left him. His hand had come up, a little, as if to catch her sleeve, and stopped, and stayed there in the air.
 
-"Trice?" he said.
-
-She didn't turn. Collette watched the dark green back go away through the crowd, straight and quick and not stopping, the way a person walks when she is going to get to a door before something happens and only just; and the crowd closed behind her, and talked on, and nobody else, in the whole of the long room, seemed to have seen anything at all.
