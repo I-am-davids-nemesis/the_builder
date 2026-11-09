@@ -292,3 +292,7 @@ The scene's notes became a four-viewpoint outline: Varley, Rolph, Trice, then Ha
 ## 2026-11-08 · Claude · 10-chapter-10/02-food-is-served (spark colors)
 
 This follows the entry above. Spark colors now follow what a field does, and since rage fields are inherited, each color belongs to a house. Tor's are pale gold. I had suggested that no house could be named for it; the writer went further: gold is the color of a house that died out, said to be the house of the first king of Noram, and an old noble at the table recognizes it. That's the first public clue in the book that Tor's blood isn't a baker's. Only a few people near Varley hear it, and Tor doesn't.
+
+## 2026-11-08 · Claude · 10-chapter-10/02-food-is-served (drafted)
+
+This follows the entries above. The draft carries the comedy and the fight on outside viewpoints: Varley sees the kick land, Rolph sees the joke, and Trice gets the hand kiss. One cost: Tor's belief that he "had a shield on" is only something he says in the garden, so the reader can't check it against what he felt. To set up the crest, a line was added to chapter 9, scene 5: Hale sees the falcon when the coat goes on. Varley now has her own profile.

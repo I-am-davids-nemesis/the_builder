@@ -152,7 +152,7 @@ He came back out. He nodded to Hale, a very small nod, as between two men with a
 
 The count was back before he'd finished. He had clothes over his arm: dark trousers, a shirt with a soft collar, a coat of deep blue cloth with a nap on it like a mole's back, plainer than anything Hale had seen going into the long room all afternoon and better, in the way that some plain things are better. Hale had no notion where he'd got them. He didn't ask himself.
 
-They got the boy off the floor between them, which was easy; there was nothing of him. The shirt went on. The coat went on, and fitted, more or less, across the shoulders, which surprised Hale and didn't seem to surprise the count. Then they came to the trousers, and stopped.
+They got the boy off the floor between them, which was easy; there was nothing of him. The shirt went on. The coat went on, and fitted, more or less, across the shoulders, which surprised Hale and didn't seem to surprise the count. On its breast, over the heart, was the king's falcon, silver on purple, small as a child's palm. Hale saw it and kept his face where it was. The boy didn't look down. Then they came to the trousers, and stopped.
 
 The trousers wouldn't go over the splint.
 

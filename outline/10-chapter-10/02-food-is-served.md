@@ -147,7 +147,45 @@
 - **What gold means:** an old color, of a house that died out, said to be the house of the first king of Noram; an old noble at the table recognizes it.
 - **Who knows the colors:** Rolph and Connie don't remark on the gold in the garden; they talk only about the shield being off, and the color stays in Varley's section.
 
+**Drafted** (November 8, 2026; invented, pending the user's review):
+- **Breaks:** besides the four viewpoint sections, `* * *` also divides Varley's section (the gossip, the courses, the flirts, dessert, the fight) and Rolph's (the garden, Connie, back in).
+- **Varley:** her card is twelfth down the left side, beside one that says only *Tor*, and she knows her mother put her there. "Veronica Cordes"; "Veronica's for cards and for being told off." Karina lay among four plates "like a dragon"; greedy shows. Tutors: geometry on Tuesday, Master Abelard (cloves) for history, a harp mistress, the theory man on Fridays; Tor: "Ours sits on the desk and swings his feet." The council (Lord Harrow and the rest) voted that the king can't fly; he sulked a week. "I'm the third child." Lady Westry eyes Aunt Mercy through the soup. Her bid: "In your pocket. A very small one."
+- **The left hand:** Tor's hands swoop and nearly take the bishop's glass; a scarred marcher lord stops his spoon; "*left-handed, did you hear*" goes down the table. "I'm not taking money off Rolph's *sister*." The first rig "with your name on."
+- **Gossip:** the Whitcombes' own pillows; the Count of Salt and his first wife's family seated apart by the queen; Lady Arden's heraldry book "as thick as a doorstep." Tor: "Wouldn't it be awkward at harvest?"
+- **"Just asking":** Tor says Karina doesn't use him, she asks; then, "You won't start doing that, will you?... I'd be disappointed." Varley's ears go.
+- **The dowager:** black gown, cap with a lappet; gone away to "a house by the sea that was good for the lungs"; Connie once said *poor woman*. Linen green in the press, a black bloom on the walls, her books spotting, her maid coughing. Tor: wring the air "the way you'd wring out a cloth," a plate per room that stops when the air's dry enough; "It is to your maid."
+- **The flirts:** a lady in pearls ("very clever hands"), a widow in green (dancing), a spring bride who touches his sleeve. Varley, in the voice for dogs on furniture: write to Mama; "Alphie made it a rule while they were with the Debris"; Karina at breakfast, "*Certainly not, darling, pass the marmalade*." Tor: "She'll have wanted more plates," then "You'll have to write to Her Majesty. That's the rule."
+- **Dessert:** cherry over shaved ice that smokes; the queen lifts her glass half an inch; Tor looks behind him; Cook "going round the kitchens saying *now let them see*."
+- **The fight:** Winchester is red-gold, "a beard like a doormat," on the council, known never to lose his temper; Rochester small and dark; Priscilla fair, in pale yellow. The quarrel is a mill race the water has moved. A candle near the duke goes out in the heat. Tor touches his cord at the table, and again halfway, "a turn, a press." Two kidney punches ("*they'll hang me for this*"), then the splinted leg swung "stiff as a gatepost" across the duke's backside. "Over here. Me. Not her." Thrown "like a thrown cushion," he gets up each time and says *here*; he always goes left. The gold fizzes off his back "the color of straw in sunlight or of very old coins"; the pressure is in the floor like a mill wheel, and Varley's ears pop. The palace bell rings the hour. Winchester comes to: "I say. Are you all right, young man?"
+- **Rolph:** felt it through his shoes "like the midden"; "Oh, *no*, not again, Baker, not *here*." Tor's smile "went on crooked and stayed there by force"; he hands over the shield "at the end of a long walk"; "Not in front of the guests." The sergeant has known Rolph since he was eight and calls him "Highness." Rolph's formal voice is "his father's at audiences and his grandfather's on the coins."
+- **Connie:** comes alone, hugs Tor, who stands "like a man who's been handed a baby"; Priscilla can only whisper; "the bravest thing I have seen anyone do in that room in twenty years." Rolph: "Look down"; "That's *Father's*... Burks must have put it on you." "Without it, there was nothing holding it in." "As long as there's a house"; "It will frighten exactly the people who ought to be frightened."
+- **Back in:** the duke kneels in the wine; Tor bows as he did once to Tovey at school. Count Ford, "broad as a wagon," southern vowels; his steward's rider stood in the new river to his knees; Tor calls him "my lord." Ford's laugh "like a cart going over a bridge"; Tovey steadies Tor.
+- **Trice:** Connie sends her with one finger; she says every name twice, as she has for her father since eleven; Lady Arden holds Tor's hand and says only "thank you, young man," and Trice files it. She minds the shaking hand and the cut over his eye, and adds her column too: "Both things at once." Past the first bell of the morning; "Half that room would vote you a barony this minute"; "We just have to improve your station." He moves the stick to his left hand to kiss hers; "Thank you for the names."
+- **Hale:** Burks unlaces the ribbon, folds the coat falcon outward ("It's done its work"); "I hit a duke, Burks." "So I hear, sir." "Arms up." Tor topples sideways asleep "the way a tree goes"; the count leaves without a sound.
+- **Chapter 9, scene 5:** the falcon line is added to Hale's section.
+
 **Answered, fourth round** (user, November 8, 2026):
 - **The old noble:** Lady Arden, in her shawl, who collects old heraldry.
 - **How much is said:** only "the old gold," the color nobody has thrown since the first king's line ended; Varley half remembers the lesson from her tutors and doesn't finish the thought.
 - **Who hears it:** only Varley and the few round Lady Arden; it doesn't reach Tor, Rolph or Connie in this scene, and travels later as gossip.
+
+**Questions:**
+
+1. **Connie and the dowager:** Varley remembers her mother saying "*poor woman*" when the dowager went away. Does that mean Connie knows what Maria did?
+   - Default: Keep it: Connie suspects, without proof, and says nothing; it gives the queen a reason to have invited her.
+   - Option: Cut it, so nobody at court suspects yet.
+2. **Trice's "barony":** does "Half that room would vote you a barony" come too close to Connie's barony in chapter 6, which you didn't want called back?
+   - Default: Change it to "a title" so it doesn't echo.
+   - Option: Keep "barony"; it's Trice's word, not a callback.
+3. **Winchester's look and standing:** keep him red-gold, with "a beard like a doormat," a council seat, and a name for never losing his temper?
+   - Default: Keep all of it; the council seat raises the stakes of the guard's question.
+   - Option: Drop the council seat, so the council stays offstage.
+4. **The extra breaks:** Varley's and Rolph's sections are each split by further `* * *` breaks. Keep them?
+   - Default: Keep them; each break marks a jump in time (the courses, the garden).
+   - Option: Join each viewpoint into one unbroken section, so the breaks only mark a change of viewpoint.
+5. **Lady Arden afterward:** in the rounds she holds Tor's hand and says only "thank you, young man," and Trice files it. Keep it?
+   - Default: Keep it; it plants her interest without saying "gold" again.
+   - Option: Cut it, so the gold stays with Varley alone.
+6. **"Highness":** the sergeant calls Rolph "Highness" in front of Tor. Is that all right in the garden?
+   - Default: Keep it; Tor knows Rolph is the prince, and only the guards' manner toward him is new.
+   - Option: The sergeant says "sir" only.
