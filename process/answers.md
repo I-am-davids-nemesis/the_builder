@@ -232,3 +232,34 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (option): Cut it, so the gold stays with Varley alone.
 6. **"Highness":** the sergeant calls Rolph "Highness" in front of Tor. Is that all right in the garden?
    - Answer (default): Keep it; Tor knows Rolph is the prince, and only the guards' manner toward him is new.
+
+## 2026-11-08 22:26 · outline/10-chapter-10/04-the-next-day.md
+
+1. **Viewpoint:** who holds the breakfast, and who the waking?
+   - Answer (option): Daritha until she leaves after beat 27, then Karina for beats 28–31.
+2. **Sorvee or Sorvey:** your notes say Sorvee, and the codex says Sorvey; which spelling?
+   - Answer (default): Sorvey, as in the codex (Douglas Sorvey); the card reads Meredith Anne Sorvey.
+3. **Meredith:** who is she to Dorgal and Douglas?
+   - Answer (option): leave it unstated in book 1.
+4. **Why now:** why do the Sorveys send a go-between the morning after the dinner?
+   - Answer (default): they'd engaged Daritha weeks ago, and the king's public gift to the Morgans made them hurry before another house got in first.
+5. **Connie's breakfast:** why does the queen hear a Sorvey proposal at all, and why with the family round Tor?
+   - Answer (default): the rule says proposals go through her, and a private breakfast lets him put one off without a public no, which is what makes a Doretta; the family is there to steer him.
+6. **Tor's "campaign":** he asked for the presents before Trice made her plan, so is his confession true?
+   - Answer (default): he knows he's stretching it, goes pink, and the room takes it at face value.
+7. **Trice:** where is she, and does Tor telling Mercy help or spoil her plan?
+   - Answer (default): she's not there (still asleep, or with her father); without knowing it, Tor has done her second step (convince Mother); she hears of it later.
+8. **Mercy's reaction:** how does "not against the idea" show, given that she knows whom Trice is meant to marry?
+   - Answer (default): a measured smile, one look at Connie, very few words; Daritha can't read the look.
+9. **Knighthood:** would a knighthood bring Tor within three steps of a duke's daughter?
+   - Answer (option): in Noram a knight counts as minor nobility, and that's enough for Trice to work with.
+10. **Three heroic acts:** may I record the rule in `codex/canon-notes.md` when drafting?
+   - Answer (default): yes: a knighthood needs three heroic acts the king recognizes; the river and the midden count.
+11. **Priscilla:** which sister says the rescue doesn't count?
+   - Answer (default): Karina says it doesn't count (it was a joke about a lady); Varley, who saw the fight, says it does.
+12. **Staying in:** why doesn't Connie want Tor to leave the palace, and what side projects does he take up?
+   - Answer: until the king decides about the duke and the knighthood, she wants him safe and seen to be calm;  we will work out which projects next
+13. **Daritha's "higher":** does her hint that Tor might outrank her clients come from the old-gold gossip?
+   - Answer (option): yes, she has heard a whisper and is fishing.
+14. **Daritha's profile:** should she get a supporting codex entry?
+   - Answer (option): one line in `codex/characters/supporting/minor-characters.md`; she's a one-off.
