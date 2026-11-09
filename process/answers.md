@@ -208,3 +208,12 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Note: said to be the color of the house of the first king of Noram
 3. **Who knows the colors:** do Rolph and Connie, in the garden, remark on the gold?
    - Answer (default): No; they talk only about the shield being off, and the color stays Varley's noticing in the first section.
+
+## 2026-11-08 20:37 · outline/10-chapter-10/02-food-is-served.md
+
+1. **The old noble:** who recognizes the gold?
+   - Answer (option): Lady Arden, in her shawl, who collects old heraldry.
+2. **How much is said:** does the old noble name the first king's house, or only the color?
+   - Answer (default): Only that it's "the old gold," the color nobody has thrown since the first king's line ended; Varley half remembers the lesson from her tutors and doesn't finish the thought (invented).
+3. **Who hears it:** does the remark spread, or stay with Varley?
+   - Answer (default): Only Varley and the few round the old count hear it; it doesn't reach Tor, Rolph or Connie in this scene, and it travels later as gossip (invented).
