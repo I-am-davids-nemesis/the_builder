@@ -263,3 +263,8 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (option): yes, she has heard a whisper and is fishing.
 14. **Daritha's profile:** should she get a supporting codex entry?
    - Answer (option): one line in `codex/characters/supporting/minor-characters.md`; she's a one-off.
+
+## 2026-11-08 22:28 · outline/10-chapter-10/04-the-next-day.md
+
+1. **Side projects:** which small projects does Tor volunteer for in beat 29?
+   - Answer (default): none; to be worked out next, as you said.
