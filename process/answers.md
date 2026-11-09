@@ -217,3 +217,18 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): Only that it's "the old gold," the color nobody has thrown since the first king's line ended; Varley half remembers the lesson from her tutors and doesn't finish the thought (invented).
 3. **Who hears it:** does the remark spread, or stay with Varley?
    - Answer (default): Only Varley and the few round the old count hear it; it doesn't reach Tor, Rolph or Connie in this scene, and it travels later as gossip (invented).
+
+## 2026-11-08 20:47 · outline/10-chapter-10/02-food-is-served.md
+
+1. **Connie and the dowager:** Varley remembers her mother saying "*poor woman*" when the dowager went away. Does that mean Connie knows what Maria did?
+   - Answer (default): Keep it: Connie suspects, without proof, and says nothing; it gives the queen a reason to have invited her.
+2. **Trice's "barony":** does "Half that room would vote you a barony" come too close to Connie's barony in chapter 6, which you didn't want called back?
+   - Answer (option): Keep "barony"; it's Trice's word, not a callback.
+3. **Winchester's look and standing:** keep him red-gold, with "a beard like a doormat," a council seat, and a name for never losing his temper?
+   - Answer (default): Keep all of it; the council seat raises the stakes of the guard's question.
+4. **The extra breaks:** Varley's and Rolph's sections are each split by further `* * *` breaks. Keep them?
+   - Answer (default): Keep them; each break marks a jump in time (the courses, the garden).
+5. **Lady Arden afterward:** in the rounds she holds Tor's hand and says only "thank you, young man," and Trice files it. Keep it?
+   - Answer (option): Cut it, so the gold stays with Varley alone.
+6. **"Highness":** the sergeant calls Rolph "Highness" in front of Tor. Is that all right in the garden?
+   - Answer (default): Keep it; Tor knows Rolph is the prince, and only the guards' manner toward him is new.
