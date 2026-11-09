@@ -295,7 +295,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | ironwood | 철목 | |
 | gold (coins) | 금화 | "thirty gold" 금화 서른 닢. |
 | first-year, third-year | 1학년, 3학년 | |
-| fifth son of a county | 어느 백작가의 다섯째 아들 | |
+| a count's fifth son | 백작가의 다섯째 아들 | Davie. Rolph's "a fifth son" → 어느 집 다섯째 아들. |
 | the yard (combat class) | 연병장 | |
 | washing house | 세탁장 | |
 | the cafeteria | 식당 | |
@@ -347,7 +347,7 @@ Korean has to choose a level for every line, so each pairing is fixed here. A sh
 | ledger | 장부 | Wensa's prop; also Trice's mental accounts (그녀는 그것도 장부에 올렸다). |
 | template | 원판 | The master copy a builder copies from. |
 | copies | 복사본 | |
-| the undercroft | 지하실 | Where the isolation chambers are. |
+| the undercroft | 지하실 | Where the isolation chambers are, beneath the old wing (옛 별관). Not 지하 회랑. |
 | the shutter (in a chamber door) | 덧문 | |
 | the rods (royal guard) | 막대, 근위대 막대 | Not 지팡이. |
 | guard (Wensa's calling) | 호위 | "which was what a guard was for" → 호위란 그러라고 있는 것. |
