@@ -5,7 +5,7 @@ The first minor character the reader meets: a young noble discovering, at the la
 ## Facts
 
 - Named **Davie** (canon, chapter one; earlier notes called him "David").
-- **Fifth in line** to a county. (canon) That his father is Count B, of House B, is (assumed).
+- **Fifth in line** to a county. (canon) That his father is Count B, of House B, is (assumed). In prose, say "a count's fifth son," never "fifth son of a county," which confused a beta reader (writer, November 8, 2026).
 - At school he has to manage **on his own for the first time**, without the servants who did everything for him at home. (canon)
 - He meets Tor about **a third of the way into chapter one**, when the drying field is first tested. (canon, from the user)
 - He **doesn't know laundry takes soap.** He can't understand why his water won't suds up when he can see Tor's doing it. Tor teaches him basic laundry and lends him soap. (canon, from the user)

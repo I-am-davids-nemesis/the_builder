@@ -300,3 +300,7 @@ This follows the entries above. The draft carries the comedy and the fight on ou
 ## 2026-11-08 · Claude · 10-chapter-10/03-the-old-gold
 
 This follows the entry above. The dinner draft ran to about 10,000 words, so the writer split it in two. "Food Is Served" is now Varley's dinner alone, light, ending on Cook's "*now let them see*." The new "The Old Gold" opens on the shouting as the dessert dishes go out and runs through to bed. Varley's viewpoint carries across the cut, which keeps the gold in her eyes. The cost is that scene 3 opens in the same head the reader has just left. The title is a suggestion.
+
+## 2026-11-08 · Claude · 01-chapter-one (beta-reader fixes)
+
+Feedback on chapter one from the first beta reader. Three phrases didn't land: "the east range," "go off like a knuckle" and "fifth son of a county." All three were fixed, in the English and the Korean. The fix for the first one also settled an old inconsistency: the isolation chambers are under the old wing, as chapter four already had it. The reader also asked who Trice is. The writer chose to leave that unanswered for now, so on her first appearance her behavior has to carry her.
