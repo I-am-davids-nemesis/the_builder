@@ -88,10 +88,4 @@
 - **Staying in:** until the king decides about the duke and the knighthood, Connie wants Tor safe and seen to be calm.
 - **Daritha's "higher":** she has heard a whisper and is fishing.
 - **Daritha's profile:** one line in `codex/characters/supporting/minor-characters.md`.
-
-**Questions:**
-
-1. **Side projects:** which small projects does Tor volunteer for in beat 29?
-   - Default: none; to be worked out next, as you said.
-   - Option: the dowager's drying plates and the sisters' shields, promised at dinner (scene 02).
-   - Option: he starts the left-handed rig.
+- **Side projects:** none named in this scene; which projects he takes on is to be worked out next.
