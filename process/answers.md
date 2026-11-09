@@ -198,3 +198,13 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Note: the colors of the sparks should be associated with the effects that they have; but, since the rage is an inherited trait, they are then also going to be associated with a house
 5. **The crest in chapter 9, scene 5:** add the falcon to the coat there now, or when this scene is drafted?
    - Answer (default): When this scene is drafted, one line in Hale's section (the falcon on the breast, which Hale sees and Tor doesn't).
+
+## 2026-11-08 20:35 · outline/10-chapter-10/02-food-is-served.md
+
+1. **The duke's field:** what does Winchester's rage do, to match its reddish sparks?
+   - Answer (default): Heat and strength: the air round him goes hot as a forge, and his grip and blows don't tire, which is why Priscilla's shield only just holds (invented).
+2. **What gold means:** does Tor's pale gold match what his field does?
+   - Answer (option): Gold is an old color, of a house that died out, and an old noble at the table recognizes it.
+   - Note: said to be the color of the house of the first king of Noram
+3. **Who knows the colors:** do Rolph and Connie, in the garden, remark on the gold?
+   - Answer (default): No; they talk only about the shield being off, and the color stays Varley's noticing in the first section.
