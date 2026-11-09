@@ -178,7 +178,7 @@ And then the boy went still.
 
 Not frightened-still, the way he'd gone in the doorway. Something else. He straightened on his stick. He folded both hands over the top of it. His face settled into an expression of perfect, patient, careful courtesy, the face of a page standing at the back of a council chamber, and stayed there.
 
-"We'll need to start with Uncle Richard," the Ducharina was saying. She'd turned to him now, brisk, low, rapid, her glass in one hand and the fingers of the other counting. "Not tonight. Tomorrow, after the morning audience, when he's in a good humor, and he always is after the morning audience, because it's over. You'll have to be there. You'll have to be *useful*, which you are, so that's no trouble. And we'll need Aunt Connie, she'll want to have thought of it first, so we'll let her—"
+"We'll need to start with Uncle Richard," the Ducharina was saying. She'd turned to him now, brisk, low, rapid, her glass in one hand and the fingers of the other counting. "Not tonight. Soon. When he's in a good humor, and not when anyone's just asked him for money. You'll have to be there. You'll have to be *useful*, which you are, so that's no trouble. And we'll need Aunt Constance, she'll want to have thought of it first, so we'll let her—"
 
 "Yes," said the boy.
 
