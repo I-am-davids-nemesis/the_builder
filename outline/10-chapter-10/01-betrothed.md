@@ -66,6 +66,16 @@
 16. **Wylde.** Tor, very quietly: "Wylde took his whole life." Only Collette hears.
 17. **Still.** Tor goes still and polite, answering in short courteous phrases while Trice keeps talking; he has stopped blinking (invented). End; nothing breaks the stillness in this scene, and the next picks up when dinner is called (user, November 8, 2026).
 
+**Drafted** (November 8, 2026; invented, pending the user's review):
+- **The call:** Tor doesn't shout; he says "Trice!" "the way you'd say it across a kitchen table, only louder," and she stops three yards short of the terrace doors; he takes her sleeve "the way a child takes hold of a grown-up in a market."
+- **Trice:** "I didn't see you" (a lie Collette hears as a tradesman's voice); "*Later*, Master Baker." Her face falls "the way the light goes out of a window when someone inside carries the lamp away," and comes back "set down, rather hard, on the sill." She greets Tovey as "Cousin."
+- **"She's Tovey's":** a tumble of "Tovey's guest. For the evening," with the whole free arm; Collette wonders *how did he know?* Tor then asks "Trice? What?" when she hasn't spoken.
+- **The shield:** "a rough little thing, with lines cut into it"; Collette's mother wrote twice, the second time with gold; Lady Arden and the Harrows have none. Trice: "He won't tell you that, so I will." Tor: "It's only a bit better… a bit faster."
+- **Tovey:** "He would give you his coat, Baronetta, if you were cold and he noticed." Trice: "He did. I was there." Tor: "But I only hit you with a—" Tovey: "Yes." Tor: "Oh. Well. That's—you're welcome."
+- **The gift:** Duke Eric big and fair, wrestler's shoulders, a little gray; Mercy, who never simply comes into a room, looking for once called to the front of a schoolroom. The king unties the silk himself and holds each piece up; "From the Master Wizard Tor, with his regard." Tor: "Oh, good" (relieved it wasn't lost); "They're only spares. I had extra." A woman says "Mercy" "in a voice of pure and terrible friendship."
+- **The plan:** "A title… Something with land, or it costs nothing. Uncle Richard would, if the right people asked… Mother's the easier. Father will want it to be his own idea… They'd have to believe… that you cared. For me… And then they'd have to let it be you, instead of—" Then logistics for tomorrow: the king after the morning audience, Aunt Connie allowed to think of it first, Mother to talk to Tor "not about orchards," and nothing given away "until we've decided who it goes to… Not a plate."
+- **The end:** Tor's "Yes," "Of course," "I see," "Yes, Trice. Thank you," "in a voice like a closed door"; his eyes fixed a little to the left of her ear; he has stopped blinking.
+
 **Answered** (user, November 8, 2026):
 - **Viewpoint:** Collette, continuing from chapter 9, scene 5.
 - **Trice's dress:** dark blue, a few shades brighter than navy; chapter 9, scene 5 revised to match.
@@ -85,3 +95,20 @@
 - **The intended:** decided, but kept off the page until the "later" conversation.
 - **Connie's barony:** no callback; the reader can make the connection.
 - **After the ending:** nothing breaks the stillness in this scene; the next picks up when dinner is called.
+
+**Questions:**
+
+1. **Trice's timetable:** she plans to approach the king tomorrow after the morning audience, with Connie allowed to think of it first. Does that commit the next scenes?
+   - Default: Keep it as her plan; whether it happens that way is up to later scenes.
+   - Option: Make it vaguer ("soon, when he's in a good humor") so nothing is fixed.
+2. **"Not a plate":** Trice tells Tor to give nothing away until they've decided who gets it. Is she now steering his gifts as political currency?
+   - Default: Yes, in keeping with her reaction rule (prices everything, knows who to ask); Tor agrees without hearing it.
+   - Option: Cut the line; it widens her plan beyond the marriage.
+3. **"But I only hit you with a—":** keep Tor's half-line about the sack of copper, in public?
+   - Default: Keep it; Tovey's "Yes" closes it before Collette learns more.
+   - Option: Cut it, so Tor only looks puzzled.
+4. **Duke Eric's look:** big, fair, wrestler's shoulders, a little gray. Is that right for him?
+   - Default: Keep it, and record it on the Morgans' entry.
+   - Option: Describe him differently (tell me how).
+5. **Tor's stillness:** the trance shows as unblinking eyes and short courteous answers. Does it need a visual flag, or is it visible enough?
+   - Default: Visible enough; no flag.

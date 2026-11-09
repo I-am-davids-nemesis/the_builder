@@ -122,3 +122,15 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | Burks in the palace walls (scene 5) | Burks steps out of a hidden panel when Tor wishes for him aloud; comes back down a corridor Hale never saw him go up; Hale says "My lord" and the count stops him with a finger; a carved box with pears on it in minutes; the trousers cut and laced like a tailor | Thinks the panel is a servants' passage and Burks a very capable servant | Hale knows him as Count Lairdgren; nobody on the page knows he's Green |
 | The court and "Tor" (scene 5) | The herald has no name for him; a guard whispers "just Tor," on the queen's order; the long room goes silent at the name | Sees everyone looking; doesn't know why | The court: he's the Tor of the river, the rigs and the tanners' yard; nobody expected him to look fifteen |
 | Trice's hurt (scene 5) | At the dinner she looks through Tor, says "I beg your pardon" as to a stranger, and goes for the terrace doors, eyes red under fresh powder | Sees that she's hurt; not why | Trice; left open past this chapter |
+
+## Chapter 10
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| Trice's hurt (scene 1) | She puts Tor off ("Later, Master Baker"); her face falls when Collette leans on him and he goes pink, and comes back when he says she's Tovey's | That something is wrong; not what | Trice |
+| Trice's plan (scene 1) | Half aloud, to Tor: a title "with land," Uncle Richard asked by the right people, Mother first, Father made to think it his idea, both convinced Tor cares for her, so they'd "let it be you, instead of—"; she breaks off; then logistics for tomorrow | Heard all of it; answers only "Yes," "Of course," "Thank you"; "Wylde took his whole life" | Trice; Collette heard it and keeps it; the intended is decided but unnamed |
+| The intended (scene 1) | Only "instead of—" | Nothing | Trice (and the writer) |
+| Tovey's debt (scene 1) | Tovey says Tor came at once to defend his honor; Trice: "I was there"; Tor: "But I only hit you with a—" "Yes." | Thinks he only hit Tovey with a sack; doesn't see why it matters | Tovey, Trice; Collette doesn't learn what happened |
+| The Morgans' gift (scene 1) | The king opens the box in public: two rigs, two shields, "from the Master Wizard Tor, with his regard"; applause; the court asks what it would take | "They're only spares" | Connie made it a ceremony (unstated) |
+| Shield generations (scene 1) | Trice wears the fourth, better than the army's; Collette's family wrote twice and couldn't get one | Calls it "only a bit better" | — |
+| Mind magic (scene 1) | Tor thinks the room's turn is a spell ("That's clever. I didn't feel a thing"); it's the king standing up | Thinks it's magic | Collette, and everyone else |
