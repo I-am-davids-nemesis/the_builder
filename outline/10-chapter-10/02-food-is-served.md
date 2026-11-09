@@ -4,12 +4,13 @@
 - **Summary:** Tor is seated a ways down from the king and queen, beside Varley, who plays at a formal introduction as Veronica. She thanks him for her two cooling plates, warns him that Karina will use him for trinkets, and bids for a flying rig; Tor, remembering Doretta, works at being friendly rather than aloof, and talking with his hands about a left-handed rig he means to build, promises her one, and shields for both sisters. The court around them brings him its problems (a lady's damp, moldy house; she is Ward's mother, though Tor never learns it) and its flirting, which Varley heads off: all proposals go through her mother, and her mother has already turned down Karina. Dessert is shaved ice too cold to melt, and the queen seems to thank him for it. Then a border argument flares, and Duke Winchester, in a combat rage, strangles Lady Priscilla while everyone backs away. Tor drops his stick, punches, then kicks, and keeps the duke on himself for twenty minutes until the rage runs out, sparks flying off his own back that he never sees. Sure he'll be executed, he jokes, hands Rolph his shield and limps into a side garden. There a royal guard asks whether he means to pursue it; Rolph settles it, Connie brings Priscilla's thanks, and Rolph explains: Tor wears the king's crest, so what he did the king did; everyone saw Tor go into a rage of his own; and nobody, not even a duke with 20,000 men, wants Tor as an enemy. Connie sends him back in to show he's in control. The duke kneels for forgiveness; Tor gives it as he did to Tovey. Count Ford thanks him for the river and the crops. Trice steers him through two more hours of introductions, reminds him she hasn't forgotten his "station," and blushes when he kisses her hand. Burks undresses him and he sleeps. Facts from the user's notes; canon unless marked.
 - **POV / mode:** rotating third, in four sections split by `* * *` (invented; accepted by the user, November 8, 2026). Tor isn't alone, and though the fight is traumatic, the comedy is the gap between what he fears (execution) and what the room sees (a wizard who fights rages with the king's falcon on his chest), so it plays from outside (§3).
   - **The meal and the fight:** Varley, from sitting down to the duke dropping out of his rage. She's beside Tor, hears everything he says, and knows the court gossip and everyone at the table (including who the mildew lady is). Tor's thoughts in the notes show from outside:
-    - **The face he can't place** (beat 1): he knows her at once, but looks at her a beat too long, frowning a little, as if something in her face reminds him of someone else (user, November 8, 2026); Varley notices and takes it for shyness (invented).
+    - **The face he can't place** (beat 1): he knows her at once, but looks at her a beat too long, frowning a little, as if something in her face reminds him of someone else (user, November 8, 2026); Varley notices and takes it for shyness (invented). It's only the family likeness to Rolph, and it pays off later (user, November 8, 2026).
+    - **The dowager** (beat 14): Varley knows the mildew lady, and her viewpoint calls her by a title that doesn't say Ward ("the dowager from the fen country, whom nobody had seen in town since the spring"), so the reader can't connect it yet (user, November 8, 2026).
     - **Doretta** (beat 5): he visibly turns to her and starts asking questions, with an effort Varley can see, "like a man remembering his lessons" (invented).
     - **"Not using me"** (beat 11): he says it aloud, half to himself: Karina doesn't use him, she just asks (invented); Varley's reaction carries it.
     - **The combat aura** (beat 20): sparks round the duke tell the room what's happening (user, November 8, 2026); Varley feels the field too and steps back with everyone else; Tor, alone, goes the other way (invented).
     - **The shield** (beat 21): Varley sees him touch the cord at his neck twice, once leaving his seat and once on the way; the second time turns it off (user, November 8, 2026). She can't tell which way he turned it.
-    - **His rage** (beat 23): sparks come off the air at his sides and back, out past where his shield would hold them, so he never sees them; Varley does (user, November 8, 2026).
+    - **His rage** (beat 23): sparks come off the air at his sides and back, out past where his shield would hold them, so he never sees them; Varley does (user, November 8, 2026). The duke's are reddish; Tor's are a pale gold that Varley, who knows the houses' colors, can't put a house to (invented; accepted by the user, November 8, 2026; `codex/canon-notes.md`).
     - **"Probably executed"** (beat 22): Tor mutters it, and hits the duke again anyway (invented).
   - **The garden:** Rolph, from walking up beside Tor to Tor going back in and the converging duke, Tovey and Count Ford. Rolph knows exactly what the guard's question means and that Tor doesn't; Tor's fear shows in his shaking, his handing over the shield, and his question about arrest. What Tor felt (a shield, forces draining into the ground) he says aloud (invented; accepted by the user, November 8, 2026). Rolph goes formal to the guard on purpose, speaking for the crown, and drops back to his own voice with Tor (§4; user, November 8, 2026).
   - **The rounds:** Trice, from Count Ford to the door: she keeps track of the names, sees Tor flagging, and has her own reasons for wanting him seen with her. Ends on her blush and walking away.
@@ -42,8 +43,9 @@
   - **Why the duke raged:** the rage epidemic stays without a cause (`codex/canon-notes.md`); the duke remembers only the border talk, and nobody on the page guesses.
   - **What Tor's own field is:** the room sees a rage, Rolph and Connie see the shield off, Tor feels a shield; nobody puts it together, and the scene doesn't explain it.
   - **The sparks, for Tor:** they come off his sides and back, so he never sees them, and nobody tells him in this scene (user, November 8, 2026).
-  - **Who the face reminds him of:** Tor can't place it, and the scene doesn't (see Questions).
-  - **The mildew lady:** she is Count Ward's mother, sent off to a country house now that her son has a wife; Maria needed her out of the way to be sure she controls Ward (user, November 8, 2026). It doesn't come out now. Others at the table may know who she is; Tor must not find out (see Questions on what the reader sees).
+  - **Who the face reminds him of:** Rolph, by family likeness; Tor can't place it, and the scene doesn't say (pays off later; user, November 8, 2026).
+  - **The mildew lady:** she is Count Ward's mother, sent off to a dower house Maria found for her in County Ward, on low wet ground by the coast (hence the damp), now that her son has a wife; Maria needed her out of the way to be sure she controls Ward (user, November 8, 2026; the house invented, accepted). It doesn't come out now. Varley knows her only as "the dowager from the fen country," so the reader can't connect her yet; Tor must not find out.
+  - **Tor's gold sparks:** spark colors follow a field's effect, and so a house; nobody can name a house for pale gold, and nobody says so aloud.
   - **What Connie means by "terrify those smart enough to understand":** she says it and sends him in; the politics stay unstated.
   - **Who Trice would marry "instead of":** still off the page (scene 01).
   - **Why Trice was hurt:** still open past this chapter (`codex/tension-ledger.md`).
@@ -52,7 +54,7 @@
 
 ## Beats
 
-1. **Seated** (Varley). Tor is seated at the table a ways down from the king and queen, beside Karina's sister, Varley. He knows her at once (she was at dinner in chapter 5, scene 3, and in his room in chapter 9, scene 2), but some of her features remind him of someone else he can't place; the nobles all seem to be related to one degree or another, so that isn't surprising (user, November 8, 2026).
+1. **Seated** (Varley). Tor is seated at the table a ways down from the king and queen, beside Karina's sister, Varley. He knows her at once (she was at dinner in chapter 5, scene 3, and in his room in chapter 9, scene 2), but some of her features remind him of someone else he can't place (Rolph, by family likeness); the nobles all seem to be related to one degree or another, so that isn't surprising (user, November 8, 2026).
 2. **Introductions.** Varley starts a "formal" introduction as a court game, as Veronica, her given name; Tor plays along: his name is Torrance, but his friends call him Tor. She tells him to call her Varley, as the family does (invented; accepted by the user, November 8, 2026).
 3. **The plates.** Varley is happy to talk to him, since it's his fault the summer is bearable: he gave her two cooling plates. She confesses her sister almost didn't give them to her, but realized they were so good she didn't even need more than two.
 4. **The warning.** She warns Tor about her sister: Karina will likely just try to use him for more magic trinkets.
@@ -65,16 +67,16 @@
 11. **Demanding, not using.** Tor thinks Karina certainly isn't using him; she's just demanding things from him, which he sees as a separate kind of interaction. He hopes Varley doesn't start acting like that with him; that would be disappointing.
 12. **Courses.** The meal has lots of courses, and he and Varley both eat only bits of each, being much smaller than the average noble: he because he's a commoner, she because she's still young.
 13. **Varley at work.** Varley is skilled at dinner conversation and makes a point of talking with each person around them. A lot of people want to talk to Tor, and a lot of them want to talk about their problems.
-14. **The mildew.** One woman (Ward's mother, unnamed on the page; Tor doesn't know) has mildew and mold in her home because it's far too damp. Tor realizes it would be simple to dry the air, even easier than the drying field or the river fields, since it's only a little water in the air. He declines to do anything at once, but says he'll definitely work on it and send her something. She tries to pass it off; Tor insists she send him a note about it so he can be sure to get it to her. (Her note can arrive in a later chapter as the hook for the drying build.)
+14. **The mildew.** One woman (Ward's mother; to Varley "the dowager from the fen country, whom nobody had seen in town since the spring"; Tor doesn't know) has mildew and mold in her home because it's far too damp. Tor realizes it would be simple to dry the air, even easier than the drying field or the river fields, since it's only a little water in the air. He declines to do anything at once, but says he'll definitely work on it and send her something. She tries to pass it off; Tor insists she send him a note about it so he can be sure to get it to her. (Her note can arrive in a later chapter as the hook for the drying build.)
 15. **Flirting.** Some of the other women around him flirt, which makes him very uncomfortable: he doesn't know them, and they're much older or married.
 16. **Through her mother.** Varley helps a bit: all proposals have to go through her mother (her brother made that a rule, at the Debri house), and her mother has a high bar and has already turned down her older daughter: Karina asked, half seriously, if she might have Tor. Varley thinks it's funny.
 17. **Playing along.** Tor is flabbergasted, but plays along, as if the queen were the proper person to manage offers of marriage for a country boy. He misses what Karina's asking means.
 18. **Dessert.** It finally arrives: shaved ice so cold it isn't melting, so fine it melts on the tongue. The queen looks down the table at him and seems to be thanking him for it. Tor is sure he had no hand in it, though maybe his new cold box helped a bit (chapter 9, scene 5).
 19. **The border.** After dessert, another shouting match erupts between two men seated near each other. Tor is too far away to hear exactly, but it sounds like a border dispute: where a county line is drawn, and what's on each side of it.
-20. **The strangling.** Tor wants to ignore it, but then one man grabs the woman with the other man and starts strangling her. Sparks are coming off him. Tor is shocked nobody intervenes, but he gets the feeling at least one of them is in a combat rage, so the people backing away are likely protecting themselves from the combat aura, whatever this one is. The guards hold a ring and wait, as they always do with a rage.
+20. **The strangling.** Tor wants to ignore it, but then one man grabs the woman with the other man and starts strangling her. Reddish sparks are coming off him. Tor is shocked nobody intervenes, but he gets the feeling at least one of them is in a combat rage, so the people backing away are likely protecting themselves from the combat aura, whatever this one is. The guards hold a ring and wait, as they always do with a rage.
 21. **Him, then.** If anyone is going to save the woman, it will have to be him. He checks his shield once as he leaves his seat. He stumbles over, checking it again on the way, and the second check turns it off. She's already turning blue. He drops his walking stick, so he won't have a weapon, and hits the man in the kidney as hard as he can, which isn't hard enough for the man to notice.
 22. **Again.** Tor thinks this will probably get him executed, but tries again, because he has to do something to save her.
-23. **The kick.** Finally he kicks the man (awkward, with one leg in a splint). The man drops the woman, turns and tries to kill him instead. Tor has to goad him a few times to keep his attention. Sparks fly from the air at Tor's sides and back, out past where his shield would have held them; he never sees them. He doesn't tire on the splinted leg and takes blows that should break him, and the air round him presses on people the way the duke's does. The man finally runs out of steam after about twenty minutes.
+23. **The kick.** Finally he kicks the man (awkward, with one leg in a splint). The man drops the woman, turns and tries to kill him instead. Tor has to goad him a few times to keep his attention. Pale gold sparks fly from the air at Tor's sides and back, out past where his shield would have held them; he never sees them. He doesn't tire on the splinted leg and takes blows that should break him, and the air round him presses on people the way the duke's does. The man finally runs out of steam after about twenty minutes.
 24. **Coming to.** The man seems suddenly to come to, and asks Tor if he's all right: he was discussing border issues with Baron Rochester, and the next thing he knew he was hitting Tor.
 
 `* * *`
@@ -131,22 +133,23 @@
 - **The left-hand rig:** real, but it isn't clear when Tor will get to it.
 - **Visual flags:** sparks are the visible sign of a combat-rage field (`process/visual-flags.md`); Tor says aloud what he felt in the garden.
 
+
+**Answered, second round** (user, November 8, 2026):
+- **The face Tor can't place:** nobody in particular; only the family likeness to Rolph, which pays off later.
+- **Ward's mother on the page:** Varley knows her as "the dowager from the fen country, whom nobody had seen in town since the spring"; the reader can't connect it yet.
+- **The fen country:** a dower house in County Ward, on low wet ground by the coast, which Maria found for her.
+- **The sparks' color:** each rage throws its own color, tied to its field's effect, and so (the field being inherited) to a house. The duke's are reddish; Tor's a pale gold nobody can put a house to.
+- **The crest in chapter 9, scene 5:** add one line to Hale's section when this scene is drafted: the falcon on the breast, which Hale sees and Tor doesn't (noted in `outline/09-chapter-9/05-another-royal-dinner.md`).
+
 **Questions:**
 
-1. **The face Tor can't place:** who does Varley remind him of?
-   - Default: Burks: the royal line carries something of Green's face, and Tor half sees it without connecting it; left unstated.
-   - Option: His sister Terlee, a homely likeness that makes him easier with her.
-   - Option: Nobody in particular; it's only the family likeness to Rolph, and it pays off later.
-2. **Ward's mother on the page:** how much does the reader see of who she is?
-   - Default: Varley knows her, and her viewpoint calls her by a title that doesn't say Ward ("the dowager from the fen country, whom nobody had seen in town since the spring"), so the reader can't connect it yet.
-   - Option: Varley thinks of her plainly as Count Ward's mother, so the reader knows and Tor doesn't (dramatic irony).
-   - Option: Varley doesn't know her either; only the writer knows for now.
-3. **The fen country:** where is the dowager's damp country house?
-   - Default: In County Ward, on low wet ground by the coast, the dower house Maria found for her (invented).
-   - Option: Somewhere outside County Ward, so she's farther from her son.
-4. **The sparks' color:** do Tor's sparks look like the duke's, or like Tovey's blue-white?
-   - Default: Each rage throws its own color: the duke's are reddish, Tor's a pale gold nobody can put a house to (invented).
-   - Option: All rage sparks are blue-white, as Tovey's were in chapter 2.
-5. **The crest in chapter 9, scene 5:** add the falcon to the coat there now, or when this scene is drafted?
-   - Default: When this scene is drafted, one line in Hale's section (the falcon on the breast, which Hale sees and Tor doesn't).
-   - Option: Leave chapter 9 alone; Rolph's line here is the first the reader hears of it.
+1. **The duke's field:** what does Winchester's rage do, to match its reddish sparks?
+   - Default: Heat and strength: the air round him goes hot as a forge, and his grip and blows don't tire, which is why Priscilla's shield only just holds (invented).
+   - Option: Fear: people near him are seized with dread, which is why the whole room backs away.
+   - Option: Leave his effect unstated; the room just knows the color.
+2. **What gold means:** does Tor's pale gold match what his field does?
+   - Default: Yes: gold for a field that takes force in and grounds it, a kind no living house shows, so the court has no name for it; nobody says so on the page (invented).
+   - Option: Gold is an old color, of a house that died out, and an old noble at the table recognizes it.
+3. **Who knows the colors:** do Rolph and Connie, in the garden, remark on the gold?
+   - Default: No; they talk only about the shield being off, and the color stays Varley's noticing in the first section.
+   - Option: Connie asks Rolph, quietly, whether he's ever seen gold; Rolph hasn't.
