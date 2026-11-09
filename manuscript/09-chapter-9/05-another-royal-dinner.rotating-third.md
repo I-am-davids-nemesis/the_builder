@@ -376,7 +376,7 @@ Collette heard the stick knock against something. She saw him stagger, and catch
 
 It was the Ducharina Patricia Morgan.
 
-Collette knew her, of course. Everybody knew her: the duke's daughter, the queen's niece, cousin to half the long room, who was at school at Lairdgren with the prince and was said to be the cleverest girl at court and the one you least wanted to owe money to. She was in a gown of dark green tonight, high at the neck, very plain. She had a glass in her hand. She'd been going somewhere, fast, across the room, toward the doors to the terrace, and the boy had stepped back straight into her path.
+Collette knew her, of course. Everybody knew her: the duke's daughter, the queen's niece, cousin to half the long room, who was at school at Lairdgren with the prince and was said to be the cleverest girl at court and the one you least wanted to owe money to. She was in a gown of dark blue tonight, a shade or two brighter than navy, high at the neck, very plain. She had a glass in her hand. She'd been going somewhere, fast, across the room, toward the doors to the terrace, and the boy had stepped back straight into her path.
 
 She looked at him.
 
