@@ -137,3 +137,50 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): Keep it, and record it on the Morgans' entry.
 5. **Tor's stillness:** the trance shows as unblinking eyes and short courteous answers. Does it need a visual flag, or is it visible enough?
    - Answer (default): Visible enough; no flag.
+
+## 2026-11-08 20:26 · outline/10-chapter-10/02-food-is-served.md
+
+1. **Viewpoint:** who holds each part of the scene?
+   - Answer (default): Four sections: Varley for the meal and the fight; Rolph for the garden through Count Ford; Trice for the rounds and the hand kiss; Hale, briefly, for bed.
+2. **Recognizing Varley:** Tor has met her twice (dinner in chapter 5, scene 3; his sickroom in chapter 9, scene 2), so how does "looks familiar" work?
+   - Answer (default): He knows her at once; the "formal" introduction, with "Veronica" and "Torrance," is a court game she starts and he plays along with.
+   - Note: he knows her, but she also has some features that remind him of someone else that he can't place at the moment
+3. **Veronica:** why "Veronica" here, when the family calls her Varley?
+   - Answer (default): Veronica is her given name and Varley the family's pet name; at a formal dinner she uses Veronica, and invites Tor to call her Varley (invented).
+4. **Varley's profile:** she becomes a speaking part here, with no codex entry; should she get one?
+   - Answer (default): Yes, a supporting profile (`codex/characters/supporting/varley.md`) written with the draft: sixteen, watchful, blushes easily, braver than she looks (chapter 9, scene 2), good at a table; her want is to fly.
+5. **Varley's flirting:** she's sixteen; how far does it go?
+   - Answer (default): Bids for a rig dressed as flirting, comic and plainly about the rig; Tor doesn't read it as flirting at all, and Varley moving closer is for gossip (§9).
+6. **Karina's refused proposal:** what does "already turned down her older daughter" mean?
+   - Answer (default): Karina asked her mother, half seriously, whether she might have Tor, and Connie said no (nobles marry within three steps); Varley thinks it's funny and Tor misses what it means.
+7. **Rolph's rule:** when and why did Rolph rule that proposals for Tor go through his mother?
+   - Answer: Rolph made this rule at Debri house, and later passed it on (or one of the other girls passed it on) to his family
+8. **The king's crest:** is Tor wearing it tonight, and where did it come from?
+   - Answer (default): It's on the breast of the deep blue coat Burks brought, silver falcon on purple; Hale and Collette didn't remark on it, and Tor didn't notice (invented; chapter 9, scene 5 may need one line).
+9. **The shield off:** how did the shield go off when Tor meant to make sure it was on?
+   - Answer (default): He flicked it the wrong way in his hurry; what protected him was his own field, felt as a shield; Varley sees him touch the cord and can't say which way (invented).
+   - Note: he had double checked it, once before leaving his seat, and once on the way there.  The second time turned it off -- not clear how others are seeing that, we are going to have to have some visual cue invented here
+10. **Tor's own rage:** what does the room actually see that reads as a battle rage?
+   - Answer (default): He doesn't tire for twenty minutes on a splinted leg, takes blows that should break him, and the air round him presses on people the way the duke's does; afterward he's shaking, which they read as coming out of it (invented).
+   - Note: also, the air immediately around him throws off some sparks -- they are too his sides and back, so he doesn't notice them (even if he could notice them); this may be the visual cue for him turning off his shield as then the sparks could fly out from beyond the radius of his shield
+11. **Rolph's speech:** is the speech in beat 30 your own words, or close to the original's, and should it stay formal?
+   - Answer (default): The draft keeps its content and none of its wording; Rolph goes formal on purpose, speaking for the crown to the guard, the one time his voice shift is meant to show (§4), and drops back to his own voice to Tor.
+12. **"I got the girl":** keep Tor's joke, given §9 on the original's sexism?
+   - Answer (default): Keep the shape, but the joke turns on Tor: "We had a disagreement about a lady, and I'm afraid she's going home with me," said shaking, and the duke too dazed to follow (invented; the joke's on the situation, not on Priscilla).
+13. **Lady Priscilla:** who is she to Baron Rochester, and does she appear again?
+   - Answer (default): Rochester's wife; she leaves with Rochester before Tor comes back in, and Connie carries her thanks.
+14. **Why nobody steps in:** where are the guards for twenty minutes?
+   - Answer (default): A rage field is too dangerous to approach (`codex/tension-ledger.md`), so the guards hold the ring and wait for it to burn out, as they always have; Tor walking in is what's unheard of.
+15. **Tovey converging:** why does Tovey come at Tor with the duke and Count Ford?
+   - Answer (default): To stand at Tor's shoulder in case the duke's rage comes back; he knows rage from the inside, and says nothing.
+16. **Where Trice sits:** where is Trice during dinner, and how does she end up at Tor's side?
+   - Answer (default): Further up the table with her parents; Connie sends her to Tor after the garden (invented).
+17. **The mildew woman:** named, or one-off?
+   - Answer (default): Unnamed, a minor lady from the damp river country; her note can arrive in a later chapter as a hook for the drying build.
+   - Note: Tor doesn't realize it at the time, but it turns out to be Ward's mother, who has been sent off to a country house now that her son has a wife; and Maria needed Ward's mother out of the way to ensure that she was the one in control of him.  This doesn't come out now, although other people can know who she is as long as Tor isn't made aware.
+18. **The left-hand rig:** is it a real next build in the engine, and for whom?
+   - Answer (default): Yes: the military wants rigs that leave the sword hand free, and the people overhearing it will make sure the king hears (ledger: advanced); Varley's is the first earmarked.
+   - Note: its real, but it isn't clear when Tor will get to it
+19. **Visual flags:** Tor feeling the forces drain into the ground, and the room feeling his rage, are field-sense; do they stay on the page?
+   - Answer (default): Tor says what he felt aloud in the garden; the rage shows in how people step back. Add a line to `process/visual-flags.md` for the field-sense when drafting.
+   - Note: We can use sparks as a demonstration of the combat rage field -- something people can see that visually tips them off that something terrible is happening
