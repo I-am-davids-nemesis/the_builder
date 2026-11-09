@@ -184,3 +184,17 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
 19. **Visual flags:** Tor feeling the forces drain into the ground, and the room feeling his rage, are field-sense; do they stay on the page?
    - Answer (default): Tor says what he felt aloud in the garden; the rage shows in how people step back. Add a line to `process/visual-flags.md` for the field-sense when drafting.
    - Note: We can use sparks as a demonstration of the combat rage field -- something people can see that visually tips them off that something terrible is happening
+
+## 2026-11-08 20:31 · outline/10-chapter-10/02-food-is-served.md
+
+1. **The face Tor can't place:** who does Varley remind him of?
+   - Answer (option): Nobody in particular; it's only the family likeness to Rolph, and it pays off later.
+2. **Ward's mother on the page:** how much does the reader see of who she is?
+   - Answer (default): Varley knows her, and her viewpoint calls her by a title that doesn't say Ward ("the dowager from the fen country, whom nobody had seen in town since the spring"), so the reader can't connect it yet.
+3. **The fen country:** where is the dowager's damp country house?
+   - Answer (default): In County Ward, on low wet ground by the coast, the dower house Maria found for her (invented).
+4. **The sparks' color:** do Tor's sparks look like the duke's, or like Tovey's blue-white?
+   - Answer (default): Each rage throws its own color: the duke's are reddish, Tor's a pale gold nobody can put a house to (invented).
+   - Note: the colors of the sparks should be associated with the effects that they have; but, since the rage is an inherited trait, they are then also going to be associated with a house
+5. **The crest in chapter 9, scene 5:** add the falcon to the coat there now, or when this scene is drafted?
+   - Answer (default): When this scene is drafted, one line in Hale's section (the falcon on the breast, which Hale sees and Tor doesn't).
