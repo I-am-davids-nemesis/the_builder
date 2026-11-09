@@ -1,6 +1,6 @@
 The washing house smelled of wet stone and other people's stockings, and Davie had been in it for most of a bell without getting anything clean.
 
-He had done it properly. He had worked the pump handle himself, which nobody at home would have believed, and filled a tub, one of the old white ones that stood along the wall on iron feet cast like an animal's paws. Nobody knew what animal. Nobody knew why the tubs were glazed inside like a dinner plate, either, or why there had once been so many of them that the school could fill a room. He had put his shirts in it, and his second-best hose, and pushed them under, and swirled them, and hauled them up and wrung them until his wrists burned, and every time they came out exactly as gray as they'd gone in, only colder.
+He had done it properly. He had worked the pump handle himself, which nobody at home would have believed of a count's fifth son, and filled a tub, one of the old white ones that stood along the wall on iron feet cast like an animal's paws. Nobody knew what animal. Nobody knew why the tubs were glazed inside like a dinner plate, either, or why there had once been so many of them that the school could fill a room. He had put his shirts in it, and his second-best hose, and pushed them under, and swirled them, and hauled them up and wrung them until his wrists burned, and every time they came out exactly as gray as they'd gone in, only colder.
 
 Three tubs down, the scholarship boy was making foam.
 
@@ -62,7 +62,7 @@ The word at the rest-day breakfast had been that Baker had come out of the isola
 
 He hadn't asked them to. He never did. He had stopped looking behind him some time in his first year, because they were always there.
 
-The washing house was low and damp and full of steam from somebody's copper. Sorvey was in it, which was no surprise, and the fifth son of a county, which was, and Baker, in shirtsleeves, with his hands flat on a bench.
+The washing house was low and damp and full of steam from somebody's copper. Sorvey was in it, which was no surprise, and young Davie, a count's fifth son, which was, and Baker, in shirtsleeves, with his hands flat on a bench.
 
 "Sorvey," Tovey said. It was a greeting, and also the end of whatever Sorvey had been saying. Sorvey straightened from the bench and smiled and said nothing more.
 
@@ -86,7 +86,7 @@ Baker touched the middle of the painted square with two fingers.
 
 Nothing happened, for about the space of a breath. Then the shirts on the bench darkened, all at once, as if someone had poured more water over them, and Tovey realized it was the water coming *out*: welling from the weave in beads, running together, sliding off the cloth and over the edge of the bench in a thin clear sheet. It pattered on the flagstones. It ran in a widening fan toward the drain and toward several pairs of good shoes, which stepped back. The shirts lay where they were, pale and flat and dry. The towel had stiffened slightly, like a towel left in the sun.
 
-The fifth son of a county yelped. He was holding up his arms. His sleeves had been soaked to the elbow, and they were dry.
+Davie yelped. He was holding up his arms. His sleeves had been soaked to the elbow, and they were dry.
 
 Tovey thought of his mother's house in the wet months: the linen hung in the long gallery for days and still smelling of the river, the maids carrying it room to room after the fires, his mother saying nothing about it because there was nothing to be done. She would like this. She would like it very much.
 

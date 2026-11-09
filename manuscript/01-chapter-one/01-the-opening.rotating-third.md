@@ -2,7 +2,7 @@ The tower bell at Lairdgren struck the first hour of the rest day, and Bet Haski
 
 She had been keeper of the isolation chambers for thirty-one years, and in that time she had learned the bell the way a miller learns his wheel. She could tell you which stroke was the clapper's and which was the echo off the chapel roof. She could tell a student by how they came in under it: the ones who'd be out again in an hour, sulking, having built nothing; the ones who'd sit a day and a night and come out with a lamp-square that worked about half the time. The bell went on whether anyone listened or not. Up in the tower it had been striking since before the school was a school, since before the tower itself, some said. The bottom three courses were not stone at all but something older and grayer and smoother, poured rather than cut, that no frost in living memory had managed to crack. Bet had put her hand on it once as a girl. It had been warmer than it ought to be.
 
-The chambers ran along the undercroft of the east range, six doors in a row, each with a shutter at eye height and a slate on a nail beside it. The slate on the fourth door said, in her own chalk:
+The chambers ran along the undercroft, the long vaulted cellar beneath the old wing: six doors in a row, each with a shutter at eye height and a slate on a nail beside it. The slate on the fourth door said, in her own chalk:
 
 *BAKER, T. — In: late, fifth day.*
 
@@ -38,7 +38,7 @@ He looked up at her. She watched him do the sum. She watched it come out wrong, 
 
 Bet had nothing to say to that, so she didn't say anything.
 
-He tried to stand, and his knees didn't like it. He caught himself on the bench with both hands and stood bent over it for a moment, breathing, the way old men stand when they've got out of a cart. Then he straightened, slowly, a piece at a time, and she heard something in his back go off like a knuckle.
+He tried to stand, and his knees didn't like it. He caught himself on the bench with both hands and stood bent over it for a moment, breathing, the way old men stand when they've got out of a cart. Then he straightened, slowly, a piece at a time, and she heard something in his back crack like a knuckle.
 
 "Sorry," he said, to his back.
 
