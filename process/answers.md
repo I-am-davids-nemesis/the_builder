@@ -67,3 +67,14 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer: I read the book long ago; it was an interesting series, but there were a lot of elements that bothered me.  While I thought the perspective was interesting, I didn't feel that it was very conducive to a fully fleshed out world -- there was a bit too much hand waving that things just work out outside of the perspective of the main character.  Convenient to tell a particular kind of story, but not satisfying.  And there were a lot of elements that I thought were poorly done and some elements of the series that I despised.  Too much blatant racism and sexism in the meta story; not all of the racism and sexism in the plot seemed reasonable either.  So, I thought there was a good story there, but it was buried under a lot of baggage that the author brought with it.  And now I had a tool that would allow me to use my view of the story to retell the story; clearly a lot will have to change to remove the objectionable parts, but there will be some bones of the story left over, and maybe by forcing the plot away from the points that annoy me, I can make a story new enough to share
 3. **Lost conversations:** are there notes from talks with other people about the book that could go into the seed or the journal as a dated Writer entry?
    - Answer: The conversations are lost; there are some minor email back and forth.  The biggest addition was the request for a translated version -- that I am most happy to provide given that translation is one of the core skills of an LLM, and I am happy to exercise it in the pursuit of sharing fun stories
+
+## 2026-11-08 17:40 · process/retrospective/2026-11-08-why-rotating-third.md
+
+1. **Recording the goal:** should repurposing (other POVs, a screenplay) go into `engine.md` as part of the book's form?
+   - Answer (option): Keep it in `ideas.md` as a later project, not a constraint on this draft.
+2. **Insight with a visible twin:** when a viewpoint character notices or feels something, should drafts also give it something a camera could see (a gesture, an object, a line)?
+   - Answer: that might make for an interesting constraint, but maybe ask questions about each of those issues so we can resolve them as they come up rather than making a blanket rule.  We can keep a list of flags in process about things that might be difficult to render visually
+3. **The camera branch:** should it be treated as a resource for the screenplay, not just an archive?
+   - Answer: leave it in the git repo as is.  We may come back to the different POV issues later; it isn't clear if this will help the screenplay generation or not yet.
+4. **Not too much consistency:** should the codex track where each character is allowed to surprise, alongside their reaction rules?
+   - Answer (default): Yes; add a short "where they break pattern" line to each main character's profile when next revised.
