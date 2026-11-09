@@ -124,3 +124,16 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (option): No callback; the reader can make the connection.
 10. **After the ending:** what breaks Tor's stillness, in this scene or the next?
    - Answer (default): Nothing in this scene; it ends on him still. The next scene picks up when dinner is called.
+
+## 2026-11-08 18:16 · outline/10-chapter-10/01-betrothed.md
+
+1. **Trice's timetable:** she plans to approach the king tomorrow after the morning audience, with Connie allowed to think of it first. Does that commit the next scenes?
+   - Answer (option): Make it vaguer ("soon, when he's in a good humor") so nothing is fixed.
+2. **"Not a plate":** Trice tells Tor to give nothing away until they've decided who gets it. Is she now steering his gifts as political currency?
+   - Answer (default): Yes, in keeping with her reaction rule (prices everything, knows who to ask); Tor agrees without hearing it.
+3. **"But I only hit you with a—":** keep Tor's half-line about the sack of copper, in public?
+   - Answer (default): Keep it; Tovey's "Yes" closes it before Collette learns more.
+4. **Duke Eric's look:** big, fair, wrestler's shoulders, a little gray. Is that right for him?
+   - Answer (default): Keep it, and record it on the Morgans' entry.
+5. **Tor's stillness:** the trance shows as unblinking eyes and short courteous answers. Does it need a visual flag, or is it visible enough?
+   - Answer (default): Visible enough; no flag.
