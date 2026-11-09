@@ -45,7 +45,12 @@
 - Tor bows to the man, and tries the same tactic he did on Tovey -- saying that it was nothing, and it should be nothing as they could be friends, and there are no debts between friends -- as long as he has asked forgiveness from the person that was actually hurt.
 - The Duke thanks him, and rises and plans to go take care of that directly.
 - The big man looks satisfied and holds his hand out to shake Tor's hand.
-- It turns out to be Count Ford. he wants to thank Tor for all his help
+- It turns out to be Count Ford. he wants to thank Tor for all his help -- the river that he has already created, and he heard from the queen of Tor's plan to make up for some of the lost crops by giving away more work of his own, all without asking anything of the count. if there is anything he, or his people, can do for tor, he is at Tor's service.
+- Tor tries to redirect the praise to the king, just happy he could play a small part in it.
+- Tor had to stay for another couple of hours making the rounds being introduced to people.  Luckily Trice was there beside him, keeping track of everyone as Tor was certainly not going to remember all the people.
+- The queen finally indicates that it is okay for him to leave. And as they are walking towards the door, Trice tells him that she hasn't forgotten what they talked about earlier -- they just need to get Tor an improvement to his station.  Tor blushes at this, but tries to be courtly and gallant and bends over Trices hand and kisses it. It's Trice's turn to blush and walk away, leaving Tor on his own.
+- When he got back to his room he had to have Burks help him undress. and then he fell asleep, too tired to even dream
+- 
 - 
 - 
 - 
