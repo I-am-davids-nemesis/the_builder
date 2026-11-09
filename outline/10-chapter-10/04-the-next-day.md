@@ -30,7 +30,9 @@
 - Connie seems like this is a great idea. She promises to ask the king for him, but be prepared for him to say no.
 - the go between has to take back news of the complication, but of course it is not an outright refusal, so there is still hope on that front for Sorvee.
 - Tor feels like he just barely escaped a perilous encounter, like going down a river rapids in a canoe by oneself, where you barely avoid the rocks
-- Connie seems mildly stress -- she has nothing for Tor to do, and doesn't think he should leave the palace.  She is at a loss for entertainments
+- Connie seems mildly stress -- she has nothing for Tor to do, and doesn't think he should leave the palace.  She is at a loss for entertainments he could have.  Tor volunteers to work on a few small side projects
+- the girls, Karina and Varley tease him a bit more about needing another feat of valor; one arguing with the other that the saving of Lady Pricilla doesn't count because he claimed to be the Duke's friend and made it a joke of romantic rivalry between them, not a serious event at all.
+- Tor eventually escapes from their evil clutches and gets back to his room.
 - 
 - **POV / mode:**
 - **Location:**
