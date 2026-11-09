@@ -94,3 +94,10 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): Tor reacts aloud too quickly (the instant introduction of Collette, "Oh — no, she's Tovey's"), and the watcher notices how fast it was.
 6. **The ending:** where does the scene stop?
    - Answer (default): on Tor going still and polite, his trance as seen from outside, while Trice keeps talking.
+
+## 2026-11-08 18:06 · outline/10-chapter-10/01-betrothed.md
+
+1. **Fourth generation:** has the book already counted shield versions, so that Trice's is the fourth?
+   - Answer (default): Yes, as you described: her early one, then the military model, then this newest one. I'll add it to `codex/characters/tor.md` when drafting.
+2. **The Wylde line:** should Tor say aloud that Wylde took his whole life?
+   - Answer (default): Yes, very quietly; only Collette hears.
