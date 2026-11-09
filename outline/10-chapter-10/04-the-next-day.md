@@ -89,3 +89,34 @@
 - **Daritha's "higher":** she has heard a whisper and is fishing.
 - **Daritha's profile:** one line in `codex/characters/supporting/minor-characters.md`.
 - **Side projects:** none named in this scene; which projects he takes on is to be worked out next.
+
+**Drafted** (November 8, 2026; invented, pending the user's review):
+- **Hale:** relieved at dawn, back by mid-morning. Tor: "My *hair* hurts." A rosemary bath; "Arms, sir." Tor asks if anyone else was hurt. Clean borrowed clothes, a gray coat that fits; the bruise "the color of a thundercloud." Burks: breakfast "in the yellow room… end, and on the left. You'll be expected."
+- **The yellow room:** a family room at the end of a private corridor; a butter-colored cloth, roses kept alive in the drought, a cushioned chair and stool set for Tor.
+- **Daritha:** first approach a fortnight after she was engaged ("bear it in mind"); after the gift, the Sorveys sent before light; the queen answered by the first bell after dawn. She approves of a private room professionally ("the kind of thing that got made into nursery stories"). Mercy "looked at it as if she were working out what it would fetch." Tor at the door: "I'll come back." She has never had a suitor apologize first ("Which one was it?").
+- **The sludge:** from a stone jug; Cook makes it for the guards after a rage; Papa and Alphie have had it. Tor: "That's dreadful. It must be very good for you." Karina laughs and covers it late.
+- **The fishing:** at "higher than my clients'" the queen's face stays closed, Mercy drinks tea, Karina is curious, and Varley goes red to the ears; Daritha: *Somebody saw something.* Tor: "I'm a baker's son."
+- **The card:** the Sorvey mark (knotted rope) is what stills Tor's face; "I expect lots of people in a family are" (nice). Excuses: busy, no money ("I've seen what Sara Debri is holding for you"), "I've got a *leg*." Mercy: the duke "has talked of nothing but the flying rig since the ninth bell."
+- **The knighthood:** Varley cites "Sir Barnaby" and Master Abelard; Karina: "Knights count. They're noble. A bit. Enough." Connie: "Enough to work with." Tor: "I can't swim." At "masterwork," his face goes far off, "the way jewelers' faces go when you put a stone into their hand."
+- **Daritha's exit:** "Which isn't a no." "Keep the card, Master Tor. Circumstances change" (Tor flinches: Douglas gave him a card in chapter 2). She goes home with three answers to sell.
+- **Karina:** Tor's breath out, hand flat "like a man who's just stepped off a boat onto a jetty"; he mutters "Rocks. All the way down." She minds being "Highness"; tells herself it's only that Trice got there first. Connie lifts the dish covers herself; Rich won't want Tor outside the walls until he's seen Winchester and the council; Tor gets "the whole of the east gallery." Karina, behind the bishop during the fight, says it was "a story about two men and somebody's wife"; Varley: "He was hit about forty times!" Tor: "I'd honestly rather it didn't count." He bows to the sisters "as if they were one dangerous thing" and flees; "We're not *that* bad"; Varley throws a roll.
+- **The card, pocketed:** Tor leaves the Sorvey card by his plate; Karina picks it up and slips it into her pocket. This is a hook for her hidden aspect (what she does with what she gains).
+
+**Questions:**
+
+1. **Karina and the card:** keep the ending where Karina pockets the Sorvey card?
+   - Default: keep it; what she does with it stays open, like her hidden aspect.
+   - Option: cut it and end on "We're not *that* bad" and the roll.
+   - Option: Varley takes it instead, for the gossip.
+2. **"I can't swim":** is that true of Tor, who grew up at Two Rivers?
+   - Default: keep it as a joke that's true; he never learned; record it in `codex/characters/tor.md`.
+   - Option: change it to "I get seasick," which leaves swimming open.
+3. **Varley's blush:** she reddens when Daritha fishes about Tor's station; is that too strong a hint that she saw the gold?
+   - Default: keep it; Daritha reads it as "somebody saw something" and nothing more.
+   - Option: cut it so the whisper stays wholly Daritha's.
+4. **The east gallery:** is that where Tor works for the rest of the chapter?
+   - Default: yes, the east gallery, a long room with tables, for the side projects to be worked out next.
+   - Option: somewhere else you'll name with the projects.
+5. **Visual flags:** Karina's private feelings (minding "Highness," "Trice got there first") are narration only; flag them?
+   - Default: no flag; they show in her pout and her pocketing the card.
+   - Option: add a line to `process/visual-flags.md`.
