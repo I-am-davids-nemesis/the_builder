@@ -58,3 +58,12 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): yes; a minor house that learns the great ones by heart, which suits her bigger role later.
 6. **The king's smile and the Morgans:** the king lifts the box toward the Morgans and Mercy puts her hand to her mouth. Too much of the recipients for "unseen"?
    - Answer (default): keep; it's a glimpse from across the room, and they don't speak.
+
+## 2026-11-08 17:36 · process/retrospective/2026-11-08-meta-story.md
+
+1. **Why rotating third:** what decided the end of the camera experiment on October 27?
+   - Answer: we have already answered this question and it produced another retrospective
+2. **The seed in your words:** what drew you to retelling *The Builder* rather than writing something new?
+   - Answer: I read the book long ago; it was an interesting series, but there were a lot of elements that bothered me.  While I thought the perspective was interesting, I didn't feel that it was very conducive to a fully fleshed out world -- there was a bit too much hand waving that things just work out outside of the perspective of the main character.  Convenient to tell a particular kind of story, but not satisfying.  And there were a lot of elements that I thought were poorly done and some elements of the series that I despised.  Too much blatant racism and sexism in the meta story; not all of the racism and sexism in the plot seemed reasonable either.  So, I thought there was a good story there, but it was buried under a lot of baggage that the author brought with it.  And now I had a tool that would allow me to use my view of the story to retell the story; clearly a lot will have to change to remove the objectionable parts, but there will be some bones of the story left over, and maybe by forcing the plot away from the points that annoy me, I can make a story new enough to share
+3. **Lost conversations:** are there notes from talks with other people about the book that could go into the seed or the journal as a dated Writer entry?
+   - Answer: The conversations are lost; there are some minor email back and forth.  The biggest addition was the request for a translated version -- that I am most happy to provide given that translation is one of the core skills of an LLM, and I am happy to exercise it in the pursuit of sharing fun stories
