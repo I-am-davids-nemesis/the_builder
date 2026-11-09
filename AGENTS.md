@@ -75,6 +75,7 @@ Every character with a speaking role needs, at minimum:
 - **External tension** — the person, faction or rule pushing on them.
 - **Hidden aspect** — something the reader or other characters don't know yet (a secret, a motive, a self-deception).
 - **Reaction rules** — if/then triggers that predict behavior in a new situation.
+- **Where they break pattern** — where they're allowed to surprise, so they keep "sufficient (but not too much) consistency" (writer, November 8, 2026). Add it to each main profile when that profile is next revised, not all at once.
 - **Voice** — diction, rhythm, tics, and **words they never use**.
 - **Sample lines** — calibration for the voice.
 - **Series slice** — what book 1 resolves for them, and what it leaves open.
@@ -196,6 +197,7 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 
 - The main cast are students in their **early twenties** (Tor is 20, Rolph 22; see their codex entries), though Tor looks about fifteen. Keep all content involving them **non-sexual** anyway (user, November 1, 2026). The original series' later books have more sexual themes; we do not carry those over.
 - The culture clash between Tor's prudish upbringing and his noble friends' worldliness can be shown through embarrassment, manners and dialogue, without sexual content.
+- **The original's racism and sexism don't carry over** (writer, November 8, 2026). The writer retells the book because there's a good story buried under baggage its author brought: "too much blatant racism and sexism in the meta story," and not all of it in the plot seemed reasonable either. Where a beat depends on it, force the plot away from it and give the beat's job to something else, as with the sexual content. Prejudice inside the world stays only where it's reasonable for the characters and the plot. Which elements have already changed, and which still have to be faced, isn't recorded yet; ask when a beat touches one.
 
 ## 10. The story of the story
 
@@ -205,5 +207,6 @@ Migrated from `the_builder` (see the first commit for the source commit). The ol
 - **Add a journal entry yourself, without asking,** whenever the direction changes, an idea is dropped, a decision costs something, or something surprising turns up. Head it `## YYYY-MM-DD · Claude · <scene or chapter>` and say what happened and why in a few sentences. Put the newest entry last. Never edit an earlier entry (yours or the writer's); write a new one that points back.
 - **Engine:** when the premise, central question, engine, promise or form changes, update that section of `engine.md` and add an entry under Changes.
 - **Ideas** that belong to another book, or to later, go in `ideas.md` with the date and where they came from.
+- **Visual flags** (writer, November 8, 2026). The book may later be retold from other viewpoints or adapted as a screenplay (`ideas.md`). That's not a rule for this draft, so there's no requirement that every insight be visible. But when a scene puts something on the page that only narration can carry (a feeling through the field, a noticing nobody shows), ask about it in the scene's outline questions and add a line to `process/visual-flags.md`.
 - **Never rewrite `seed.md`.** Only the writer adds to it.
 - **Don't edit `answers.md`, `milestones.md` or `sessions/`.** The editor writes them.

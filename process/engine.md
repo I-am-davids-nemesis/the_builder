@@ -56,11 +56,12 @@ The writer should name which of these the reader is meant to keep reading for.
 - **Rich, specific description.** Every setting does work.
 - **Distinct voices.** Cover the speaker tags and the reader still knows who is talking.
 - **Content:** non-sexual throughout. The original's sexual content is dropped.
+- **Without the baggage:** the retelling keeps the bones of the original's story and forces the plot away from what bothered the writer: the hand-waving that lets the world "just work out" outside Tor's view, and the racism and sexism of the original's meta-story and plot (writer, November 8, 2026). The world has to exist even when Tor isn't looking.
 - **Payoff:** each book closes small, concrete questions, such as the shield working or the river running, and leaves the root conflicts open.
 
 ## Form
 
-- **Narration:** rotating close third. The viewpoint shifts scene by scene or section by section.
+- **Narration:** rotating close third. The viewpoint shifts scene by scene or section by section. It won over the camera narrator because a beta reader liked the little insight it gives into the characters (writer, November 8, 2026).
 - **Tor holds the viewpoint only when he is alone or something traumatic happens to him.** Otherwise the scene goes to someone watching him.
 - **No Ancient ever holds the viewpoint.**
 - **A secret-keeper may hold the viewpoint** if the scene stays on action, with only word choice hinting that something isn't quite honest.
@@ -95,3 +96,5 @@ Not stated yet.
 - **2026-10-30** (reconstructed). **Form:** the camera-mode files moved to their own `camera` branch, leaving rotating third only on this one. `03257df`
 - **2026-11-01** (reconstructed). **Premise and promise:** the main cast became students in their early twenties (Tor 20, Rolph 22) rather than teenagers, though Tor still looks about fifteen. Content involving them stays non-sexual regardless. This was the writer's change. `3076687`
 - **2026-11-06** (reconstructed). **Premise:** Tor was settled as a clone of Count Lairdgren (Green). This is a series-long secret that the book only hints at. It answers part of "who he really is" for the writer, not the reader. `99522d7`
+- **2026-11-08.** **Form:** the reason rotating third won on October 27 is now recorded: a beta reader liked it more than the camera narrator because it gave a little insight into the characters. Retelling the book from other viewpoints or as a screenplay was **not** added to the form; the writer kept it in `ideas.md` as a later project, with a watch list in `visual-flags.md` instead of a rule. From the writer's answers to `retrospective/2026-11-08-why-rotating-third.md` and `2026-11-08-repurposing-decisions.md`.
+- **2026-11-08.** **Promise:** added "Without the baggage." The writer gave the seed in their own words: the original hand-waves the world outside Tor's view, and carries racism and sexism the writer despised; the retelling keeps the story's bones and forces the plot away from those points. From `retrospective/2026-11-08-the-seed-in-the-writers-words.md`.

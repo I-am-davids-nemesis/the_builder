@@ -39,6 +39,7 @@ Unlabeled profile content is (assumed) unless the file says otherwise.
 - **External tension** — the person, faction or rule pushing on them.
 - **Hidden aspect** — what the reader or other characters don't know yet.
 - **Reaction rules** — if/then triggers for predicting behavior.
+- **Where they break pattern** — where they're allowed to surprise ("sufficient, but not too much, consistency"; writer, November 8, 2026). Added to each main profile when it's next revised.
 - **Voice** — diction, rhythm, tics, and words they never use.
 - **Sample lines** — calibration for the voice.
 - **Series slice** — what book 1 resolves and what it leaves open.

@@ -14,6 +14,7 @@ One sentence: who they are, and the pressure every scene with them should test.
 - **External tension:** the person, faction or rule pushing on them.
 - **Hidden aspect:** what the reader or other characters don't know yet.
 - **Reaction rules:** if/then triggers for predicting behavior.
+- **Where they break pattern:** where they're allowed to surprise.
 - **Voice:** diction, rhythm, tics, and words they never use.
 - **Sample lines:** calibration for the voice.
 - **Series slice:** what this book resolves and what it leaves open.

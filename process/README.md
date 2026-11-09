@@ -6,6 +6,7 @@ How this book is being made: the idea it started from, the mechanism it runs on,
 - `engine.md`: what makes the book work (premise, central question, engine, promise, form, theme). Revised as the book changes, and each revision gets an entry under Changes saying why.
 - `journal.md`: dated entries, newest last: turns, decisions that cost something, dropped ideas, surprises. Each entry is marked as the writer's or Claude's. Entries are never edited; a correction is a new entry.
 - `ideas.md`: ideas that don't belong in this book, kept for later or for another book.
+- `visual-flags.md`: things on the page that might be hard to render visually, for a later screenplay; a watch list, not a rule.
 - `answers.md`: Claude's questions and the answers given, added by the editor.
 - `sessions/`: Claude conversations, saved by the editor when they're cleared.
 - `milestones.md`: dated snapshots (chapters, scenes, words), added by the editor when a chapter is first fully drafted, or on request.
