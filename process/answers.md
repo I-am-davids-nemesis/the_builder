@@ -101,3 +101,26 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): Yes, as you described: her early one, then the military model, then this newest one. I'll add it to `codex/characters/tor.md` when drafting.
 2. **The Wylde line:** should Tor say aloud that Wylde took his whole life?
    - Answer (default): Yes, very quietly; only Collette hears.
+
+## 2026-11-08 18:10 · outline/10-chapter-10/01-betrothed.md
+
+1. **Mercy's title:** how does the herald announce the Morgans?
+   - Answer (default): "His Grace Duke Eric Morgan, and the Sitting Baroness, Her Grace Merciful Thorgood Morgan," both her titles, as Connie introduced her in chapter 9, scene 4.
+2. **Catching Trice:** how does Tor, on a stick with a broken ankle, reach her before she's gone?
+   - Answer (option): He calls her name and she stops, then he grabs the sleeve.
+3. **The present, twice:** chapter 9, scene 5 already shows the king lifting the box toward the Morgans and Mercy's hand going to her mouth. What happens here?
+   - Answer (option): Cut the glimpse from chapter 9, scene 5, so this is the first time.
+4. **Why the public gift:** did Tor ask for it to be public, or is that the king's (or Connie's) doing?
+   - Answer (default): Tor asked only that the king pass it on; making a ceremony of it is Connie's setup, unstated (invented).
+5. **Collette pressed close:** in chapter 9, scene 5 Tor stepped back from her perfume and went scarlet. Does he react when she presses against him now?
+   - Answer (default): He goes pink again and edges sideways; Trice reads it as guilt, which is what makes her face fall (invented).
+6. **Who hears the plan:** Trice says it half aloud. Does Tovey hear as well as Collette?
+   - Answer (default): Tovey is turned to the front for his aunt and uncle's gift; only Tor and Collette hear (invented).
+7. **Collette and the secret:** will Collette repeat what she heard, given her bigger role later?
+   - Answer (default): She keeps it, and knows it's the most valuable thing she has ever overheard (invented); what she does with it is for later.
+8. **The intended:** has the person Trice would be marrying "instead of" been decided?
+   - Answer (option): Decided, but kept off the page until the "later" conversation.
+9. **Connie's barony:** should Trice's plan call back to Connie's "a few empty baronies lying around" from chapter 6?
+   - Answer (option): No callback; the reader can make the connection.
+10. **After the ending:** what breaks Tor's stillness, in this scene or the next?
+   - Answer (default): Nothing in this scene; it ends on him still. The next scene picks up when dinner is called.
