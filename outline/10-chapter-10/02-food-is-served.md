@@ -21,7 +21,33 @@
 - after dessert, another shouting match erupts between two men seated near each other.  Tor is a bit too far away to hear exactly what is going on but it sounds like some kind of border dispute about exactly where a county line is drawn and what exactly is on each side of the line.
 - Tor wanted to just ignore it, but then he sees one of the men grab the woman with the other man and start strangling her.  Tor is shocked nobody is intervening, but he also gets the feeling that at least one of them is in a combat rage, so the people backing away are likely protecting themselves from the combat aura, whatever this one is.
 - he decides that if anyone is going to save the woman it is going to have to be him
-- he stumbles over to the two men  
+- he stumbles over to the two men -- the woman is already turning blue.
+- Tor drops his walking stick, so he wouldn't have a weapon, ensures that his shield is on, and then hits the man in the kidney as hard as he can.  Which turns out not to be hard enough for the man to notice.
+- Tor thinks that this is probably going to get him executed, but he tries again, because he has to do something to try to save the woman.
+- Finally he kicks the man -- as awkward as that is since one of his legs is in a splint -- and the man drops the woman and turns around and tries to kill him instead.  he has to goad the man a few times to ensure he doesn't lose focus on him, but he eventually runs out of steam after 20 minutes.
+- he seems to suddenly come to and asks Tor if he is alright -- he was discussing border issues with Baron Rochester and then the next thing he knew he was hitting Tor.
+- Tor decides to make a joke since he knows he is definitely going to be killed since everyone saw what he did.  He says that they got into a fight over a girl, and better yet, he got the girl in the end.  He smiles at the man who just looks confused and like a killer headache is coming on.
+- Rolph has walked up beside Tor, and so Tor sighs and hands over his shield to Rolph. But after a couple of minutes of nothing happening he realizes that his punishment will likely come after the party, or at least not around the guests.
+-  so he walks (limps) out to a side garden, and Rolph follows. Two royal guards come out too, looking a bit nervous.
+-  Rolph asks him if there is something he needs while still holding Tor's shield amulet uncertainly
+-  The guard asks Tor if he intends to pursue this further
+-  Tor doesn't understand
+-  The guard needs to know if he is satisfied or if there will be further conflict with the duke; the kings forces will need to know how to respond.
+-  Rolph intervenes: “Oh. I see... This issue is over as far as Tor is concerned, I believe... It was never personal on his part, and he only sought to protect Lady Priscilla when he saw her attacked. I do not believe that Duke Winchester means harm toward Tor either, or Lady Priscilla. This was just a potential disaster thankfully avoided. These things happen. Do let us know if the Duke changes his mind, however. I don't like his chances if he decides to go that route against Tor, but that's up to him, as his honor demands. Still, I know him to normally be cool headed and just, so expect this to be over in truth now.” He handed the amulet back to Tor and motioned him to put it on.
+- Tor is shaking in fear
+- Connie comes out after a bit, and give Tor a hug-- She tells Tor that the lady Pricilla asked her to thank Tor for her -- luckily her natural shield came on enough to save her life until Tor was able to come and distract the duke. She commends him for his bravery.
+- Tor is still confused and asks why he hasn't been arrested?
+- Rolph asks if he is joking -- he is still wearing the kings crest over his heart. it means that Tor was not the one doing anything, it was the King doing it, as far as everyone was concerned.  Which explains the guards question. its a good thing Tor doesn't hold grudges.  He asks Tor if he understands -- people saw him, Tor, go into a battle rage himself, and they were worried that he would not recover at all (since apparently that can happen the first couple of times people go into the rage).  And since the duke doesn't have the manpower, or the magic assistance that Tor has or could provide the kings army, even his army of 20K men would be no match for Tor if he was determined.
+- Rolph and Connie were just a bit confused as to why Tor turned his shield off.  Tor is confused again because he felt like he had a shield on.  it worked just like his normal shield, as he could feel the field and how the forces moved around him, draining into the ground.
+- Tor just wants to go back to his room (if he is still welcome in the house). The queen tells him that of course he is still welcome, but he has to go back to the party to show that he is back in control of himself.  She claims it will terrify those who are smart enough to understand what is happening. so, he has to go back in and smile and pretend nothing happened.
+- he walks back in and the crowd goes to a hush.  and immediately several people start converging on Tor: the duke he just fought with, Tovey, and another big man, one even taller than the king.  The others are much faster than Tor, since he is hobbling on his splitter leg.
+- When he arrives at Tor, instead of continuing the battle, the duke goes to a knee and asks for forgiveness (for the battle rage, and attacking Tor)
+- Tor bows to the man, and tries the same tactic he did on Tovey -- saying that it was nothing, and it should be nothing as they could be friends, and there are no debts between friends -- as long as he has asked forgiveness from the person that was actually hurt.
+- The Duke thanks him, and rises and plans to go take care of that directly.
+- The big man looks satisfied and holds his hand out to shake Tor's hand.
+- It turns out to be Count Ford. he wants to thank Tor for all his help
+- 
+- 
 - 
 - **POV / mode:**
 - **Location:**
