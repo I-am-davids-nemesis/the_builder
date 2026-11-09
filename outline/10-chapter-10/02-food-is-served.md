@@ -10,7 +10,7 @@
     - **"Not using me"** (beat 11): he says it aloud, half to himself: Karina doesn't use him, she just asks (invented); Varley's reaction carries it.
     - **The combat aura** (beat 20): sparks round the duke tell the room what's happening (user, November 8, 2026); Varley feels the field too and steps back with everyone else; Tor, alone, goes the other way (invented).
     - **The shield** (beat 21): Varley sees him touch the cord at his neck twice, once leaving his seat and once on the way; the second time turns it off (user, November 8, 2026). She can't tell which way he turned it.
-    - **His rage** (beat 23): sparks come off the air at his sides and back, out past where his shield would hold them, so he never sees them; Varley does (user, November 8, 2026). The duke's are reddish; Tor's are a pale gold that Varley, who knows the houses' colors, can't put a house to (invented; accepted by the user, November 8, 2026; `codex/canon-notes.md`).
+    - **His rage** (beat 23): sparks come off the air at his sides and back, out past where his shield would hold them, so he never sees them; Varley does (user, November 8, 2026). The duke's are reddish, with heat (invented; accepted by the user, November 8, 2026). Tor's are a pale gold that Varley, who knows the living houses' colors, can't put a house to; an old noble near her recognizes it as the color of a house that died out, said to be the house of the first king of Noram (user, November 8, 2026; `codex/canon-notes.md`). Rolph and Connie don't mention the color in the garden.
     - **"Probably executed"** (beat 22): Tor mutters it, and hits the duke again anyway (invented).
   - **The garden:** Rolph, from walking up beside Tor to Tor going back in and the converging duke, Tovey and Count Ford. Rolph knows exactly what the guard's question means and that Tor doesn't; Tor's fear shows in his shaking, his handing over the shield, and his question about arrest. What Tor felt (a shield, forces draining into the ground) he says aloud (invented; accepted by the user, November 8, 2026). Rolph goes formal to the guard on purpose, speaking for the crown, and drops back to his own voice with Tor (§4; user, November 8, 2026).
   - **The rounds:** Trice, from Count Ford to the door: she keeps track of the names, sees Tor flagging, and has her own reasons for wanting him seen with her. Ends on her blush and walking away.
@@ -20,7 +20,7 @@
   - **A side garden** (invented: off the terrace doors Trice was heading for in scene 01; dark, lamps along a path, the noise of the room behind glass). The one place in the evening without an audience, where the guards can ask what can't be asked in front of the court.
   - **Tor's room** (chapter 9, scene 5), for the last beat.
 - **Present:**
-  - **At the table:** Tor (stick, laced trouser leg over the splint, deep blue coat with the king's falcon on the breast, shield and temperature amulet); Varley, beside him; Ward's mother, the lady with the mildew (unnamed on the page); other women near him, older or married, who flirt; King Richard and Queen Connie at the head; about a hundred guests. Karina, Rolph, Sara, Tovey and Collette are in the room, seated elsewhere (assumed); Trice sits further up with her parents (invented; accepted by the user, November 8, 2026).
+  - **At the table:** Tor (stick, laced trouser leg over the splint, deep blue coat with the king's falcon on the breast, shield and temperature amulet); Varley, beside him; Ward's mother, the lady with the mildew (unnamed on the page); other women near him, older or married, who flirt; an old noble near Varley who knows the old house colors (see Questions); King Richard and Queen Connie at the head; about a hundred guests. Karina, Rolph, Sara, Tovey and Collette are in the room, seated elsewhere (assumed); Trice sits further up with her parents (invented; accepted by the user, November 8, 2026).
   - **The fight:** Duke Winchester; Baron Rochester, whom he was arguing with; Lady Priscilla, Rochester's wife (invented; accepted by the user, November 8, 2026); the guards holding the ring; the crowd backing away.
   - **The garden:** Tor, Rolph, two royal guards (one speaks), then Connie.
   - **Back in the room:** Duke Winchester, Tovey, Count Ford (taller than the king); Trice, at Tor's side for the rounds; the queen giving leave to go. Priscilla and Rochester have already left.
@@ -45,7 +45,7 @@
   - **The sparks, for Tor:** they come off his sides and back, so he never sees them, and nobody tells him in this scene (user, November 8, 2026).
   - **Who the face reminds him of:** Rolph, by family likeness; Tor can't place it, and the scene doesn't say (pays off later; user, November 8, 2026).
   - **The mildew lady:** she is Count Ward's mother, sent off to a dower house Maria found for her in County Ward, on low wet ground by the coast (hence the damp), now that her son has a wife; Maria needed her out of the way to be sure she controls Ward (user, November 8, 2026; the house invented, accepted). It doesn't come out now. Varley knows her only as "the dowager from the fen country," so the reader can't connect her yet; Tor must not find out.
-  - **Tor's gold sparks:** spark colors follow a field's effect, and so a house; nobody can name a house for pale gold, and nobody says so aloud.
+  - **Tor's gold sparks:** spark colors follow a field's effect, and so a house. No living house throws pale gold; an old noble near Varley knows it as the color of the first king of Noram's house, long died out (user, November 8, 2026). Only a few near him hear; Tor never does, and what it means stays open.
   - **What Connie means by "terrify those smart enough to understand":** she says it and sends him in; the politics stay unstated.
   - **Who Trice would marry "instead of":** still off the page (scene 01).
   - **Why Trice was hurt:** still open past this chapter (`codex/tension-ledger.md`).
@@ -73,10 +73,10 @@
 17. **Playing along.** Tor is flabbergasted, but plays along, as if the queen were the proper person to manage offers of marriage for a country boy. He misses what Karina's asking means.
 18. **Dessert.** It finally arrives: shaved ice so cold it isn't melting, so fine it melts on the tongue. The queen looks down the table at him and seems to be thanking him for it. Tor is sure he had no hand in it, though maybe his new cold box helped a bit (chapter 9, scene 5).
 19. **The border.** After dessert, another shouting match erupts between two men seated near each other. Tor is too far away to hear exactly, but it sounds like a border dispute: where a county line is drawn, and what's on each side of it.
-20. **The strangling.** Tor wants to ignore it, but then one man grabs the woman with the other man and starts strangling her. Reddish sparks are coming off him. Tor is shocked nobody intervenes, but he gets the feeling at least one of them is in a combat rage, so the people backing away are likely protecting themselves from the combat aura, whatever this one is. The guards hold a ring and wait, as they always do with a rage.
+20. **The strangling.** Tor wants to ignore it, but then one man grabs the woman with the other man and starts strangling her. Reddish sparks are coming off him, and the air round him is hot as a forge; his grip doesn't tire, and Priscilla's natural shield only just holds. Tor is shocked nobody intervenes, but he gets the feeling at least one of them is in a combat rage, so the people backing away are likely protecting themselves from the combat aura, whatever this one is. The guards hold a ring and wait, as they always do with a rage.
 21. **Him, then.** If anyone is going to save the woman, it will have to be him. He checks his shield once as he leaves his seat. He stumbles over, checking it again on the way, and the second check turns it off. She's already turning blue. He drops his walking stick, so he won't have a weapon, and hits the man in the kidney as hard as he can, which isn't hard enough for the man to notice.
 22. **Again.** Tor thinks this will probably get him executed, but tries again, because he has to do something to save her.
-23. **The kick.** Finally he kicks the man (awkward, with one leg in a splint). The man drops the woman, turns and tries to kill him instead. Tor has to goad him a few times to keep his attention. Pale gold sparks fly from the air at Tor's sides and back, out past where his shield would have held them; he never sees them. He doesn't tire on the splinted leg and takes blows that should break him, and the air round him presses on people the way the duke's does. The man finally runs out of steam after about twenty minutes.
+23. **The kick.** Finally he kicks the man (awkward, with one leg in a splint). The man drops the woman, turns and tries to kill him instead. Tor has to goad him a few times to keep his attention. Pale gold sparks fly from the air at Tor's sides and back, out past where his shield would have held them; he never sees them. Near Varley, an old noble recognizes the color: the old gold of a house long died out, said to be the first king of Noram's. He doesn't tire on the splinted leg and takes blows that should break him, and the air round him presses on people the way the duke's does. The man finally runs out of steam after about twenty minutes.
 24. **Coming to.** The man seems suddenly to come to, and asks Tor if he's all right: he was discussing border issues with Baron Rochester, and the next thing he knew he was hitting Tor.
 
 `* * *`
@@ -138,18 +138,25 @@
 - **The face Tor can't place:** nobody in particular; only the family likeness to Rolph, which pays off later.
 - **Ward's mother on the page:** Varley knows her as "the dowager from the fen country, whom nobody had seen in town since the spring"; the reader can't connect it yet.
 - **The fen country:** a dower house in County Ward, on low wet ground by the coast, which Maria found for her.
-- **The sparks' color:** each rage throws its own color, tied to its field's effect, and so (the field being inherited) to a house. The duke's are reddish; Tor's a pale gold nobody can put a house to.
+- **The sparks' color:** each rage throws its own color, tied to its field's effect, and so (the field being inherited) to a house. The duke's are reddish; Tor's a pale gold nobody can put a house to. (Refined in the third round: an old noble recognizes the gold.)
 - **The crest in chapter 9, scene 5:** add one line to Hale's section when this scene is drafted: the falcon on the breast, which Hale sees and Tor doesn't (noted in `outline/09-chapter-9/05-another-royal-dinner.md`).
+
+
+**Answered, third round** (user, November 8, 2026):
+- **The duke's field:** heat and strength: the air round him goes hot as a forge, and his grip and blows don't tire, which is why Priscilla's shield only just holds.
+- **What gold means:** an old color, of a house that died out, said to be the house of the first king of Noram; an old noble at the table recognizes it.
+- **Who knows the colors:** Rolph and Connie don't remark on the gold in the garden; they talk only about the shield being off, and the color stays in Varley's section.
 
 **Questions:**
 
-1. **The duke's field:** what does Winchester's rage do, to match its reddish sparks?
-   - Default: Heat and strength: the air round him goes hot as a forge, and his grip and blows don't tire, which is why Priscilla's shield only just holds (invented).
-   - Option: Fear: people near him are seized with dread, which is why the whole room backs away.
-   - Option: Leave his effect unstated; the room just knows the color.
-2. **What gold means:** does Tor's pale gold match what his field does?
-   - Default: Yes: gold for a field that takes force in and grounds it, a kind no living house shows, so the court has no name for it; nobody says so on the page (invented).
-   - Option: Gold is an old color, of a house that died out, and an old noble at the table recognizes it.
-3. **Who knows the colors:** do Rolph and Connie, in the garden, remark on the gold?
-   - Default: No; they talk only about the shield being off, and the color stays Varley's noticing in the first section.
-   - Option: Connie asks Rolph, quietly, whether he's ever seen gold; Rolph hasn't.
+1. **The old noble:** who recognizes the gold?
+   - Default: The old Count of Salt (chapter 9, scene 5's one-off), seated near Varley; he says it under his breath, "That's the old gold," and his second wife hushes him (invented).
+   - Option: Lady Arden, in her shawl, who collects old heraldry.
+   - Option: An unnamed old man Varley doesn't know, so it can't be followed up easily.
+2. **How much is said:** does the old noble name the first king's house, or only the color?
+   - Default: Only that it's "the old gold," the color nobody has thrown since the first king's line ended; Varley half remembers the lesson from her tutors and doesn't finish the thought (invented).
+   - Option: He names the house outright, and those near him go quiet.
+   - Option: He only stares; Varley is the one who remembers it from her lessons.
+3. **Who hears it:** does the remark spread, or stay with Varley?
+   - Default: Only Varley and the few round the old count hear it; it doesn't reach Tor, Rolph or Connie in this scene, and it travels later as gossip (invented).
+   - Option: Varley tells Rolph that night, off the page.

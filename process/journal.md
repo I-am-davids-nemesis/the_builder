@@ -288,3 +288,7 @@ There was also the lack of something.  A bit of introspection.  Well, that is un
 ## 2026-11-08 · Claude · 10-chapter-10/02-food-is-served
 
 The scene's notes became a four-viewpoint outline: Varley, Rolph, Trice, then Hale. The writer's answers added two surprises. The lady with the mildew is Ward's mother, sent away so Maria can control Ward, which gives Maria a motive the reader can find out later and Tor can't. And sparks are now the visible sign of a combat rage: Tor's fly out past where his shield should hold them, which is how Rolph and Connie know he turned it off. That gives a camera something to show for a field nobody can see. Tor's thoughts at the table show as things he does or says, since he isn't alone.
+
+## 2026-11-08 · Claude · 10-chapter-10/02-food-is-served (spark colors)
+
+This follows the entry above. Spark colors now follow what a field does, and since rage fields are inherited, each color belongs to a house. Tor's are pale gold. I had suggested that no house could be named for it; the writer went further: gold is the color of a house that died out, said to be the house of the first king of Noram, and an old noble at the table recognizes it. That's the first public clue in the book that Tor's blood isn't a baker's. Only a few people near Varley hear it, and Tor doesn't.
