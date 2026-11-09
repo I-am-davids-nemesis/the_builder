@@ -13,7 +13,7 @@
   9. **Not like that.** Collette is shocked and wonders whether Tor and Trice are courting. Trice laughs it off: they aren't friends like that. Tovey agrees that Tor is generous with his friends (his own shield, his flying rig), but says that isn't the most important part of Tor's character: Tor came at once to defend Tovey's honor when he needed him, and Tovey won't soon forget it. He means the courtyard night in chapter two, when his rage turned on Trice and Tor stopped him (user, November 8, 2026; `codex/characters/tovey.md`).
   10. **Trice agrees.** Tor doesn't quite get it; he doesn't realize what a big deal it is to Tovey that he lost his temper, went into a battle rage and nearly killed his cousin.
   11. **The stir.** A stirring through the crowd turns everyone toward the king's table. Tor thinks it must be some kind of mind magic, and wonders at the subtlety.
-  12. **The Morgans.** The herald calls Trice's parents, Eric and Mercy, Duke and Baroness Morgan, to the front. (Mercy is a sitting baroness in her own right and a duchess by marriage, `outline/09-chapter-9/04-lunch-with-the-queen.md`; which title the herald uses is a question below.)
+  12. **The Morgans.** The herald calls Trice's parents, Eric and Mercy, Duke and Baroness Morgan, to the front. (Mercy is a sitting baroness in her own right and a duchess by marriage, `outline/09-chapter-9/04-lunch-with-the-queen.md`; the herald gives her both: "His Grace Duke Eric Morgan, and the Sitting Baroness, Her Grace Merciful Thorgood Morgan," user, November 8, 2026.)
   13. **The present.** King Richard presents the present Tor asked him to give them, from "the Master Wizard Tor": two sets of flying gear and two full shields, with a flowery speech on how impressive and important it is.
   14. **Surprised.** Tor is a bit surprised that people are so enthusiastic about his gifts.
   15. **The room wonders.** People around them wonder what the duke and duchess could have done to earn such gifts from Master Wizard Tor, and what they could do to get something like that as well.
@@ -34,21 +34,23 @@
   - Trice wears Tor's newest shield, fourth generation, better than the military's; he gave her an earlier one months ago, before the military had any. Almost nobody at court has one; Collette has tried and failed to get one.
   - Tovey counts Tor stopping his rage on the courtyard night as defending his honor, and won't forget it; Trice agrees; Tor doesn't understand why it matters so much.
   - The king gives the Morgans Tor's present publicly, from "the Master Wizard Tor," and the court now wants to know how to earn one.
-  - Trice's plan: a title for Tor, her parents convinced he loves her, and a marriage to him "instead of—". It echoes Connie floating a barony for Tor in chapter 6 (`outline/06-chapter-6/04-dinner-distractions.md`).
+  - Trice's plan: a title for Tor, her parents convinced he loves her, and a marriage to him "instead of—". Only Tor and Collette hear it. It echoes Connie floating a barony for Tor in chapter 6 (`outline/06-chapter-6/04-dinner-distractions.md`), but nobody says so.
   - Tor thinks no rise could bring him within three steps of her in less than a lifetime, and retreats into stillness.
 - **Hidden (and how):**
   - **"Instead of" whom:** broken off mid-sentence; Trice doesn't finish, and Collette can't guess. Who Trice is meant to marry, and whether it's settled, stays hidden (the scene title is the only pointer).
   - **Why Trice was hurt:** half answered (Collette as Tor's supposed date); the rest is the "later" conversation she puts off, still open (`codex/tension-ledger.md`).
   - **Trice's field:** Tor feels it; nobody on the page knows it, and the reader sees only how fast he answers (`codex/reader-knowledge.md`: her field stays hidden).
   - **Whether Trice means any of it:** whether she wants Tor or only a way out stays unclear; her face shows the idea, not the feeling.
-  - **What Connie has set up:** the public gift may be part of it; unstated.
+  - **What Connie has set up:** Tor asked only that the king pass the present on; making a ceremony of it is Connie's doing (invented; accepted by the user, November 8, 2026). Unstated: Collette sees the queen's face, not her reasons.
+  - **Who Trice would marry:** decided, but kept off the page until the "later" conversation (user, November 8, 2026). No callback to Connie's barony from chapter 6; the reader can make the connection (user, November 8, 2026).
+  - **What Collette does with it:** she keeps it, knowing it's the most valuable thing she has ever overheard (invented; accepted by the user, November 8, 2026); what she does with it is for later.
   - **What Tor feels for Trice:** only his stillness and his politeness; no one on the page names it.
 
 ## Beats
 
-1. **The sleeve** (Collette). Tor lunges on the stick and catches Trice's sleeve at the terrace doors; Collette, who has followed without quite meaning to, arrives at his shoulder with Tovey a step behind (invented). Trice turns, annoyed, then actually sees him.
+1. **The sleeve** (Collette). Tor calls Trice's name and she stops; he gets to her on the stick and catches her sleeve (user, November 8, 2026). Collette, who has followed without quite meaning to, arrives at his shoulder with Tovey a step behind (invented). Trice turns, annoyed, then actually sees him.
 2. **"Later."** Tor asks what's the matter. Trice: not here, later, it isn't a conversation for here.
-3. **Collette at his shoulder.** Collette leans in to hear; Trice's eyes go to her, pressed close, and her face falls.
+3. **Collette at his shoulder.** Collette leans in to hear, pressed close; Tor goes pink again and edges sideways, as he did from her perfume in chapter 9, scene 5. Trice reads it as guilt, and her face falls (invented; accepted by the user, November 8, 2026).
 4. **"She's Tovey's."** Tor says it before Trice has said anything, and too fast; Collette notices (user, November 8, 2026).
 5. **The idea.** Trice brightens, then something else comes into her face, and she looks Tor up and down (invented).
 6. **The shield.** Tor's eyes go to her neck: one of his shields on a fine silver chain, against dark blue. Collette sees the blue of Trice's eyes (invented).
@@ -57,12 +59,12 @@
 9. **Courting?** Collette's face asks it; Trice laughs: not friends like that.
 10. **Tovey.** Tovey agrees Tor is generous (his own shield, his rig), then says, stiffly (he's bad at showing embarrassment, `codex/characters/tovey.md`), that what matters is that Tor came to his defense the night of the courtyard. Trice agrees. Tor looks puzzled.
 11. **The stir.** The room turns toward the king's table. Tor murmurs "That's clever" and looks for the caster; Collette sees it's only the king rising (invented).
-12. **The Morgans.** The herald calls Duke Eric and Mercy, Duke and Baroness Morgan, to the front.
-13. **The gift.** The king gives them the box, two rigs and two shields from "the Master Wizard Tor," in a flowery speech. Tor is surprised at how the room takes it (applause, invented).
+12. **The Morgans.** The herald: "His Grace Duke Eric Morgan, and the Sitting Baroness, Her Grace Merciful Thorgood Morgan." They come to the front.
+13. **The gift.** The first time the Morgans see the box (the glimpse in chapter 9, scene 5 is cut; user, November 8, 2026). The king opens it and gives them two rigs and two shields from "the Master Wizard Tor," in a flowery speech; Tor only asked him to pass it on, and the ceremony is Connie's doing, unstated. Tor is surprised at how the room takes it (applause, invented).
 14. **The room.** Around them: what did the Morgans do for this, and what would it take?
-15. **The plan.** Trice, half aloud, to Tor: a title for him; her parents convinced he loves her; married, instead of— She stops.
+15. **The plan.** Tovey is turned to the front for his aunt and uncle's gift. Trice, half aloud, to Tor: a title for him; her parents convinced he loves her; married, instead of— She stops. Only Tor and Collette hear (invented; accepted by the user, November 8, 2026). Collette knows it's the most valuable thing she has ever overheard.
 16. **Wylde.** Tor, very quietly: "Wylde took his whole life." Only Collette hears.
-17. **Still.** Tor goes still and polite, answering in short courteous phrases while Trice keeps talking; he has stopped blinking (invented). End.
+17. **Still.** Tor goes still and polite, answering in short courteous phrases while Trice keeps talking; he has stopped blinking (invented). End; nothing breaks the stillness in this scene, and the next picks up when dinner is called (user, November 8, 2026).
 
 **Answered** (user, November 8, 2026):
 - **Viewpoint:** Collette, continuing from chapter 9, scene 5.
@@ -73,38 +75,13 @@
 - **The ending:** Tor still and polite, his trance seen from outside, while Trice keeps talking.
 - **Fourth generation:** keep the number: Trice's early one (before the military had any), then the military model, and this newest, fourth one, better than the military's. Record it in `codex/characters/tor.md` when drafting.
 - **The Wylde line:** Tor says it aloud, very quietly ("Wylde took his whole life"); only Collette hears.
-
-**Questions:**
-
-1. **Mercy's title:** how does the herald announce the Morgans?
-   - Default: "His Grace Duke Eric Morgan, and the Sitting Baroness, Her Grace Merciful Thorgood Morgan," both her titles, as Connie introduced her in chapter 9, scene 4.
-   - Option: "Duke and Duchess Morgan," the title by marriage only.
-   - Option: "Duke and Baroness Morgan," as in your notes, with Collette noticing that the herald chose the baroness.
-2. **Catching Trice:** how does Tor, on a stick with a broken ankle, reach her before she's gone?
-   - Default: She's slowed by the press at the terrace doors; he gets there in three bad steps and catches her sleeve (invented).
-   - Option: He calls her name and she stops, then he grabs the sleeve.
-3. **The present, twice:** chapter 9, scene 5 already shows the king lifting the box toward the Morgans and Mercy's hand going to her mouth. What happens here?
-   - Default: The glimpse was the king showing it them privately; this is the formal, public giving, with the box opened and the rigs and shields shown.
-   - Option: Cut the glimpse from chapter 9, scene 5, so this is the first time.
-4. **Why the public gift:** did Tor ask for it to be public, or is that the king's (or Connie's) doing?
-   - Default: Tor asked only that the king pass it on; making a ceremony of it is Connie's setup, unstated (invented).
-   - Option: The king does it on his own, to show the court whom he favors.
-5. **Collette pressed close:** in chapter 9, scene 5 Tor stepped back from her perfume and went scarlet. Does he react when she presses against him now?
-   - Default: He goes pink again and edges sideways; Trice reads it as guilt, which is what makes her face fall (invented).
-   - Option: He's too focused on Trice to notice.
-6. **Who hears the plan:** Trice says it half aloud. Does Tovey hear as well as Collette?
-   - Default: Tovey is turned to the front for his aunt and uncle's gift; only Tor and Collette hear (invented).
-   - Option: Tovey hears, and his face shows that he knows who "instead of" is.
-7. **Collette and the secret:** will Collette repeat what she heard, given her bigger role later?
-   - Default: She keeps it, and knows it's the most valuable thing she has ever overheard (invented); what she does with it is for later.
-   - Option: She tells her mother, and it spreads.
-8. **The intended:** has the person Trice would be marrying "instead of" been decided?
-   - Default: none
-   - Option: Decided, but kept off the page until the "later" conversation.
-   - Option: Not decided yet.
-9. **Connie's barony:** should Trice's plan call back to Connie's "a few empty baronies lying around" from chapter 6?
-   - Default: Yes, lightly; Trice says "Aunt Connie said herself there are baronies lying about" (invented).
-   - Option: No callback; the reader can make the connection.
-10. **After the ending:** what breaks Tor's stillness, in this scene or the next?
-    - Default: Nothing in this scene; it ends on him still. The next scene picks up when dinner is called.
-    - Option: Rolph breaks through his ring and finds them, in the next scene.
+- **Mercy's title:** the herald gives both: "His Grace Duke Eric Morgan, and the Sitting Baroness, Her Grace Merciful Thorgood Morgan."
+- **Catching Trice:** Tor calls her name and she stops; then he grabs the sleeve.
+- **The present, twice:** the glimpse in chapter 9, scene 5 is cut; this is the first time the Morgans see it.
+- **Why the public gift:** Tor asked only that the king pass it on; the ceremony is Connie's setup, unstated.
+- **Collette pressed close:** Tor goes pink and edges sideways; Trice reads it as guilt, and her face falls.
+- **Who hears the plan:** only Tor and Collette; Tovey is turned to the front.
+- **Collette and the secret:** she keeps it, knowing it's the most valuable thing she has ever overheard; what she does with it is for later.
+- **The intended:** decided, but kept off the page until the "later" conversation.
+- **Connie's barony:** no callback; the reader can make the connection.
+- **After the ending:** nothing breaks the stillness in this scene; the next picks up when dinner is called.

@@ -318,7 +318,7 @@ There was a small, frozen moment along the whole of the welcoming table. Collett
 
 The king, looking somewhat surprised, took the box.
 
-He turned it over in his hands, the purple silk, the ribbon. Then he looked along the table to his left, where Trice Morgan's father sat beside Trice Morgan's mother, and lifted it a little, and said something that made the duchess put her hand to her mouth; and then he passed it to the guard, who took it as if it were full of bees, and held it out at the very end of his arms, and gave the boy over the top of it a long, flat, thorough look that went from his hair to his boots and back.
+He turned it over in his hands, the purple silk, the ribbon. Then he passed it to the guard, who took it as if it were full of bees, and held it out at the very end of his arms, and gave the boy over the top of it a long, flat, thorough look that went from his hair to his boots and back.
 
 The boy smiled at him gratefully. He seemed to think the guard was being helpful.
 
