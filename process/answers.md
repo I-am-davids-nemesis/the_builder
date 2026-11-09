@@ -78,3 +78,19 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer: leave it in the git repo as is.  We may come back to the different POV issues later; it isn't clear if this will help the screenplay generation or not yet.
 4. **Not too much consistency:** should the codex track where each character is allowed to surprise, alongside their reaction rules?
    - Answer (default): Yes; add a short "where they break pattern" line to each main character's profile when next revised.
+
+## 2026-11-08 18:03 · outline/10-chapter-10/01-betrothed.md
+
+1. **Viewpoint:** who watches Tor in this scene?
+   - Answer (default): Collette continues from chapter 9, scene 5. She sees the sleeve-grab, the amulet and Trice's change of mood, and she knows exactly what a public gift from the king means.
+2. **Trice's dress:** blue or green?
+   - Answer (option): blue, and revise chapter 9, scene 5 to match.
+   - Note: lets make it dark blue, a few shades brighter than navy
+3. **Trice's plan aloud:** does she say it?
+   - Answer (default): She says it half-aloud to Tor ("get you a title… convince them… instead of—"), breaks off, and the "instead of" stays hidden.
+4. **Tovey's honour:** which event does Tovey mean?
+   - Answer: this was the night he went into a combat rage and attacked Trice
+5. **Feeling her field:** how does Tor sensing Trice show from outside? Whatever we choose, I'll add a line to `process/visual-flags.md`.
+   - Answer (default): Tor reacts aloud too quickly (the instant introduction of Collette, "Oh — no, she's Tovey's"), and the watcher notices how fast it was.
+6. **The ending:** where does the scene stop?
+   - Answer (default): on Tor going still and polite, his trance as seen from outside, while Trice keeps talking.
