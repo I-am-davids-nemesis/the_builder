@@ -69,12 +69,5 @@
 - **Tovey's honor:** the courtyard night in chapter two, when Tovey went into a combat rage and attacked Trice, and Tor stopped him.
 - **Feeling her field:** shown by Tor answering aloud too quickly; Collette notices.
 - **The ending:** Tor still and polite, his trance seen from outside, while Trice keeps talking.
-
-**Questions:**
-
-1. **Fourth generation:** has the book already counted shield versions, so that Trice's is the fourth?
-   - Default: Yes, as you said: an early one for Trice before the military's, then the military model, and this is the newest; I'll record it in `codex/characters/tor.md` when drafting.
-   - Option: Drop the number; she just says it's the newest, better than the army's.
-2. **The Wylde line:** should Tor say aloud that Wylde took his whole life, or keep the thought off the page?
-   - Default: Say it, very quietly; only Collette hears.
-   - Option: Keep it off the page; the stillness alone carries it.
+- **Fourth generation:** keep the number: Trice's early one (before the military had any), then the military model, and this newest, fourth one, better than the military's. Record it in `codex/characters/tor.md` when drafting.
+- **The Wylde line:** Tor says it aloud, very quietly ("Wylde took his whole life"); only Collette hears.
