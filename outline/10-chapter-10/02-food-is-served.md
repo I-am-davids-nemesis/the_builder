@@ -160,7 +160,7 @@
 - **Rolph:** felt it through his shoes "like the midden"; "Oh, *no*, not again, Baker, not *here*." Tor's smile "went on crooked and stayed there by force"; he hands over the shield "at the end of a long walk"; "Not in front of the guests." The sergeant has known Rolph since he was eight and calls him "Highness." Rolph's formal voice is "his father's at audiences and his grandfather's on the coins."
 - **Connie:** comes alone, hugs Tor, who stands "like a man who's been handed a baby"; Priscilla can only whisper; "the bravest thing I have seen anyone do in that room in twenty years." Rolph: "Look down"; "That's *Father's*... Burks must have put it on you." "Without it, there was nothing holding it in." "As long as there's a house"; "It will frighten exactly the people who ought to be frightened."
 - **Back in:** the duke kneels in the wine; Tor bows as he did once to Tovey at school. Count Ford, "broad as a wagon," southern vowels; his steward's rider stood in the new river to his knees; Tor calls him "my lord." Ford's laugh "like a cart going over a bridge"; Tovey steadies Tor.
-- **Trice:** Connie sends her with one finger; she says every name twice, as she has for her father since eleven; Lady Arden holds Tor's hand and says only "thank you, young man," and Trice files it. She minds the shaking hand and the cut over his eye, and adds her column too: "Both things at once." Past the first bell of the morning; "Half that room would vote you a barony this minute"; "We just have to improve your station." He moves the stick to his left hand to kiss hers; "Thank you for the names."
+- **Trice:** Connie sends her with one finger; she says every name twice, as she has for her father since eleven. (Lady Arden doesn't come to Tor in the rounds; cut, user, November 8, 2026, so the gold stays with Varley.) She minds the shaking hand and the cut over his eye, and adds her column too: "Both things at once." Past the first bell of the morning; "Half that room would vote you a barony this minute"; "We just have to improve your station." He moves the stick to his left hand to kiss hers; "Thank you for the names."
 - **Hale:** Burks unlaces the ribbon, folds the coat falcon outward ("It's done its work"); "I hit a duke, Burks." "So I hear, sir." "Arms up." Tor topples sideways asleep "the way a tree goes"; the count leaves without a sound.
 - **Chapter 9, scene 5:** the falcon line is added to Hale's section.
 
@@ -169,23 +169,10 @@
 - **How much is said:** only "the old gold," the color nobody has thrown since the first king's line ended; Varley half remembers the lesson from her tutors and doesn't finish the thought.
 - **Who hears it:** only Varley and the few round Lady Arden; it doesn't reach Tor, Rolph or Connie in this scene, and travels later as gossip.
 
-**Questions:**
-
-1. **Connie and the dowager:** Varley remembers her mother saying "*poor woman*" when the dowager went away. Does that mean Connie knows what Maria did?
-   - Default: Keep it: Connie suspects, without proof, and says nothing; it gives the queen a reason to have invited her.
-   - Option: Cut it, so nobody at court suspects yet.
-2. **Trice's "barony":** does "Half that room would vote you a barony" come too close to Connie's barony in chapter 6, which you didn't want called back?
-   - Default: Change it to "a title" so it doesn't echo.
-   - Option: Keep "barony"; it's Trice's word, not a callback.
-3. **Winchester's look and standing:** keep him red-gold, with "a beard like a doormat," a council seat, and a name for never losing his temper?
-   - Default: Keep all of it; the council seat raises the stakes of the guard's question.
-   - Option: Drop the council seat, so the council stays offstage.
-4. **The extra breaks:** Varley's and Rolph's sections are each split by further `* * *` breaks. Keep them?
-   - Default: Keep them; each break marks a jump in time (the courses, the garden).
-   - Option: Join each viewpoint into one unbroken section, so the breaks only mark a change of viewpoint.
-5. **Lady Arden afterward:** in the rounds she holds Tor's hand and says only "thank you, young man," and Trice files it. Keep it?
-   - Default: Keep it; it plants her interest without saying "gold" again.
-   - Option: Cut it, so the gold stays with Varley alone.
-6. **"Highness":** the sergeant calls Rolph "Highness" in front of Tor. Is that all right in the garden?
-   - Default: Keep it; Tor knows Rolph is the prince, and only the guards' manner toward him is new.
-   - Option: The sergeant says "sir" only.
+**Answered on the draft** (user, November 8, 2026):
+- **Connie and the dowager:** keep "*poor woman*": Connie suspects what Maria did, without proof, and says nothing; it's part of why she invited the dowager.
+- **Trice's "barony":** keep it; it's Trice's word, not a callback.
+- **Winchester:** keep his look (red-gold, "a beard like a doormat"), his council seat and his name for never losing his temper.
+- **The extra breaks:** keep them; each marks a jump in time.
+- **Lady Arden afterward:** cut from the rounds, so the gold stays with Varley.
+- **"Highness":** keep it.
