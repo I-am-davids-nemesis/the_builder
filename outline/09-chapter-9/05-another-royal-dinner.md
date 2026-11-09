@@ -105,7 +105,7 @@
 - **"Baronetta":** a baronet's daughter, on the model of "Ducharina" (`codex/canon-notes.md`).
 - **The kitchen test:** one dry line from Burks, as in chapter 5: the cooks have already filled it.
 
-**Revised** (user, November 8, 2026; done with the chapter 10, scene 2 draft): one line added to Hale's section, when the coat goes on: the king's falcon on the breast of the blue coat, which Hale sees and Tor doesn't. Rolph names it in the garden there (`outline/10-chapter-10/02-food-is-served.md`).
+**Revised** (user, November 8, 2026; done with the chapter 10 dinner draft): one line added to Hale's section, when the coat goes on: the king's falcon on the breast of the blue coat, which Hale sees and Tor doesn't. Rolph names it in the garden in chapter 10, scene 3 (`outline/10-chapter-10/03-the-old-gold.md`).
 
 **Answered on the draft** (user, November 8, 2026):
 - **Hale's "My lord":** only the first, which the count's lifted finger stops; on the count's way out Hale just stands straighter.

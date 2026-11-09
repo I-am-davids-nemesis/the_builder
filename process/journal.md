@@ -296,3 +296,7 @@ This follows the entry above. Spark colors now follow what a field does, and sin
 ## 2026-11-08 · Claude · 10-chapter-10/02-food-is-served (drafted)
 
 This follows the entries above. The draft carries the comedy and the fight on outside viewpoints: Varley sees the kick land, Rolph sees the joke, and Trice gets the hand kiss. One cost: Tor's belief that he "had a shield on" is only something he says in the garden, so the reader can't check it against what he felt. To set up the crest, a line was added to chapter 9, scene 5: Hale sees the falcon when the coat goes on. Varley now has her own profile.
+
+## 2026-11-08 · Claude · 10-chapter-10/03-the-old-gold
+
+This follows the entry above. The dinner draft ran to about 10,000 words, so the writer split it in two. "Food Is Served" is now Varley's dinner alone, light, ending on Cook's "*now let them see*." The new "The Old Gold" opens on the shouting as the dessert dishes go out and runs through to bed. Varley's viewpoint carries across the cut, which keeps the gold in her eyes. The cost is that scene 3 opens in the same head the reader has just left. The title is a suggestion.

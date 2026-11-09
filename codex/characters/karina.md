@@ -78,7 +78,7 @@ A tall, poised young woman of eighteen with a mass of tight red curls pinned up 
 - **From the chapter 5–6 drafts** (invented; pending the user's review):
   - Has practiced a shy little dip of the chin in a glass since she was twelve.
   - Times her entrances: not too soon, not too late, no knock, so she can always say she had the wrong door.
-  - Measures everything against **Lady Arden**, who has one cooling plate in her morning room and receives in it every afternoon in a shawl. Lady Arden collects old heraldry (user, November 8, 2026), and knows Tor's gold sparks as "the old gold" (chapter 10, scene 2). "Nobody has two, you know… except of course my parents. And obviously you."
+  - Measures everything against **Lady Arden**, who has one cooling plate in her morning room and receives in it every afternoon in a shawl. Lady Arden collects old heraldry (user, November 8, 2026), and knows Tor's gold sparks as "the old gold" (chapter 10, scene 3). "Nobody has two, you know… except of course my parents. And obviously you."
   - At dinner, in blue, she announces she has two plates, and watches Tor "doing sums." Her mother: "Karina is going to be impossible."
   - Smirks at Tor's first-bite mistake.
 
