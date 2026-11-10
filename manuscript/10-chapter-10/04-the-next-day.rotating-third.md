@@ -1,4 +1,4 @@
-Hale had been relieved at dawn and was back on the door by the middle of the morning, and the boy still hadn't moved.
+Hale had been relieved in the small hours and was back on the door by late morning, and the boy still hadn't moved.
 
 He moved a little after that. Hale heard it through the hand's width of open door: a long breath in, and a stop, and a sound that wasn't a word, the sound a man makes when he tries to sit up and every part of him writes in at once to complain. Then nothing for a while. Then, very quietly, to the ceiling:
 
