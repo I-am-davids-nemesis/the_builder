@@ -268,3 +268,16 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
 
 1. **Side projects:** which small projects does Tor volunteer for in beat 29?
    - Answer (default): none; to be worked out next, as you said.
+
+## 2026-11-09 19:28 · outline/10-chapter-10/04-the-next-day.md
+
+1. **Karina and the card:** keep the ending where Karina pockets the Sorvey card?
+   - Answer (default): keep it; what she does with it stays open, like her hidden aspect.
+2. **"I can't swim":** is that true of Tor, who grew up at Two Rivers?
+   - Answer: we need a different joke, as neither of those options is true
+3. **Varley's blush:** she reddens when Daritha fishes about Tor's station; is that too strong a hint that she saw the gold?
+   - Answer (default): keep it; Daritha reads it as "somebody saw something" and nothing more.
+4. **The east gallery:** is that where Tor works for the rest of the chapter?
+   - Answer (option): somewhere else you'll name with the projects.
+5. **Visual flags:** Karina's private feelings (minding "Highness," "Trice got there first") are narration only; flag them?
+   - Answer (default): no flag; they show in her pout and her pocketing the card.
