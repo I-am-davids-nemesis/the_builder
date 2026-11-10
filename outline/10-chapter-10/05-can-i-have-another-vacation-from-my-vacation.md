@@ -14,7 +14,8 @@
 - Since Rolph had the template back before dinner, Tor just chalks it up to city travel times. he thinks he really has to get on figuring something out that would be easier getting around the city instead of slow miserable carriages.
 - By the next evening, Tor has 50 more cargo haulers and 100 drying fields ready to go. After Tor wonders about a better strap than his hemp string for the flying devices, Burks is able to find somehow enough leather straps to fit 50 of the flying rigs as well.  Tor had asked Burks where he could get a chest, and the man had come through again with a large but ornate wooden box.  The chest has very fancy carvings of flowers and birds on it.  Another priceless treasure in itself as far as Tor can tell.  He puts the 200 different devices into the trunk.  Rolph comes at 7pm to pick him up for their dinner, and Burks and another man, help him load the chest onto the carriage. Luckily Rolph is big enough that he isn't worried about getting it off the carriage at their destination.
 - When he gets to the Morgan estate, Tor doesn't notice how small it is, being merely a large mansion instead of the imposing edifice of Debri house.  Rolph would never mention it either.
-- They bring the box into the sitting room, 
+- The door is opened by the house butler (unnamed), and they bring the box into the sitting room.
+- Without warning Tor is accosted by Trice, moving at near combat speeds. he is so shocked he can't even respond. But it turns out well, with Trice kissing him and telling him she loves him, that this is so much better.  Rolph chuckles politely at his friends obvious surprise and confusion at this reception. Until Trices father, politely breaks them up inviting them in to dinner.
 - 
 - **POV / mode:**
 - **Location:**
