@@ -312,3 +312,14 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): Mercy is in the sitting room with Duke Eric, watching; no other guests.
 14. **The butler's name:** does the Morgans' butler get a name?
    - Answer (default): none; he stays the butler.
+
+## 2026-11-09 20:42 · outline/10-chapter-10/05-can-i-have-another-vacation-from-my-vacation.md
+
+1. **The other hundred floats:** are they for the Debri house, as the draft says?
+   - Answer (option): They stay undecided, like the fifty rigs.
+2. **Hale stays with the rigs:** is it right that Hale guards the rigs instead of following Tor?
+   - Answer (default): Yes; two royal guards ride after the carriage, and Hale's duty is the room.
+3. **Rolph's bow to Burks:** in the palace yard Rolph steps back and half bows to let Burks pass; is that too strong a hint?
+   - Answer (default): Keep it; it's Hale's view, and nobody comments.
+4. **Visual flags:** Tor's Meredith thought and Rolph's silent sums are narration only; should they surface aloud?
+   - Answer (default): Leave them as narration for this draft.
