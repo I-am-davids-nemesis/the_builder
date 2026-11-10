@@ -304,3 +304,7 @@ This follows the entry above. The dinner draft ran to about 10,000 words, so the
 ## 2026-11-08 · Claude · 01-chapter-one (beta-reader fixes)
 
 Feedback on chapter one from the first beta reader. Three phrases didn't land: "the east range," "go off like a knuckle" and "fifth son of a county." All three were fixed, in the English and the Korean. The fix for the first one also settled an old inconsistency: the isolation chambers are under the old wing, as chapter four already had it. The reader also asked who Trice is. The writer chose to leave that unanswered for now, so on her first appearance her behavior has to carry her.
+
+## 2026-11-09 · Claude · 10-chapter-10/04-the-next-day
+
+The breakfast gives the engine its next turn. The fight (the complication) brings the first marriage offer, from the Sorveys. To put it off, Tor says out loud that he means to marry Trice, and that commits him to the knighthood route: three heroic acts, with the third ideally "a new masterwork of magic." His next build now has a social price on it, not only a practical one. The writer picked a three-way viewpoint split (Hale, Daritha Scove, Karina) over one observer. The cost is a third head in a short scene. In return, the go-between's fishing and Karina's pocketed card both stay outside Tor. The writer also cut the "I can't swim" joke, because Tor can swim and doesn't get seasick, and dropped the east gallery so the work room can be named along with the projects.
