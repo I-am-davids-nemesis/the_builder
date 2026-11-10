@@ -56,6 +56,7 @@ A slight young man of about twenty who looks fifteen, noticeably shorter than ev
 - The codex says he "rarely smiles" (canon), but later chapters have him smiling, beaming and laughing often. Which is the baseline?
 - His native accent is "from a long way east" and rural, but he passes for a Hill noble by copying Tovey; which voice is his resting one in the capital chapters is a running choice.
 - He's meant to look and sound "a bit like" Burks (Green), but neither face is described closely enough to show the likeness.
+- **Can swim, and doesn't get seasick** (user, November 9, 2026).
 - No permanent marks: the chapter-three scratches and bruise heal. Any scar, mole or distinguishing feature is open.
 - For a picture: school brown or the borrowed capital clothes? The prompt uses school brown as his usual dress.
 

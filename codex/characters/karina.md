@@ -75,6 +75,7 @@ A tall, poised young woman of eighteen with a mass of tight red curls pinned up 
 - Wears an **old mechanical watch** on a chain (user, November 1, 2026).
 - **Chapter 7:** knocks early to ask for a personal cooling amulet for her day out, fetches the acid and brushes, helps etch the plates in the yard, and gets one. She kisses Tor's cheek, pretends to blush, and scurries off (user). Tor decides nobody at home would ever believe it, and laughs it off.
 - **Asked her mother for Tor** (invented; accepted by the user, November 8, 2026): half seriously, whether she might have him; Connie said no (nobles marry within three steps). Varley tells it at the queen's dinner (chapter 10, scene 2) and thinks it funny; Tor misses what it means.
+- **Pockets the Sorvey card** (chapter 10, scene 4; invented; accepted by the user, November 9, 2026): after Tor flees breakfast, she takes Meredith Anne Sorvey's card from beside his plate. What she does with it stays open, like her hidden aspect.
 - **From the chapter 5–6 drafts** (invented; pending the user's review):
   - Has practiced a shy little dip of the chin in a glass since she was twelve.
   - Times her entrances: not too soon, not too late, no knock, so she can always say she had the wrong door.

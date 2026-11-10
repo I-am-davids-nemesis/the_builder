@@ -238,7 +238,7 @@ The boy was looking at the younger princess with his mouth slightly open.
 
 "But it can't just be anything," she went on, warming. "Not for the third. It's got to be enormous. You'd have to kill a monster. Or sail all the way round the world, in a boat you'd made yourself, by yourself—"
 
-"I can't swim," said the boy faintly.
+"Would it have to be *on* the water?" said the boy faintly. "The whole way?"
 
 "—or," said the princess, "since you're a wizard, it could be magic. Something nobody's ever made. A real masterwork. Not copied, it has to be new." She ran out of breath and sat back. "That would count. Master Abelard says that's how the old ones did it."
 
@@ -294,7 +294,7 @@ The boy put down his fork.
 
 Her mother looked at him for a moment as if he'd handed her a gift.
 
-"Darling," she said, "you can have the whole of the east gallery."
+"Darling," she said, "you can have any room in the palace you like."
 
 "Of course," said Karina, "you'll still need your third deed."
 
@@ -322,7 +322,7 @@ The boy looked from one of them to the other, like a man watching two dogs decid
 
 "That's not what he *means*—"
 
-"If you'll excuse me," said the boy. He was getting up. He was getting up the way he'd sat down, in stages, the leg off the stool with both hands, the stick found and lost and found again. "Your Majesty. Your Grace. I think the medicine's working. I think I should go and—find the gallery. And start. Thank you for breakfast. It was very—thank you." He bowed, to her mother, to Aunt Mercy, and, after a fractional hesitation, to Karina and Varley together, as if they were one dangerous thing. "Highnesses."
+"If you'll excuse me," said the boy. He was getting up. He was getting up the way he'd sat down, in stages, the leg off the stool with both hands, the stick found and lost and found again. "Your Majesty. Your Grace. I think the medicine's working. I think I should go and—find a table. And start. Thank you for breakfast. It was very—thank you." He bowed, to her mother, to Aunt Mercy, and, after a fractional hesitation, to Karina and Varley together, as if they were one dangerous thing. "Highnesses."
 
 And he went. He went faster than Karina would have believed anyone could go on a stick, and the door shut behind him, and they heard the stick go away down the corridor, quick, quick, quick, like someone running from a fire.
 
