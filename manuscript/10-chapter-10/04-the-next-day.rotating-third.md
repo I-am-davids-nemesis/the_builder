@@ -10,31 +10,35 @@ The bed creaked. Something was put down on the floor, carefully, and then someth
 
 Hale looked at the far wall of the corridor and didn't smile, because it wasn't his place, and because the boy had come up the corridor the night before with half his face gone plum-colored, and Hale had seen what was on the coat.
 
-He didn't hear the count arrive. He never did. There was simply, after a while, a second voice in the room, low and level and in no hurry, and the sound of water being poured from a height into something deep. Steam came out round the edge of the door and smelled of rosemary.
+He didn't hear the count arrive. He never did. There was simply, after a while, a second voice in the room, low and level and in no hurry.
+
+"The bath is drawn, sir."
 
 "I can do it myself," said the boy. "Really. Thank you. I don't want to be a—"
 
-"Arms, sir."
+"Arm, sir."
 
 "Yes. All right."
 
-Hale heard the bath take him, and the boy's breath go out of him in a long hiss that ended in something close to a laugh. He heard the count say something about the cut over the eye, and the boy say "It's fine," and then "Ow," and then "It's fine." He heard a comb. He heard the boy, after a long while of water and quiet, say in a smaller voice, "Was anybody hurt? Last night? Apart from her. Did anybody else get—"
+They came out together, the boy in yesterday's shirt with his weight on the count's shoulder and his stick in his other hand, and went down the corridor to the bathing room, round the corner, at the boy's pace, which was slow. Hale went behind them, because the boy was his duty wherever he went; and at the green-tiled door the count looked back at him once, pleasantly, and Hale stopped, and took up his post outside it. Steam came out round the edge of the door and smelled of rosemary.
+
+He heard the bath take the boy, and the boy's breath go out of him in a long hiss that ended in something close to a laugh. He heard the count say something about the cut over the eye, and the boy say "It's fine," and then "Ow," and then "It's fine." He heard a comb. He heard the boy, after a long while of water and quiet, say in a smaller voice, "Was anybody hurt? Last night? Apart from her. Did anybody else get—"
 
 "No, sir."
 
 "Good," said the boy, and then, after a pause, "Good."
 
-When he came out of the door at last he was dressed in plain clean things that weren't his: a white shirt, a gray coat that fitted him better than anything he'd brought, the trouser leg laced again over the splint in black ribbon. He'd been combed. The bruise along his jaw had gone from plum to the color of a thundercloud. He stood in the doorway on his stick and blinked at the light in the corridor as if it had been put there to annoy him.
+When he came out of the door at last he was dressed in plain clean things that weren't his: a white shirt, a gray coat that fitted him better than anything he'd brought, the trouser leg laced again over the splint in black ribbon. Hale hadn't seen any clothes go in. He'd been combed. The bruise along his jaw had gone from plum to the color of a thundercloud. He stood in the doorway on his stick and blinked at the light in the corridor as if it had been put there to annoy him.
 
 "Morning, Hale," he said. "Sorry."
 
 "Sir."
 
-"Breakfast," said the count, behind him, "is waiting in the yellow room, sir. Along to the end, and on the left. You'll be expected."
+"Breakfast," said the count, behind him, "is waiting in the yellow room, sir. Back past your door, along to the end, and on the left. You'll be expected."
 
 "Expected," said the boy. He looked at the length of the corridor, which was long. "Right. Thank you, Burks."
 
-He set off. Hale watched him go, the stick and the step and the stick, and when he turned back the door of the room was standing open on an empty bed and a bath already drained, and the count was nowhere at all.
+He set off. Hale watched him go, the stick and the step and the stick, and when he turned back the door of the bathing room was standing open on green tiles and a bath already drained, and the count was nowhere at all.
 
 * * *
 

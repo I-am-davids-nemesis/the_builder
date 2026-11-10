@@ -11,7 +11,7 @@
     - **The stretch** (beat 21): he goes pink as he says it (user, November 8, 2026).
   - **The escape** (beats 28–31): **Karina** (user, November 8, 2026), from Daritha's leaving to Tor's escape. She's still pouting that she didn't ask first (beat 23), and she's the one who says Priscilla doesn't count (beat 30). Tor's relief (the rapids, beat 28) shows as a long breath out and a hand flat on the table, like a man who has just stepped out of a boat (invented).
 - **Location:**
-  - **Tor's room** (chapter 9, scene 5), for beats 1–2: the bath, the clothes Burks has laid out.
+  - **Tor's room** (chapter 9, scene 5), for beat 1; the **bathing room** down the corridor and round the corner (chapter 9, scene 4: green tiles, a sunk bath) for beat 2. Tor's room has no bath (user, November 9, 2026).
   - **A small dining room near his room** (invented: a family breakfast room, not the long room; one round table, tea things out, windows on the garden, sideboard dishes still covered because breakfast waits on him). The place squeezes family: no court is watching, so the royal women can say what they couldn't at the long table, and a proposal can be put and put off without anyone refusing in public. That's why Connie chose it (user, November 8, 2026): a Doretta needs an audience (`codex/canon-notes.md`).
 - **Present:**
   - **Waking:** Tor (sore, a cut over his eye from the fight, leg in its splint, stick); Burks (Green); Hale on the door.
@@ -91,7 +91,7 @@
 - **Side projects:** none named in this scene; which projects he takes on is to be worked out next.
 
 **Drafted** (November 8, 2026; invented, pending the user's review):
-- **Hale:** relieved at dawn, back by mid-morning. Tor: "My *hair* hurts." A rosemary bath; "Arms, sir." Tor asks if anyone else was hurt. Clean borrowed clothes, a gray coat that fits; the bruise "the color of a thundercloud." Burks: breakfast "in the yellow room… end, and on the left. You'll be expected."
+- **Hale:** relieved at dawn, back by mid-morning. Tor: "My *hair* hurts." A rosemary bath, down the corridor in the green-tiled bathing room, Burks's shoulder under Tor's arm, Hale outside that door instead (fixed November 9, 2026: the first draft put a bath in the bedroom); "Arm, sir." Tor asks if anyone else was hurt. Clean borrowed clothes, a gray coat that fits; the bruise "the color of a thundercloud." Burks: breakfast "in the yellow room… end, and on the left. You'll be expected."
 - **The yellow room:** a family room at the end of a private corridor; a butter-colored cloth, roses kept alive in the drought, a cushioned chair and stool set for Tor.
 - **Daritha:** first approach a fortnight after she was engaged ("bear it in mind"); after the gift, the Sorveys sent before light; the queen answered by the first bell after dawn. She approves of a private room professionally ("the kind of thing that got made into nursery stories"). Mercy "looked at it as if she were working out what it would fetch." Tor at the door: "I'll come back." She has never had a suitor apologize first ("Which one was it?").
 - **The sludge:** from a stone jug; Cook makes it for the guards after a rage; Papa and Alphie have had it. Tor: "That's dreadful. It must be very good for you." Karina laughs and covers it late.
