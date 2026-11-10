@@ -281,3 +281,34 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (option): somewhere else you'll name with the projects.
 5. **Visual flags:** Karina's private feelings (minding "Highness," "Trice got there first") are narration only; flag them?
    - Answer (default): no flag; they show in her pout and her pocketing the card.
+
+## 2026-11-09 20:29 · outline/10-chapter-10/05-can-i-have-another-vacation-from-my-vacation.md
+
+1. **Viewpoint:** do the four sections go to Tor alone, Rolph, Hale and Rolph?
+   - Answer (default): Yes: Tor alone for the work, Rolph for the visit, Hale for the chest and loading, Rolph at the Morgans.
+2. **How long:** how many days pass between scene 04 and the dinner?
+   - Answer (default): about a week: two or three days of rigs, half a week of cargo floats, Rolph's visit, then the dinner the next evening.
+3. **Where Tor works:** which room does Connie give him?
+   - Answer (default): a disused garden room or orangery off the private wing, with long tables and light, near enough for Hale to keep the door.
+4. **The roaring Austrans:** has Kolb said on the page that the Austrans' machines roar, or is it new?
+   - Answer (default): new; add it to `codex/canon-notes.md` as Kolb's word (user, November 9, 2026), alongside the chapter 4 "like geese," as told to Tor at some point offstage.
+5. **The hundred rigs:** who are they for?
+   - Answer: Tor gives half to the Morgans; he hasn't decided what to do with the other half yet, so he will leave the in his room, not understanding their value the the temptation they pose
+6. **"Drying fields":** does the chest carry the laundry drying field, or the food dryer for Mercy's orchards?
+   - Answer (default): the food dryer, for the orchard fruit, carried to Ford by the cargo floats (Tor's chapter 9 promise).
+7. **The chest:** is it the Morgans' present, and does it break Trice's "nothing given away until we've decided" (scene 01)?
+   - Answer (default): it's the orchard promise to Mercy kept, which Trice counts as inside her plan; no conflict.
+8. **Leaving the palace:** how does Tor go to dinner when the queen wants him kept in?
+   - Answer (option): Rolph has arranged it with Connie and doesn't tell Tor there was a question.
+9. **The dinner invitation:** who set it up, and how did Rolph hear the Morgans were "very happy" with Tor?
+   - Answer (default): Mercy asked Connie, and Connie sent Rolph; the breakfast (scene 04) reached him through his mother or sisters.
+10. **"So much better":** better than what, and what does Tor take it to mean?
+   - Answer (default): better than the match she was meant to make; Tor takes it to mean the chest, and Rolph sees the mismatch.
+11. **Does she mean it:** is Trice's "I love you" real, a move, or both?
+   - Answer (default): both, and the page doesn't decide; Rolph sees her ears go pink.
+12. **The knighthood:** has Connie asked the king by the dinner?
+   - Answer (default): not mentioned in this scene; the answer comes later.
+13. **Who is at the Morgan house:** is Mercy at the door or sitting room, and is anyone else there?
+   - Answer (default): Mercy is in the sitting room with Duke Eric, watching; no other guests.
+14. **The butler's name:** does the Morgans' butler get a name?
+   - Answer (default): none; he stays the butler.
