@@ -266,7 +266,7 @@ He put copper in it. He did it carefully, kneeling, with a folded blanket from t
 
 Then he sat back on his heels, and looked round the room, at what was left.
 
-The other hundred floats he'd already stacked against the window, for the Debris; Hale had heard him say so. That left the rigs.
+The other hundred floats stood against the wall by the window, where they'd stood all day; he hadn't said what they were for. And there were the rigs.
 
 There were fifty of them. They were on the bed, mostly, in the heap they'd been in since the orangery, with the old hemp string still on some of them; and on the chair with the roses, and two on the floor by the hearth, where they'd slid off, and one on the windowsill, for no reason Hale could see. Fifty. Fifty rigs, with their straight new lines and their gentle turning and the controls drawn for the left hand. The army had begged for those. Colonels were on a list for them. Lady Westry had looked at the duchess all through the soup, the footmen said, as if she wanted to eat her, for *two*.
 
@@ -274,7 +274,7 @@ There were fifty of them. They were on the bed, mostly, in the heap they'd been 
 
 The boy looked at the bed.
 
-"Oh," he said. "I don't know yet. I haven't decided." He frowned at them, mildly, as at some washing he'd been meaning to fold. "Somebody'll want them, I expect. I'll think about it after dinner."
+"Oh," he said. "I don't know yet. I haven't decided." He frowned at them, mildly, and at the floats by the window, as at some washing he'd been meaning to fold. "Somebody'll want them, I expect. I'll think about it after dinner."
 
 He got up, by stages, and went to wash his face. The rigs lay on the bed. Hale looked at them for a while.
 
