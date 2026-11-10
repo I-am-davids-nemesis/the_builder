@@ -85,6 +85,33 @@
 29. **Rolph chuckles.** Rolph chuckles politely at his friend's obvious surprise and confusion at this reception. Mercy watches.
 30. **Dinner.** Until Trice's father, Duke Eric, politely breaks them up and invites them in to dinner. End.
 
+## Draft notes
+
+Drafted November 9, 2026, in the four sections planned. Inventions (pending review):
+
+- **The orangery:** glass roof on iron ribs, one pane boarded (its shadow tracks the day), two long pine potting tables, a dozen iron-bound tubs of dead plants, one living lemon tree with three green lemons. Copper and an apple appear unseen.
+- **The rig template** takes a short trance, from the second bell to night the next day (Hale: "Since the second bell yesterday, sir"). The floats fight back: one floats to the roof with a pear on it, one goes through a tub.
+- **Rolph** had the breakfast from Varley (with gestures), Karina (correcting) and Connie ("You'll see to it, Alphie"). He spent a bell in his mother's sitting room settling the outing: the Morgans' street and back, two of the purple following on horseback. He goes to the Debris since Heather has begun to look at him "like a nice dog that's been in your house all day"; the sum about Sara's rank is touched and put away.
+- **Hale:** Rolph is gone about three and a half bells on a half-bell walk; "a dray turned over by the fish market. A man with geese." Hale shuts the door on the fifty rigs and stays on it while Tor is out, unordered.
+- **The floats:** the first hundred are stacked in Tor's room "for the Debris" (chapter 9's promise); fifty go in the chest.
+- **The Morgan house:** Gilder's Row (see `codex/characters/patricia.md`). Tor: "Oh, it's *lovely*." Rolph carries the chest in alone and finds it heavier than the count made it look. Rolph catches Tor's stick as Trice hits.
+
+**Questions:**
+
+1. **The other hundred floats:** are they for the Debri house, as the draft says?
+   - Default: Yes; Tor promised the Debris floating carts in chapter 9, and Sara collects them later.
+   - Option: They go to Ford, for the villages.
+   - Option: They stay undecided, like the fifty rigs.
+2. **Hale stays with the rigs:** is it right that Hale guards the rigs instead of following Tor?
+   - Default: Yes; two royal guards ride after the carriage, and Hale's duty is the room.
+   - Option: Hale goes with Tor, and the rigs are left unguarded.
+3. **Rolph's bow to Burks:** is the half bow in the yard too strong a hint?
+   - Default: Keep it; it's Hale's view, and nobody comments.
+   - Option: Cut it; the hint is only that Rolph steps aside.
+4. **Visual flags:** Tor's Meredith thought and Rolph's silent sums are narration only; should they surface aloud?
+   - Default: Leave them as narration for this draft.
+   - Option: Have Tor mutter the Meredith joke to the lemon tree.
+
 **Answered** (user, November 9, 2026):
 - **Viewpoint:** Tor alone for the work; Rolph for the visit; Hale for the chest and loading; Rolph at the Morgans.
 - **How long:** about a week: two or three days of rigs, half a week of cargo floats, Rolph's visit, the dinner the next evening.
