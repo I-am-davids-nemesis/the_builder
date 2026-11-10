@@ -7,8 +7,8 @@
 | `01-chapter-one/03-the-room-scene` | 7c94b6b | 2026-11-02 | sent for review (`review/01-chapter-one.md`) |
 | `01-chapter-one/04-the-next-day` | dcba8b7 | 2026-11-02 | sent for review (`review/01-chapter-one.md`) |
 | `02-chapter-two/01-combat-class` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
-| `02-chapter-two/02-the-merchant` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
-| `02-chapter-two/03-the-afternoon-and-the-visit` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
+| `02-chapter-two/02-the-merchant` | commit after 09f48f8 (beta-reader fixes) | 2026-11-09 | sent for review (`review/02-chapter-two.md`) |
+| `02-chapter-two/03-the-afternoon-and-the-visit` | commit after 09f48f8 (beta-reader fixes) | 2026-11-09 | sent for review (`review/02-chapter-two.md`) |
 | `02-chapter-two/04-rolphs-order-and-the-night-build` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
 | `02-chapter-two/05-the-courtyard` | 7c94b6b | 2026-11-04 | sent for review (`review/02-chapter-two.md`) |
 | `03-chapter-three/01-the-chase` | 0e463e6 | 2026-11-06 | sent for review (`review/03-chapter-three.md`) |

@@ -88,7 +88,7 @@ The building master said nothing at all. Sorvey shook his hand anyway, and found
 
 At the door he stopped beside the boy, close, and the boy stood very still.
 
-"You've a good eye for a room, Scholar Baker," he said pleasantly. "Who taught you that?"
+"You stopped two steps inside my door, Scholar Baker," he said pleasantly. "Most men walk straight in. Who taught you that?"
 
 "Nobody, sir," said the boy. "Sorry, sir."
 
@@ -112,7 +112,7 @@ He had left the door ajar. Through it, the first-year could see a slice of the o
 
 "Yes, sir. He seemed very—" Baker stopped. "He seemed very sure, sir."
 
-"He is a buyer, Baker. One of the biggest in the north. He came here because I asked him to." There was nothing in the master's voice at all, which, the first-year had learned in the washing house, was where the master kept the most. "And you've sent him away."
+"He is a buyer, Baker. One of the biggest in the north. He came here because I asked him to." The master's voice was perfectly flat. A month of late work had taught the first-year that the flatter it went, the angrier the master was. "And you've sent him away."
 
 "I'm sorry, sir. I didn't mean to be ungrateful. Only, Miss Sara—"
 

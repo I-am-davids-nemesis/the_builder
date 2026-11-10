@@ -312,3 +312,7 @@ The breakfast gives the engine its next turn. The fight (the complication) bring
 ## 2026-11-09 · Claude · 10-chapter-10/05-can-i-have-another-vacation-from-my-vacation
 
 The outline turns the engine twice in a single scene. Tor hides in copying (a hundred left-handed rigs, then cargo floats) so he doesn't have to think about the Sorveys. Rolph's slow errand then gives him his next idea: something faster than carriages for getting around the city. The writer also set a hook that is new: Tor gives fifty rigs to the Morgans and leaves the other fifty lying in his palace room, with no idea what they're worth or who they might tempt. The chest itself is his orchard promise to Mercy kept, which Trice counts as part of her plan. Kolb's roaring Austran machines are new canon, said to Tor offstage.
+
+## 2026-11-09 · Claude · 02-chapter-two (beta-reader fixes)
+
+The beta reader's notes on chapter two flagged three phrases, and all three were fixed in the English and the Korean. Sorvey's "good eye for a room" was too far from what it pointed back to, so now he names it: Tor stopped two steps inside the door. The first-year's line about the master's flat voice was a riddle with a stray "washing house" in it, and now it says plainly that the flatter the voice, the angrier the master. Sara's contract "about to be real" became "about to be signed," which was the reader's own suggestion. The pattern from chapter one holds: compressed, oblique phrasing reads as a typo to this reader.

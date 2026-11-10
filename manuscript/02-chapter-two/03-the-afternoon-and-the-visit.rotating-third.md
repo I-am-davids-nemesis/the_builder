@@ -116,7 +116,7 @@ He looked at her with wide, grateful eyes.
 
 Nobody had anything to say to that.
 
-"There's one more thing," Sara said, after a moment, in a slightly different voice, the voice her father used, Trice suspected, when a contract was about to be real. "If I'm to represent you. I'd do the selling, and the carting, and the arguing, and you'd do the building and nothing else. And the split would be ten in the hundred."
+"There's one more thing," Sara said, after a moment, in a slightly different voice, the voice her father used, Trice suspected, when a contract was about to be signed. "If I'm to represent you. I'd do the selling, and the carting, and the arguing, and you'd do the building and nothing else. And the split would be ten in the hundred."
 
 "Ten," said Baker.
 
