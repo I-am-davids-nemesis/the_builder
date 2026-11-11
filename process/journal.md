@@ -316,3 +316,7 @@ The outline turns the engine twice in a single scene. Tor hides in copying (a hu
 ## 2026-11-09 · Claude · 02-chapter-two (beta-reader fixes)
 
 The beta reader's notes on chapter two flagged three phrases, and all three were fixed in the English and the Korean. Sorvey's "good eye for a room" was too far from what it pointed back to, so now he names it: Tor stopped two steps inside the door. The first-year's line about the master's flat voice was a riddle with a stray "washing house" in it, and now it says plainly that the flatter the voice, the angrier the master. Sara's contract "about to be real" became "about to be signed," which was the reader's own suggestion. The pattern from chapter one holds: compressed, oblique phrasing reads as a typo to this reader.
+
+## 2026-11-10 · Claude · 10-chapter-10/05-can-i-have-another-vacation-from-my-vacation (drafted)
+
+The scene is drafted. One choice had a cost: the writer left the extra hundred cargo floats undecided instead of sending them to the Debri house, my default. The temptation in Tor's room is now a hundred and fifty devices, not fifty, and the carts he promised the Debris in chapter 9 are still owed. Hale stays on that room's door, without orders, while two royal guards follow the carriage. Rolph's half bow to Burks in the yard stays, seen only by Hale. The writer also caught a continuity slip in scene 04: Tor's bedroom has no bath. The bath now happens down the corridor, in chapter 9's green-tiled bathing room.
