@@ -330,3 +330,12 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (option): Keep it, but move the idea to a region that doesn't stand for a real people.
 2. **Viewpoints:** whose eyes do we see scenes 01 and 02 through?
    - Answer (default): Mercy for the dinner; Sara for the carriage ride.
+
+## 2026-11-10 22:19 · outline/11-chapter-11/03-home-sweet-home.md
+
+1. **The two days of building (scene 01):** Mercy isn't at the palace, so who sees Tor at work?
+   - Answer (option): Hale, in the orangery, after a `* * *` break.
+2. **Farewell viewpoint (scene 02):** whose eyes for the goodbye with Burks?
+   - Answer (option): Sara, carrying straight on into the carriage ride.
+3. **Noram's altered noble line:** the codex says Noram's nobility was altered long ago. Should Trice's history hint that this is Antar's method?
+   - Answer (default): No; leave the link for a later book.
