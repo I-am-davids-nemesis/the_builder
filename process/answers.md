@@ -323,3 +323,10 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): Keep it; it's Hale's view, and nobody comments.
 4. **Visual flags:** Tor's Meredith thought and Rolph's silent sums are narration only; should they surface aloud?
    - Answer (default): Leave them as narration for this draft.
+
+## 2026-11-10 22:17 · outline/11-chapter-11/_chapter.md
+
+1. **Afrak's philosophy:** "manipulating family heritage lines" gives a breeding programme to the one region named after Africa, which runs into the book's rule against carrying over the original's racism. Should Afrak get a different philosophy?
+   - Answer (option): Keep it, but move the idea to a region that doesn't stand for a real people.
+2. **Viewpoints:** whose eyes do we see scenes 01 and 02 through?
+   - Answer (default): Mercy for the dinner; Sara for the carriage ride.
