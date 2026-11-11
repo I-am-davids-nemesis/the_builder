@@ -2,7 +2,7 @@
 
 - **When:** two days after the Morgan dinner (scene 01): the morning of departure, from the palace farewell to landing at Two Rivers, about four hours' flight later.
 - **Summary:** Everyone gathers at the palace for a farewell. Burks waits with a platoon of servants, all dressed better than usual, and Tor gives him a plainly wrapped present: a temperature equalization amulet, a cooling plate, a shield and a flying rig. Tor gets through the goodbyes without realizing Burks is Green, Count Lairdgren. The students ride in one carriage, the parents in another, in silk shirts and leather trousers for flying. On the way Tor asks why Mercy is a Baroness, which leads to Mercy's broken engagement to Richard, and Rolph tells the story of the parents' school days and of Count Lairdgren letting them marry for love; the count is an Ancient. Tor and Sara don't know what that means, and Trice explains the history of the Ancients until they reach the city walls. They load the trunks on luggage plates, put on the new rigs and shields, and fly to Two Rivers in four hours. From the writer's chapter notes (user, November 10, 2026); canon unless marked.
-- **POV / mode:** rotating third. **Sara** for the carriage ride (user, November 10, 2026): she asks what an Ancient is and hears it all for the first time. The farewell's viewpoint is still open (see Questions). No Ancient holds the viewpoint, so Burks is seen only from outside.
+- **POV / mode:** rotating third. **Sara** throughout, from the palace farewell straight on into the carriage ride (user, November 10, 2026): she asks what an Ancient is and hears it all for the first time. No Ancient holds the viewpoint, so Burks is seen only from outside.
 - **Location:** the palace (the farewell); the students' carriage through the capital to the city edge; outside the city walls (take-off); the air.
 - **Present:**
   - **Farewell:** Tor; Rolph; Trice; Sara; the parents (Mercy, Duke Eric, and others to confirm); Burks and his servants; possibly Connie and the king.
@@ -18,6 +18,7 @@
 - **Hidden (and how):**
   - **Burks is Green, Count Lairdgren:** Tor gives him a present and says goodbye without seeing it. The reader, who has heard Rolph's description of the count (scene 01), may (`codex/characters/supporting/green.md`).
   - **The rest of the story:** the city walls cut Trice off; Tor and Sara get no time to ask questions.
+  - **Noram's altered noble line** (`codex/canon-notes.md`, "the noble condition"): Trice's history doesn't hint that Noram borrowed Antar's method; the link is left for a later book (user, November 10, 2026).
   - **Why Mercy didn't marry Richard:** Trice doesn't know; Tor is hesitant to dig.
 
 ## Beats
@@ -40,20 +41,13 @@
 
 **Questions:**
 
-1. **Farewell viewpoint:** whose eyes for the palace farewell with Burks?
-   - Default: Hale, who has watched Burks come and go in chapters 9 and 10.
-   - Option: Sara, carrying straight on into the carriage.
-   - Option: Rolph, who knows more than he says.
-2. **Afrak in Trice's list:** with the heritage lines moved to Antar, does Afrak get a philosophy of its own?
+1. **Afrak in Trice's list:** with the heritage lines moved to Antar, does Afrak get a philosophy of its own?
    - Default: Trice doesn't name it; Afrak stays a far land known for fabrics.
    - Option: it gets one with no racial or breeding element (e.g., memory and record-keeping).
-3. **Noram's own heritage lines:** the noble line of Noram was altered long ago (`codex/canon-notes.md`, "the noble condition"); does Trice's account hint that Noram borrowed Antar's method?
-   - Default: no; leave the link for a later book.
-   - Option: Sara notices the echo and says nothing.
-4. **Who's at the farewell:** do Connie and the king come down, and who are "the parents" in the second carriage?
+2. **Who's at the farewell:** do Connie and the king come down, and who are "the parents" in the second carriage?
    - Default: Connie and Richard at the farewell; Mercy and Duke Eric in the second carriage.
    - Option: Debri parents travel too, for Sara.
-5. **Hours vs. bells:** the book counts time in bells (`codex/time-and-bells.md`); is "four hours" four bells?
+3. **Hours vs. bells:** the book counts time in bells (`codex/time-and-bells.md`); is "four hours" four bells?
    - Default: yes, about four bells.
-6. **Burks's present:** does Tor's gift tell the reader anything, or is it simply kindness?
+4. **Burks's present:** does Tor's gift tell the reader anything, or is it simply kindness?
    - Default: simple kindness; Burks's reaction, seen from outside, is the only hint.

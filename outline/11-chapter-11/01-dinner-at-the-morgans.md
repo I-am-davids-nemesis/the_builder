@@ -2,9 +2,9 @@
 
 - **When:** the evening of the Morgan dinner, straight on from chapter 10, scene 5 (Duke Eric taking them in to dinner), then the two days before they leave.
 - **Summary:** Tor's presents (cargo floats, food dryers, flying rigs) amount to whole industries, far beyond any groom's gift; the Morgans had already accepted him, title or not. Dinner is modest by palace standards and lavish by Tor's; he doesn't drink wine, and they give him a blended apple juice he loves. After dinner Rolph produces a writ from the king, signed by three counts, making Tor a Knight Esquire, and they hold a small ceremony in the dining room. The marriage is now technically allowable. Mercy claims the wedding planning for herself and Tor's mother, so the parents will travel back with the students and stop at Two Rivers. In the two days before they leave, Tor builds more for the Morgans. From the writer's chapter notes (user, November 10, 2026); canon unless marked.
-- **POV / mode:** rotating third, **Mercy** (user, November 10, 2026): she sees the chest as whole industries and takes over the wedding. Tor isn't alone, so not Tor (§3). The two days of building may need another viewpoint, since Mercy isn't at the palace (see Questions).
-- **Location:** the Morgan town house on Gilder's Row (chapter 10, scene 5): the dining room; then wherever Tor works for the two days (the palace orangery, assumed).
-- **Present:** Tor; Rolph; Trice; Duke Eric; Mercy; the butler (unnamed). For the two days: Tor, and whoever sees him working.
+- **POV / mode:** rotating third, **Mercy** (user, November 10, 2026): she sees the chest as whole industries and takes over the wedding. Tor isn't alone, so not Tor (§3). The two days of building go to **Hale**, in the orangery, after a `* * *` break (user, November 10, 2026), from beat 13.
+- **Location:** the Morgan town house on Gilder's Row (chapter 10, scene 5): the dining room; then the palace orangery (chapter 10, scene 5) for the two days (user, November 10, 2026).
+- **Present:** Tor; Rolph; Trice; Duke Eric; Mercy; the butler (unnamed). For the two days: Tor and Hale, on the door; Burks unseen (materials appear, assumed).
 - **Reader learns:**
   - The Morgans see the chest as gifting whole industries, not a groom's present.
   - Tor knows the devices are worthless without people to run them; the Duke will find people, oath-bound to him, since a shield and flying rig are too great a risk otherwise.
@@ -29,20 +29,16 @@
 10. **Rolph's knighthood.** Rolph has been a knight since he was 13, but this is different: Tor earned it and didn't inherit it.
 11. **The planning.** Tor is somewhat overwhelmed and having a hard time with all the planning. Mercy interrupts and demands that she and Tor's mother plan the wedding.
 12. **Travelling together.** They agree the parents should accompany the kids back to school, stopping at Tor's house to meet his family. They'll leave in two days.
-13. **Two days' work.** Tor uses the time to build more for the Morgans: 50 more flying rigs, 100 new shields to go with them, and 20 temperature control plates. He'd have made more, but he ran out of time.
+`* * *`
+
+13. **Two days' work** (Hale, in the orangery). Tor uses the time to build more for the Morgans: 50 more flying rigs, 100 new shields to go with them, and 20 temperature control plates. He'd have made more, but he ran out of time.
 
 **Questions:**
 
-1. **The two days' viewpoint:** who sees Tor building after the dinner?
-   - Default: Mercy, receiving the second delivery at the Morgan house (the count of rigs, shields and plates seen as they arrive).
-   - Option: Hale, in the orangery, after a `* * *` break.
-2. **Why no wine:** what's Tor's reason?
+1. **Why no wine:** what's Tor's reason?
    - Default: none
    - Option: His family doesn't drink; a Two Rivers upbringing (prudish, canon-style).
    - Option: The rage (chapter 10): he's afraid of what he'd do with it loosened.
-3. **The other fifty rigs:** are the 50 more rigs for the Morgans the fifty left lying in Tor's room (chapter 10, scene 5), or new ones?
+2. **The other fifty rigs:** are the 50 more rigs for the Morgans the fifty left lying in Tor's room (chapter 10, scene 5), or new ones?
    - Default: the fifty from his room, now given; plus the new shields and plates.
    - Option: newly built, and the fifty in his room stay undecided.
-4. **Where Tor works for the two days:** back in the palace orangery?
-   - Default: yes, the orangery, with Hale on the door.
-   - Option: at the Morgan house.
