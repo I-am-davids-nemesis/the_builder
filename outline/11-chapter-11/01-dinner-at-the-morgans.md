@@ -2,7 +2,7 @@
 
 - **When:** the evening of the Morgan dinner, straight on from chapter 10, scene 5 (Duke Eric taking them in to dinner), then the two days before they leave.
 - **Summary:** Tor's presents (cargo floats, food dryers, flying rigs) amount to whole industries, far beyond any groom's gift; the Morgans had already accepted him, title or not. Dinner is modest by palace standards and lavish by Tor's; he doesn't drink wine, and they give him a blended apple juice he loves. After dinner Rolph produces a writ from the king, signed by three counts, making Tor a Knight Esquire, and they hold a small ceremony in the dining room. The marriage is now technically allowable. Mercy claims the wedding planning for herself and Tor's mother, so the parents will travel back with the students and stop at Two Rivers. In the two days before they leave, Tor builds more for the Morgans. From the writer's chapter notes (user, November 10, 2026); canon unless marked.
-- **POV / mode:** rotating third. Not yet chosen (see Questions); Tor isn't alone, so not Tor (§3).
+- **POV / mode:** rotating third, **Mercy** (user, November 10, 2026): she sees the chest as whole industries and takes over the wedding. Tor isn't alone, so not Tor (§3). The two days of building may need another viewpoint, since Mercy isn't at the palace (see Questions).
 - **Location:** the Morgan town house on Gilder's Row (chapter 10, scene 5): the dining room; then wherever Tor works for the two days (the palace orangery, assumed).
 - **Present:** Tor; Rolph; Trice; Duke Eric; Mercy; the butler (unnamed). For the two days: Tor, and whoever sees him working.
 - **Reader learns:**
@@ -33,11 +33,9 @@
 
 **Questions:**
 
-1. **Viewpoint:** whose eyes is the dinner seen through?
-   - Default: Mercy, who sees the chest as industries and takes over the wedding.
-   - Option: Rolph, as at the end of chapter 10, scene 5.
-   - Option: Duke Eric, weighing the oath-bound men and the risk.
-   - Option: Trice.
+1. **The two days' viewpoint:** who sees Tor building after the dinner?
+   - Default: Mercy, receiving the second delivery at the Morgan house (the count of rigs, shields and plates seen as they arrive).
+   - Option: Hale, in the orangery, after a `* * *` break.
 2. **Why no wine:** what's Tor's reason?
    - Default: none
    - Option: His family doesn't drink; a Two Rivers upbringing (prudish, canon-style).

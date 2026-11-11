@@ -320,3 +320,7 @@ The beta reader's notes on chapter two flagged three phrases, and all three were
 ## 2026-11-10 · Claude · 10-chapter-10/05-can-i-have-another-vacation-from-my-vacation (drafted)
 
 The scene is drafted. One choice had a cost: the writer left the extra hundred cargo floats undecided instead of sending them to the Debri house, my default. The temptation in Tor's room is now a hundred and fifty devices, not fifty, and the carts he promised the Debris in chapter 9 are still owed. Hale stays on that room's door, without orders, while two royal guards follow the carriage. Rolph's half bow to Burks in the yard stays, seen only by Hale. The writer also caught a continuity slip in scene 04: Tor's bedroom has no bath. The bath now happens down the corridor, in chapter 9's green-tiled bathing room.
+
+## 2026-11-10 · Claude · 11-chapter-11/02-leave-taking
+
+The writer's notes for chapter 11 were split into three scene outlines. One canon element changed. In the source, Afrak, the region named for Africa, was the one run on manipulating family heritage lines. That is a breeding program pinned on a real people, so the writer moved it to Antar, a cold southern region that stands for no real people (the name is invented). The cost is a little of the original's map. Afrak keeps its only role so far, a far land with good fabrics. Viewpoints: Mercy for the Morgan dinner, and Sara for the carriage ride, so the history of the Ancients reaches someone hearing it for the first time.
