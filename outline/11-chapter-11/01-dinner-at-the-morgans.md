@@ -48,23 +48,10 @@ Drafted November 11, 2026: Mercy from the chest to the end of dinner (with `* * 
 - **Planning:** Tor spirals (banns, the Elder at home, Mum thinks he's doing his accounts, the post takes a fortnight, the bakery before harvest, Teira); Mercy sets down her glass as she taught Connie to: "A wedding is the one thing in the world that isn't any business of the people getting married." Trice sets the two days (Tovey to come up, luggage plates, rooms aired at school) while folding her napkin under the table to a sugar lump. Mercy will go by carriage "like a grown woman"; the flight question is left to scene 02.
 - **Hale:** Tor decides on the fifty rigs the night he's back ("They'll need them"), sleeps on them; Hale carries them to the orangery himself, counting. Copper appears overnight. Shields copied from his head (sixty-three by the first dark); the plates take a short trance on the second morning (Hale stands inside the door for it), then nineteen copies. The plates are for the Morgans' town house and the duke's own use (user, November 11, 2026): the dining room was hot with candles, Mercy fanned herself with the bread basket, one for Eric's study, "He can put them in the stable if he wants." Tor's left hand tilts toward the carriage idea; "Next time." Hale will see them off.
 
-**Questions:**
-
-1. **The third deed:** is "works of his own invention" the right third deed in the writ, or should the king name one build?
-   - Default: Keep it general; the king's "tell him to pick one" stays.
-   - Option: Name the Ford water as the masterwork and count Priscilla's rescue as the third deed.
-   - Option: Name the left-handed rig and shield together as the masterwork.
-2. **Mercy's look at Eric:** is the shared look at Rolph's description of Lairdgren too strong a hint for book 1?
-   - Default: Keep it; it's visible, and only Trice sees it.
-   - Option: Cut the look; Mercy only stops looking at the green seal.
-3. **The burned letter:** may Mercy's POV hint at her broken match with Richard ("a letter she'd burned"), before scene 02 raises it?
-   - Default: Keep it; it's one clause, and scene 02 explains no more than it does.
-   - Option: Cut it, so scene 02 is the first hint.
-4. **Rolph's knighthood:** does it come "with the rest of me," at thirteen, like his field, or by some ceremony he simply didn't earn?
-   - Default: It came with his birthday at thirteen, as a royal son's right.
-   - Option: His father dubbed him at thirteen, as all the king's sons are.
-5. **The temperature plates:** are the twenty plates for the barony's fruit sheds?
-   - Default: Yes, for the sheds where pears soften before loading.
-   - Option: For the Morgans' town house and the duke's own use.
-6. **Visual flag, Mercy's sums:** leave the chest's worth as Mercy's narrated arithmetic for this draft?
-   - Default: Yes; Eric counts aloud with his lips and states the worth in dialogue, which carries it on screen.
+**Answered** (user, November 11, 2026):
+- **The third deed:** the left-handed rig and shield together are the masterwork, named in the writ.
+- **Mercy's look at Eric:** cut; Mercy only stops looking at the green seal.
+- **The burned letter:** kept; one clause, and scene 02 explains no more than it does.
+- **Rolph's knighthood:** his father dubbed him at thirteen, as all the king's sons are.
+- **The temperature plates:** for the Morgans' town house and the duke's own use.
+- **Visual flag, Mercy's sums:** leave as narration; Eric counts with his lips and says it's a great deal of money, which a camera can carry.

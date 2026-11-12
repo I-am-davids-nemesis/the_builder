@@ -52,6 +52,7 @@ A tall, broad-shouldered young man of about twenty-two, still filling out into a
 ## Facts
 
 - Spelled **Rolph** (canon; confirmed by the user).
+- **A knight since he was thirteen** (canon), dubbed by his father, as all the king's sons are (user, November 11, 2026); "on my birthday, after breakfast, in his study, between two other things" (chapter 11, scene 1, invented wording). He dubs Tor with Duke Eric's grandfather's sword and says Tor earned his.
 - Tor's **roommate for two years**. (canon) Now in his **third year**, aged **22**. (decided by the user, October 9, 2026)
 - Listens when Tor talks about magic; not frivolous. (canon)
 - Tor "had been told" Rolph is from a **merchant family**. (canon) **It's a cover: Rolph's family is royal.** (canon, user, October 9, 2026) The codex treats it as known; on the page it stays **hidden from Tor and hinted to the reader**. His mother Connie is the queen, so her birthday is the queen's birthday. (assumed from canon; King Richard Cordes in `canon-notes.md`)

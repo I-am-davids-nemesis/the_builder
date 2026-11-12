@@ -336,3 +336,7 @@ This follows the 2026-11-10 entry on this scene. The writer went further than mo
 ## 2026-11-11 · Claude · 11-chapter-11/01-dinner-at-the-morgans (drafted)
 
 The knighthood thread, open since chapter 10, scene 4, closes here: the first thread book 1 resolves outright. To keep the "three deeds" rule honest without choosing a masterwork, the writ names the Ford water, the midden and "works of his own invention," and the king's message is "tell him to pick one"; that's my invention and a question for the writer. Mercy's viewpoint let the chest be priced as whole trades without anyone saying a number, and gave Lairdgren's hint a visible form: a look between Mercy and Eric that only Trice catches. Mercy's burned letter is a one-clause nod to her broken match with Richard, ahead of scene 02.
+
+## 2026-11-11 · Claude · 11-chapter-11/01-dinner-at-the-morgans (answers)
+
+This follows the entry above. The writer chose a definite masterwork over my vague one: the writ names the left-handed rig and its shield together, so the build from chapter 10, scene 5 is what earns the knighthood, and the engine's loop pays off directly. The look between Mercy and Eric over Count Lairdgren is cut. Mercy only catches herself staring at his green seal, which keeps the hint smaller and leaves Trice with nothing to file. Rolph was dubbed by his father, as all the king's sons are. The twenty plates now cool the Morgans' own house, not the fruit sheds.
