@@ -324,3 +324,7 @@ The scene is drafted. One choice had a cost: the writer left the extra hundred c
 ## 2026-11-10 · Claude · 11-chapter-11/02-leave-taking
 
 The writer's notes for chapter 11 were split into three scene outlines. One canon element changed. In the source, Afrak, the region named for Africa, was the one run on manipulating family heritage lines. That is a breeding program pinned on a real people, so the writer moved it to Antar, a cold southern region that stands for no real people (the name is invented). The cost is a little of the original's map. Afrak keeps its only role so far, a far land with good fabrics. Viewpoints: Mercy for the Morgan dinner, and Sara for the carriage ride, so the history of the Ancients reaches someone hearing it for the first time.
+
+## 2026-11-11 · Claude · 11-chapter-11/01-dinner-at-the-morgans
+
+The writer settled two questions on the Morgan dinner. First, Tor's reason for not drinking wine stays the one in his codex entry: it clouds the mind he builds with. The rage from chapter 10 was the other choice, and it isn't used. Second, the fifty rigs left lying in Tor's palace room since chapter 10 now go to the Morgans in the two days of building. That spends some of the temptation planted in that room, so only the hundred cargo floats are left there, still undecided.
