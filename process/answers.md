@@ -339,3 +339,10 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (option): Sara, carrying straight on into the carriage ride.
 3. **Noram's altered noble line:** the codex says Noram's nobility was altered long ago. Should Trice's history hint that this is Antar's method?
    - Answer (default): No; leave the link for a later book.
+
+## 2026-11-11 19:37 · outline/11-chapter-11/01-dinner-at-the-morgans.md
+
+1. **Why no wine:** what's Tor's reason?
+   - Answer (default): The one already in his codex entry: wine clouds the mind he builds with. At this table he says it plainly, or nearly so.
+2. **The other fifty rigs:** are the 50 more rigs for the Morgans the fifty left lying in Tor's room (chapter 10, scene 5), or new ones?
+   - Answer (default): They're the fifty from his room, given now, plus newly built shields and plates.
