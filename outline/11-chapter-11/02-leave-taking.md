@@ -62,20 +62,16 @@ Drafted November 11, 2026, Sara throughout, with `* * *` breaks (the yard and Bu
 
 **Questions:**
 
-1. **Mercy flying:** at dinner (scene 01) Mercy says she'll go "in the carriage, like a grown woman" while Eric flies; here she flies to Two Rivers with everyone. Which wins?
-   - Default: She flies after all, under protest, and it's a small comic beat at take-off.
-   - Option: Revise scene 01's line so she doesn't refuse.
-   - Option: She rides a luggage plate, seated, and calls it a carriage.
-2. **The parents' school:** were Connie, Mercy, Richard, Eric, Serge Glost and Laurali at Lairdgren, the same school as the students?
+1. **The parents' school:** were Connie, Mercy, Richard, Eric, Serge Glost and Laurali at Lairdgren, the same school as the students?
    - Default: Yes, Lairdgren; it makes the count's interest in them natural.
    - Option: A school in the capital, unnamed.
-3. **Serge Glost at school:** why was an Austran at a Noram school?
+2. **Serge Glost at school:** why was an Austran at a Noram school?
    - Default: An exchange, from before the present trouble with Austra; nothing more said in book 1.
    - Option: He was a hostage under an old treaty, politely called a student.
-4. **Burks's face, a visual flag:** Sara reads in Burks's stillness a man who can't remember the last present that was wrapped; a camera sees only a still man holding a parcel. Keep it as narration?
+3. **Burks's face, a visual flag:** Sara reads in Burks's stillness a man who can't remember the last present that was wrapped; a camera sees only a still man holding a parcel. Keep it as narration?
    - Default: Keep it as narration for this draft; on screen the thumb resting on the knot and "Thank you, Tor" carry it.
    - Option: Add one visible action (he puts the parcel inside his coat, unopened).
-5. **Two Rivers from the air:** two rivers meeting, a square chapel tower, a green, the bakery chimney smoking; does that fit what scene 03 needs?
+4. **Two Rivers from the air:** two rivers meeting, a square chapel tower, a green, the bakery chimney smoking; does that fit what scene 03 needs?
    - Default: Keep it; scene 03 can settle the rest.
    - Option: Cut the description to the smoke only, and leave the village to scene 03.
 
