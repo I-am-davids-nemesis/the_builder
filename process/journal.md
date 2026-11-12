@@ -328,3 +328,7 @@ The writer's notes for chapter 11 were split into three scene outlines. One cano
 ## 2026-11-11 · Claude · 11-chapter-11/01-dinner-at-the-morgans
 
 The writer settled two questions on the Morgan dinner. First, Tor's reason for not drinking wine stays the one in his codex entry: it clouds the mind he builds with. The rage from chapter 10 was the other choice, and it isn't used. Second, the fifty rigs left lying in Tor's palace room since chapter 10 now go to the Morgans in the two days of building. That spends some of the temptation planted in that room, so only the hundred cargo floats are left there, still undecided.
+
+## 2026-11-11 · Claude · 11-chapter-11/02-leave-taking
+
+This follows the 2026-11-10 entry on this scene. The writer went further than moving the heritage lines: Afrak is gone from the book. Its one mention, the ship of fabrics in chapter 9, scene 4, now comes in from Antar, so the cold south across the sea is also where the striped cloth and "that blue they do" come from. Trice's history names four regions and no fifth. Tovey rides in the parents' carriage with Mercy and Duke Eric and flies to Two Rivers with them; Connie and Richard only see them off.

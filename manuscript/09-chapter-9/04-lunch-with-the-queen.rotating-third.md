@@ -174,7 +174,7 @@ He didn't sit down.
 
 "We've only just got in," said Mercy, letting go of her. "Eric's gone straight to Rich, of course, they'll be in the map room till midnight. I wanted a bath and I wanted a lie-down and I said no, first, I want to see this *river*. Is it true? It's in the sky? Somebody at the last inn said you could drink it." She laid her gloves on the table. "I said, then I must have some. I've been told it's purer than anything. Perhaps it cures things. One never knows with magic water. At my age I'll take what I can get." She looked round. "Have you seen my eldest? I've been through four rooms."
 
-"In the market, I'd think," said Constance. "There's a ship in from Afrak. Bolts of the striped stuff, and that blue they do. The girls have been talking of nothing else since breakfast." She picked up her glass. "Patricia, Karina, Varley, and Sara Debri. And Alphonse is carrying the parcels."
+"In the market, I'd think," said Constance. "There's a ship in from Antar. Bolts of the striped stuff, and that blue they do. The girls have been talking of nothing else since breakfast." She picked up her glass. "Patricia, Karina, Varley, and Sara Debri. And Alphonse is carrying the parcels."
 
 "*Alphonse* is?"
 
