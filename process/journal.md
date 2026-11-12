@@ -332,3 +332,7 @@ The writer settled two questions on the Morgan dinner. First, Tor's reason for n
 ## 2026-11-11 · Claude · 11-chapter-11/02-leave-taking
 
 This follows the 2026-11-10 entry on this scene. The writer went further than moving the heritage lines: Afrak is gone from the book. Its one mention, the ship of fabrics in chapter 9, scene 4, now comes in from Antar, so the cold south across the sea is also where the striped cloth and "that blue they do" come from. Trice's history names four regions and no fifth. Tovey rides in the parents' carriage with Mercy and Duke Eric and flies to Two Rivers with them; Connie and Richard only see them off.
+
+## 2026-11-11 · Claude · 11-chapter-11/01-dinner-at-the-morgans (drafted)
+
+The knighthood thread, open since chapter 10, scene 4, closes here: the first thread book 1 resolves outright. To keep the "three deeds" rule honest without choosing a masterwork, the writ names the Ford water, the midden and "works of his own invention," and the king's message is "tell him to pick one"; that's my invention and a question for the writer. Mercy's viewpoint let the chest be priced as whole trades without anyone saying a number, and gave Lairdgren's hint a visible form: a look between Mercy and Eric that only Trice catches. Mercy's burned letter is a one-clause nod to her broken match with Richard, ahead of scene 02.

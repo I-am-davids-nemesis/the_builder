@@ -148,3 +148,14 @@ What the reader can know vs. what each character knows, by chapter. Use it to ke
 | The Morgans' house (scene 5) | Gilder's Row, three windows wide, a missing fanlight pane, a pear knocker, a worn stair carpet; "Cook will give notice… I can't afford another" | Thinks it's lovely | Rolph sees and won't say; Trice never lets anyone collect her there |
 | "So much better" (scene 5) | Trice, hair down, crosses the room at combat speed, kisses Tor, says she loves him, that this is so much better; better than the match she was meant to make; her ears go pink; she never looks at the chest | Takes it to mean the chest | Trice; Rolph sees the mismatch but not her reason; Mercy and Eric watch |
 | Mind magic (scene 1) | Tor thinks the room's turn is a spell ("That's clever. I didn't feel a thing"); it's the king standing up | Thinks it's magic | Collette, and everyone else |
+
+## Chapter 11
+
+| Thread | What the reader is shown | What Tor knows | Who knows more |
+| --- | --- | --- | --- |
+| The chest's worth (scene 1) | Mercy prices it as a regiment of rigs, a carrying trade and the Debris' year of dryers; Eric: "a great deal of money"; his men must be oath-bound | Thinks it's "a bit useless" without people | Mercy, Eric, Trice |
+| The knighthood (scene 1) | The writ: Ford water, the midden, "works of his own invention"; Knight Esquire; signed by Tovey, Count Ford (through the paper) and Count Lairdgren (green seal); Rolph dubs him | Knows he's a knight; didn't ask; told to "pick one" for the third deed | The king, the signers |
+| Count Lairdgren (scene 1) | Rolph: flew in specially, short, a few inches taller than Tor, looks surprisingly like him; "a whole story"; Mercy and Eric exchange a look, and Trice sees it | Has never seen his count; "Mum says he's very old"; hopes the rig was a good one | Mercy, Eric (and Trice suspects there's something); the reader may connect him to Burks |
+| Mercy's burned letter (scene 1) | She knows the king's seal from her marriage lines and from a letter she burned | Nothing | Mercy, the king |
+| The wedding (scene 1) | Allowable now; Mercy and Tor's mother will plan it; the parents go with the students, stopping at Two Rivers; leaving in two days | Overwhelmed; relieved to be told where to stand | — |
+| More for the Morgans (scene 1) | The fifty rigs from Tor's room, a hundred new shields, twenty temperature plates for the fruit sheds; the hundred floats stay in his room | Wishes he'd had time for more | Hale |
