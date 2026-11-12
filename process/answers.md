@@ -373,3 +373,8 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (option): For the Morgans' town house and the duke's own use.
 6. **Visual flag, Mercy's sums:** should the chest's worth stay as Mercy's narrated arithmetic for this draft?
    - Answer (default): Yes; Eric counts with his lips and says it's a great deal of money, which a camera can carry.
+
+## 2026-11-11 21:47 · outline/11-chapter-11/02-leave-taking.md
+
+1. **Mercy flying or riding:** At dinner (scene 01) Mercy says she'll go "in the carriage, like a grown woman" while Eric flies, but this scene has her flying to Two Rivers with everyone. Which wins?
+   - Answer (default): She flies after all, under protest, and it's a small comic beat at take-off.
