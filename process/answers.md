@@ -358,3 +358,18 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): Yes, about four bells.
 4. **Burks's present:** does Tor's gift tell the reader anything, or is it just kindness?
    - Answer (default): Just kindness; the only hint is how Burks reacts, seen from outside.
+
+## 2026-11-11 21:16 · outline/11-chapter-11/01-dinner-at-the-morgans.md
+
+1. **The third deed:** is "works of his own invention" the right third deed in the writ, or should the king name one build?
+   - Answer (option): Name the left-handed rig and shield together as the masterwork.
+2. **Mercy's look at Eric:** is their shared look at Rolph's description of Lairdgren too strong a hint for book 1?
+   - Answer (option): Cut the look; Mercy only stops looking at the green seal.
+3. **The burned letter:** may Mercy's viewpoint hint at her broken match with Richard ("a letter she'd burned") before scene 02 raises it?
+   - Answer (default): Keep it; it's one clause, and scene 02 explains no more than it does.
+4. **Rolph's knighthood:** at thirteen, did it simply come with his birthday, or was there a ceremony he did nothing to earn?
+   - Answer (option): His father dubbed him at thirteen, as all the king's sons are.
+5. **The temperature plates:** are the twenty plates for the barony's fruit sheds?
+   - Answer (option): For the Morgans' town house and the duke's own use.
+6. **Visual flag, Mercy's sums:** should the chest's worth stay as Mercy's narrated arithmetic for this draft?
+   - Answer (default): Yes; Eric counts with his lips and says it's a great deal of money, which a camera can carry.
