@@ -39,12 +39,45 @@
 14. **The new rigs.** It takes a bit to get used to them, but within a few minutes they find they fly much faster than before and are much more maneuverable.
 15. **Four bells.** It takes only about four bells to fly to Two Rivers.
 
+## Draft notes
+
+Drafted November 11, 2026, Sara throughout, with `* * *` breaks (the yard and Burks; the goodbyes; the carriage; take-off and the flight). Inventions (pending review):
+
+- **The clothes:** Sara prices everyone's flying leathers (hers from a woman in Tallow Lane who does riding leathers for the Hill; Eric's new and creaking; Mercy's old and better; Tovey's black and dearest; Rolph's mended at the knee). Silk shirts: Eric white, Mercy pigeon gray-blue, Trice black. Heather on the trousers: "Who's flying?" "Everyone, Mother."
+- **The household:** about thirty, lined along the shady arcade, starched and polished beyond the dinner, the cook with a flower in his buttonhole, Hale at the end. Sara assumes it's for Tor ("he'd cooled their kitchens").
+- **The present:** brown paper and the white baker's string Tor brought from home. Sara knows the contents by the corners and stops her sum at the rig. Tor: the rig is for "all the stairs," left-handed; the shield because flying needs one; a cooling plate "if you've got a room"; a new amulet because his first one (chapter 5) had "terrible" lines. He doesn't know where Burks lives.
+- **Burks's reaction (the only hint):** he doesn't take it at once; takes it in both hands; his thumb rests on the knot without pulling; Sara, who reads buyers' faces, can't place the look: a man given many things over many years who can't remember the last one that was wrapped. "Thank you, Tor," not *sir*. He catches Tor by the elbow without looking. "It will reach me, sir" (letters). He's still holding the parcel as the carriages go. No other hint: nobody else reacts (user, November 11, 2026).
+- **Goodbyes:** Connie stands back from the luggage plates as from a quay edge; "write to me, not to Alphie." Tor says "Thank you, Rich," sees the household, and corrects himself; the king laughs. Hale shakes Tor's hand: "Thank you for the door."
+- **The carriage:** Rolph and Sara on one seat, Tor and Trice opposite. Rolph's "geese" straight face (chapter 10, scene 5); his knee shakes.
+- **The Baroness:** the barony came to Mercy as eldest on her father's death; "a thing you hold yourself is worth more than a thing you hold through somebody else." **Connie is two years younger** (invented).
+- **Richard:** the match was settled in childhood (the old king wanted the barony). Trice has asked twice why it broke and is "not finished." Tor puts his next question back.
+- **Rolph's story:** from Varley's old nurse, who had it from Connie's maid. **The parents were at Lairdgren, the school** (invented). Three years, six of them, every arranged pair swapped; a ball, a near-duel, someone sick in a fountain ("so it was Father"). The count came to the capital, saw the old king alone for a bell; the king withdrew the arrangements and never spoke of it again. **Serge Glost** was Austran, at Lairdgren "on some sort of exchange, from before the trouble"; now high in the Austran government; "Father gets letters" and may not answer (invented). **Laurali:** "That's another story" (left open).
+- **"An ancient what?"** Sara knows the word from the back room of the glass halls: "ancient work," unpriceable, illegal to own (`canon-notes.md`: high technology banned).
+- **Trice's history:** told *down* to nobody, by habit, not decision; nursery learning "after your letters and before your sums," like the Litany and Wylde and Doretta. Her version: one great country of machines (talking across the sea, flying higher than birds, cities taller than the palace), moving rivers and hills; something broke; "the sky went wrong for a hundred years." Noram magic; Soam, "over the mountains" to the south, living with the land; Austra back to machines, "not careful enough"; Antar, the cold country across the sea where the striped cloth comes from, breeding lines "the way you'd breed a horse." The guides: lived through the end "or been made to." Red, Green, Brown, White, Gray, Black. "The king goes into a room with Count Lairdgren and comes out having changed his mind." Tor (from the ruins at home: "the road… that goes under the river," invented) asks how long they live; Rolph: "Oh, look. The wall."
+- **Sara's sting:** the Debris know the price of wheat everywhere, and nobody told them this. She's on the wrong side of the look Rolph and Trice exchange for the first time.
+- **Trice says "Later,"** not "Not yet"; Sara notes it.
+- **Take-off:** by the milestone *THE CITY — 1*. **The friends' new rigs** were copied the night before, after the last shields, because Tor couldn't sleep (invented; the hundred left-handed rigs all went to the Morgans). Mercy flies (the default below): she spent three bells in a carriage to the Westrys' yesterday and changed her mind; "A grown woman has trousers made"; she rises level at the first try. Eric spins twice and swears. Sara, braced for the old gate-swing, overshoots by a field and a half: "*Less*. I said *less*!"
+- **The flight:** the air parts in front "like water round the bow of a boat"; the shield stays cool. Fields, a river town, then forest "the way the sea goes on." Left the yard at the eighth bell; Two Rivers at noon.
+- **Two Rivers from the air** (invented; scene 03 may change it): a gap in the trees where two rivers meet; a handful of gray and brown roofs, a small square chapel tower, gardens, a green with a cow; one chimney making far too much smoke for noon. Tor stops in the air: "That's it. That's home." The scene ends before they land.
+
 **Questions:**
 
 1. **Mercy flying:** at dinner (scene 01) Mercy says she'll go "in the carriage, like a grown woman" while Eric flies; here she flies to Two Rivers with everyone. Which wins?
    - Default: She flies after all, under protest, and it's a small comic beat at take-off.
    - Option: Revise scene 01's line so she doesn't refuse.
    - Option: She rides a luggage plate, seated, and calls it a carriage.
+2. **The parents' school:** were Connie, Mercy, Richard, Eric, Serge Glost and Laurali at Lairdgren, the same school as the students?
+   - Default: Yes, Lairdgren; it makes the count's interest in them natural.
+   - Option: A school in the capital, unnamed.
+3. **Serge Glost at school:** why was an Austran at a Noram school?
+   - Default: An exchange, from before the present trouble with Austra; nothing more said in book 1.
+   - Option: He was a hostage under an old treaty, politely called a student.
+4. **Burks's face, a visual flag:** Sara reads in Burks's stillness a man who can't remember the last present that was wrapped; a camera sees only a still man holding a parcel. Keep it as narration?
+   - Default: Keep it as narration for this draft; on screen the thumb resting on the knot and "Thank you, Tor" carry it.
+   - Option: Add one visible action (he puts the parcel inside his coat, unopened).
+5. **Two Rivers from the air:** two rivers meeting, a square chapel tower, a green, the bakery chimney smoking; does that fit what scene 03 needs?
+   - Default: Keep it; scene 03 can settle the rest.
+   - Option: Cut the description to the smoke only, and leave the village to scene 03.
 
 **Answered** (user, November 11, 2026):
 - **Afrak:** dropped from the book; every mention is now Antar (chapter 9's fabrics included). Trice's list names only Noram, Soam, Austra and Antar.
