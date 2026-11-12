@@ -346,3 +346,15 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): The one already in his codex entry: wine clouds the mind he builds with. At this table he says it plainly, or nearly so.
 2. **The other fifty rigs:** are the 50 more rigs for the Morgans the fifty left lying in Tor's room (chapter 10, scene 5), or new ones?
    - Answer (default): They're the fifty from his room, given now, plus newly built shields and plates.
+
+## 2026-11-11 19:43 · outline/11-chapter-11/02-leave-taking.md
+
+1. **Afrak in Trice's list:** now that the heritage lines have moved to Antar, does Afrak get a philosophy of its own?
+   - Answer: we replace all mentions of Afrak with Antar
+2. **Who's at the farewell:** do Connie and the king come down, and who rides in the parents' carriage?
+   - Answer (default): Connie and Richard come to the farewell; Mercy and Duke Eric ride in the second carriage.
+   - Note: Tovey rides with the Morgans
+3. **Hours vs. bells:** the book counts time in bells (`codex/time-and-bells.md`). Is "four hours" four bells?
+   - Answer (default): Yes, about four bells.
+4. **Burks's present:** does Tor's gift tell the reader anything, or is it just kindness?
+   - Answer (default): Just kindness; the only hint is how Burks reacts, seen from outside.
