@@ -140,7 +140,7 @@ Eric had taken it, and untied the cord with his large careful fingers, and sprea
 
 Eric cleared his throat. It was his outdoor voice. The windows hummed.
 
-"*Richard, by grace of the people and the old line, King of Noram, to all who shall see this writ, greeting,*" he read. "*Know that we have looked upon the deeds of Torrance Baker, of Two Rivers in the County of Lairdgren: that he did of his own will and without commission bring water to the County of Ford in the time of its drought, by a work never before made, which holds yet; that he did go down into the tanners' midden of our city and bring up out of it alive the children who had fallen there, at the hazard of his life; and that he has made, for the guard of our person and the good of the realm, works of his own invention beyond the reach of any master now living.*" He paused, to find the next line, and his eyebrows went up at it. "*Wherefore we make him Knight Esquire of our realm, with all that belongs to it, and command that he be so called and so received. Witnessed by our hand, and by the hands and seals of the counts of our realm here set.*"
+"*Richard, by grace of the people and the old line, King of Noram, to all who shall see this writ, greeting,*" he read. "*Know that we have looked upon the deeds of Torrance Baker, of Two Rivers in the County of Lairdgren: that he did of his own will and without commission bring water to the County of Ford in the time of its drought, by a work never before made, which holds yet; that he did go down into the tanners' midden of our city and bring up out of it alive the children who had fallen there, at the hazard of his life; and that he has made, of his own invention and copied from no man, a harness for flight governed by the left hand, and a shield to be worn with it, so that a soldier of the realm may go up armed and come down whole, which is a work beyond the reach of any master now living.*" He paused, to find the next line, and his eyebrows went up at it. "*Wherefore we make him Knight Esquire of our realm, with all that belongs to it, and command that he be so called and so received. Witnessed by our hand, and by the hands and seals of the counts of our realm here set.*"
 
 He looked up.
 
@@ -150,9 +150,9 @@ The boy hadn't moved. He was sitting with his glass of apple in his hand, quite 
 
 "What?"
 
-"Three deeds. He's counted three. The river, the midden, and—" She put one finger, not quite touching, on the third line. "Works of his own invention. That's the masterwork. He's counted all of them at once." She sat back. "That's clever of Uncle Richard. Nobody can argue which one."
+"Three deeds. He's counted three. The river, the midden, and—" She put one finger, not quite touching, on the third line. "The rig. The new one, and the shield to go with it. Together. That's the masterwork." She sat back. "Not copied. New. Nobody on the Hill can say it isn't; half of them were begging for it at the dinner."
 
-"Father said you'd ask which was the third," said Alphie to the boy. "He said to tell you to pick one."
+"Father said you'd say it was only a rig," said Alphie to the boy. "He said to tell you it's only a rig the way the sea's only water."
 
 The boy put his glass down. He looked at the writ, and at Eric, and at Alphie, and then, last, at Trice, and his mouth opened, and what came out of it was:
 
@@ -180,7 +180,7 @@ Alphie looked down at him. He had the sword in both hands. For a moment he didn'
 
 "Have you?" said the boy, to the rug.
 
-"Since I was thirteen. Woke up on my birthday, and there it was, it'd come with the rest of me. Like the ears." The sword came down, very lightly, flat, on the boy's right shoulder. "I didn't do anything for it. I didn't do *one* thing." Over, and down, onto the left. "You did three. Four. I've lost count. Everybody has." He stopped. Mercy saw his throat move. "Get up, Sir Tor. Before Uncle Eric's knees go."
+"Since I was thirteen. Father did it on my birthday, after breakfast, in his study, between two other things. He does it to all of us. It's like getting your ears." The sword came down, very lightly, flat, on the boy's right shoulder. "I didn't do anything for it. I didn't do *one* thing." Over, and down, onto the left. "You did three. Four. I've lost count. Everybody has." He stopped. Mercy saw his throat move. "Get up, Sir Tor. Before Uncle Eric's knees go."
 
 "*My* knees," said Eric indignantly; and then they were all getting him up, which was worse than getting him down, and somebody trod on the footstool, and the boy came up between Eric and Trice red to the ears and laughing, holding on to both of them, with his hair over his eyes.
 
@@ -193,8 +193,6 @@ Alphie looked down at him. He had the sword in both hands. For a moment he didn'
 Trice hadn't said anything. She had given the boy back his stick, and he'd taken it, and she was standing beside him with her hands folded in front of her, very upright, and her face had gone entirely calm, the way it went at cards; and Mercy, who had made that face and had given it to her, knew exactly how much it was costing.
 
 She'd been ready to have him without it. She kept telling herself so. It was perfectly true. But now there was no need to be ready. There was a writ on her tablecloth with the king's hand on it and three counts' seals, and nobody on the Hill, not the Westrys, not the Winchesters, not that dreadful Sorvey woman with her go-between, could stand up in any room in the kingdom and say a Morgan had married beneath the rules. It was allowed. It had become allowed over the cheese.
-
-She looked at the green seal on the end of the row, and then she didn't look at it.
 
 "Who signed?" said the boy. "I don't—I can't read it from here. Who'd *sign* that? For me?"
 
@@ -210,9 +208,9 @@ The boy looked. There was a hole.
 
 "I've never seen him," said the boy. "Nobody has, at home. He's never come. Mum says he's very old." He frowned at the seal. "I hope it was a good rig. If somebody sold him one. Some of the early ones weren't very—"
 
-Mercy had looked at Eric. She hadn't meant to. It was a very small look, across the corner of the table, and Eric gave it back to her, quite small, and then looked at the decanter as though he'd only just remembered it was there; and Mercy, turning back, found her daughter's eyes on both of them, steady, dark, filing it away.
+Mercy found she had been looking at the green seal for some time. She stopped.
 
-Neither of the boys had seen. Alphie was refilling his glass. The boy was looking at the green seal with his lips moving a little, as if he were reading something in the wax that wasn't written there.
+Alphie was refilling his glass. The boy was looking at the green seal with his lips moving a little, as if he were reading something in the wax that wasn't written there.
 
 * * *
 
@@ -290,7 +288,7 @@ The boy was at the long table by the second bell with copper all round him and a
 
 "Sir."
 
-"So that's a hundred shields." He wrote it. "And plates. Cooling ones, the temperature ones, for the barony. Mercy—the duchess—Lady Morgan—she said the fruit sheds get so hot at the end of the summer that the pears go soft in the boxes before they're even loaded. So the floats get them to the shed, and the shed's too hot, and that's no good, is it, that's just moving the problem along." He wrote that, too. "Twenty. To start."
+"So that's a hundred shields." He wrote it. "And plates. Cooling ones, the temperature ones, for the house. Their house. It was ever so hot in the dining room, Hale, with all the candles, Mercy—the duchess—Lady Morgan—she was fanning herself with the bread basket when she thought nobody was looking, and Duke Eric's collar's too tight already without it being an oven. And one for his study, and one for wherever he likes. They're his. He can put them in the stable if he wants." He wrote that, too. "Twenty. To start."
 
 "A hundred shields," said Hale, "and twenty plates."
 
@@ -300,7 +298,7 @@ The copper was there. Hale had stopped asking himself about the copper. It had b
 
 The boy didn't go under for the shields. He'd made shields before; he had them in his head, the way Hale had his drill. He copied them straight out of the air onto the copper, without a template, one after another, and talked while he did it: to the lemons, mostly, and once to Hale, about Two Rivers, about his mother, about how she'd fold her arms when Mercy came in at the door, and then unfold them, he thought, when she found out about the apples. By the sixth bell there were forty shields on the table in rows. By the dark there were sixty-three, and Hale had brought him two trays, and taken away two trays, the second one barely touched.
 
-The plates were harder. Those he went under for, a little, on the second morning, the first one; Hale saw him go. He stopped talking all at once in the middle of a sentence about the pear sheds and sat looking at the copper with his hands flat on either side of it and his face gone still and quiet and a long way off, and he stayed like that while the square of shadow from the boarded pane went from the lemon tree to the door. Hale stood inside the door the whole while, which he'd never done before, with his back to the wall. When the boy came back, he blinked, and looked at the first plate in front of him, finished, and touched it, and said "Oh, good," in an ordinary voice, and then nineteen more came off it like bread off a board.
+The plates were harder. Those he went under for, a little, on the second morning, the first one; Hale saw him go. He stopped talking all at once in the middle of a sentence about the bread basket and sat looking at the copper with his hands flat on either side of it and his face gone still and quiet and a long way off, and he stayed like that while the square of shadow from the boarded pane went from the lemon tree to the door. Hale stood inside the door the whole while, which he'd never done before, with his back to the wall. When the boy came back, he blinked, and looked at the first plate in front of him, finished, and touched it, and said "Oh, good," in an ordinary voice, and then nineteen more came off it like bread off a board.
 
 He finished the last shield at the eleventh bell of the second night, by lamplight, with his head propped on his hand. A hundred. Hale counted them, after. The plates were twenty.
 
