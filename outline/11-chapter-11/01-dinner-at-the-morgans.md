@@ -8,7 +8,7 @@
 - **Reader learns:**
   - The Morgans see the chest as gifting whole industries, not a groom's present.
   - Tor knows the devices are worthless without people to run them; the Duke will find people, oath-bound to him, since a shield and flying rig are too great a risk otherwise.
-  - Tor doesn't drink wine, and why.
+  - Tor doesn't drink wine, and why: it clouds the mind he builds with (`codex/characters/tor.md`).
   - Tor is a Knight Esquire, by writ of the king, signed by Tovey, Ford and Count Lairdgren.
   - Rolph has been a knight since he was 13, by inheritance; Tor earned his.
   - The parents will come to Two Rivers to meet Tor's family and plan the wedding.
@@ -20,7 +20,7 @@
 1. **The presents.** Tor's gifts are fabulously expensive: enough cargo shipping to start the largest national shipping business, enough dryers for the largest preservation business, enough flying gear to equip a small army. The Morgans were already ready to let Tor marry their daughter, title or not; a groom's present doesn't normally involve gifting an entire industry.
 2. **People to run them.** Tor is a little embarrassed that the equipment is a bit worthless without people to run it. The Duke is confident he can round up plenty, but they'll have to be oath-bound to him; anything less would be too much of a risk with a shield and flying rig.
 3. **Dinner.** Pleasant, much more modest than a feast at the palace, much more elaborate than anything Tor had before coming to the capital.
-4. **No wine.** A bit about Tor not drinking wine, and why. They give him apple juice instead, which he really appreciates.
+4. **No wine.** A bit about Tor not drinking wine, and why: it clouds the mind he builds with (codex reason). At this table he says so plainly, or nearly (user, November 11, 2026). They give him apple juice instead, which he really appreciates.
 5. **The blend.** It's a blend of several apples: the same technique they use for cider, but with less sweet apples, since there's no need for fermentation.
 6. **The writ.** Rolph has a writ from the king, signed by three counts, promoting Tor to Knight Esquire. They hold a mini ceremony in the dining room after dinner.
 7. **The signers.** There was a line of nobles willing to sign; the ones who did are impressive: Tovey, of course, who'd do anything to make these two happy; Ford, given how much Tor has done for the county; and, most specially, Count Lairdgren, Tor's own count.
@@ -31,14 +31,4 @@
 12. **Travelling together.** They agree the parents should accompany the kids back to school, stopping at Tor's house to meet his family. They'll leave in two days.
 `* * *`
 
-13. **Two days' work** (Hale, in the orangery). Tor uses the time to build more for the Morgans: 50 more flying rigs, 100 new shields to go with them, and 20 temperature control plates. He'd have made more, but he ran out of time.
-
-**Questions:**
-
-1. **Why no wine:** what's Tor's reason?
-   - Default: none
-   - Option: His family doesn't drink; a Two Rivers upbringing (prudish, canon-style).
-   - Option: The rage (chapter 10): he's afraid of what he'd do with it loosened.
-2. **The other fifty rigs:** are the 50 more rigs for the Morgans the fifty left lying in Tor's room (chapter 10, scene 5), or new ones?
-   - Default: the fifty from his room, now given; plus the new shields and plates.
-   - Option: newly built, and the fifty in his room stay undecided.
+13. **Two days' work** (Hale, in the orangery). Tor uses the time to build more for the Morgans: 50 more flying rigs, 100 new shields to go with them, and 20 temperature control plates. He'd have made more, but he ran out of time. The 50 rigs are the fifty left lying in his palace room (chapter 10, scene 5), now given to the Morgans; the 100 shields and 20 plates are newly built (user, November 11, 2026). The hundred undecided cargo floats stay in his room (invented).
