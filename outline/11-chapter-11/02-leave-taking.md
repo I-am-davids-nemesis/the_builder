@@ -39,6 +39,13 @@
 14. **The new rigs.** It takes a bit to get used to them, but within a few minutes they find they fly much faster than before and are much more maneuverable.
 15. **Four bells.** It takes only about four bells to fly to Two Rivers.
 
+**Questions:**
+
+1. **Mercy flying:** at dinner (scene 01) Mercy says she'll go "in the carriage, like a grown woman" while Eric flies; here she flies to Two Rivers with everyone. Which wins?
+   - Default: She flies after all, under protest, and it's a small comic beat at take-off.
+   - Option: Revise scene 01's line so she doesn't refuse.
+   - Option: She rides a luggage plate, seated, and calls it a carriage.
+
 **Answered** (user, November 11, 2026):
 - **Afrak:** dropped from the book; every mention is now Antar (chapter 9's fabrics included). Trice's list names only Noram, Soam, Austra and Antar.
 - **Who's at the farewell:** Connie and Richard come to see them off; Mercy and Duke Eric ride in the second carriage, and Tovey rides with them.
