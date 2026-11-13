@@ -378,3 +378,36 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
 
 1. **Mercy flying or riding:** At dinner (scene 01) Mercy says she'll go "in the carriage, like a grown woman" while Eric flies, but this scene has her flying to Two Rivers with everyone. Which wins?
    - Answer (default): She flies after all, under protest, and it's a small comic beat at take-off.
+
+## 2026-11-12 19:53 · outline/11-chapter-11/03-home-sweet-home.md
+
+1. **Viewpoint:** who holds the scene?
+   - Answer (default): Trice for the landing, yard and table; Tor's father for the cellar; Trice again for the ending.
+2. **The siblings:** how do Terry, Tara and Taman fit the codex, which has Terlee and Tilda older, twins, Tam, Tessa (youngest, nine) and Teira younger?
+   - Answer (option): Terry and Tara are the twins.
+   - Note: Tam and Taman are the same person
+3. **The rest of the family:** where are Terlee, Tilda, Teira and the others when Tor arrives?
+   - Answer (default): At work or on errands round the village; they don't appear in this scene and turn up in chapter 12.
+4. **The mayor:** is the mayor's name Tom, and does he stay for the bakery?
+   - Answer (default): Yes, Tom; he leaves them at the bakery to spread the news.
+5. **Laurie and Laurali:** is Tor's mother the count's daughter Laurali from scene 02?
+   - Answer (default): Yes; nobody says so in this scene, and the reader makes the link from the name.
+6. **Grandson or clone:** if Laurie is Laurali, is she Tor's birth mother, given that Tor is a clone of Green?
+   - Answer: grandson and clone; the next chapter is where the reader and Tor (and the rest of the kids) learn about the relationship to Count Lairdgren; the clone part is not really part of the plot till further books; grandson is good enough for now
+7. **Younger and more regal:** what makes her look younger as she walks?
+   - Answer (option): Nothing magic: posture, the apron coming off, the village stoop dropping, seen through someone who knows her.
+   - Note: maybe a little magic that lets her control her looks -- she has been slowly aging herself to keep pace with her husband as he ages; being the daughter of an ancient has made her extremely long lived, and given her the ability subtly control her features.  It isn't really talked about, but people can see the change -- also in the demeanor, she shifts from village bakers wife to a countess in bearing, like you described: the apron comes off, the village stoop drops, and she changes her whole demeanor
+8. **Her voice:** does Laurie drop the dialect when she greets Eric and Mercy?
+   - Answer (default): Yes; she speaks to them in clean Hill speech, which is the first thing that tells Tor something is wrong (invented).
+9. **Why Eric is slow:** why does it take Eric minutes to know her, and why him before Mercy?
+   - Answer (default): She was presumed dead and looks like a village baker's wife until she changes; Eric is facing the bakery and Mercy has her back to it.
+10. **The father's line:** does Tor's father know who his wife is?
+   - Answer (default): Yes, and he has always known; "odd matches" is said lightly to his son, who misses it.
+11. **"Not to tell them":** what does Tor ask his father in the cellar?
+   - Answer (default): Not to tell Trice, or her parents, that she shouldn't marry a simple country boy.
+12. **Rolph's introduction:** does Tor introduce Rolph only as his roommate, hiding that he's the prince?
+   - Answer (default): Yes, out of habit and to spare the mayor; Rolph is delighted to be nobody for once.
+13. **Tor's leg:** how does Tor manage the cellar stairs and the cider on a stick?
+   - Answer (default): His father carries the cider and Tor carries the glasses on a luggage plate, which his father eyes and doesn't remark on.
+14. **The village from the air:** does scene 02's picture (two rivers, square chapel tower, green with a cow, the bakery near the middle) stand?
+   - Answer (default): Yes; they land on the green, and the bakery faces it.
