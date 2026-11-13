@@ -37,7 +37,7 @@ A small, remote village deep in a forest, reached by a single dirt road that win
 - “"Two Rivers would go in it—" … "Ten times. More. In one *corner*." … "Is it all stone?"” (manuscript/05-chapter-5/02-flight-to-capital.rotating-third.md)
 - “The small house is the *privy*, Rolph. Out the back, by the woodpile. With the moon cut in the door.” (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
 - “the biggest building Tor had ever been inside, and that included the chapel at Two Rivers” (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
-- “lined up in the kitchen in order of size, Terlee first, Tessa last and wriggling” (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
+- “lined up in the kitchen in order of size, Terlee first, Taman last and wriggling” (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
 - “We do one at home with sorrel. Mother puts the cream in before it's cold” (manuscript/05-chapter-5/03-meet-the-parents.rotating-third.md)
 - “at home, you just do your top button.” (manuscript/05-chapter-5/04-testing-the-field.rotating-third.md)
 - “the way a boy at home comes in from the oven with a tray of something hot” (manuscript/06-chapter-6/02-tor-everything.rotating-third.md)

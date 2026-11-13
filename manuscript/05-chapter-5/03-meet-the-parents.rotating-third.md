@@ -114,7 +114,7 @@ He turned one. Water came out of it. Clean, and cold, and a great deal of it, al
 
 "Oh," said Tor, to the tap. "Oh, *where* are you coming from?"
 
-The tap didn't say. He filled the bath anyway, half and half, and got in, and scrubbed. He scrubbed until his skin went pink and then went on. He washed his hair twice. He found a cake of soap that smelled of something green and expensive, and felt bad about using it, and used it. He washed behind his ears the way his mother had made them all do on feast days, lined up in the kitchen in order of size, Terlee first, Tessa last and wriggling, and he thought about that, and felt a long way from home, and then thought about the warm tap again and felt a bit better.
+The tap didn't say. He filled the bath anyway, half and half, and got in, and scrubbed. He scrubbed until his skin went pink and then went on. He washed his hair twice. He found a cake of soap that smelled of something green and expensive, and felt bad about using it, and used it. He washed behind his ears the way his mother had made them all do on feast days, lined up in the kitchen in order of size, Terlee first, Taman last and wriggling, and he thought about that, and felt a long way from home, and then thought about the warm tap again and felt a bit better.
 
 When he got out, the water in the bath was gray, and he was clean, and he was warm. Then he was hot.
 
