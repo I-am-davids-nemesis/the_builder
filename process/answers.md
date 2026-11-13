@@ -426,3 +426,12 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
 1. **Her village name:** what does Two Rivers call Tor's mother?
    - Answer (option): Lora, close enough to Laurali that she could answer to it without thinking.
    - Note: almost everyone uses Mistress Baker, or Mother Baker, so Laurie or Lorali is not a name Tor associates with his Mom, particularly since his dad just calls her Lor
+
+## 2026-11-12 20:08 · outline/11-chapter-11/03-home-sweet-home.md
+
+1. **Trice and Laurali:** Trice heard "Laurali" in the carriage yesterday; should she connect it to "Laurie" before the cut?
+   - Answer (default): No; the scene ends too fast, and the reader makes the link alone, as planned.
+2. **The twins' height:** keep the hint that twelve-year-old twins already reach Tor's shoulder?
+   - Answer (default): Keep it; it's visible, small, and fits both the grandson and the clone story.
+3. **Rolph's catch:** Rolph saves Tor from falling over the doorstep "without appearing to have moved"; too much like a trained bodyguard?
+   - Answer (option): Make it clumsier and funnier, Rolph grabbing a fistful of shirt.
