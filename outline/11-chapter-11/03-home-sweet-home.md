@@ -57,21 +57,14 @@ Drafted November 12, 2026: Trice, then Alan (cellar), then Trice, with `* * *` b
 - **Introductions:** Tor remembers "Baroness." There's no village word for prince except the hymns' word for the king, so Rolph is "my roommate"; Rolph shakes Tom's hand, "Just Rolph. Roommate. Delighted"; Tom says he's very big. Trice asks "And me?"; Tor: "I told him last. On purpose… Because you were the best part." Tom's eyebrows at the word for fiancée.
 - **Eric:** "Could we? Hire him? For the bread?" "Eric." Shakes Alan's floury hand anyway and leaves the print on his cuff.
 - **Trice's shame:** the moon on the privy door brings back the Gilder's Row house she was ashamed of (chapter 7).
-- **The children:** they hit Tor at once; he tips back over the doorstep and Rolph catches his collar without appearing to move. The twins, at twelve, already reach Tor's shoulder (a quiet hint that Tor isn't built like his family). Tam, purple-smeared, hides behind his good leg.
+- **The children:** they hit Tor at once; he tips back over the doorstep, and Rolph lunges, treads on Trice's foot, grabs a fistful of Tor's shirt and hauls him up, sitting down hard on the bench himself, the two of them joined by a stretch of silk "like a pair of washerwomen folding a sheet"; "Got him." (Made clumsier and funnier, user, November 12, 2026.) The twins, at twelve, already reach Tor's shoulder (a quiet hint that Tor isn't built like his family). Tam, purple-smeared, hides behind his good leg.
 - **The cellar (Alan):** the plate waits on the third step "as though it had been told to"; the good glasses have green in the foot. Alan: "he'll go to that school and come back with something, and it won't be learning." His hints, all said or done, none narrated as knowledge: he shows no reaction to the Morgans' names; he laughs for a long time at Tor's plea and says "That's not mine to tell her"; "Married your mother, didn't I"; "Your mother'll want to *see* them," not meet.
 - **The ending:** Laurie hands Tor her folded apron without looking, and he holds it through the rest. Trice judges her fifty at the door, forty halfway, under thirty at the table, and first blames the shade. Eric looks "the way a man's face goes when he reads a letter in a hand he knows." Tor's polite laugh, about to say "No, that's my mother." Her Hill speech has a lift at the end of *been* that Trice has only heard from her mother's oldest friends. Mercy knocks over the cider jug and runs, "who had not run anywhere in Trice's whole life." The scene ends on her line.
 
-**Questions:**
-
-1. **Trice and Laurali:** Trice heard "Laurali" in the carriage yesterday; should she connect it to "Laurie" before the cut?
-   - Default: No; the scene ends too fast, and the reader makes the link alone, as planned.
-   - Option: One flicker as Mercy runs, a name moving in her files, unspoken.
-2. **The twins' height:** keep the hint that twelve-year-old twins already reach Tor's shoulder?
-   - Default: Keep it; it's visible, small, and fits both the grandson and the clone story.
-   - Option: Cut it, to keep every hint in this scene on Laurie.
-3. **Rolph's catch:** Rolph saves Tor from falling over the doorstep "without appearing to have moved"; too much like a trained bodyguard?
-   - Default: Keep it; Rolph has caught Tor before and Trice notes it only in passing.
-   - Option: Make it clumsier and funnier, Rolph grabbing a fistful of shirt.
+**Answered** (user, November 12, 2026, on the draft):
+- **Trice and Laurali:** no connection before the cut; the reader makes the link alone.
+- **The twins' height:** keep the hint.
+- **Rolph's catch:** clumsier and funnier; he grabs a fistful of shirt (revised).
 
 **Answered** (user, November 12, 2026):
 - **Her village name, settled:** Lora, close enough to Laurali that she answers to it without thinking. Almost everyone says Mistress Baker or Mother Baker, and Alan calls her Lor, so "Laurie" isn't a name Tor links with his mother.
