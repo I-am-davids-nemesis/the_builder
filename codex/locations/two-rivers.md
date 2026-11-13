@@ -12,6 +12,8 @@ The manuscript has never shown Two Rivers on the page; everything we know comes 
 
 What we have is household detail from the Baker home and bakery. There is an oven, and the children carry hot trays in from it. A cellar under the house stays warm in winter and cool in summer, and Tor's mother keeps the butter there. The kitchen is big enough for the whole long line of children to stand in it by size on feast days. A purifier older than Tor sits on a bit of slate on the water jug. Out the back, by the woodpile, is the privy, with a moon cut in its door. His mother makes a sorrel soup and puts the cream in before it's cold. His father cut down the plain brown belt Tor wears. People there do up only the top button. Nothing in the manuscript describes the light, weather, sounds or smells of the place itself, though the cellar talk suggests real winters.
 
+From the air (chapter 11, scene 2 draft; invented, pending the user's review): a gap in the forest where two rivers meet; in the angle between them a handful of gray and brown roofs, the small square tower of the chapel, gardens, and a green with a cow on it. One chimney near the middle, the bakery's, sends up far more smoke than any chimney should at noon. It lies about four bells' flight from the capital on the new rigs, over farmland, a river town and then unbroken forest.
+
 ### Look
 
 A small forest village of modest houses among tall trees, much smaller than any town nearby. A chapel is its largest building. Behind the houses are woodpiles and wooden privies with a crescent moon cut in the door. One house is also a bakery, with a working oven, a deep cellar and a kitchen big enough for a large family.

@@ -1,6 +1,6 @@
 # Home Sweet Home
 
-- **When:** arrival at Two Rivers, straight on from scene 02's four-hour flight.
+- **When:** arrival at Two Rivers, straight on from scene 02's four-hour flight. Scene 02 ends at noon with the party hovering over the village before landing: Tor stops in the air, "That's it. That's home." The landing belongs to this scene. Scene 02 also sketched the village from above (two rivers meeting, a square chapel tower, a green, the bakery chimney smoking too much for noon); invented, and still an open question in scene 02's outline.
 - **Summary:** People had even completely landed when the mayor came out to meet them.  He greets them in the local dialect. (Note: the idea behind the dialect is that it is a bit more fluid, constantly changing depending on the person who's talking, their mood, who they are talking to, etc.  There is supposed to be a linguistic underpinning that makes the dialect a better base for learning other languages from; unfortunately, Tor is smart enough, and adaptable enough, that isn't really apparent from his abilities, but perhaps it helped a bit.  in any case, the initial meetings should be a bit awkward in terms of dialect, requiring Tor to translate)
 - Tor translates the mayor as saying "Welcome Lords and Ladies to Two Rivers.  We are happy to have you"
 - The mayor stares at Tor, and suddenly recognizes him.  He is wondering if he is working for the lords as their personal baker.
