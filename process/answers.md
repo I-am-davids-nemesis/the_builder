@@ -411,3 +411,12 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer (default): His father carries the cider and Tor carries the glasses on a luggage plate, which his father eyes and doesn't remark on.
 14. **The village from the air:** does scene 02's picture (two rivers, square chapel tower, green with a cow, the bakery near the middle) stand?
    - Answer (default): Yes; they land on the green, and the bakery faces it.
+
+## 2026-11-12 19:56 · outline/11-chapter-11/03-home-sweet-home.md
+
+1. **Tessa:** with Taman the youngest of the three at the door, is Tessa (nine, chapter 5) still the youngest of all the children?
+   - Answer (option): Taman is the youngest; Tessa becomes Taman's older sister.
+2. **The father's name:** what is Tor's father called, now that he holds a viewpoint section?
+   - Answer: Alan
+3. **Her village name:** does Two Rivers know Tor's mother as "Laurie"?
+   - Answer (option): The village has another name for her, and "Laurie" is the first sign to Tor that the Morgans know her.
