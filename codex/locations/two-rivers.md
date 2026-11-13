@@ -14,6 +14,8 @@ What we have is household detail from the Baker home and bakery. There is an ove
 
 From the air (chapter 11, scene 2 draft; invented, pending the user's review): a gap in the forest where two rivers meet; in the angle between them a handful of gray and brown roofs, the small square tower of the chapel, gardens, and a green with a cow on it. One chimney near the middle, the bakery's, sends up far more smoke than any chimney should at noon. It lies about four bells' flight from the capital on the new rigs, over farmland, a river town and then unbroken forest.
 
+**The dialect** (user's chapter 11 notes, November 10, 2026): Two Rivers speaks its own dialect, fluid, shifting with the speaker, their mood and who they're talking to; outsiders, nobles included, can't follow it, so Tor translates (chapter 11, scene 3). It has a linguistic underpinning that makes it a better base for learning other languages, which may have helped Tor's knack for accents a little. *Trice* sounds a bit like *trees* in it.
+
 ### Look
 
 A small forest village of modest houses among tall trees, much smaller than any town nearby. A chapel is its largest building. Behind the houses are woodpiles and wooden privies with a crescent moon cut in the door. One house is also a bakery, with a working oven, a deep cellar and a kitchen big enough for a large family.
