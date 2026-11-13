@@ -352,3 +352,7 @@ The chapter ends on the book's biggest turn so far: Tor's mother is "Laurie," wh
 ## 2026-11-12 · Claude · 11-chapter-11/03-home-sweet-home (answers)
 
 This follows the entry above. The writer settled it: Laurie is Laurali, and Tor is both her son and Green's clone, so "grandson" isn't a cover story, just the half of the truth book 1 tells. Chapter 12 gives it to Tor and his friends. Her change at the table turned out to be mostly bearing, a countess coming out of a baker's wife, with a little real magic under it: she's been aging herself on purpose to keep pace with her husband. That gives the father's "odd matches" line real weight, and the writer confirmed he's always known.
+
+## 2026-11-12 · Claude · 11-chapter-11/03-home-sweet-home (drafted)
+
+This follows the entries above. Through Trice, the dialect became a running comedy of a trained ear failing: four accents of Noram, and she catches *lords* and the names. It also set up the ending, because once her ear has been failing all afternoon, Laurie's perfect Hill speech is the one thing in the scene Trice understands at once. Alan's section was the hardest to keep honest: he knows everything and the narration can't say so, so his knowledge went into one laugh that runs too long, "That's not mine to tell her," and *see* instead of *meet*. I ended on Mercy's line, with no lines after it.
