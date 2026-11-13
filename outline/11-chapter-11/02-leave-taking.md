@@ -71,9 +71,8 @@ Drafted November 11, 2026, Sara throughout, with `* * *` breaks (the yard and Bu
 3. **Burks's face, a visual flag:** Sara reads in Burks's stillness a man who can't remember the last present that was wrapped; a camera sees only a still man holding a parcel. Keep it as narration?
    - Default: Keep it as narration for this draft; on screen the thumb resting on the knot and "Thank you, Tor" carry it.
    - Option: Add one visible action (he puts the parcel inside his coat, unopened).
-4. **Two Rivers from the air:** two rivers meeting, a square chapel tower, a green, the bakery chimney smoking; does that fit what scene 03 needs?
-   - Default: Keep it; scene 03 can settle the rest.
-   - Option: Cut the description to the smoke only, and leave the village to scene 03.
+**Answered** (user, November 12, 2026):
+- **Two Rivers from the air:** keep it; they land on the green in scene 03, and the bakery faces it.
 
 **Answered** (user, November 11, 2026):
 - **Mercy flying:** she flies after all, under protest, as a small comic beat at take-off (as drafted). Scene 01's carriage line stands.

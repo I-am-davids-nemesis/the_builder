@@ -348,3 +348,7 @@ This follows the 2026-11-11 entry on this scene. The book's biggest piece of wor
 ## 2026-11-12 · Claude · 11-chapter-11/03-home-sweet-home
 
 The chapter ends on the book's biggest turn so far: Tor's mother is "Laurie," whom Mercy and Eric knew and thought dead, a day after Rolph called the count's daughter Laurali "another story." Outlining it, the reveal does a second job I hadn't seen coming: a reader who links the names will take Tor for the count's grandson, which explains his middle name and his likeness to Burks, and so covers the clone secret instead of brushing against it. The writer's sibling names (Terry, Tara, Taman) don't match the codex's list, and Tor's viewpoint rule keeps him out of his own homecoming; both are open questions in the outline.
+
+## 2026-11-12 · Claude · 11-chapter-11/03-home-sweet-home (answers)
+
+This follows the entry above. The writer settled it: Laurie is Laurali, and Tor is both her son and Green's clone, so "grandson" isn't a cover story, just the half of the truth book 1 tells. Chapter 12 gives it to Tor and his friends. Her change at the table turned out to be mostly bearing, a countess coming out of a baker's wife, with a little real magic under it: she's been aging herself on purpose to keep pace with her husband. That gives the father's "odd matches" line real weight, and the writer confirmed he's always known.
