@@ -6,7 +6,7 @@
 - **Location:** Two Rivers (`codex/locations/two-rivers.md`): the landing on the green, the walk to the bakery, which faces the green (user, November 12, 2026), the bakery door and yard, the cellar under the house (canon: warm in winter, cool in summer, the butter kept there), and an outdoor picnic table (user). The place squeezes Tor's past (§6). Scene 02's picture from the air stands (user, November 12, 2026).
 - **Present:**
   - **Landing:** Tor; Rolph; Trice; Sara; Mercy, Duke Eric and Tovey (user, November 11, 2026); the mayor, **Tom** (user, November 12, 2026).
-  - **Bakery:** the above, less the mayor, who leaves them at the bakery to spread the news (user, November 12, 2026); the twins **Terry** and **Tara**, and **Taman** ("Tam"), the youngest of all the children (user, November 12, 2026); Tor's father, **Alan** (user, November 12, 2026); Tor's mother, known in the village by another name (see Questions), and to Mercy and Eric as "Laurie." The rest of Tor's siblings are at work or on errands round the village, and turn up in chapter 12 (user, November 12, 2026).
+  - **Bakery:** the above, less the mayor, who leaves them at the bakery to spread the news (user, November 12, 2026); the twins **Terry** and **Tara**, and **Taman** ("Tam"), the youngest of all the children (user, November 12, 2026); Tor's father, **Alan** (user, November 12, 2026); Tor's mother: **Lora** in the village, though almost everyone calls her Mistress Baker or Mother Baker, and Alan just calls her **Lor**; "Laurie" to Mercy and Eric (user, November 12, 2026). The rest of Tor's siblings are at work or on errands round the village, and turn up in chapter 12 (user, November 12, 2026).
   - **Cellar:** Tor and his father only.
 - **Reader learns:**
   - Two Rivers speaks its own dialect, fluid enough that the nobles can't follow it, and Tor translates both ways (user).
@@ -42,20 +42,13 @@
 14. **Odd matches.** His father agrees that love can make odd matches: he's married to Tor's mother, after all. A hint that something strange happened there. (user) He has always known who she is, and says it lightly; Tor misses it (user, November 12, 2026).
 15. **Mother.** *(Viewpoint: Trice again, after a `* * *` break.)* They bring the cider and glasses to the table, and Tor ends up standing between the bakery and the table, so he's the first person his mother sees when she comes out. She hugs him and tells him the family has been missing him. (user)
 16. **The walk.** Tor starts to introduce her to his friends, but she looks over at the table and starts walking toward it, and as she walks she seems to grow visibly younger and more regal. (user) Mostly bearing, seen by Trice: the apron comes off, the village stoop drops, and she changes from a village baker's wife into a countess. Under it, a little magic: she lets go of the age she has been slowly putting on to keep pace with her husband, and people can see it, though nobody names it (user, November 12, 2026).
-17. **"Laurie?"** Duke Eric looks at Tor's mother oddly for a few minutes, then stands. "Laurie?" (user) He's facing the bakery; Mercy has her back to it (user, November 12, 2026). The village doesn't call her Laurie, so the name is the first sign to Tor that the Morgans know her (user, November 12, 2026).
+17. **"Laurie?"** Duke Eric looks at Tor's mother oddly for a few minutes, then stands. "Laurie?" (user) He's facing the bakery; Mercy has her back to it (user, November 12, 2026). The village knows her as Lora, mostly says Mistress Baker or Mother Baker, and Alan calls her Lor; Tor doesn't connect "Laurie" with his mother, so the name is the first sign to Tor that the Morgans know her (user, November 12, 2026).
 18. **"Hello Eric."** She replies: "Hello Eric. Mercy. How have you been?" (user) She says it in clean Hill speech, out of the dialect: the second sign, and the one that tells Tor something is wrong (invented; accepted by the user, November 12, 2026).
 19. **"We all thought you were dead!"** Mercy cries "Laurie!", runs over to hug her, and says, "We all thought you were dead!" (user)
 20. **Cut.** End of chapter, on the cliffhanger. (user)
 
-**Questions:**
-
-1. **Her village name:** what does Two Rivers call Tor's mother?
-   - Default: none
-   - Option: Lora, close enough to Laurali that she could answer to it without thinking.
-   - Option: Mistress Baker, or "Mother Baker"; nobody in the village uses her first name.
-   - Option: A plain village name unlike Laurali (Anne, Nell).
-
 **Answered** (user, November 12, 2026):
+- **Her village name, settled:** Lora, close enough to Laurali that she answers to it without thinking. Almost everyone says Mistress Baker or Mother Baker, and Alan calls her Lor, so "Laurie" isn't a name Tor links with his mother.
 - **Tessa:** Taman is the youngest; Tessa is her older sister (chapter 5's "Tessa last and wriggling" now reads Taman).
 - **The father's name:** Alan.
 - **Her village name:** the village has another name for her; "Laurie" is the first sign to Tor that the Morgans know her.
