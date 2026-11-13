@@ -420,3 +420,9 @@ _Reconstructed from the saved conversation: the answers as sent to Claude. The q
    - Answer: Alan
 3. **Her village name:** does Two Rivers know Tor's mother as "Laurie"?
    - Answer (option): The village has another name for her, and "Laurie" is the first sign to Tor that the Morgans know her.
+
+## 2026-11-12 20:00 · outline/11-chapter-11/03-home-sweet-home.md
+
+1. **Her village name:** what does Two Rivers call Tor's mother?
+   - Answer (option): Lora, close enough to Laurali that she could answer to it without thinking.
+   - Note: almost everyone uses Mistress Baker, or Mother Baker, so Laurie or Lorali is not a name Tor associates with his Mom, particularly since his dad just calls her Lor
